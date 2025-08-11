@@ -30,6 +30,6 @@ Check out the coastal features page [here](pages/03_Coastlines)
 
 ### Blog
 
-The blog page contains board reviews and general thoughts about surfing.
+The blog page contains board reviews and general thoughts about surfing. I also go into more detail on specific features here.
 
 Check out the blog [here](/pages/04_Blog)
