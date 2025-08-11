@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    offering insights into regional coastal dynamics and surfboard design.
    It also features detailed surf forecasts tailored specifically for
      Monmouth County, New Jersey.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "jettywatch" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
