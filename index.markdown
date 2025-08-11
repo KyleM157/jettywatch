@@ -22,16 +22,16 @@ One of my interests is making boards. I've spent quite a bit of time understandi
 
 Along with information about board design, I've also included information about marketing terminology and wave characteristics. At the end of the page you'll find information about how to pick a board, and lastly, how to pick proper fins that make your board perform at its best.
 
-Check out the board design page [here](/pages/02_Board_Design)
+Check out the board design page [here]({{site.baseurl}}/pages/02_Board_Design)
 
 ### Coastal Features
 
 I grew up near Virginia Beach but spent a lot of my time in the Outer Banks. After learning to surf at a young age, I always wondered why the OBX had such better waves than Virginia Beach given how geographically close they are and given how the same storm systems sent similar swell. This page features information about the continental shelf and gives one of the main explanations for why certain stretches of beach along the East Coast are so much better than others.
 
-Check out the coastal features page [here](/pages/03_Coastlines)
+Check out the coastal features page [here]({{site.baseurl}}/pages/03_Coastlines)
 
 ### Blog
 
 The blog page contains board reviews and general thoughts about surfing.
 
-Check out the blog [here](/pages/04_Blog)
+Check out the blog [here]({{site.baseurl}}/pages/04_Blog)
