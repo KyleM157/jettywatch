@@ -5,20 +5,29 @@ title: Forecast
 
 ## Monmouth County Forecast
 
-### Today - 8/11/2025
+### Today - 8/12/2025
 
-Wave height should be around waist high but is likely to be closing out with the east swell direction and smaller size. Wind starts out at WSW, turning to South by late morning/early afternoon. Wind should remain fairly light all day, between 8-10 knots. It's a nice day out, worth a look if you need something to do and know a sandbar that works with the swell direction.
+Swell: Thigh to stomach high waves with walled shape.
+Wind: Light offshore in the morning to moderate south winds in the afternoon.
 
-Best board for today: longboard or a chunky shortboard to make the most of it.
+Notes: Look for a bar that is working with the easterly swell direction. Swell should be a little punchy.
 
-### Tomorrow - 8/12/2025
+Best board for today: Small wave shortboard or longboard.
 
-The swell height should be similar to today, up to stomach high at better breaks. Wind is light offshore in the morning, switching to southerlies by late morning. Wind picks up in the afternoon to about 18 knots by early evening. Conditions are best early am before the high tide. Close outs will be an issue. Search for a bar that works with East swell. Mostly lefts.
+### Tomorrow - 8/13/2025
 
-Best board for today: longboard or groveler
+Swell: Leftover E-ESE swell. Looking waist high max.
+Wind: No wind to light SW breeze in the morning switching to light/moderate south wind mid-afternoon. 
 
-### Wednesday - 8/13/2025
+Notes: Decent day for beginners and new surfers.
 
-Possible leftovers for longboards at thigh to waist hight (at best). Wind is light SW in the morning switching to moderate S in the afternoon. Doable, but it'll be weak.
+Best board for today: Longboard
 
-Best board for today: longboard
+### Thursday - 8/14/2025
+
+Swell: Knee to thigh wind swell. 
+Wind: Light offhshore (<10 knots) all day.
+
+Notes: Very weak. Nothing to see here.
+
+Best board for today: Longboard
