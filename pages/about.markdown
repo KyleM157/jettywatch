@@ -13,8 +13,6 @@ As a local New Jersey surfer, I was pretty unhappy with the available written fo
 
 Currently, I make a 5 day forecast and only update when a swell event is on the horizon. Once a swell event is recognized, which I say is anything that produces a wave waist high or greater, I update every day until it has passed. Each forecast has wave height, wave period, and wind conditions. Wind conditions have been difficult to forecast in the past year, but I try to update the forecast as late as possible so that the most up-to-date information is available to me (and you). I also suggest board type(s) based on the forecast.
 
-Check the forecast page out [here](pages/01_Forecast)
-
 ### Board Design
 
 One of my interests is making boards. I've spent quite a bit of time understanding what makes boards go and how each feature contributes to the overall performance of a surfboard. While no feature can truly be taken in the abstract, I do believe there's some general things that can be said that are consistently true across designs.

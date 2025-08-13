@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Monmouth County Surf Forecast
 ---
-
-## Monmouth County Surf Forecast
 
 ### Today - 8/13/2025
 

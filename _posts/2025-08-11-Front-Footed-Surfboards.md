@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Front-Foot Friendly Surfboards: Myth or Meaningful Design?
+title: Front-Foot Friendly Surfboards - Myth or Meaningful Design?
 categories: design
 ---
 
