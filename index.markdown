@@ -2,34 +2,35 @@
 layout: page
 ---
 
-This site aims to provide accurate forecasts for Monmouth County, New Jersey as well as information about board design, offshore coastal features, and occasional board reviews. Everything can be accessed via the NavBar at the top of the page.
+## Monmouth County Surf Forecast
 
-Read below for an explanation of each page as well as some how-to-use information for the forecasts.
+### Today - 8/13/2025
 
-### Forecasting
+Swell: Thigh to waist high waves with walled shape. There's enough swell out there for the longboards at the right spot.
 
-As a local New Jersey surfer, I was pretty unhappy with the available written forecasts I could find. Surfline tends to struggle with swells other than those from the southeast. Other, local forecast providers update their forecasts too infrequently to get up-to-date information, making it difficult to plan the best time to get to the beach. As someone trying to work surfing into my day to day that includes work and family responsibilities, I found myself spending a fair amount of time crafting my own forecasts.
+Wind: Light offshore in the morning to moderate south winds in the afternoon.
 
-Currently, I make a 5 day forecast and only update when a swell event is on the horizon. Once a swell event is recognized, which I say is anything that produces a wave waist high or greater, I update every day until it has passed. Each forecast has offshore wave height (what the buoy is likely to see), wave period, an estimated wave height (what you'll see), and wind conditions. Wind conditions have been difficult to forecast in the past year, but I try to update the forecast as late as possible so that the most up-to-date information is available to me (and you). I also suggest board type(s) based on the forecast.
+Notes: Look for a bar that is working with the easterly swell direction. Thunderstorms are expected later this afternoon/evening. Check local radar before heading to the beach.
 
-Check the forecast page out [here](pages/01_Forecast)
+Best board for today: longboard
 
-### Board Design
+### Rest of this week 8/14/2025-8/17/2025
 
-One of my interests is making boards. I've spent quite a bit of time understanding what makes boards go and how each feature contributes to the overall performance of a surfboard. While no feature can truly be taken in the abstract, I do believe there's some general things that can be said that are consistently true across designs.
+There are no notable swell events through Sunday of this week. There may be enough for new surfers Thursday and Friday mornings, but don't have high expectations. Wind is light in the morning for the rest of the week and strengthens mid day.
 
-Along with information about board design, I've also included information about marketing terminology and wave characteristics. At the end of the page you'll find information about how to pick a board, and lastly, how to pick proper fins that make your board perform at its best.
+Notes: Nothing worth targeting until next week.
 
-Check out the board design page [here](/pages/02_Board_Design)
+### Next Week
 
-### Coastal Features
+What will likely be major hurricane Erin will be sending some swell sometime early next week based on GFS/Euro model tracks. This could change, but currently Erin is expected to stay offshore and not make landfall on the Eas Coast of the U.S. Swell is expected to arrive sometime either late Monday or early Tuesday and peaks through Thursday. Depending on the track, those dates could shift around a little bit, but plan on keeping a close eye on the forecast and local winds.
 
-I grew up near Virginia Beach but spent a lot of my time in the Outer Banks. After learning to surf at a young age, I always wondered why the OBX had such better waves than Virginia Beach given how geographically close they are and given how the same storm systems sent similar swell. This page features information about the continental shelf and gives one of the main explanations for why certain stretches of beach along the East Coast are so much better than others.
+Longer range climatology suggests the potential for further tropical storm development stays favorable for the week of 8/27-9/2.
 
-Check out the coastal features page [here](pages/03_Coastlines)
 
-### Blog
+### Helpful Links
 
-The blog page contains board reviews and general thoughts about surfing. I also go into more detail on specific features here.
+[NOAA New York Harboar Entrance Buoy](https://www.ndbc.noaa.gov/station_page.php?station=44065)
 
-Check out the blog [here](/pages/04_Blog)
+[NHS 7 Day Outlook](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7)
+
+[NOAA Atlantic Analysis](https://ocean.weather.gov/Atl_tab.php)

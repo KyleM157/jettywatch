@@ -1,8 +1,8 @@
 ---
-layout: post
-categories: reviews
+layout: page
 ---
 
+## Vernor Mini Simmons Review
 
 I was lucky enough to pick up a Vernor Mini Simmons used in Virginia Beach several years ago. I don't think the board had even been waxed and it had no pressure dings or damage of any kind. It was an EPS epoxy with the carbon I-beam design that Vernor used to offer. This particular board had a wood stringer, unlike the newer versions with the carbon strip. I had never ridden a Mini Simmons before, but after surfing in Virginia Beach for many years, I knew I needed something wide and short that could handle the extremely weak swells we often get there.
 
