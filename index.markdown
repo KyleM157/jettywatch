@@ -29,7 +29,7 @@ Longer range climatology suggests the potential for further tropical storm devel
 
 ### Helpful Links
 
-[NOAA New York Harboar Entrance Buoy](https://www.ndbc.noaa.gov/station_page.php?station=44065)
+[NOAA New York Harbor Entrance Buoy](https://www.ndbc.noaa.gov/station_page.php?station=44065)
 
 [NHS 7 Day Outlook](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7)
 

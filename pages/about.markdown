@@ -11,7 +11,7 @@ Read below for an explanation of each page as well as some how-to-use informatio
 
 As a local New Jersey surfer, I was pretty unhappy with the available written forecasts I could find. Surfline tends to struggle with swells other than those from the southeast. Other, local forecast providers update their forecasts too infrequently to get up-to-date information, making it difficult to plan the best time to get to the beach. As someone trying to work surfing into my day to day that includes work and family responsibilities, I found myself spending a fair amount of time crafting my own forecasts.
 
-Currently, I make a 5 day forecast and only update when a swell event is on the horizon. Once a swell event is recognized, which I say is anything that produces a wave waist high or greater, I update every day until it has passed. Each forecast has offshore wave height (what the buoy is likely to see), wave period, an estimated wave height (what you'll see), and wind conditions. Wind conditions have been difficult to forecast in the past year, but I try to update the forecast as late as possible so that the most up-to-date information is available to me (and you). I also suggest board type(s) based on the forecast.
+Currently, I make a 5 day forecast and only update when a swell event is on the horizon. Once a swell event is recognized, which I say is anything that produces a wave waist high or greater, I update every day until it has passed. Each forecast has wave height, wave period, and wind conditions. Wind conditions have been difficult to forecast in the past year, but I try to update the forecast as late as possible so that the most up-to-date information is available to me (and you). I also suggest board type(s) based on the forecast.
 
 Check the forecast page out [here](pages/01_Forecast)
 
@@ -33,6 +33,4 @@ Check out the coastal features page [here](pages/03_Coastlines)
 
 The blog page contains board reviews and general thoughts about surfing. I also go into more detail on specific features here.
 
-Check out the blog [here](/pages/04_Blog) or check out posts by category below:
-[Board Reviews](/pages/reviews)
-[Miscellaneous](/pages/misc)
+Check out the blog [here](/pages/04_Blog)
