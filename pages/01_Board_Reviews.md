@@ -3,8 +3,6 @@ layout: page
 title: Board Reviews
 ---
 
-## Board Reviews
-
 Below you'll find some board reviews I've written for my personal surfboards. I'm not affiliated with any of these brands.
 
 [Rozbern S-Curve](/pages/board_reviews/Rozbern_S_Curve_Review)

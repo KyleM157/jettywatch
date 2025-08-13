@@ -31,6 +31,13 @@ url: "https://jettywatch.com" # the base hostname & protocol for your site, e.g.
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+
+header_pages:
+  - pages/01_Board_Reviews.md
+  - pages/02_Board_Design.md
+  - pages/03_Coastlines.md
+  - pages/04_Blog.md
+
 # Build settings
 theme: minima
 plugins:

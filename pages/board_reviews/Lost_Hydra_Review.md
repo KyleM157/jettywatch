@@ -1,7 +1,8 @@
 ---
-layout: post
-categories: reviews
+layout: default
 ---
+
+## Lost Hydra Surfboard Review
 
 I purchased my Lost Hydra in February of 2024. I was lucky enough to find an EPS/Epoxy version on the sale rack and decided I had to try it. The board is 5'5" x 20 1/2" x 2.4" – 30L. I've had quite a few small-wave boards, ranging from high-performance grovelers to Mini Simmons-style designs. Of the grovelers I've owned, this is by far my favorite. Its low-end performance isn't quite on par with the Vernor Mini Simmons, but the overall performance is significantly better. This board works well in any waves where you can generate your own speed. When the waves have a bit more shape, it allows you to hit an end section or even get a small air.
 
