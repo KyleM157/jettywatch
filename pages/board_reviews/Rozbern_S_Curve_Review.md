@@ -4,6 +4,8 @@ layout: default
 
 ## Rozbern S-Curve Surfboard Review
 
+![Rozbern S-Curve Picture](/assets/images/s_curve_img.jpg)
+
 The Rozbern S-Curve Fish stands out among retro-inspired fish designs. It features a sidecut that’s rarely seen on traditional fish, along with a channel running out the tail. Both of these elements give the board added grip on the wave and more drive. I found it to be one of the better beach break fish boards I’ve tried. It’s relatively maneuverable and extremely drivey and fast.
 
 My biggest gripe with this board is how poorly it catches waves. I believe this is largely due to its increased nose rocker compared to a typical fish, combined with a lot of width and thickness pushed forward. The board has a thicker foil up front and a very thin tail. While this design serves well once you're up and riding, it makes paddling into waves, especially steeper ones, more difficult. Of all the boards I’ve owned, this is the one where I had to be latest on the drop. That worked fine for slopier or mushier waves, but when the waves were steeper or had any hollowness, I found it extremely hard to get into them comfortably.
