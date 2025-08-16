@@ -38,6 +38,6 @@ I can't say for sure, but it is possible that this feature helps to focus more s
 
 ### Acknowledgements
 
-All data for this page was sourced from GEBCO bathmetric data. See reference below:
+All data for this page was sourced from GEBCO bathymetric data. See reference below:
 
 GEBCO Compilation Group (2023) GEBCO 2023 Grid (doi:10.5285/f98b053b-0cbc-6c23-e053-6c86abc0af7b)
