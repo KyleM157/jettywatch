@@ -30,6 +30,7 @@ Best board: Groveler or Longboard
 #### Next Week
 
 I'm not seeing a ton for next week. GFS models are showing some potential swell around 9/16-9/17. It's too early to get to any specifics.
+
 ---
 
 ### Helpful Links

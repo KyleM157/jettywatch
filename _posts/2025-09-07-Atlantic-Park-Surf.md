@@ -1,0 +1,24 @@
+---
+layout: post
+title: Atlantic Park Surf - First Experience
+---
+
+I had the good fortune to get to book a session at Atlantic Park Surf last week. As it turned out, I was on vacation in the Outer Banks that week and the wind was something like 30kts NE for a few days. Given that if I'm on vacation, I want to surf, I figured I'd give the wave pool a try.
+
+I chose the Intermediate session as I wanted to get an idea of how the wave park worked and how much energy was in the waves. I brought a 5'8x19 3/4x2 1/2 (31L) Rozbern HMB surfboard set up with Mayhem Evil Twin twin+trailer fins (L). That board is billed as a summer/fall daily driver/groveler though I'd say it's more on the daily driver side of things and needs a decent wave to work well.
+
+My session was midday and I needed to arrive ~45 minutes early according to the website. Currently, there is construction on 18th street, where the parking lot is located, but parking was available. Although you have to pay to park, it was conveniently located by the front door of the wave park and the lot is fenced in. Check in was easy enough, I just gave them my name and session and they gave me a wristband (that you keep for future sessions) and I was good to go. Prior to my session, I received a color coded rashguard and right before the session a quick safety briefing. After that, it was time to paddle out!
+
+I'm regular footed and chose the right wave session (which is frontside for a regular foot, eg. surfer's point of view). There's a channel that runs along the Wavegarden machine that you paddle along until you reach the end of the pool. At this point, they let you know that waves come in sets of five with breaks between and to line up at a particular marker.
+
+Catching the waves here is the most different part of surfing relative to the ocean. Essentially the wave comes out of the machine in a small triangular area and you really won't be able to see it coming towards you. You pretty much just have to count on it being there and focus mostly on the lines on the wall. That was very weird to me and I'm embarrased to admit I missed my first two waves. The main thing to keep in mind, is that you will be sucked back by the machine as it produces the wave, and it is very important to paddle hard during that time period to stay in position so that you are where you need to be when the wave breaks. No cork and go like in the ocean. If you are going to the wave park, making sure you are in the right spot right after the person in front of you goes is the main thing to focus on.
+
+As for the wave itself, it was a chest high, fairly soft wave, perfect for carvy turns and more positional surfing. A good surfer could surf it vertically in a performance fashion, but I found it kind of hard to go for aggressive top turns and not lose the wave. The wave is pretty slow and doesn't require much in the way of racing down the line, which was very different from most waves I've surfed anywhere. Even in California, I normally needed to keep on the gas pedal to make sections. This wave didn't really have sections so to speak, just tons of open face.
+
+I don't want to make the wave sound weak, it had plenty of power in it for most board types. It was more of a matter of steepness relative to power. I'd say it's equivalent to a 10 second period wave or so.
+
+All in all, I caught probably 12 waves or so. I felt like the 50 minute session is about right in terms of time spent. It's pretty much all go all the time. You're either paddling or surfing for the most part (and that's with a full session!). Most importantly, I felt like I had surfed when I got out. Not like surf skating a bowl or something. I will definitly be back.
+
+I will say that the experienced, expert, and pro waves look really fun. That said, there are some really good surfers around and I don't think I'd have wanted to be in one of those sessions to start with (from what I saw that day). I do know that there were visiting pros in town given the OBX pro had been going on and I'm guessing that won't always be the case, but it would have been intimidating as a more average surfer.
+
+In conclusion, I'd say that my expectations were met or exceeded in terms of wave quality. I think they could do a much better job of providing information to newcomers before they show up in terms of what to expect and how to prepare. I feel like I had to figure things out on my own a fair amount and not for a particularly good reason. For example, say that the parking lot on 18th is where to park and that you have to pay, say that you definitely have to buy a guest pass for any guest with you, and maybe go into a bit of detail about how to catch the wave as it is completely different from the ocean. I'm looking forward to going back soon.
