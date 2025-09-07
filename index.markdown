@@ -13,6 +13,8 @@ Notes: Waves will be clean with plenty of power. Newer surfers should use cautio
 
 Best board: Daily Driver
 
+---
+
 #### Sunday 8/24
 
 Sunday is looking more apprachable for average surfers with swell heights around 4 feet. Wind could be an issue and starts the day out of the South, building through the day. The AM session is going to be best, but look for a spot that can handle the morning high tide. I'd expect wave heights to be in the waist-stomach high range depending on the quality of the sandbar and location.
@@ -21,6 +23,7 @@ Notes: Morning hours are best. Newer surfers should be careful due to crowded co
 
 Best board: Groveler/Longboard or daily driver for the more skilled folks
 
+---
 
 #### Next Week
 
@@ -29,6 +32,8 @@ We're mostly looking to the next potential system to make its way accross the at
 I'd expect some surf next week (probably around 8/26 or so), but nothing like this week.
 
 Longer term, environmental conditions are favorable for tropical cyclone formation for the week of 9/3.
+
+---
 
 ### Helpful Links
 
