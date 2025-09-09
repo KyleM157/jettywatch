@@ -2,9 +2,6 @@
 layout: post
 title: Atlantic Park Surf - A Machine-Made Session Worth the Paddle
 ---
-
-# Atlantic Park Surf: A Machine-Made Session Worth the Paddle  
-
 *A windblown detour turned into a surprisingly legit surf fix.*
 
 ---

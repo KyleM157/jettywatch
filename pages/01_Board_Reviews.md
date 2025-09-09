@@ -11,3 +11,6 @@ Below you'll find some board reviews I've written for my personal surfboards. I'
 
 [Vernor Mini Simmons](/pages/board_reviews/Vernor_Mini_Simmons_Review)
 
+[Roberts Army Knife](/pages/board_reviews/Roberts_Army_Knife_Review)
+
+[Rozbern HMB](/pages/board_reviews/Rozbern_HMB_Review)
