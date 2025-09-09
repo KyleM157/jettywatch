@@ -9,7 +9,7 @@ title: Monmouth County Surf Forecast
 
 #### Wednesday 9/10
 
-Wednesday will see building swell with seas ~5.5 feet at 7+ seconds. Unfortunately wind will be onshore/crosshore from the North and conditions will be pretty bad. I'd expect waves to be in the chest high range with little to target except for spots with north wind protection.
+Wednesday will see building swell with seas ~5.5 feet at 7+ seconds. Unfortunately wind will be onshore/crosshore from the NE and conditions will be pretty bad. I'd expect waves to be in the head high range with little to target in terms of quality.
 
 Notes: Not much quality on offer but watch Thursday. Large tide swings.
 
@@ -19,17 +19,31 @@ Best board: N/A
 
 #### Thursday 9/11
 
-Thursday looks like a wind switch setup with some swell remaining from Wednesday. I'm seeing different wind forecasts depending on the model, but earlier is better depending on when the wind shifts. Large tide swings are in effect with high tide at ~10:30 am at 5.64 feet of water. That will turn off most breaks in the area, so plan your surf accordingly. Currently, I'd expect waves in the waist high range with ok shape. Find a bar that works with easterly wind swell.
+At first this looked like a wind switch setup, but now it appears that the wind won't be turning offshore until after dark. However, it looks like it will be at least doable, and surf heights are likely going to trend higher than I previously forcasted at around stomach-chest high. Large tide swings are in effect with high tide at ~10:30 am at 5.64 feet of water. That will turn off most breaks in the area, so plan your surf accordingly. Find a bar that works with easterly wind swell and expect to deal with some surface texture.
 
-Notes: Watch your local wind but be aware of the mid morning high tide. Personally, I'd expect early AM to be the best option.
+Notes: Watch your local wind but be aware of the mid morning high tide. The afternoon/evening session may turn out to be the best option with the current wind forecast, but early am sees the most size.
 
-Best board: Groveler or Longboard
+Best board: It's windswell, but it's looking like most boards will work tomorrow, assuming you find the right sandbar. Expect choppy conditions.
+
+---
+
+#### Friday 9/12
+
+Wind is looking like an issue, but there should still be some swell around. I wouldn't expect much quality, but if you have nothing else to do, give it a look early am or before dark. Avoid midday high tide and wind.
+
+---
+
+#### Weekend of 9/13-9/14
+
+I would expect some lonboardable waves for the weekend with Sunday possibly offering some grovel waves for the experinced folks. Wind is light offshore early am both days and is worth a look. I'd expect surf heights for Saturday to be in the knee to thigh range and Sunday to be in the waist high range. There is some variability in the forecast that far out, so take this with a grain of salt.
 
 ---
 
 #### Next Week
 
-I'm not seeing a ton for next week. GFS models are showing some potential swell around 9/16-9/17. It's too early to get to any specifics.
+It's far out, but we could see a notable swell event late next week around 9/19 that would peak around 9/22. Way too early to tell, but there's hope for better surf on the horizon.
+
+As for the tropics, there is a greater than 20% chance of cyclone formation through 9/16 and >40% chance for the week of 9/17-9/23. Currently, I'm not seeing anything spin up on the GFS, but we are still in hurricane season.
 
 ---
 
