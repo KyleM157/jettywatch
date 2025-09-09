@@ -1,12 +1,12 @@
 ---
 layout: post
 categories: [beginners,misc]
-title: Surf Skates - Hype, Help, or Just a Side Show?
+title: Surf Skates - Hype, Help, or a Waste of Time?
 ---
 
-Surf skates have become a bit of a lightning rod in the surfing world. These skateboards are designed to mimic the feeling of surfing and have been promoted by a range of YouTube surf coaches and in-person instructors, especially as a tool for adult learners. While they’re marketed as a way to improve your surfing, I’ve found the experience to be quite different from riding actual waves.
+Surf skates have become a bit of a lightning rod in the surfing world. These skateboards are designed to mimic the feeling of surfing and have been promoted by a range of YouTube surf coaches and in-person instructors, especially as a tool for adult learners. While they’re marketed as a way to improve your surfing, I’ve found the experience to be quite different from riding actual waves. I never finish a session on one thinking I’ve just surfed. 
 
-Personally, I don’t think surf skates replicate the feeling of surfing all that closely. I never finish a session on one thinking I’ve just surfed. That said, I do see their value—particularly for beginners who didn’t grow up surfing and are trying to learn how to generate speed. The body mechanics involved, especially when skating bowls, share enough similarities to make them a useful training tool.
+That said, I do see their value—particularly for beginners who didn’t grow up surfing and are trying to learn how to generate speed. The body mechanics involved, especially when skating bowls, share enough similarities to make them a useful training tool.
 
 Flat-ground surf skate training, though, often feels a bit cringeworthy to me. While the movements are somewhat similar, skating on pavement is still wildly different from navigating a wave. However, if you’re transitioning from a longboard to a shortboard and already have some experience, surf skates can help you learn how to create your own speed. Flat-ground training builds leg strength and reinforces movement patterns that can translate to the water.
 

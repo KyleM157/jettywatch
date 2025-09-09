@@ -1,24 +1,73 @@
 ---
 layout: post
-title: Atlantic Park Surf - First Experience
+title: Atlantic Park Surf - A Machine-Made Session Worth the Paddle
 ---
 
-I had the good fortune to get to book a session at Atlantic Park Surf last week. As it turned out, I was on vacation in the Outer Banks that week and the wind was something like 30kts NE for a few days. Given that if I'm on vacation, I want to surf, I figured I'd give the wave pool a try.
+# Atlantic Park Surf: A Machine-Made Session Worth the Paddle  
 
-I chose the Intermediate session as I wanted to get an idea of how the wave park worked and how much energy was in the waves. I brought a 5'8x19 3/4x2 1/2 (31L) Rozbern HMB surfboard set up with Mayhem Evil Twin twin+trailer fins (L). That board is billed as a summer/fall daily driver/groveler though I'd say it's more on the daily driver side of things and needs a decent wave to work well.
+*A windblown detour turned into a surprisingly legit surf fix.*
 
-My session was midday and I needed to arrive ~45 minutes early according to the website. Currently, there is construction on 18th street, where the parking lot is located, but parking was available. Although you have to pay to park, it was conveniently located by the front door of the wave park and the lot is fenced in. Check in was easy enough, I just gave them my name and session and they gave me a wristband (that you keep for future sessions) and I was good to go. Prior to my session, I received a color coded rashguard and right before the session a quick safety briefing. After that, it was time to paddle out!
+---
 
-I'm regular footed and chose the right wave session (which is frontside for a regular foot, eg. surfer's point of view). There's a channel that runs along the Wavegarden machine that you paddle along until you reach the end of the pool. At this point, they let you know that waves come in sets of five with breaks between and to line up at a particular marker.
+## Why I Went
 
-Catching the waves here is the most different part of surfing relative to the ocean. Essentially the wave comes out of the machine in a small triangular area and you really won't be able to see it coming towards you. You pretty much just have to count on it being there and focus mostly on the lines on the wall. That was very weird to me and I'm embarrased to admit I missed my first two waves. The main thing to keep in mind, is that you will be sucked back by the machine as it produces the wave, and it is very important to paddle hard during that time period to stay in position so that you are where you need to be when the wave breaks. No cork and go like in the ocean. If you are going to the wave park, making sure you are in the right spot right after the person in front of you goes is the main thing to focus on.
+Last week I was in the Outer Banks, staring at 30-knot northeast winds and an ocean that looked like a Vitamix. I wanted to surf—not just squint at whitecaps—so I made the call to drive up to Virginia Beach and check out Atlantic Park Surf, the new Wavegarden-powered wave pool.
 
-As for the wave itself, it was a chest high, fairly soft wave, perfect for carvy turns and more positional surfing. A good surfer could surf it vertically in a performance fashion, but I found it kind of hard to go for aggressive top turns and not lose the wave. The wave is pretty slow and doesn't require much in the way of racing down the line, which was very different from most waves I've surfed anywhere. Even in California, I normally needed to keep on the gas pedal to make sections. This wave didn't really have sections so to speak, just tons of open face.
+---
 
-I don't want to make the wave sound weak, it had plenty of power in it for most board types. It was more of a matter of steepness relative to power. I'd say it's equivalent to a 10 second period wave or so.
+## Booking & Setup
 
-All in all, I caught probably 12 waves or so. I felt like the 50 minute session is about right in terms of time spent. It's pretty much all go all the time. You're either paddling or surfing for the most part (and that's with a full session!). Most importantly, I felt like I had surfed when I got out. Not like surf skating a bowl or something. I will definitly be back.
+I booked an Intermediate session to get a feel for the wave’s push and pacing. I brought my Rozbern HMB (5'8" x 19¾" x 2½", 31L) with Mayhem Evil Twin fins (L). It’s marketed as a groveler, but I’d call it a daily driver that likes a little juice.
 
-I will say that the experienced, expert, and pro waves look really fun. That said, there are some really good surfers around and I don't think I'd have wanted to be in one of those sessions to start with (from what I saw that day). I do know that there were visiting pros in town given the OBX pro had been going on and I'm guessing that won't always be the case, but it would have been intimidating as a more average surfer.
+Check-in was smooth:  
+- Show up ~45 minutes early  
+- Grab a wristband (you’ll reuse it for future sessions)  
+- Get assigned a color-coded rashguard  
+- Quick safety briefing, then paddle out
 
-In conclusion, I'd say that my expectations were met or exceeded in terms of wave quality. I think they could do a much better job of providing information to newcomers before they show up in terms of what to expect and how to prepare. I feel like I had to figure things out on my own a fair amount and not for a particularly good reason. For example, say that the parking lot on 18th is where to park and that you have to pay, say that you definitely have to buy a guest pass for any guest with you, and maybe go into a bit of detail about how to catch the wave as it is completely different from the ocean. I'm looking forward to going back soon.
+Heads-up: there’s construction on 18th Street, but the fenced-in paid lot is right next to the entrance. Once you find it, it’s easy.
+
+---
+
+## First Impressions
+
+I booked the Intermediate right-hand wave (frontside for me). You paddle down a channel alongside the machine until you hit the lineup marker. Waves come in sets of five, with short breaks in between.
+
+Here’s the twist: you don’t see the wave forming. It emerges from a triangular zone near the machine, and you have to trust it’s coming. I missed my first two waves by under-paddling during the suction phase. The machine pulls water back before releasing the wave, and if you’re not digging in, you’ll get left behind. No cork-and-go. You’ve got to commit early.
+
+---
+
+## The Wave
+
+Chest-high and soft—not mushy, just mellow. It’s built for flow and carve, not speed or steepness. You can go vertical if you’re dialed, but aggressive top turns risk outrunning the face. There’s no race section, just a long, open canvas.
+
+### Wave Breakdown:
+
+- **Power:** Solid, but not steep  
+- **Feel:** Like a 10-second period wave—enough energy for glidey boards  
+- **Best suited for:** Carvy lines, flowy surfing, dialing in timing  
+- **Not ideal for:** Snappy vertical hits or fast down-the-line surfing
+
+---
+
+## Session Rhythm
+
+I caught 12 waves in 50 minutes. That felt perfect. It’s nonstop—either paddling or surfing the whole time. No waiting, no lulls. When I got out, I felt like I’d actually surfed—not like I’d just done a few runs in a skate bowl.
+
+---
+
+## Tips for First-Timers
+
+Here’s what I wish I’d known before showing up:
+- **Parking:** Use the paid lot on 18th Street. It’s close and fenced.  
+- **Guests:** Need a separate guest pass for anyone tagging along.  
+- **Wave timing:** Paddle hard during the suction phase. You won’t see the wave forming—trust the timing and use the wall markers.  
+- **Lineup etiquette:** Stay sharp. The rhythm is mechanical, so positioning matters more than wave-reading. Be ready to get in position after the next surfer takes off.
+
+---
+
+## Final Thoughts
+
+Atlantic Park Surf delivered. The wave quality exceeded expectations, and I’ll be back. The onboarding could use some polish—more clarity on logistics and wave mechanics would help first-timers—but once you’re in the water, it’s all about repetition, flow, and timing.
+
+It’s not the ocean, but it scratched the itch. I was skeptical it could capture that magic “je ne sais quoi” of surfing. But I left smiling like I did after my first real session.
