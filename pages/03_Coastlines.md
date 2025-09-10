@@ -4,6 +4,8 @@ title: Coastlines
 
 ---
 
+**Under Construction**
+
 ### Surfing the East Coast: Why the Continental Shelf Matters
 
 If you’ve spent time surfing along the East Coast, you know that not all breaks are created equal. From Florida to New York, the coastline is lined with miles of sand-bottom beach breaks, but their quality can vary dramatically—year to year, and even sandbar to sandbar.
@@ -34,7 +36,7 @@ North New Jersey also has the Hudson Canyon that plays a role on some swells. Th
 
 ![North NJ Offshore Canyon](/assets/images/North_NJ_coastline.png)
 
-I can't say for sure, but it is possible that this feature helps to focus more south swell energy to Monmouth County, whereas Long Island would see more power from East swells. As for New Jersey, this is due to the canyon causing refraction that could potentially bend the swell a bit more to our area.
+This feature helps to focus more south swell energy to Monmouth County, whereas Long Island would see more power from East swells. As for New Jersey, this is due to the canyon causing refraction that could potentially bend the swell a bit more to our area.
 
 ### Acknowledgements
 

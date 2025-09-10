@@ -43,8 +43,6 @@ Notes: Avoid the midday high tide
 
 Best board: longboard to make the most of the small surf on offer
 
-
-
 ---
 
 #### Next Week
