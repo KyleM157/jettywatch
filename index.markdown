@@ -31,19 +31,27 @@ Best board: It's windswell, but it's looking like most boards will work tomorrow
 
 Wind is looking like an issue, but there should still be some swell around. I wouldn't expect much quality, but if you have nothing else to do, give it a look early am or before dark. Avoid midday high tide and wind.
 
+Best board: Groveler or longboard
+
 ---
 
 #### Weekend of 9/13-9/14
 
-I would expect some lonboardable waves for the weekend with Sunday possibly offering some grovel waves for the experinced folks. Wind is light offshore early am both days and is worth a look. I'd expect surf heights for Saturday to be in the knee to thigh range and Sunday to be in the waist high range. There is some variability in the forecast that far out, so take this with a grain of salt.
+I would expect some longboardable waves for the weekend. Wind is light offshore early am both days and is worth a look. I'd expect surf heights for Saturday/Sunday to be in the thigh-waist range depending on the quality of the bar. Wind picks up from the south late Sunday, so look in the morning if trying to surf. Since we're looking at small east swell, sanbar choice will be particularly important.
+
+Notes: Avoid the midday high tide
+
+Best board: longboard to make the most of the small surf on offer
+
+
 
 ---
 
 #### Next Week
 
-It's far out, but we could see a notable swell event late next week around 9/19 that would peak around 9/22. Way too early to tell, but there's hope for better surf on the horizon.
+It's far out, but we could see a notable swell event around 9/23. Way too early to tell, but there's hope for better surf on the horizon.
 
-As for the tropics, there is a greater than 20% chance of cyclone formation through 9/16 and >40% chance for the week of 9/17-9/23. Currently, I'm not seeing anything spin up on the GFS, but we are still in hurricane season.
+As for the tropics, there is a greater than 20% chance of cyclone formation through 9/16 and >40% chance for the week of 9/17-9/23. Currently, I'm not seeing anything spin up on the GFS, but we are still in hurricane season. Currently there is a lot of dry air over the Atlantic which will slow things down/prevent cyclone formation for a bit.
 
 ---
 

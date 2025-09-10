@@ -36,7 +36,7 @@ Here’s the twist: you don’t see the wave forming. It emerges from a triangul
 
 ## The Wave
 
-Chest-high and soft—not mushy, just mellow. It’s built for flow and carve, not speed or steepness. You can go vertical if you’re dialed, but aggressive top turns risk outrunning the face. There’s no race section, just a long, open canvas.
+Chest-high and soft—not mushy, just mellow. It’s built for flow and carve, not speed or steepness. You can go vertical if you’re dialed, but aggressive top turns risk losing the wave. There’s no section to race, just a long, open canvas.
 
 ### Wave Breakdown:
 

@@ -18,7 +18,7 @@ Turns out, the board’s performance hinges almost entirely on fin setup. Once I
 
 ## What Makes It Work (And What Doesn’t)
 
-I surf mostly East Coast waves—fast, down-the-line runners and the occasional barrel. So I gravitate toward boards with natural drive. The Army Knife, out of the box, didn’t have it. It wanted to pivot and slide, especially at lower angles of attack. But when I finally threw in a full-size center fin, the board came alive.
+I surf mostly East Coast waves—fast, down-the-line runners and the occasional barrel. So I gravitate toward boards with natural drive. The Army Knife, out of the box, didn’t have it; it wanted to pivot and slide. But when I finally threw in a full-size center fin, the board came alive.
 
 ### Fin Setup Notes:
 
@@ -59,6 +59,6 @@ I got the board on sale, and yeah—there was a pinhole in the glass that reache
 
 ## Final Thoughts
 
-This board almost ended up on Craigslist for $180 after just a few surfs. No pressure dings, barely used. I’m glad nobody bought it.
+This board ended up on Craigslist for $180 after just a few surfs. No pressure dings, barely used. I’m glad nobody bought it.
 
 Once I figured out the fin setup, the Roberts Army Knife became a reliable daily driver. It’s not perfect, but it’s trustworthy in heavier surf, maneuverable without being twitchy, and surprisingly versatile. I’d definitely consider another Roberts board in the future—this one outperformed a few locally shaped and off-the-rack boards I’ve owned.
