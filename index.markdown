@@ -29,19 +29,21 @@ Best board: It's windswell, but it's looking like most boards will work tomorrow
 
 #### Friday 9/12
 
-Wind is looking like an issue, but there should still be some swell around. I wouldn't expect much quality, but if you have nothing else to do, give it a look early am or before dark. Avoid midday high tide and wind.
+Wind is looking like an issue, but there should still be some swell around. I wouldn't expect much quality, but if you have nothing else to do, give it a look early am or before dark. Avoid midday high tide and wind. I'd skip it.
 
-Best board: Groveler or longboard
+Best board: Longboard
 
 ---
 
 #### Weekend of 9/13-9/14
 
-I would expect some longboardable waves for the weekend. Wind is light offshore early am both days and is worth a look. I'd expect surf heights for Saturday/Sunday to be in the thigh-waist range depending on the quality of the bar. Wind picks up from the south late Sunday, so look in the morning if trying to surf. Since we're looking at small east swell, sanbar choice will be particularly important.
+Saturday is looking pretty fun with light winds in the AM and waist-stomach high surf. High tide is mid-day and wind picks up in the second half of the day.
 
-Notes: Avoid the midday high tide
+Sunday is a similar setup to Saturday with a little less size. I'd expect thigh-waist high surf and light offshore winds in the morning. Avoid the mid-day high tide. Wind picks up again in the afternoon.
 
-Best board: longboard to make the most of the small surf on offer
+Notes: Avoid the midday high tide. East swell; find a bar that's working.
+
+Best board: longboard to make the most of the small surf on offer. A groveler would work on Saturday, but with the East swell, finding the right bar is going to determine the quality of your session.
 
 ---
 
