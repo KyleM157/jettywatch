@@ -7,7 +7,7 @@ title: Monmouth County Surf Forecast
 
 ## Forecast for the Week of 9/15 - 9/21
 
-Plenty of swell this week, but winds are looking to keep conditions poor. Swell peaks Tuesday-Wednesday with waves in the chest-head high range. Wind will be strong onshore (15+ knots sustained). Wind switches out of the North on Thursday as swell starts to weaken with wave heights around stomach high. We'll see more wind swell on Saturday with strong onshore winds. And guess what? More onshore winds for sunday with waist high surf or so.
+Plenty of swell this week, but winds are looking to keep conditions poor. Swell peaks Tuesday-Wednesday with waves in the chest-head high range. Wind will be strong onshore (15+ knots sustained). Wind switches out of the North on Thursday as swell starts to weaken with wave heights around stomach high. There could be some longboardable swell on Friday with light offshore wind but don't expect much size. We'll see more wind swell on Saturday with strong onshore winds. And guess what? More onshore winds for sunday with waist high surf or so.
 
 #### Thursday 9/18
 
@@ -17,6 +17,13 @@ Notes: Mid-tide lines up for the morning session. Really only worth considering 
 
 Best board: Longboard or groveler. It's short period wind swell.
 
+#### Friday 9/19
+
+Potentially a good day for beginners and groms. Not much swell running, but winds should be light offshore. I'd expect knee-thigh high surf in the AM but be aware of the morning high tide that'll slow things down.
+
+Notes: Be aware of the 6am high tide. It's not an extreme high tide but will slow or stop most breaks in the area given the small swell. At 4.3' it's going to drop fast enough for the morning session to work out (swell depending).
+
+Best board: Longboard if you weigh more than 100 pounds.
 
 ---
 
@@ -24,11 +31,12 @@ Best board: Longboard or groveler. It's short period wind swell.
 
 It's far out, but we could see a notable swell event around 9/22 - 9/23. Way too early to tell, but there's hope for better surf on the horizon.
 
-As for the tropics, there is a greater than 20% chance of cyclone formation through 9/16 and >40% chance for the week of 9/17-9/23.
-
-Update: 80% probablity of cyclone formation in the central tropical atlantic in the next seven days and 40% chance in the next 48 hours.
+There's an 80% probablity of cyclone formation in the central tropical atlantic in the next seven days and 40% chance in the next 48 hours. That swell event reference above is dependent on the formation of this system.
 
 ---
+
+Current list of Surf Hazards
+[Surf Hazards](/pages/surf_hazards)
 
 ### Helpful Links
 
