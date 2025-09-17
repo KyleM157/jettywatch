@@ -27,14 +27,14 @@ But here’s the problem: if your feedback loop only includes pros and team ride
 
 Let’s break down some of the technical trade-offs:
 
-### 🔧 Fin Geometry & Drive
+### Fin Geometry & Drive
 
 - Twin fins often have toe-in and cant built into the boxes.  
 - A twin + trailer setup might have ¼" toe-in and ~4° cant, which makes the board loose—sometimes too loose.  
 - At low angles of attack, the board lacks directionality. It wants to slide, not drive.  
 - Without a center fin, there’s no anchor point to push against unless you’re fully on rail.
 
-### 🧠 Surf Feel
+### Surf Feel
 
 - Twin fins tend to go rail-to-rail, but lack finesse in setting a line.  
 - Upright MR-style twins follow the “fall line”—the most down-the-line path the wave allows.  
@@ -56,7 +56,7 @@ If you’re shaping for clean, slow-breaking surf and you live on the East Coast
 
 I’ve surfed California a bunch, especially the Central Coast. Twin fins are fun there—especially rear-set twins like Greg Griffin’s placement, not the forward MR-style boxes (IMO). California waves are mushier, longer period (think 16 seconds), and push boards more effectively than our short-period wind swell (8 seconds).
 
-### 🌊 East Coast Wave Mechanics:
+### East Coast Wave Mechanics:
 
 - Our waves are steep, not powerful.  
 - Shallow sandbars turn weak swell into fast, shapely walls.  
@@ -86,7 +86,7 @@ Short, wide, round outlines—typical of East Coast grovelers or California dail
 
 Twin fins are a fun change of pace, but I wouldn’t include one in an East Coast quiver. Maybe a keel fish—though I sold mine.
 
-### 🧰 My Ideal Quiver:
+### My Ideal Quiver:
 
 - **Weak surf:** Split-keel style quad  
 - **Powerful surf:** Thruster  
