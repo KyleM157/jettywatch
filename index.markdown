@@ -45,6 +45,7 @@ There will be plenty of swell from Hurricane Gabrielle this week. There will be 
 ### Thursday 9/25
 
 **Wave Chart**
+
 | Time   |   Wave Height |   Period |   Wave Direction |   Energy |   Wind Speed | Wind Direction   |
 |:-------|--------------:|---------:|-----------------:|---------:|-------------:|:-----------------|
 | 05:00  |           2.6 |     10.4 |            114.9 |     30.6 |          5.7 | SSE              |
@@ -54,6 +55,7 @@ There will be plenty of swell from Hurricane Gabrielle this week. There will be 
 | 17:00  |           2.9 |     10.2 |            107.6 |     31.6 |          9.7 | SSW              |
 
 **Tide Chart**
+
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
 | 03:39  | L      |          0.61 |
