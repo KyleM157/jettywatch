@@ -7,8 +7,7 @@ title: Monmouth County Surf Forecast
 
 **Last Update: 09/24/2025 09:30**
 
-**For Current Conditions:**
-[Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
+**Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 

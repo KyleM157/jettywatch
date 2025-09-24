@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Current List of Hazards
 ---
+
+# Surf Hazards
 
 ### Deal
 
