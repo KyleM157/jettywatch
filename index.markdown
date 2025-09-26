@@ -13,92 +13,60 @@ title: Monmouth County Surf Forecast
 
 ## Forecast Overview
 
-| Date       | Day      |   Swell Height (ft) |   Period (s) |   Wind Speed (kts) | Wind Direction   |
-|:-----------|:---------|--------------------:|-------------:|-------------------:|:-----------------|
-| 2025-09-25 | Thursday |                   3 |           10 |                  8 | S                |
-| 2025-09-29 | Monday   |                   2 |           10 |                  6 | ENE              |
-| 2025-09-30 | Tuesday  |                   3 |           15 |                  5 | NE               |
-| 2025-10-03 | Friday   |                   3 |           10 |                  6 | SE               |
-| 2025-10-04 | Saturday |                   2 |           11 |                  6 | WSW              |
-| 2025-10-05 | Sunday   |                   2 |           13 |                  5 | S                |
-| 2025-10-10 | Friday   |                   5 |            7 |                  7 | SE               |
+| Date       | Day       |   Swell Height (ft) |   Period (s) |   Wind Speed (kts) | Wind Direction   |
+|:-----------|:----------|--------------------:|-------------:|-------------------:|:-----------------|
+| 2025-09-28 | Sunday    |                 1.8 |         10.4 |                5   | E                |
+| 2025-09-29 | Monday    |                 2.1 |          9.2 |                7   | NE               |
+| 2025-09-30 | Tuesday   |                 3.6 |         15.3 |                3.6 | E                |
+| 2025-10-01 | Wednesday |                 5.3 |         13.4 |                8.8 | E                |
+| 2025-10-03 | Friday    |                 2.8 |          9.8 |                6.9 | ENE              |
+| 2025-10-04 | Saturday  |                 2   |         10.7 |                8.5 | W                |
+| 2025-10-05 | Sunday    |                 1.4 |         10.2 |                8.4 | WNW              |
+| 2025-10-06 | Monday    |                 1.3 |         10.2 |                9.3 | E                |
+| 2025-10-07 | Tuesday   |                 2.2 |          9   |                8.5 | SSE              |
+| 2025-10-08 | Wednesday |                 2   |          9.1 |                6   | SSW              |
+| 2025-10-09 | Thursday  |                 1.9 |          8.4 |                7.2 | NNE              |
+| 2025-10-10 | Friday    |                 3.7 |          7.9 |                6.9 | E                |
+| 2025-10-11 | Saturday  |                 3.4 |          9.4 |                9.3 | E                |
 
 ## Next Three Days At a Glance
 
-| Date      | Wave Height   | Wind Direction   |   Wind Speed |   fEnergy Percentile |
+| Date      | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
 |:----------|:--------------|:-----------------|-------------:|--------------------:|
-| TODAY     | Stomach       | S                |           10 |                  83 |
-| TONIGHT   | Waist+        | S                |           12 |                  59 |
-| FRI       | Waist         | W                |            5 |                  54 |
-| FRI NIGHT | Thigh         | WSW              |            4 |                  27 |
-| SAT       | Knee          | NNE              |            6 |                  36 |
-| SAT NIGHT | Knee          | NNE              |            5 |                  36 |
+| TODAY     | Thigh         | W                |            4 |                39.8 |
+| TONIGHT   | Thigh         | SSE              |            4 |                38.4 |
+| SAT       | Knee          | NNE              |            4 |                33.6 |
+| SAT NIGHT | Knee          | ESE              |            5 |                33.6 |
+| SUN       | Knee          | NNE              |            6 |                35.5 |
+| SUN NIGHT | Knee          | NE               |            5 |                34.9 |
 
 ## 9/21-9/28
 
 There will be plenty of swell from Hurricane Gabrielle this week. There will be more windows of favorable conditions for our area than there were for the Erin swell, but we have some annoying morning high tides that are going to get in the way for those of us at work by nine. This won't be an easy swell event to get great waves given the swell direction and period. Essentially we have mid period swell that is coming in directly to our beaches here in Monmouth county at a swell angle of ~110 degrees. Closeouts are going to be a real issue and finding a bar that is working and uncrowded is going to be a challenge. On the plus side, winds will at least be fairly light at times that line up with a favorable tide, if you can be off work at the right time.
 
-
-
-### Thursday 9/25
-
-**Wave Chart**
-
-| Time   |   Wave Height |   Period |   Wave Direction |   Energy |   Wind Speed | Wind Direction   |
-|:-------|--------------:|---------:|-----------------:|---------:|-------------:|:-----------------|
-| 05:00  |           2.6 |     10.4 |            114.9 |     30.6 |          5.7 | SSE              |
-| 08:00  |           2.7 |     10.4 |            113.2 |     31.4 |          9.1 | SSE              |
-| 11:00  |           2.7 |     10.8 |            108.1 |     33.6 |         11.1 | SE               |
-| 14:00  |           2.9 |     10.4 |            109.1 |     34.1 |         11.3 | SSW              |
-| 17:00  |           2.9 |     10.2 |            107.6 |     31.6 |          9.7 | SSW              |
-
-**Tide Chart**
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:39  | L      |          0.61 |
-| 10:01  | H      |          4.97 |
-| 16:15  | L      |          0.69 |
-| 22:19  | H      |          4.21 |
-
-It's looking like there should still be some mid-period, waist high surf around on Thursday morning with light-moderate SSE winds. Given the how much the wind forecast has varied this week, I'd check your local winds frequently if you plan to surf. High tide is at 10:01 am.
-
-Expect rainy conditions.
-
-Notes: The best window is early am, before high tide. There's more swell around than originally forecasted and it should be plenty fun for a longboard or groveler early on. Wind forecast could change, it's been very unreliable thus far.
-
-Best board: longboard or groveler.
-
 ### Friday
 
-**Wave Chart**
+| Time   |   Wave Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|--------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 05:00  |           2.9 |      5.7 |            157.5 |                32   |          5.5 | WNW              |
+| 08:00  |           2.8 |      5.8 |            154.9 |                32   |          5.5 | NW               |
+| 11:00  |           2.7 |      5.9 |            148.8 |                32.4 |          2.6 | NNW              |
+| 14:00  |           2.6 |      6   |            149   |                32.6 |          3.8 | ESE              |
+| 17:00  |           2.6 |      6.2 |            142.9 |                33.6 |          6   | SSE              |
 
-| Time   |   Wave Height |   Period |   Wave Direction |   Energy |   Wind Speed | Wind Direction   |
-|:-------|--------------:|---------:|-----------------:|---------:|-------------:|:-----------------|
-| 05:00  |           2.7 |      5.4 |            164.1 |      5.5 |          6   | WSW              |
-| 08:00  |           2.6 |      5.6 |            154.3 |      6.4 |          4.8 | WSW              |
-| 11:00  |           2.6 |      5.8 |            154.1 |      6.9 |          3.5 | WNW              |
-| 14:00  |           2.5 |      5.9 |            149.6 |      7.6 |          2.7 | SE               |
-| 17:00  |           2.5 |      6.1 |            151.9 |      7.7 |          4.3 | SSW              |
-
-**Tide Chart**
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 04:09  | L      |          0.83 |
-| 10:37  | H      |          4.78 |
-| 16:51  | L      |          0.91 |
-| 23:01  | H      |          3.96 |
-
-Small, weak wind swell with light offshore wind. Not looking like there's anything to target.
-
-Notes: Enough to push beginners into waves, but I'd be surprised if there's enough to *surf*. Whatever swell left is going to be clean.
+Notes: Enough for a longboard or new surfers. It's going to be very weak out there.
 
 ---
 
 ## Next Week
 
 Tropical Storm Humberto has formed and it looks like Imelda could be right behind it. Weird setup and impossible to forecast at this point. Expect to hear the term "Fujiwhara effect" a ton in the next week or so. There should be swell at some point. Check out the Forecast overview at the top of the page for what GFS is making of it all.
+
+The tropics are active and it's looking like there's going to be plenty of swell in the water. Winds will be the deciding factor on whether or not it's going to be a day to surf. Currently, I'm mostly seeing light onshore winds Monday and Tuesday, with Tuesday showing decent size but likely closeouts. The swell looks to peak on Tuesday and Wednesday with easily overhead long period surf and strong onshore winds. Conditions could be more manageable on Thursday, with lighter onshore winds and still decent sized surf, though almost fully east swell.
+
+Currently, Friday looks like the most user friendly conditions with light-moderate offshore winds and around waist high surf.
+
+Again, way too far out to really start planning any sessions, but I'd pay attention to early and late week.
 
 ---
 
