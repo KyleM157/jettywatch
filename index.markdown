@@ -15,12 +15,12 @@ title: Monmouth County Surf Forecast
 
 | Date      | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
 |:----------|:--------------|:-----------------|-------------:|--------------------:|
-| TODAY     | Waist         | NE               |           10 |                13.5 |
-| TONIGHT   | Chest+        | E                |            5 |                97.8 |
-| TUE       | Head+         | N                |            5 |                98.9 |
-| TUE NIGHT | Overhead+     | NE               |           11 |                99.5 |
-| WED       | Overhead+     | NE               |           21 |                99.5 |
-| WED NIGHT | Overhead      | NE               |           16 |                99   |
+| TODAY     | Head          | N                |            4 |                98.9 |
+| TONIGHT   | Overhead      | NE               |           10 |                99.1 |
+| WED       | Overhead++    | NE               |           21 |                99.4 |
+| WED NIGHT | Overhead      | NE               |           17 |                98.5 |
+| THU       | Head+         | NE               |           16 |                95.8 |
+| THU NIGHT | Head          | E                |           10 |                95.2 |
 
 ## This Week 9/28-10/5
 
@@ -103,17 +103,22 @@ Best board: HPSB or Step Up. Expect strong currents.
 
 Wendesday and Thursday are showing strong NE winds and will be unsurfable. Solid swell, but not worth writing about. Consider driving to another region if you want to surf this one.
 
+Wednesday sees offshore swell heights at ~8' with combo swells of E 8'@14s and NE 8'@8s. Wind is 20+kts NE. Well overhead waves but no quality.
+Thursday sees 7'@10s swell with 15-20 kts wind from the NE. Overhead waves but no quality.
+
+Notes: Not surfable, but could be a good day for a beach cleanup, especially on the dropping tide. I'll post about this soon.
+
 ### Friday
 
 **Swell Table**
 
 | Time   |   Wave Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|--------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |           3.3 |      9.8 |             99.3 |                75.1 |          3   | WNW              |
-| 08:00  |           3.2 |     10   |             98.4 |                76.3 |          5.2 | WNW              |
-| 11:00  |           3.1 |     10   |             97.3 |                75   |          3.6 | WSW              |
-| 14:00  |           3   |     10   |             96.9 |                73.1 |          2.8 | SSW              |
-| 17:00  |           2.9 |     10.2 |             97.4 |                72.9 |          6.4 | SW               |
+| 05:00  |           3.2 |      9.4 |            100.8 |                70.9 |          2.7 | W                |
+| 08:00  |           3.1 |      9.5 |            101.2 |                70.1 |          4.1 | WNW              |
+| 11:00  |           3   |      9.5 |            100.1 |                68.2 |          3.2 | SW               |
+| 14:00  |           2.9 |      9.2 |             99   |                63.1 |          6.4 | S                |
+| 17:00  |           2.9 |      9.1 |             99.7 |                61.3 |          9   | S                |
 
 **Tide Table**
 
@@ -124,25 +129,25 @@ Wendesday and Thursday are showing strong NE winds and will be unsurfable. Solid
 | 16:55  | H      |          4.93 |
 | 23:15  | L      |          0.39 |
 
-Winds for Friday are looking pretty good now, so lets hope that stays the case. If the swell heights are to be believed, I'd expect roughly chest high waves with decent push given the mid-period swell running. I could be overcalling this and it could end up closer to stomach high. Spend some time looking for the right place to surf given the swell direction.
+Winds for Friday are looking pretty good now, so lets hope that stays the case. If the swell heights are to be believed, I'd expect roughly chest high waves. Swell forecasts have come down a little bit in terms of height/period. I could be overcalling this and it could end up closer to stomach high. Spend some time looking for the right place to surf given the swell direction (there'll be some closeouts).
 
 Notes: The late morning-early afternoon window is looking best with the **current forecast**. That said, I'd check back to see how winds look as Friday gets closer. This could be a good day of surf. Closeouts are going to be an issue with the E swell direction, but it's worth looking for a good bar.
 
-Best board: Daily driver if I'm right about swell size. Otherwise longboard/groveler. 
+Best board: Daily driver if I'm right about swell size. Otherwise longboard/groveler. Longboard could be the call given the swell direction to get the most time on your feet.
 
 ### Weekend of 10/4-10/5
 
-Winds look to go offshore for Saturday and Sunday mornings with swell still in the water Saturday and possibly some reinforcement swell for Sunday. I'll update as it gets closer. Currently, this is what I'm seeing:
+Winds look to go offshore for Saturday and Sunday mornings with swell still in the water Saturday and possibly some reinforcing swell for Sunday. I'll update as it gets closer. Currently, this is what I'm seeing:
 
 #### Saturday
 
 | Time   |   Wave Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|--------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |           2.8 |     11.1 |             96.6 |                78   |          9.9 | W                |
-| 08:00  |           2.6 |     11.2 |             96.4 |                76.2 |          9.2 | W                |
-| 11:00  |           2.5 |     11.2 |             96.5 |                74   |          7.2 | W                |
-| 14:00  |           2.3 |     11.2 |             96.7 |                70.6 |          4.1 | SSW              |
-| 17:00  |           2.4 |     11.2 |             97   |                73.4 |          8.6 | SSW              |
+| 05:00  |           2.7 |      9.7 |             97   |                64.5 |          9   | W                |
+| 08:00  |           2.6 |     10.8 |             97.2 |                72.6 |          9   | W                |
+| 11:00  |           2.5 |     10.8 |             97.3 |                70   |          8.5 | W                |
+| 14:00  |           2.3 |     10.7 |             97.5 |                66.3 |          3.4 | WSW              |
+| 17:00  |           2.2 |     10.6 |             96.4 |                62.7 |          5.3 | SW               |
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -159,11 +164,11 @@ Notes: Watch for updates, this is still pretty far out.
 
 | Time   |   Wave Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|--------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |           2.3 |     12.6 |             99.4 |                81.4 |          8.3 | WSW              |
-| 08:00  |           2.2 |     12.8 |             99.2 |                79.4 |          8.7 | WSW              |
-| 11:00  |           2   |     12.6 |             99   |                74.2 |          7.3 | SW               |
-| 14:00  |           1.9 |     12.4 |             99   |                71.6 |          9.3 | SSW              |
-| 17:00  |           2.4 |     12.3 |             98.9 |                79.8 |         10.4 | SSW              |
+| 05:00  |           2   |     10.5 |             99.3 |                57   |          8.1 | WSW              |
+| 08:00  |           1.9 |     12.3 |            101.1 |                70.1 |          6.9 | W                |
+| 11:00  |           1.7 |     12.1 |            101   |                64.9 |          4.5 | SW               |
+| 14:00  |           1.7 |     11.6 |            101.1 |                59.4 |          8   | S                |
+| 17:00  |           2.1 |     11   |            102.3 |                65.1 |         11.6 | S                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -172,7 +177,7 @@ Notes: Watch for updates, this is still pretty far out.
 | 12:21  | L      |          0.18 |
 | 18:31  | H      |          5.41 |
 
-Very similar to Saturday. Looks fun.
+Very similar to Saturday. Looks fun. I'd expect this to drop some through the week. Personally, I'd expect waist high surf or so.
 
 Notes: Too far out for a high confidence forecast
 
