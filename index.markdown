@@ -158,7 +158,7 @@ Winds look to go offshore for Saturday and Sunday mornings with swell still in t
 
 I'd expect fairly punchy waist-stomach high surf depending on where you are. Winds are looking light to moderate offshore and low tide is late morning. This sets up a nice window on the dropping tide early am and a likely session on the incoming tide if winds stay light enough as they switch out of the South.
 
-Notes: Watch for updates, this is still pretty far out.
+Notes: Watch for updates, this is still pretty far out. Wave direction means lots of bars will be closing out.
 
 #### Sunday
 
