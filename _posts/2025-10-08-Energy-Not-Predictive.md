@@ -23,7 +23,7 @@ As we can see, a mixture of normal distributions fits our data well. The distrib
 
 Now, we have our energy calculated and have enough forecasted values to see if we can predict surf heights. Let's look at a scatter plot of forecast heights relative to buoy energy values (prepare to be disappointed):
 
-![Energy vs Forecast Scatter](/assets/images/fcast_scatter.png)
+![Energy vs Forecast Scatter](/assets/images/fcast_scatter2.png)
 
 What we want to see is ideally no overlap in the values as we look left to right. Essentially, we want a linear relationship (though some uncertainty would be acceptable). To understand why this doesn't work, imagine a line being drawn at a y-value of 50. It would intersect stomach-overhead values.
 
