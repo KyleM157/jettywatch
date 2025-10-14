@@ -5,47 +5,27 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 10/12/2025 13:45** (Next update will likely be Tuesday 10/14 unless Wednesday looks better.)
+**Last Update: 10/14/2025 09:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 ## Next Three Days at a Glance
 
-| Date      | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
-|:----------|:--------------|:-----------------|-------------:|--------------------:|
-| TODAY     | Thigh+        | E                |            8 |                  89 |
-| TONIGHT   | Head          | E                |           17 |                  92 |
-| SUN       | Overhead++    | ENE              |           35 |                 100 |
-| SUN NIGHT | Overhead++    | NE               |           35 |                 100 |
-| MON       | Overhead++    | NE               |           35 |                 100 |
-| MON NIGHT | Overhead+     | NE               |           35 |                 100 |
+| Date                | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
+|:--------------------|:--------------|:-----------------|-------------:|--------------------:|
+| 2025-10-14 05:00:00 | Overhead+     | NNE              |           21 |                97.6 |
+| 2025-10-14 17:00:00 | Head+         | N                |           17 |                93.5 |
+| 2025-10-15 05:00:00 | Head          | N                |            9 |                90.5 |
+| 2025-10-15 17:00:00 | Chest+        | NNW              |           15 |                63.1 |
+| 2025-10-16 05:00:00 | Chest         | N                |           15 |                59.6 |
+| 2025-10-16 17:00:00 | Stomach+      | N                |           15 |                59.6 |
 
 
 ## Week of 10/12-10/19
 
-So far, I'm looking at Friday 10/17 and Saturday 10/18 as the best days of the week. There could be some swell around on Sunday 10/19, but it's too early to 
+Plenty of swell going into the week, but we're still watching the wind forecast. Personally, I'm not seeing much to be optimistic about through around Friday evening, Saturday morning. Even if our local winds trend better, it's still going to be getting shredded by 15-25 knot winds offshore on Wednesday/Thursday. Friday late afternoon in to the evening has the most potential for clean conditions with some size left. Saturday morning could be decent for the longboards in the am.
 
-| Date       | Day       |   Wave Direction |   Swell Height (ft) |   Period (s) |   Energy Percentile | Wind Direction   |   Wind Speed (kts) |
-|:-----------|:----------|-----------------:|--------------------:|-------------:|--------------------:|:-----------------|-------------------:|
-| 2025-10-12 | Sunday    |            117.1 |                12.7 |          9.5 |                96   | ENE              |               32.7 |
-| 2025-10-13 | Monday    |            103.2 |                16.2 |         11.1 |                99.7 | ENE              |               35.2 |
-| 2025-10-14 | Tuesday   |            108.7 |                10.2 |         10.2 |                97.6 | NNE              |               25.7 |
-| 2025-10-15 | Wednesday |            121.8 |                 6.4 |          8.6 |                73   | NW               |               18.8 |
-| 2025-10-16 | Thursday  |             11.3 |                 6.1 |          5.5 |                20.1 | NW               |               23.2 |
-| 2025-10-17 | Friday    |             72.7 |                 3.9 |          8.4 |                58.1 | ESE              |               11.8 |
-| 2025-10-18 | Saturday  |             87.8 |                 4   |         10.4 |                83   | SW               |               13.8 |
-| 2025-10-19 | Sunday    |            172.2 |                 6.2 |          7.5 |                50.2 | SSW              |               19.8 |
-
-
-
-## Looking Ahead
-
-Going into next week, we should expect another very powerful swell and strong winds. Our area is expected to get some coastal flooding and we're likely to see gusts in the 50+ kts range. Essentially hurricane force winds. Winds starts to slacken off late day Tuesday (10/14). Currently, I'm seeing north winds for Wednesday morning, but models have been putting out a range of different values, with some showing NW winds, which would be ok.
-
-We're once again getting a east swell direction with this system, which means closeouts. This is shorter period than the Humberto/Imelda swell, which will help, but I'd expect most spots to have difficulty with the swell direction and size.
-
-Like the last few swells, this one is going to come down to the wind and sandbars rather than amount of swell.
 
 ### Sunday-Tuesday 10/12-10/14
 
@@ -57,12 +37,11 @@ Notes: No chance that this gets better. Consider prepping your home for storm da
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            6.4 |      9.5 |            102   |                91.2 |         14.4 | N                |
-| 08:00  |            6   |      9.6 |            101.5 |                90.3 |         14.4 | NNW              |
-| 11:00  |            5.6 |      9.5 |            101.6 |                88.4 |         14.4 | NNW              |
-| 14:00  |            5.4 |      9.6 |            102   |                88.1 |         16.1 | NNW              |
-| 17:00  |            6.7 |     10   |            102.8 |                93.7 |         24.8 | N                |
-
+| 05:00  |            5   |      9.3 |            106.6 |                84.6 |         14.3 | N                |
+| 08:00  |            4.7 |      9.2 |            106.5 |                82   |         13.6 | N                |
+| 11:00  |            4.6 |      9.2 |            105.4 |                80.7 |         15.2 | NNW              |
+| 14:00  |            4.4 |      9.2 |            104.3 |                80   |         14.5 | NNW              |
+| 17:00  |            4.7 |      9.5 |            102.8 |                83.4 |         24.4 | NNW              |
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -71,29 +50,28 @@ Notes: No chance that this gets better. Consider prepping your home for storm da
 | 15:19  | H      |          4.72 |
 | 21:57  | L      |          0.58 |
 
-The wind forecast has varied for Wednesday. Currently I'm seeing NNW winds at around 11 kts in the morning and 12kts in the evenining. It's *possible* that it'll clean up the surf a bit, but I wouldn't get my hopes up. Swell forecasts are in the 6'@9s range and I'd expect widespread head high surf. Closeouts will be an issue at most breaks.
+The wind forecast has varied for Wednesday. Currently I'm seeing NNW winds at around 10 kts in the morning and 15kts in the evenining. Swell forecasts are in the 6'@10s range and I'd expect widespread head high surf. Closeouts will be an issue at most breaks.
 
-Notes: Low likelihood of quality surf. Closeouts will be an issue if the wind isn't.
+Notes: Low likelihood of quality surf and dangerous for beginners. Closeouts will be an issue if the wind isn't. The morning is definitely the better window, but I'd have very low expectations. There will be a fair amount of water moving around still, know your limits.
 
 Best board: Something you can duck dive and that handles texture well.
 
+
 ### Thursday 10/16
 
-Strong sideshore winds. Unless something changes, there's not any surf locally.
+Strong sideshore winds. Unless something changes, there's not any decent surf locally.
 
-Notes: 20+ kts sideshore wind. Do something else.
+Notes: 15+ kts sideshore wind. Do something else.
 
 ### Friday 10/17
 
-Far out, but it's possible winds will be light enough in the afternoon for a session. There should still be enough swell with waves around chest high or so. This could easily change.
-
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            5.4 |      5.6 |             34.6 |                28   |         20.3 | N                |
-| 08:00  |            4.7 |      9.1 |             86.6 |                80.5 |         17.3 | N                |
-| 11:00  |            4.1 |      9.2 |             84.6 |                76   |         13.5 | N                |
-| 14:00  |            3.5 |      9.5 |             88.6 |                72.9 |          8.7 | N                |
-| 17:00  |            3   |      9.4 |             87.5 |                65.4 |          4.3 | N                |
+| 05:00  |            4.9 |      5.2 |             37.4 |                20   |         20.9 | N                |
+| 08:00  |            4.7 |      4.9 |             28.9 |                12.7 |         21.6 | N                |
+| 11:00  |            4.1 |      4.8 |             36.2 |                11.1 |         17.1 | N                |
+| 14:00  |            3.3 |      9.1 |             90.5 |                67.9 |         12   | NNW              |
+| 17:00  |            2.7 |      9.1 |             89.2 |                58.6 |          9.3 | NNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -103,19 +81,22 @@ Far out, but it's possible winds will be light enough in the afternoon for a ses
 | 17:13  | H      |          4.71 |
 | 23:27  | L      |          0.34 |
 
-Notes: Far out, but there is some potential of doable surf.
+Far out still, but it's possible winds will be light enough in the afternoon for a session. There should still be enough swell with waves around stomach high or so. This could easily change.
+
+Notes: Far out, but there is some potential of doable surf with moderate side/offshore winds. The late afternoon/evening session is worth keeping an eye on. Still, keep your expectations in check.
+
+Best board: Longboard or groveler depending on amount of swell remaining. It's possible there's more than I'm currently forecasting.
 
 
 ### Saturday 10/18
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            3.4 |     10.2 |             87.6 |                77.6 |         11.1 | WSW              |
-| 08:00  |            3.9 |     10.2 |             87.4 |                82.3 |         11.8 | WSW              |
-| 11:00  |            4   |     10.5 |             87.6 |                84.7 |         11.7 | WSW              |
-| 14:00  |            4.1 |     10.6 |             87.9 |                85.5 |         14.1 | SW               |
-| 17:00  |            4.4 |     10.6 |             88.1 |                87.6 |         17.2 | SSW              |
-
+| 05:00  |            2.2 |      9.2 |             85.6 |                49.5 |          7.1 | N                |
+| 08:00  |            2.2 |      9.7 |             88.8 |                55.4 |          4.6 | NNW              |
+| 11:00  |            2.4 |     10.1 |             93.2 |                62.4 |          1.7 | W                |
+| 14:00  |            2.5 |     10.1 |             93.4 |                64.3 |          3.8 | SSE              |
+| 17:00  |            2.6 |     10.8 |             96.9 |                71.4 |          9.6 | SSE              |
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -123,7 +104,7 @@ Notes: Far out, but there is some potential of doable surf.
 | 11:45  | L      |          0.56 |
 | 18:01  | H      |          4.76 |
 
-It's too far out for a reliable forecast, but I've seen some models calling for offshore wind. Swell height is manageable and a bit more ENE rather than E swell direction. There should be some decent lefts at the right jetties if the wind works out. I'd expect wave heights to be in the stomach+ high range with chest high sets at better sandbars.
+I'd expect winds to be offshore in the morning and likely light/moderate sideshore for the afternoon/evening. The real question will be about how much remaining swell will be around. As of right now, I'd expect waist high waves at best, but it's possible we'll get more than that.
 
 Notes: Ok swell direction and surf height/period for our area. Sanbars have been hit or miss, so plan on driving. Wind very well may not work out.
 
@@ -131,7 +112,31 @@ Best board: Daily driver that can handle texture. There could be lefthand barrel
 
 ### Sunday 10/19
 
-Too far out and wind forecasts are all over the place. I wouldn't expect good surf, but there could be something for the longboards if the wind turns out in our favor.
+Currently seeing strong South wind for Sunday. It's possible we'll get a fun but short lived windswell for Monday.
+
+### Monday 10/20
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 05:00  |            5   |      6.7 |            176.1 |                40.6 |         12.8 | W                |
+| 08:00  |            4   |      6.6 |            175.9 |                29.3 |         16.9 | W                |
+| 11:00  |            3.5 |      6.5 |            174   |                24   |         13.6 | W                |
+| 14:00  |            3.1 |      6.5 |            171.2 |                20   |         10.6 | WSW              |
+| 17:00  |            3   |      6.6 |            168.4 |                21.8 |         13.2 | WSW              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 00:45  | L      |          0.28 |
+| 07:07  | H      |          5.25 |
+| 13:09  | L      |          0.35 |
+| 19:19  | H      |          4.72 |
+
+Something to watch, but it's not a sure thing. We might have a fun windswell for Monday morning, but the high tide could slow things down a lot. Too early to call.
+
+## Further Out
+
+Watching a possible wind swell around 10/24 or so. We might see some fun but small SSE swell around that time with favorable winds. Too early to say, but any swell on the horizon is a positive.
 
 ---
 
@@ -145,7 +150,7 @@ Current list of Surf Hazards
 ---
 
 Why Energy Percentile?
-[Energy Article](/_posts/2025/10/08/Energy-Not-Predictive)
+[Energy Article](/2025/10/08/Energy-Not-Predictive)
 
 ### Helpful Links
 
