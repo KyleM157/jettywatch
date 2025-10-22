@@ -66,27 +66,7 @@ Flat
 
 ### Friday 10/24
 
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            2.2 |      9.5 |            119.6 |                52.5 |         14.5 | W                |
-| 08:00  |            2.1 |      9.3 |            121.4 |                48.4 |         13.4 | W                |
-| 11:00  |            2.1 |      9.1 |            122.2 |                46.8 |         14.4 | W                |
-| 14:00  |            2.4 |      9   |            121.7 |                52.6 |         16.4 | W                |
-| 17:00  |            2.8 |      3.5 |            285.2 |                 0   |         19.4 | NW               |
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:09  | L      |          0.69 |
-| 09:25  | H      |          4.99 |
-| 15:45  | L      |          0.55 |
-| 21:49  | H      |          4.03 |
-
-It's far out, but there could be some small swell around for the longboards early AM. Currently, I'd say it's not going to work out.
-
-Notes: Too far out to call. Low expectations
-
-Best board: longboard
-
+Flat
 
 ### Saturday 10/25
 
