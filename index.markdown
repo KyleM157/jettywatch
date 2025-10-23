@@ -5,80 +5,40 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 10/21/2025 10:00**
+**Last Update: 10/23/2025 11:00** (Next update will likely be 10/26 as there is no surf for the rest of the week)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
+
 ## Next Three Days at a Glance
 
-| Date                | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
-|:--------------------|:--------------|:-----------------|-------------:|--------------------:|
-| 2025-10-21 05:00:00 | Flat          | W                |            9 |                13.7 |
-| 2025-10-21 17:00:00 | Flat          | S                |           14 |                26.7 |
-| 2025-10-22 05:00:00 | Knee+         | W                |            8 |                26.7 |
-| 2025-10-22 17:00:00 | Flat          | W                |           14 |                14.3 |
-| 2025-10-23 05:00:00 | Flat          | W                |           10 |                14.3 |
-| 2025-10-23 17:00:00 | Flat          | W                |           15 |                 7.3 |
+Flat. It's Flat.
 
 ## Week of 10/19-10/26
 
-Hoping y'all got some waves on Monday (10/20). That's looking like all the surf we're going to be seeing until the end of the month.
+Hoping y'all got some waves on Monday (10/20). That's looking like all the surf we're going to be seeing until around the end of the month.
 
-Currently, I'm seeing the next swell to start showing around next Thursday, 10/30. Luckily, this is looking like an southeast swell which is way better for our area than the east swells we've been getting so far this season. I'm optimistic about this one.
-
-
-
-### Tuesday 10/21
-
-Flat
-
-Notes: 11am is the earliest this will be viable. You'll need to target close to the low tide given the swell size. Hopefully there's a bit more swell left than expected or at least weaker offshores.
+Currently, I'm seeing the next swell to start showing around 10/28. Though there is differences in the model outputs, so make sure to check back around the weekend.
 
 
-### Wednesday 10/22
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            4.3 |      6.4 |            175.8 |                29.8 |         13.1 | WSW              |
-| 08:00  |            4   |      6.5 |            176.1 |                27.2 |         16.8 | SW               |
-| 11:00  |            3.9 |      6.4 |            177.1 |                25.1 |         17.8 | WSW              |
-| 14:00  |            3.6 |      6.4 |            178.6 |                21   |         16.2 | WSW              |
-| 17:00  |            3.6 |      6.4 |            178.2 |                21.1 |         17.7 | WSW              |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 01:57  | L      |          0.4  |
-| 08:13  | H      |          5.28 |
-| 14:33  | L      |          0.33 |
-| 20:31  | H      |          4.45 |
-
-Swell direction is too SW for our swell window. It's worth taking a look, but with the wind speeds, there just won't be much there. It could be enough for a beginner but I wouldn't expect much.
-
-Notes: Low expectations. Low
-
-Best board: big
-
-### Thursday 10/23
-
-Flat
-
-### Friday 10/24
-
-Flat
-
-### Saturday 10/25
-
-Flat
-
-### Sunday 10/26
+### Thursday 10/23 - Sunday 10/26
 
 Flat
 
 ## Looking Ahead
 
-The next major swell should show up around 10/29. A tropical system is expected to form in the next 24 hours in the Caribbean and then recurve NE in to the central Atlantic. High pressure is expected to move East across NC/VA over the next few days and then move NE and settle over the Canadian Maritimes. This sets up onshore flow to our area and should kick up a bit of swell around 10/27. Another low pressure system is moving NE across the central U.S. as what will be tropical storm Melissa recurves NE. This should set up strong ESE winds with medium fetch 10/29. Low pressure is then expected to develop over the Outer Banks and move over our area, hopefully setting up light or offshore winds. There will be a lot of variability in the wind forecast around that time.
+It looks like our next swell will be from a weakly organized area of low pressure moving across the southern U.S. and interacting with a large area of high pressure west of the Canadian Maritimes. This sets up some ENE swell for 10/28, though I'd expect onshore winds.
+
+Onshore flow continues as another larger area of low pressure moves across the northern U.S. We have a pretty powerful setup with Hurricane Melissa Moving northeast into the central Atlantic and the same area of high pressure moving north of the Canadian Maritimes. This creates a large easterly fetch and strong swell for 10/30. Swell should peak around early afternoon with Ocean County likely getting the largest wave heights (buoy readings in the 12'@10s range). As the low pressure system moves (directly) over our area, winds should go offshore with plenty of swell sticking around.
+
+The timing of the wind switch is up in the air, but it's likely that south NJ will be the place to be for the experts. Northern NJ should see wind switch after dark on 10/30 setting up fun morning conditions 10/31. I would expect strong offshore winds (in the 15-20kts range) that Friday morning, so hollow surf is likely.
+
+It's early to start calling wave heights, but I'd expect buoys to be in the 6'@10s range plus or minus. This would set up surf in the head high range with plus sets in Ocean County.
+
+Surf is expected to drop pretty quick through the day, but there should be some fun leftovers on 11/1 if the wind cooperates. Wind will be offshore, but it could be very strong. After 11/1, I'd expect another week long+ lull in the surf as offshore wind continues.
+
+Notes: There's some differences between models at the moment, particularly the track of Hurricane Melissa. I'm expecting surf for the dates above regardless, but the size could vary significantly based on the timing of the NE recurve. Currently, the Euro has it recurving a day later than the GFS model (what this forecast is based on). I'll update as more information becomes available.
 
 ---
 
