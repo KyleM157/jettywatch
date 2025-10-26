@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 10/25/2025 12:00**
+**Last Update: 10/26/2025 09:30** (Next update will likely be Tuesday 10/28)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -13,9 +13,16 @@ title: Monmouth County Surf Forecast
 
 ## Next Three Days at a Glance
 
-Flat. It's Flat.
+| Date                | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
+|:--------------------|:--------------|:-----------------|-------------:|--------------------:|
+| 2025-10-26 05:00:00 | Flat          | N                |            7 |                31.7 |
+| 2025-10-26 17:00:00 | Flat          | N                |            4 |                33.5 |
+| 2025-10-27 05:00:00 | Flat          | NE               |           11 |                35.3 |
+| 2025-10-27 17:00:00 | Flat          | ENE              |           10 |                12.3 |
+| 2025-10-28 05:00:00 | Head          | NE               |           18 |                71.8 |
+| 2025-10-28 17:00:00 | Overhead      | NE               |           20 |                96.2 |
 
-While it's flat, consider reading about the effects of beach replinishment: [here](/2025/10/24/Beach-Replenishment)
+Since you're not surfing, consider reading about the effects of beach replenishment: [here](/2025/10/24/Beach-Replenishment)
 
 ## Week of 10/19-10/26
 
