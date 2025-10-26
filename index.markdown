@@ -32,51 +32,33 @@ Flat
 
 ## Looking Ahead
 
-It looks like our next swell will be from a weakly organized area of low pressure moving across the southern U.S. and interacting with a large area of high pressure west of the Canadian Maritimes. This sets up some ENE swell for 10/28, though I'd expect onshore winds.
+Next week is an interesting setup. We'll see swell early week (Overnight Monday into Tuesday 10/28) but winds are expected to stay strong onshore. After that, we have a Nor'easter that starts generating swell for our area by 10/30. We'll also see swell from Hurricane Melissa combine with that swell. This will set up a combination swell; SE swell from Hurricane Melissa and E swell from the Nor'easter. I'd say this track is pretty locked in at this point. It looks like winds are going to switch sometime early AM on Friday 10/31 with solid swell (I'd expect buoy readings in the 12'@9s range for North NJ). Wave heights will be in the overhead to overhead+ range early and head-overhead by end of day. I'd expect some leftovers, but unfortunately for average surfers, the lion's share of the swell is going to be Friday 10/31.
 
-Onshore flow continues as another larger area of low pressure moves across the northern U.S. We have a pretty powerful setup with Hurricane Melissa Moving northeast into the central Atlantic and the same area of high pressure moving north of the Canadian Maritimes. This creates a large easterly fetch and strong swell for 10/30. Swell should peak around early afternoon with Ocean County likely getting the largest wave heights (buoy readings in the 12'@10s range). As the low pressure system moves (directly) over our area, winds should go offshore with plenty of swell sticking around.
+Notes: Timing of the wind switch could change, but the forecast is a lot more clear than it was just a day or two ago.
 
-The timing of the wind switch is up in the air, but it's likely that south NJ will be the place to be for the experts. Northern NJ should see wind switch after dark on 10/30 setting up fun morning conditions 10/31. I would expect strong offshore winds (in the 15-20kts range) that Friday morning, so hollow surf is likely.
+### Monday 10/27
 
-It's early to start calling wave heights, but I'd expect buoys to be in the 6'@10s range plus or minus. This would set up surf in the head high range with plus sets in Ocean County.
+Flat
 
-Surf is expected to drop pretty quick through the day, but there should be some fun leftovers on 11/1 if the wind cooperates. Wind will be offshore, but it could be very strong. After 11/1, I'd expect another week long+ lull in the surf as offshore wind continues. It's possible there will be some windswell for 11/2, but the swell direction and timing of the wind switch looks unfavorable.
+### Tuesday 10/28
 
-Notes: This is a fairly complicated setup to call this far out. I would check back early next week once the details get a little more clear. The wind forecast is very likely to change. I think it's easy to say we'll have some swell, but the timing of surfable conditions is going to take some time to dial in. South NJ is definitely more likely to see favorable winds earlier than Northern NJ assuming the forecast stays somewhat close to what I'm seeing now. 
+Building surf but strong NE-ENE winds (20+ kts)
 
-**Most of the tables below (from GFS model) are showing a swell angle around 130 degrees or so. While there will be long period (~16s-18s) swell mixing in, I'm expecting mostly mid-period NE swell for 10/30-11/1. Personally, I'd expect this to change around a bit (or significantly).**
+### Wednesday 10/29
+
+Strong NE winds; surf is blown out.
 
 ### Thursday 10/30
 
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |           10.7 |      8   |             88   |                93.6 |         33.6 | ENE              |
-| 08:00  |           12.6 |      8.9 |             90.3 |                97.6 |         39.4 | ENE              |
-| 11:00  |           15   |      9.7 |             92.1 |                99.2 |         41.3 | ENE              |
-| 14:00  |           10.9 |      9.7 |            101.9 |                97.9 |         17.5 | S                |
-| 17:00  |            9.8 |      9.6 |            110.4 |                96.9 |         23.7 | S                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:01  | H      |          3.76 |
-| 07:57  | L      |          1.43 |
-| 14:13  | H      |          4.45 |
-| 20:57  | L      |          0.84 |
-
-Thursday is the first day that *could* be surfable from this weather setup. I'd watch this one closely for some powerful surf. Wind forecasts have trended worse.
-
-Notes: Far out, take with a grain of salt. There's still significant variation in the model outputs, especially for the track of hurricane Melissa. If this comes together, know your limits. Close outs may be an issue and I wouldn't expect user friendly conditions (strong currents, etc.)
+Strong E winds; surf is solid but blown out.
 
 ### Friday 10/31
 
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            7.1 |      8.6 |            128.2 |                88.5 |         20.8 | SW               |
-| 08:00  |            6.4 |      8.4 |            134.4 |                83.9 |         18.6 | WSW              |
-| 11:00  |            6   |      8.7 |            139.1 |                82.7 |         26   | WNW              |
-| 14:00  |            6   |      9.2 |            130.8 |                87.4 |         28.2 | WNW              |
-| 17:00  |            5.6 |      9.6 |            123.6 |                88.2 |         27.8 | WNW              |
+The day to watch for expert surfers. Wind is expected to switch offshore following the passing of low pressure. Expect strong offshore winds (~20kts) setting up overhead, hollow surf. There is a swell mix, but the primary swell direction will be East, so find a bar that's working. Not really a day you want to be messing with closeouts. Seas overnight Thursday will be in the 10-14 ft range and I'd expect to wake up to buoy readings in the 12'@9s range. Surf fades through the day but stays solid. Head-overhead surf is still expected by end of day Friday. Low tide at 9 am means that you have the entire incoming tide to find a spot working if the wind switch occurs as forecasted around 8am. Surf is currently expected to be largest in Monmouth County.
+
+Notes: Firing surf. Know your limits. Don't expect user friendly conditions.
+
+Best board: HPSB/Step Up/Barrel board
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -85,21 +67,13 @@ Notes: Far out, take with a grain of salt. There's still significant variation i
 | 15:13  | H      |          4.55 |
 | 21:51  | L      |          0.53 |
 
-Another day to keep a close eye on. The GFS model is predicting strong ESE-SE swell with favorable winds for 10/31. I'm seeing NE swell on some other models which makes more sense with the charts I'm looking at. I would take this with a grain of salt. 
-
-Notes: If this comes together it will be firing. Hollow right handers in the head-overhead range. Know your limits. I'm expecting this to drop faster through the day than that table above suggests.
-
-Best board: HPSB or barrel board
-
 ### Saturday 11/1
 
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            4   |      4.3 |            253.8 |                 0.1 |         22.8 | WSW              |
-| 08:00  |            4.2 |      4.4 |            230.7 |                 0.7 |         23.3 | WSW              |
-| 11:00  |            4.6 |      4.3 |            258.9 |                 0.1 |         26.4 | WNW              |
-| 14:00  |            4.4 |      4.3 |            278.2 |                 0   |         24.7 | W                |
-| 17:00  |            3.4 |      4   |            280.8 |                 0   |         18   | W                |
+There's still some uncertainty here, but there should be some leftover surf. Surf will fade fast, so I'd try to get on it early. Winds will be stiff offshore (15+ kts). I would think the early AM dropping tide will be best as surf will likely be marginal going into the afternoon.
+
+Notes: A lot of uncertainty at this point. I'd expect fairly small surf with strong offshore winds. Shape will likely be an issue given the swell direction and period. User friendly at the right sandbar (if you can find one).
+
+Best Board: Groveler or Daily Driver depending on how fast the surf fades. Check back later.
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -107,8 +81,6 @@ Best board: HPSB or barrel board
 | 10:15  | L      |          0.77 |
 | 16:13  | H      |          4.7  |
 | 22:39  | L      |          0.2  |
-
-Currently, models are suggesting that all of the swell will be gone by the weekend. Too far out to say, but I'd expect this to change given the swell breakdown I'm seeing.
 
 ---
 
