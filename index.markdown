@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 10/27/2025 11:45**
+**Last Update: 10/29/2025 10:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -15,12 +15,12 @@ title: Monmouth County Surf Forecast
 
 | Date      | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
 |:----------|:--------------|:-----------------|-------------:|--------------------:|
-| TODAY     | Flat          | N                |            4 |                14.2 |
-| TONIGHT   | Thigh         | NE               |            8 |                17.6 |
-| TUE       | Head          | ENE              |           18 |                83.6 |
-| TUE NIGHT | Head          | NE               |           20 |                76.4 |
-| WED       | Head+         | NE               |           20 |                85   |
-| WED NIGHT | Head+         | NE               |           22 |                88.4 |
+| TODAY     | Overhead+     | NE               |           20 |                94.7 |
+| TONIGHT   | Overhead      | NE               |           17 |                95.7 |
+| THU       | Overhead+     | E                |           30 |                98.9 |
+| THU NIGHT | Overhead+     | E                |           30 |                97.5 |
+| FRI       | Head+         | W                |           20 |                90.3 |
+| FRI NIGHT | Chest+        | W                |           30 |                82.5 |
 
 Since you're not surfing, consider reading about the effects of beach replenishment: [here](/2025/10/24/Beach-Replenishment)
 
@@ -36,13 +36,6 @@ The combination of Melissa and this Nor'easter is what set up our surf for Frida
 
 Notes: Timing of the wind switch could change, but the forecast is a lot more clear than it was just a day or two ago.
 
-### Monday 10/27
-
-Flat
-
-### Tuesday 10/28
-
-Building surf but strong NE-ENE winds (20+ kts)
 
 ### Wednesday 10/29
 
@@ -58,11 +51,11 @@ Strong E winds; surf is solid but blown out.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 05:00  |            7.8 |      8.6 |            119.7 |                90.8 |         23   | SW               |
-| 08:00  |            8   |      8.3 |            128.2 |                89.8 |         27.9 | SW               |
-| 11:00  |            8.1 |      8.3 |            143.7 |                88.2 |         29.9 | WSW              |
-| 14:00  |            7.5 |      8.6 |            150.9 |                86.7 |         30.5 | W                |
-| 17:00  |            7.2 |      8.7 |            140.8 |                88.1 |         31.2 | W                |
+| 05:00  |            7.4 |      8.9 |            117.7 |                91.6 |         23.2 | WSW              |
+| 08:00  |            7.1 |      9   |            114.8 |                91.1 |         24.2 | WSW              |
+| 11:00  |            7.3 |      8.8 |            116.4 |                90.7 |         31.8 | W                |
+| 14:00  |            7   |      8.2 |            136.2 |                84.8 |         31.3 | W                |
+| 17:00  |            6.9 |     16.7 |            139.6 |                99.6 |         33.4 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -72,13 +65,13 @@ Strong E winds; surf is solid but blown out.
 | 15:13  | H      |          4.55 |
 | 21:51  | L      |          0.53 |
 
-The day to watch for expert surfers. Wind is expected to switch offshore following the passing of low pressure. Expect strong offshore winds (~20kts) setting up overhead, hollow surf. Models were originally showing more East swell for Friday than it looks like we're going to end up with. This is a positive, but it'll bring some of the early size estimates down a bit. The period in the GFS table above is a little misleading. We have some very long period (~18s) swell mixing in from Hurricane Melissa that should start to show Friday AM. Buoy heights will also be misleading as the windswell is going to be steeply angled by the time our winds go offshore. The long period swell from Melissa will have no problem wrapping in and I'd expect an effect from the Hudson canyon to be apparent during this swell. 
+We have 20+kts offshore wind to start the day with up to 40kt gusts (gale force offshores) as a Nor'easter system exits. There's a E/SE swell mix in the AM that should set up roughly head high surf with some plus sets. Extra long period swell from Hurricane Melissa starts to show around 11:00 AM and builds through late afternoon. The SE/E swell mix drops through the day thanks to the strong offshore winds. I'd expect chest high surf from that long period swell, but the offshores are going to make things interesting. It's important to note that the 5pm reading of 6.9'@16.7s isn't an accurate picture of what's going on.
 
 Overall, this is a difficult setup to forecast. I'm fairly confident in calling for overhead and hollow surf into the afternoon with very strong offshore wind. Conditions will be very challenging and the extra long period swell mixing is is going to make finding a sandbar difficult (though the swell angle is helpful).
 
-Notes: Firing surf. Know your limits. Don't expect user friendly conditions. Tide is convenient for the timing of the wind switch.
+Notes: Potentially firing surf but tricky offshore winds. Know your limits. Don't expect user friendly conditions. There should be plenty of waves all day.
 
-Best board: HPSB/Step Up/Barrel board
+Best board: HPSB/Step Up/Barrel board depending on what we end up with.
 
 
 ### Saturday 11/1
@@ -92,11 +85,11 @@ Best board: HPSB/Step Up/Barrel board
 | 16:13  | H      |          4.7  |
 | 22:39  | L      |          0.2  |
 
-I have less confidence in forecasting for Saturday. There is still some long period swell mixing in (1.5'@13s or so) with a favorable SE swell direction. Our windswell at this point is smaller and very steep angled (3.5'@9s). Winds are going to be strong offshore at around 17kts. At this point, I'd expect stomach high surf for the morning but that could change.
+I have less confidence in forecasting for Saturday. There is still some long period swell mixing in (2.5'@12s or so) with a favorable SE swell direction. Our windswell at this point is smaller (1'@10s). Winds are going to be strong offshore at around 20kts. At this point, I'd expect lully waist-stomach high surf for the morning but that could change.
 
-Notes: A lot of uncertainty at this point. I'd expect fairly small surf with strong offshore winds. The swell direction is likely to be favorable if conditions come together. The dropping tide in the morning is going to be the best window.
+Notes: A lot of uncertainty at this point. I'd expect fairly small surf with strong offshore winds. The swell direction is likely to be favorable if conditions come together. The dropping tide in the morning is going to be the best window. Hopefully the longer period surf holds up against the wind.
 
-Best Board: Groveler or Daily Driver depending on how fast the surf fades. Check back later.
+Best Board: Groveler or Daily Driver depending on how fast the surf fades.
 
 ---
 
