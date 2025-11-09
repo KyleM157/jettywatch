@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 11/08/2025 07:40**
+**Last Update: 11/09/2025 09:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -23,41 +23,16 @@ title: Monmouth County Surf Forecast
 | MON NIGHT | Thigh         | W                |           12 |                37.3 |
 
 
-Interested in trying out the wave pool in Va Beach? Read my short review [here](/2025/11/06/Atlantic-Park-Surf-2)
+Interested in trying out the wave pool in Va Beach? Read my short review of the advanced setting [here](/2025/11/06/Atlantic-Park-Surf-2)
 
 ---
 
 
-## Week of 11/02 - 11/09
+## Week of 11/09-11/16
 
 As we get into the weekend, we should see some steep angled southerly windswell fill in late Friday into Saturday. 
 
 
-
-### Saturday 11/8
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.5 |      6   |            177   |                17.9 |         14.6 | WSW              |
-| 10:00  |            4   |      7   |            158.7 |                41.8 |         13.2 | WNW              |
-| 13:00  |            3.7 |      7.1 |            158.3 |                40.8 |          9.3 | NNW              |
-| 16:00  |            3.4 |      7   |            164.1 |                33.8 |          7.3 | N                |
-| 19:00  |            3.2 |      7   |            165.2 |                29   |         10.6 | N                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:27  | L      |         -0.24 |
-| 08:49  | H      |          5.77 |
-| 15:21  | L      |         -0.26 |
-| 21:31  | H      |          4.58 |
-
-Steep angled windswell to start the day. We have a really deep high tide at 8:50 that's going to swamp most breaks. Expect mushy surf in the early AM. I'd also avoid the negative low tide in the afternoon and aim for the mid-tide. Conditions should remain clean most of the day, but winds are expected to turn NW into late afternoon/evening. I'm still expecting roughly stomach high surf at the better sandbars for midday.
-
-
-Notes: Models have trended down this week, but it should be fun and user friendly. Swell came in a little under model forecast for the AM and is mostly out of the SW and is missing our area. It now looks like the best timing will be around noon.
-
-Best board: Groveler or Longboard
 
 ### Sunday 11/09
 
@@ -87,12 +62,11 @@ Best board: longboard
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.4 |      7   |            156.9 |                35.1 |          9.4 | NNW              |
-| 10:00  |            3.2 |      7.1 |            156.5 |                33.4 |          8.5 | W                |
-| 13:00  |            3.1 |      7.1 |            155.7 |                33.4 |         14.7 | W                |
-| 16:00  |            3.3 |      7.1 |            153.5 |                37.3 |         17.6 | WNW              |
-| 19:00  |            3.7 |      7.4 |            152.6 |                45.7 |         20.2 | WNW              |
-
+| 07:00  |            3.7 |      7.1 |            147.5 |                43.7 |          6.9 | WNW              |
+| 10:00  |            3.6 |      7.2 |            149.1 |                43.5 |          9.4 | WSW              |
+| 13:00  |            3.9 |      7.5 |            150.5 |                50.4 |         15.4 | WSW              |
+| 16:00  |            4.6 |      8   |            150   |                64.2 |         22.6 | W                |
+| 19:00  |            4.9 |      8.1 |            150   |                68.1 |         22.9 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -103,18 +77,62 @@ Best board: longboard
 | 23:37  | H      |          4.29 |
 
 
-Another Nor'easter is expected to pass through our region 11/09-11/10 setting up surf for Monday 11/10. Too far out at this point for details, but I'd expect another wind switch setup with moderate offshore wind and quickly dropping surf. Models have trended down this week, but it still looks doable early AM on the lower tide.
+Another Nor'easter is expected to pass through our region 11/09-11/10 setting up surf for Monday 11/10. Too far out at this point for details, but I'd expect another wind switch setup with moderate offshore wind and quickly dropping surf.
 
-As of right now, I'd expect waves in the waist high range with clean conditions and decent shape. Too early to be sure.
+As of right now, I'd expect waves in the waist high range with clean conditions and decent shape.
 
-Notes: There will probably be something around, but it won't be anything special. I'd plan on getting on it early.
+Notes: Timing is going to be interesting. Currently, it looks like the largest amount of swell will be around 8:00-11:00 AM or so. Unfortunately, this is aligns with the high tide, which is going to slow things down. I'm thinking the afternoon session on the dropping tide will be the best window at this time.
 
 Best board: Longboard or groveler
+
+
+### Tuesday 11/11
+
+Small leftover swell, but very strong offshore winds. Not expecting any surf.
+
+### Wednesday 11/12
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            5.1 |      5.8 |            204.6 |                15.6 |         23.4 | SW               |
+| 10:00  |            5.5 |      6.9 |            191.7 |                38.2 |         22.6 | SW               |
+| 13:00  |            5.4 |      7.6 |            185.5 |                50.5 |         23.1 | WSW              |
+| 16:00  |            5.3 |      7.9 |            180.4 |                56.1 |         23.2 | W                |
+| 19:00  |            5.1 |      8.2 |            175.7 |                59.8 |         24.1 | W                |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 00:37  | H      |          4.26 |
+| 06:33  | L      |          0.93 |
+| 12:55  | H      |          4.58 |
+| 19:27  | L      |          0.49 |
+
+Interaction between an area of high pressure lifting out of the Gulf and an area of low pressure over the Canadian Maritimes sets up fairly strong southwest swell. It's possible we could see some swell wrap in, but it's a little early to call for any wave heights. Currently, late afternoon/evening is looking best. Stiff offshore winds could prove to be an issue.
+
+### Thursday 11/13
+
+Flat
+
+### Friday 11/14
+
+Flat
+
+### Saturday 11/15
+
+Flat
+
+### Sunday 11/16
+
+No surf expected, but we have a pretty decent setup for waves into early week. An area of high pressure near the Caribbean will interact with an area of low pressure over the Great lakes setting up some short-mid period south swell. Winds are likely to go offshore following the exit of that low pressure system. This will be another quick swell event, but I'd expect some fun surf to start the work week with decent sized surf on the AM dropping tide.
+
 
 
 ## Forecast Note
 
 We have a lot of weather moving around, but nothing that's aligned well with our swell window, unfortunately. Primarily, we're seeing areas of low pressure stay too far north, setting up swell with a southwest direction that misses our area and is too low period to wrap in. Until that pattern changes, don't expect any large surf. The upside is we'll see a few short lived smaller swell events that will at least be grovelable/longboardable in the mean time.
+
+Further out, it's possible we could see some larger East swell around 11/22.
 
 
 
