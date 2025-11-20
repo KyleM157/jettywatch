@@ -5,13 +5,15 @@ title: About
 
 This site aims to provide accurate forecasts for Monmouth County, New Jersey as well as information about board design, offshore coastal features, and occasional board reviews. Everything can be accessed via the NavBar at the top of the page.
 
+This website doesn't use any tracking features and respects your privacy. I don't know what other sites you have visited or where you go from here. I don't sell any information to outside sources and wouldn't have any information anyway. The downside is that I don't get any information about site usage. If you want to chat about what you like and don't like, you can reach me on my instagram account (@jettywatchforecast).
+
 Read below for an explanation of each page as well as some how-to-use information for the forecasts.
 
 ### Forecasting
 
 As a local New Jersey surfer, I was pretty unhappy with the available written forecasts I could find. Surfline tends to struggle with swells other than those from the southeast. Other, local forecast providers update their forecasts too infrequently to get up-to-date information, making it difficult to plan the best time to get to the beach. As someone trying to work surfing into my day to day that includes work and family responsibilities, I found myself spending a fair amount of time crafting my own forecasts.
 
-Currently, I make a 5 day forecast and only update when a swell event is on the horizon. Once a swell event is recognized, which I say is anything that produces a wave waist high or greater, I update every day until it has passed. Each forecast has wave height, wave period, and wind conditions. Wind conditions have been difficult to forecast in the past year, but I try to update the forecast as late as possible so that the most up-to-date information is available to me (and you). I also suggest board type(s) based on the forecast.
+Currently, I primarily make weekly forecasts with a looking ahead section if there is enough evidence of a better swell. After a brief overview of the week, I break down individual days into expected swell, period, swell direction, wind/wind direction, and energy percentile.
 
 ### Board Design
 
@@ -32,3 +34,7 @@ Check out the coastal features page [here](pages/03_Coastlines)
 The blog page contains board reviews and general thoughts about surfing. I also go into more detail on specific features here.
 
 Check out the blog [here](/pages/04_Blog)
+
+### About Me
+
+My name is Kyle and I've been surfing most of my life. I became interested in surf forecasting several years ago and as I got more experience with programming, I wanted to create a site for local text-based surf forecasts. From looking at weather charts and buoy data year after year, I have a pretty good understanding of what a swell will look like once it arrives to our beaches. I use a number of different models and local forecasts as well as some models I've made to translate offshore boundary conditions into expected wave heights.
