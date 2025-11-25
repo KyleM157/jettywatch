@@ -17,12 +17,12 @@ title: Monmouth County Surf Forecast
 
 | Date      | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
 |:----------|:--------------|:-----------------|-------------:|--------------------:|
-| TODAY     | Knee          | NW               |            5 |                33.3 |
-| TONIGHT   | Flat          | W                |           10 |                 9.7 |
-| MON       | Flat          | NW               |           12 |                 3.4 |
-| MON NIGHT | Knee          | NW               |            5 |                14.8 |
-| TUE       | Knee          | S                |            6 |                18.7 |
-| TUE NIGHT | Waist         | S                |           10 |                32.5 |
+| TODAY     | Knee          | S                |           10 |                10.5 |
+| TONIGHT   | Knee          | S                |            8 |                20.3 |
+| WED       | Waist         | SW               |           12 |                32.1 |
+| WED NIGHT | Waist+        | SW               |           10 |                44.7 |
+| THU       | Thigh+        | W                |           16 |                51.7 |
+| THU NIGHT | Knee          | W                |           18 |                39.6 |
 
 
 ---
@@ -35,80 +35,16 @@ Unfortunately, the swell for 11/26 is almost entirely from an area of high press
 
 
 
-### Sunday 11/23
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.8 |      6.6 |            126.9 |                14.4 |          6.6 | W                |
-| 10:00  |            1.7 |      6.6 |            130   |                12.4 |          7.7 | WSW              |
-| 13:00  |            1.7 |      6.5 |            130.3 |                12.6 |         12   | SW               |
-| 16:00  |            2.1 |      6.3 |            126.1 |                17   |         15.4 | W                |
-| 19:00  |            2.5 |      3.2 |            271   |                 0   |         18.6 | WNW              |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:15  | L      |          0.7  |
-| 08:31  | H      |          4.72 |
-| 15:03  | L      |          0.37 |
-| 21:07  | H      |          3.66 |
-
-Knee high surf (at most) on the low tide. Conditions are clean with light offshore wind.
-
-Notes: Not a ton of swell on offer.
-
-Best board: Longboard
-
-
-### Monday 11/24
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.8 |      3.9 |            320.8 |                 0   |         17.5 | NW               |
-| 10:00  |            2.7 |      3.8 |            321.3 |                 0   |         18.2 | NW               |
-| 13:00  |            2.4 |      3.9 |            344.9 |                 0   |         14.2 | NNW              |
-| 16:00  |            1.4 |      9.2 |            125.1 |                28.2 |          5.3 | NW               |
-| 19:00  |            1   |      9.3 |            122.6 |                18.7 |          6.8 | W                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:51  | L      |          0.81 |
-| 09:07  | H      |          4.57 |
-| 15:45  | L      |          0.47 |
-| 21:49  | H      |          3.56 |
-
-Notes: Basically flat
-
-### Tuesday 11/28
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.7 |      8.9 |            114.5 |                35.9 |         13.6 | SSW              |
-| 10:00  |            2.3 |      3.6 |            184.8 |                 0.3 |         14.9 | S                |
-| 13:00  |            2.5 |      3.9 |            182.8 |                 0.7 |         15.6 | SSW              |
-| 16:00  |            3.1 |      4.3 |            172.6 |                 3.7 |         17.3 | S                |
-| 19:00  |            4.4 |      4.8 |            162.9 |                16   |         25.7 | S                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:27  | L      |          0.93 |
-| 09:55  | H      |          4.45 |
-| 16:27  | L      |          0.57 |
-| 22:43  | H      |          3.56 |
-
-Notes: Not seeing anything
 
 ### Wednesday 11/26
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4   |      6.9 |            176.7 |                33.3 |         10.8 | SSW              |
-| 10:00  |            3.8 |      7.1 |            176.3 |                32.2 |         10.3 | SSW              |
-| 13:00  |            3.6 |      7   |            172.6 |                31   |          9.6 | SSW              |
-| 16:00  |            3.4 |      7   |            169.9 |                30   |         11.4 | S                |
-| 19:00  |            3.3 |      7   |            169.4 |                28.9 |         12.4 | SW               |
+| 07:00  |            4.1 |      6.5 |            177.5 |                28.2 |         13   | SSW              |
+| 10:00  |            3.6 |      6.4 |            177.8 |                23   |         13.4 | SSW              |
+| 13:00  |            3.6 |      6.5 |            175.3 |                24.3 |         10.7 | SSW              |
+| 16:00  |            3.7 |      6.8 |            169   |                31.2 |          9.2 | SSW              |
+| 19:00  |            3.7 |      7   |            168.5 |                34.1 |         12.7 | SW               |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -118,7 +54,7 @@ Notes: Not seeing anything
 | 17:15  | L      |          0.61 |
 | 23:37  | H      |          3.66 |
 
-Finally a break from the flat spell. We are once again getting a fairly steep angled wind-swell, but it is at least in our swell window. Don't have high expectations, but there's a pretty good probablility of surfable waves. Wind is cross-offshore, but should be fairly light near shore and shouldn't add too much texture. Surf should be largest in the AM which aligns well with the low tide.
+Finally a break from the flat spell. We are once again getting a fairly steep angled south wind-swell, but it is at least expected to wrap into our swell window. Don't have high expectations, but there's a pretty good probablility of surfable waves. Wind is cross-offshore, but should be fairly light and shouldn't add too much texture. Surf should be largest in the AM which aligns well with the low tide.
 
 I'd expect waves to be in the waist+ range with stomach high sets possible.
 
@@ -130,11 +66,11 @@ Best board: Longboard or groveler
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.3 |      4.2 |            274.7 |                 0   |         23.5 | W                |
-| 10:00  |            4.1 |      4.2 |            264.3 |                 0   |         22.8 | W                |
-| 13:00  |            4.1 |      4.3 |            258.8 |                 0   |         22.7 | W                |
-| 16:00  |            4.1 |      4.3 |            257   |                 0.1 |         23.5 | W                |
-| 19:00  |            4.3 |      4.4 |            264.3 |                 0   |         25.3 | W                |
+| 07:00  |            4   |      4.2 |            262.3 |                 0   |         21.9 | W                |
+| 10:00  |            3.9 |      4.2 |            254.4 |                 0   |         22.1 | W                |
+| 13:00  |            3.9 |      4.2 |            252.1 |                 0.1 |         23   | W                |
+| 16:00  |            4.1 |      4.3 |            255.5 |                 0.1 |         24.1 | W                |
+| 19:00  |            4.2 |      4.4 |            256.9 |                 0.1 |         24.3 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -145,24 +81,61 @@ Best board: Longboard or groveler
 
 Notes: Thursday has really trended down. I'll update as we get closer, but I wouldn't expect much. I think the table above is a bit misleading. It's possible we'll see some ~2'@7s swell on the buoy in the AM. Wind is strong offshore and if that holds, I wouldn't expect worthwhile surf.
 
+Notes: Strong west wind limits surfability. There will be enough swell on the buoy, but I'm not expecting this to be a worthwhile day.
 
-### Friday 11/28
+Best board: Longboard
 
-Flat
 
-### Saturday 11/29
+### Friday 11/28 - Sunday 11/30
 
-Flat
+Flat. Winds will be strong offshore through Saturday afternoon with cold weather expected.
 
-### Sunday 11/30
-
-Flat
+It's possible we start to see some swell for 11/30. More about that below.
 
 ---
 
 ## Looking Ahead
 
-It's possible we see another swell for the first week of December and there's signs we could see a more powerful swell the second week of December. I'll update as we get closer.
+The first couple weeks of December are looking pretty active. It's possible we'll see back to back swells around 12/1 and 12/7. It's pretty far out, but models have been pretty consistent about the first week of December. It does look like we're finally seeing a change in the pattern from low pressure systems staying north over the Great Lakes. That pattern has led to us primarily seeing interaction with the far southwest corner of the windfield, which has been creating that SW swell we've been seeing (or not seeing). Hopefully that remains the case for a while.
+
+
+| Date       | Day       |   Wave Direction |   Swell Height (ft) |   Period (s) |   Energy Percentile | Wind Direction   |   Wind Speed (kts) |
+|:-----------|:----------|-----------------:|--------------------:|-------------:|--------------------:|:-----------------|-------------------:|
+| 2025-12-01 | Monday    |            153.5 |                 4.2 |          7.1 |                46.6 | NW               |               16.3 |
+| 2025-12-02 | Tuesday   |            144.4 |                 3.5 |          8.1 |                53.7 | WNW              |               15.9 |
+| 2025-12-03 | Wednesday |            175.6 |                 2.8 |          7.3 |                29.6 | W                |               14   |
+| 2025-12-04 | Thursday  |            127.5 |                 2.1 |          8.1 |                34.1 | W                |               10.6 |
+| 2025-12-05 | Friday    |            120.1 |                 3.5 |          7.6 |                46.2 | ESE              |               12.9 |
+| 2025-12-06 | Saturday  |            128.2 |                 6.3 |          8.7 |                85.4 | SW               |               12.9 |
+| 2025-12-07 | Sunday    |            146.4 |                 4.6 |          8.5 |                69.1 | W                |               14.9 |
+| 2025-12-08 | Monday    |            190.6 |                 3.2 |          7   |                30.4 | SSW              |               14.1 |
+
+### Monday 12/01
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            4.5 |      6.9 |            149.1 |                49.6 |         16.2 | NW               |
+| 10:00  |            4.5 |      7.3 |            142.4 |                57.5 |         14.4 | NNW              |
+| 13:00  |            4.6 |      7.5 |            145.2 |                59.4 |         17   | NNW              |
+| 16:00  |            4.2 |      7.7 |            146.1 |                57.9 |         16.9 | NNW              |
+| 19:00  |            3.8 |      7.6 |            149.2 |                51.3 |         15.8 | NNW              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:13  | H      |          4.91 |
+| 09:45  | L      |          0.17 |
+| 15:43  | H      |          4.38 |
+| 21:51  | L      |         -0.27 |
+
+While this isn't a particularly strong low pressure system, it is going to be far better positioned for creating waves in our swell window. The set up for this swell is an area of low pressure lifting up from around KY up north over the Great Lakes. It interacts with an area of high pressure moving off Cape Cod, creating some S-SE swell for our area that should start to show late 11/30.
+
+This will be another wind swell event, but it is a really nice swell direction for our area and should play nice with our sandbars.
+
+Notes: Still far out, but I'd keep an eye on this time period.
+
+Best board: If this holds, I'd say a longboard or groveler. Should be a fun day for a small wave shortboard.
+
 
 ---
 
