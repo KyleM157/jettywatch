@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 11/23/2025 12:00**
+**Last Update: 11/26/2025 08:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -17,12 +17,12 @@ title: Monmouth County Surf Forecast
 
 | Date      | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
 |:----------|:--------------|:-----------------|-------------:|--------------------:|
-| TODAY     | Knee          | S                |           10 |                10.5 |
-| TONIGHT   | Knee          | S                |            8 |                20.3 |
-| WED       | Waist         | SW               |           12 |                32.1 |
-| WED NIGHT | Waist+        | SW               |           10 |                44.7 |
-| THU       | Thigh+        | W                |           16 |                51.7 |
-| THU NIGHT | Knee          | W                |           18 |                39.6 |
+| TODAY     | Knee+         | SSW              |            4 |                23.2 |
+| TONIGHT   | Knee+         | SSW              |            7 |                44.5 |
+| THU       | Knee          | W                |           17 |                43.2 |
+| THU NIGHT | Knee          | W                |           20 |                46.9 |
+| FRI       | Flat          | W                |           18 |                 0.5 |
+| FRI NIGHT | Flat          | W                |           25 |                15.3 |
 
 
 ---
@@ -54,13 +54,13 @@ Unfortunately, the swell for 11/26 is almost entirely from an area of high press
 | 17:15  | L      |          0.61 |
 | 23:37  | H      |          3.66 |
 
-Finally a break from the flat spell. We are once again getting a fairly steep angled south wind-swell, but it is at least expected to wrap into our swell window. Don't have high expectations, but there's a pretty good probablility of surfable waves. Wind is cross-offshore, but should be fairly light and shouldn't add too much texture. Surf should be largest in the AM which aligns well with the low tide.
+Worse than I had expected and about a foot under the model estimates I was seeing yesterday evening. Fairly close to this table, however. I was hoping the 4.7ft@7s I had been seeing would come to fruition, but no such luck. Actual buoy reading as of 8:00 am is 3.6@6.7. Too steep angled given the weak swell.
 
-I'd expect waves to be in the waist+ range with stomach high sets possible.
+Wind starts the day light and there isn't too much texture. 
 
-Notes: Best (and maybe only) day of the week to surf. The best window is early AM.
+Notes: Best (and maybe only) day of the week to surf. Still bad. Avoid the high tide if looking to get a few.
 
-Best board: Longboard or groveler
+Best board: Longboard
 
 ### Thursday 11/27
 
