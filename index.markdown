@@ -24,6 +24,7 @@ title: Monmouth County Surf Forecast
 | FRI       | Flat          | W                |           18 |                 0.5 |
 | FRI NIGHT | Flat          | W                |           25 |                15.3 |
 
+We've had and will have disappointing surf for a while. Check back around 12/3. See my forecast note [here](/2025/11/26/Forecast-Note) for more information about the pattern we've been in and what could be in store early December.
 
 ---
 
