@@ -15,7 +15,7 @@ Courtesy of tropicaltidbits.com (red arrows are mine)
 
 This is pretty much the setup we've been seeing for the past month. We've had several low pressure systems move through (some fairly strong ones as well), but we're not getting waves. The main issue is the track that these low pressure systems are taking.
 
-First, let's look at the image above. We have an area of high pressure directly west of us over the Atlantic ocean and an area of low pressure a little west of the Great Lakes. When areas of low pressure and high pressure interact, you get wind. If you look at the pressure lines (isobars), where they are tightly packed together means strong winds, and where they are further apart, that means lighter wind.
+First, let's look at the image above. We have an area of high pressure directly east of us over the Atlantic ocean and an area of low pressure a little west of the Great Lakes. When areas of low pressure and high pressure interact, you get wind. If you look at the pressure lines (isobars), where they are tightly packed together means strong winds, and where they are further apart, that means lighter wind.
 
 In the northern hemisphere, low pressure systems spin counterclockwise and high pressure systems spin clockwise. Looking at the red arrows on the chart, you can see that there is an interaction between the low pressure system and high pressure system, particularly the southwest portion of the low, and the northwest portion of the high.The arrow pointing northeast shows the direction of wind due to that interaction and eventually the direction of swell. Unfortunately, New Jersey is not northeast of those systems, which is very much the problem.
 
