@@ -5,28 +5,13 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/01/2025 12:45**
+**Last Update: 12/01/2025 20:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
 **Scroll to the right for more information in the below tables**
-
-## Next Three Days at a Glance
-
-| Date      | Wave Height   | Wind Direction   |   Wind Speed |   Energy Percentile |
-|:----------|:--------------|:-----------------|-------------:|--------------------:|
-| TODAY     | Flat          | NW               |           15 |                14.2 |
-| TONIGHT   | Flat          | NW               |           12 |                 0   |
-| TUE       | Thigh+        | SSE              |           10 |                39.5 |
-| TUE NIGHT | Head          | NE               |           18 |                90.6 |
-| WED       | Chest+        | NW               |           15 |                86.6 |
-| WED NIGHT | Waist+        | WNW              |           10 |                60.8 |
-
-Wednesday through the weekend looks pretty fun.
-
----
 
 ## Week of 11/30-12/7
 
@@ -76,6 +61,8 @@ Notes: Swell should start arriving for tomorrow.
 | 23:33  | L      |         -0.57 |
 
 A coastal low pressure system lifts up the coast and interacts with a high pressure system over the central Atlantic setting up some short-mid period swell. Currently, I believe chest high surf is a reasonable estimate but we could see larger sets in the morning. Wind is side-offshore for mostly clean conditions. We have a mid-day low tide but a pretty large tide swing. Timing will be important. The swell direction is favorable. Conditions will get cleaner as the day goes on, with cleanest (but smallest) conditions near end of day.
+
+Originally, model tracks were suggesting that swell would max out overnight on Tuesday, but now it's looking like swell maxes Wednesday morning before dawn. Like always, there's a mix of possibilities, but I would expect buoy numbers for NY Harbor to be in the 6.5@9s and Barnegat to be around 8ft@9s for the mid-morning hours. I'd expect the GFS numbers to run a little low on this one. Wind numbers are looking pretty close at 10-15kts cross-offshore (better south of Monmouth).
 
 Notes: The best swell I've seen on the forecast for quite some time. Wind isn't perfect, but it'll definitely be doable. Largest waves in the AM, but there should be enough swell all day for fun surf. We have a 6' tide swing, so aim for the mid-tide. Low tide will be too low and high tide too high, so keep that in mind. It's looking really fun with a particularly favorable swell direction. Make sure to find a sandbar that is working to make the most of it.
 
@@ -169,13 +156,8 @@ Possibly a similar scenario to Friday but too far out to call. Coule be fun on a
 
 Too far out, but could again be fun on a longboard. Poorly timed high tide.
 
----
+Notes: This one could surprise to the upside. I'll update as we get closer.
 
-### Looking Ahead
-
-Unfortunately, it looks like the pattern we saw in November is back for the second week of December. There are several large areas of low pressure that could be swell generators but they look to stay too far North and won't be in our swell window. Like November, they appear to be creating the same steep angled south to mostly southwest swell that is going to miss our region.
-
-Take advantage of the surf we have on offer this week, because it is likely to be slow until around 12/20 if the forecast remains as is.
 
 ---
 
