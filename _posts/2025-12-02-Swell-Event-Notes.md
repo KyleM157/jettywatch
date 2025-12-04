@@ -13,9 +13,9 @@ title: Wind Swell for the First Week of December
 
 Coutesy of tropicaltidbits.com
 
-We have a relatively weak coastal low exiting off southern North Carolina before moving NNE up the coast. This system interacts with an area of high pressure above the Canadian Maritimes setting short period stomach high surf.
+We have a relatively weak coastal low exiting off southern North Carolina before moving NNE up the coast. This system interacts with an area of high pressure above the Canadian Maritimes setting up short period stomach high surf.
 
-This is a fairly ideal setup for our region as we want the northeast part of a low pressure systems wind field and the south-west portion of a high pressure systems wind field to interact and generate SE angled swell. The strength of the low pressure system is the limiting factor here in terms of wave height.
+This is a fairly ideal setup for our region as we want the northeast part of a low pressure system's wind field and the south-west portion of a high pressure system's wind field to interact and generate SE angled swell. The strength of the low pressure system is the limiting factor here in terms of wave height.
 
 ### The Waves
 
