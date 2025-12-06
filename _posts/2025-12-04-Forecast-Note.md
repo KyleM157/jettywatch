@@ -21,7 +21,7 @@ However, look here:
 
 Courtesy of tropicaltidbits.com
 
-That there is the GEFS ensemble forecast for 12/12, showing a well put-together jetstream south of NJ, roughly over the border of VA and NC. This is an ideal strorm track for our region. I'm seeing a few instances of that pattern over the GFS 16 day forecast window. Hopefully this is the start of a pattern that puts more swell producing systems in our swell window rather than north of it.
+That there is the GEFS ensemble forecast for 12/12, showing a well put-together jetstream south of NJ, roughly over the border of VA and NC. This is an ideal storm track for our region. I'm seeing a few instances of that pattern over the GFS 16 day forecast window. Hopefully this is the start of a pattern that puts more swell producing systems in our swell window rather than north of it.
 
 ## What's to Come
 

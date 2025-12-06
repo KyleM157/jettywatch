@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/04/2025 11:30 (Next Update will likely be 12/6)**
+**Last Update: 12/06/2025 11:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -17,75 +17,21 @@ title: Monmouth County Surf Forecast
 
 Updated as of Thursday 12/4
 
-The rest of the week, or at least until Sunday, looks pretty slow. I'd expect there to be enough for the beginners and longboards on Friday. Saturday is looking pretty flat and then Sunday AM looks like there will be enough for the longboards once again.
+The rest of the week, or at least until Sunday, looks pretty slow. I'd expect there to be enough for the beginners and longboards on Saturday. then Sunday AM looks like there will be enough for the longboards once again but the high tide slows things down.
 
 Another low pressure system moves off the coast around 12/7, but it's looking like most of the swell is going to be aimed at the delmarva region. We could see something, but I'd have low expectations relative to some of the early model runs.
 
-For a look ahead, see today's [forecast note](/2025/12/04/Forecast-Note)
 
-
-### Thursday 12/04
-
-See in depth forecast [here](/2025/12/02/Swell-Event-Notes)
-
-**Swell table is misleading**
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.9 |      8.1 |            140   |                47.3 |         14.7 | W                |
-| 10:00  |            3.1 |      8   |            140   |                49.4 |         19.4 | W                |
-| 13:00  |            3.6 |      3.8 |            285   |                 0   |         22.4 | WNW              |
-| 16:00  |            4.1 |      4.2 |            306.9 |                 0   |         24.8 | WNW              |
-| 19:00  |            5   |      4.9 |            337.7 |                 2   |         25.5 | NW               |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 06:01  | H      |          5.86 |
-| 12:33  | L      |         -0.62 |
-| 18:31  | H      |          4.68 |
-
-Significantly worse than early model runs, but there should be enough for a longboard. Wind is stronger than I'd like to see given the amount of swell that's sticking around, but I'd expect it to be closer to 8-12kts on the beach.
-
-The only viable window will be around 9am give or take. The early AM high tide will stop most/all breaks. We have a swell mix of ESE 1.47'@10s and SE 1.4'@7.5s. I'd expect waves off the swell mix to be in the thigh-waist range early.
-
-Notes: Small, but it should have good shape in Monmouth County. Avoid the early AM high tide but try to get on it early as the surf will drop quickly.
-
-Best board: Longboard
-
-### Friday 12/5
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.1 |      9.9 |            114.9 |                55.2 |          8.7 | ENE              |
-| 10:00  |            1.9 |      9.9 |            114.6 |                50.4 |          6.7 | SE               |
-| 13:00  |            1.7 |      9.9 |            114.6 |                44.2 |          6.2 | SSE              |
-| 16:00  |            1.5 |      9.8 |            114.9 |                39.4 |          3.5 | SSE              |
-| 19:00  |            1.5 |      9.7 |            115.5 |                37.5 |          1.1 | NW               |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 00:27  | L      |         -0.6  |
-| 06:49  | H      |          5.9  |
-| 13:27  | L      |         -0.71 |
-| 19:25  | H      |          4.65 |
-
-It looks like there may be some longboardable waves for late week. Winds are currently expected to be light onshore with knee-thigh high surf. Swell angle is a bit direct for our area, but the right bar could be fun. I'd expect waves in the knee-thigh range or so at better sandbars.
-
-Notes: Could be fun on a longboard. Avoid high and low tide given the tide swing. Wave size drops through the day.
-
-Best board: Longboard
 
 ### Saturday 12/6
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.5 |      9.4 |            116.4 |                33.8 |          5.4 | WNW              |
-| 10:00  |            1.5 |      9.3 |            117.5 |                32.7 |          5.9 | W                |
-| 13:00  |            1.5 |      9.2 |            117.7 |                33.9 |          5.8 | W                |
-| 16:00  |            1.6 |      9.1 |            117.6 |                35.7 |          6.9 | W                |
-| 19:00  |            1.9 |      9   |            117.6 |                40.3 |          9.7 | WNW              |
+| 07:00  |            1.8 |      9.5 |            117.4 |                43   |          9.3 | NW               |
+| 10:00  |            1.8 |      9.4 |            117.9 |                41.7 |          7.2 | WNW              |
+| 13:00  |            1.9 |      9.2 |            119.3 |                42.7 |          9.1 | W                |
+| 16:00  |            2.3 |      8.8 |            121   |                48.6 |         13.7 | W                |
+| 19:00  |            2.7 |      8.2 |            125.4 |                47.5 |         15.7 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -95,22 +41,22 @@ Best board: Longboard
 | 14:15  | L      |         -0.7  |
 | 20:19  | H      |          4.56 |
 
-Looking pretty marginal at this point. There may be enough for the beginners in the afternoon on the tide push but I'd have low expectations.
+Looking pretty marginal through late afternoon. Wind is light-moderate offshore all day. I'd aim for end of day if looking to get a few.
 
-Note: Pretty flat
+Note: Not great. I'd aim for the incoming tide end of day. Most swell late.
 
-Best board: Longboard or skateboard
+Best board: Longboard
 
 
 ### Sunday 12/7
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.2 |      8.7 |            118.8 |                45.6 |         11.1 | NW               |
-| 10:00  |            2.1 |      8.6 |            118.4 |                40.8 |          9.4 | NNW              |
-| 13:00  |            1.9 |      8.5 |            117.7 |                36.2 |          5.4 | NNW              |
-| 16:00  |            1.9 |      8.5 |            115.8 |                35.8 |          3   | SE               |
-| 19:00  |            1.9 |      8.3 |            114.7 |                34.5 |          7.6 | S                |
+| 07:00  |            2.4 |      8.4 |            122.3 |                44.8 |         10.2 | NW               |
+| 10:00  |            2.2 |      8.5 |            120.7 |                42.1 |          9.8 | WNW              |
+| 13:00  |            2.1 |      8.3 |            118.6 |                38.1 |          9.4 | WSW              |
+| 16:00  |            2.1 |      8.2 |            116.9 |                37.8 |         12.6 | W                |
+| 19:00  |            2.2 |      8.4 |            114.3 |                41.9 |         13.3 | WSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -120,29 +66,59 @@ Best board: Longboard or skateboard
 | 15:09  | L      |         -0.58 |
 | 21:19  | H      |          4.42 |
 
-Too far out, but could again be fun on a longboard. Poorly timed high tide.
+Really annoying timing for the AM high tide. There is enough swell for some small longboard waves in the knee-thigh range, but I wouldn't expect anything to start breaking until around 10am at the earliest. Wind is offshore all day.
 
-Notes: This one could surprise to the upside but it's looking less likely. I'll update as we get closer.
+Notes: Aim for around noon and hope the swell sticks around.
+
+Best board: longboard
 
 ---
 
-## Looking Ahead
+## Week of 12/7-12/14
 
-The Outer Banks is looking interesting around 12/9 if you have the opportunity to head out of town.
+The Outer Banks is looking interesting around 12/7-12/9 if you have the opportunity to head out of town.
 
-I'm expecting a slow period of surf until ~12/11. The most recent model run looks more favorable for our region, but the vast majority of runs have shown a SW swell that would miss our region. The upside is that most of the model runs have been consistently showing a deepening of the trough around 12/10, so we're moving in the right direction. It's way too far out to have any confidence, but there's some signs that we could see a swell event around that time period.
+That setup for 12/10 looks like it's going to be working out, at least partially. We should see some surf from a interaction between a high pressure system in the central Atlantic with a low pressure system over the Great Lakes. The southward shift in the storm track didn't materialize the way the models had been showing earlier this month. Due to that, we're going to get another steep angled swell that is mostly aimed southwest.
 
-Looking out even further, there's further evidence that we will see a southward shift in the jetstream. This would be very positive for us as it would bring low pressure systems with it and into our swell window, rather than the current pattern keeping them too far north. More on that [here](/2025/12/04/Forecast-Note)
+We have a second, weaker low pressure system slated to move off the coast around 12/12 that should offer some reinforcing swell for Friday. The track of this low is a little better, in that it stays south of the Great Lakes, but there's no high pressure system to help develop fetch. I'd expect relatively soft, short period swell from this system.
+
+Following that second low, high pressure moves in from the Great Plains and surf goes flat until around 12/15 at the earliest. Take advantage of mid-late week.
+
+### Wednesday 12/10
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            3.9 |      6   |            190.5 |                15.8 |         18.8 | SW               |
+| 10:00  |            5.2 |      6   |            192.5 |                23   |         23.5 | SSW              |
+| 13:00  |            6.9 |      6.5 |            187.9 |                44.7 |         27.6 | SSW              |
+| 16:00  |            7.2 |      6.9 |            184.5 |                55.3 |         26.5 | SSW              |
+| 19:00  |            6.6 |      7.3 |            180   |                59.4 |         19.7 | WSW              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 04:57  | L      |          0.45 |
+| 11:25  | H      |          4.53 |
+| 17:45  | L      |          0.1  |
+
+Swell starts to come in from that low pressure system over the Great Lakes. We have strong south winds that will be too much for almost all breaks in the area. The timing of the low tide works out well for a late afternoon session.
+
+Wave heights are tough to call this far out. Given that we're looking at steep angled wind swell, I'd say this will be around stomach+ high or so.
+
+Notes: Sideshore wind during daylight hours. Timing is easier with less of a tide swing than last week.
+
+Best board: Early to call, but probably a groveler.
+
 
 ### Thursday 12/11
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.1 |      8   |            150.1 |                59.1 |         16.8 | W                |
-| 10:00  |            4.7 |      8   |            148.2 |                66.5 |         21   | W                |
-| 13:00  |            5.1 |      8.9 |            124.5 |                81.4 |         23.2 | WNW              |
-| 16:00  |            5.3 |      8.6 |            133.2 |                79.9 |         26.5 | NW               |
-| 19:00  |            5.3 |      8.5 |            134.5 |                78.3 |         24.5 | NW               |
+| 07:00  |            3.9 |      7   |            179.2 |                31   |         17.8 | WSW              |
+| 10:00  |            3.5 |      7.8 |            159.5 |                46.7 |         15.6 | W                |
+| 13:00  |            3.5 |      8.4 |            153.1 |                55.9 |         13.9 | WSW              |
+| 16:00  |            3.3 |      8.5 |            155.4 |                52.4 |          7.9 | W                |
+| 19:00  |            3   |      8.5 |            156.5 |                47.1 |          4.3 | SSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -152,8 +128,41 @@ Looking out even further, there's further evidence that we will see a southward 
 | 12:19  | H      |          4.24 |
 | 18:45  | L      |          0.27 |
 
-Here's hoping that stays the case.
+I'm hoping the wind forecast comes down a bit. Given the short period swell, it'd be better to see lighter winds. Best surf will be in the early AM on the incoming tide, but it's too early to get into wave height at this point. From what I'm looking at, waist-stomach high is a reasonable estimate.
 
+Notes: Conveniently timed low tide for the AM. Wind is forecasted to be pretty strong which isn't ideal. If the wind is as strong as forecasted, a bigger board will be the call.
+
+Best board: Longboard or (maybe) a groveler
+
+### Friday 12/12
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            5   |      7.4 |            165.6 |                53.7 |         19.2 | W                |
+| 10:00  |            4.8 |      7.6 |            166.6 |                54.4 |         21.1 | W                |
+| 13:00  |            4.5 |      7.8 |            164.5 |                55.8 |         21.1 | W                |
+| 16:00  |            4.2 |      7.9 |            165.4 |                52.8 |         20.5 | W                |
+| 19:00  |            3.9 |      8   |            165.8 |                50.3 |         21.7 | WNW              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 01:01  | H      |          4.17 |
+| 07:03  | L      |          0.81 |
+| 13:13  | H      |          3.98 |
+| 19:39  | L      |          0.36 |
+
+It's possible we see some reinforcing swell from another low pressure system expected to move off the coast 12/12. Swell should come in overnight on Thursday into Friday AM. This is another fast moving system, but it's a little better aimed at our area.
+
+Way too early to get into wave heights. Wind is likely to be offshore as the low pressure system passes our area and will probably be fairly strong.
+
+Notes: Check back later
+
+Best board: TBD
+
+### Saturday 12/13 - Sunday 12/14
+
+Flat
 
 ---
 
