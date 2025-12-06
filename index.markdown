@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/06/2025 11:30**
+**Last Update: 12/06/2025 10:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -86,6 +86,8 @@ Following that second low, high pressure moves in from the Great Plains and surf
 
 ### Wednesday 12/10
 
+See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
 | 07:00  |            3.9 |      6   |            190.5 |                15.8 |         18.8 | SW               |
@@ -112,6 +114,9 @@ Best board: Early to call, but probably a groveler.
 
 ### Thursday 12/11
 
+See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
+
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
 | 07:00  |            3.9 |      7   |            179.2 |                31   |         17.8 | WSW              |
@@ -135,6 +140,9 @@ Notes: Conveniently timed low tide for the AM. Wind is forecasted to be pretty s
 Best board: Longboard or (maybe) a groveler
 
 ### Friday 12/12
+
+See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
+
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
