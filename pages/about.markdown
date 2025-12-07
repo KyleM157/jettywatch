@@ -5,7 +5,7 @@ title: About
 
 This site aims to provide accurate forecasts for Monmouth County, New Jersey as well as information about board design, offshore coastal features, and occasional board reviews. Everything can be accessed via the NavBar at the top of the page.
 
-This website doesn't use any tracking features and respects your privacy. I don't know what other sites you have visited or where you go from here. I don't sell any information to outside sources and wouldn't have any information anyway. The downside is that I don't get any information about site usage. If you want to chat about what you like and don't like, you can reach me on my instagram account ([@jettywatchforecast](www.instagram.com/jettywatchforecast)).
+This website doesn't use any tracking features and respects your privacy. I don't know what other sites you have visited or where you go from here. I don't sell any information to outside sources and wouldn't have any information anyway. The downside is that I don't get any information about site usage. If you want to chat about what you like and don't like, you can reach me on my instagram account ([@jettywatchforecast](https://www.instagram.com/jettywatchforecast/)).
 
 Read below for an explanation of each page as well as some how-to-use information for the forecasts.
 

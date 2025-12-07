@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/06/2025 10:00**
+**Last Update: 12/07/2025 9:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -50,6 +50,8 @@ Best board: Longboard
 
 ### Sunday 12/7
 
+**Swell Outperformed Model Output**
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
 | 07:00  |            2.4 |      8.4 |            122.3 |                44.8 |         10.2 | NW               |
@@ -66,11 +68,11 @@ Best board: Longboard
 | 15:09  | L      |         -0.58 |
 | 21:19  | H      |          4.42 |
 
-Really annoying timing for the AM high tide. There is enough swell for some small longboard waves in the knee-thigh range, but I wouldn't expect anything to start breaking until around 10am at the earliest. Wind is offshore all day.
+Really annoying timing for the AM high tide. Our low pressure system was a lot stronger than expected and swell has outperformed the models. Actual swell on the buoy right now is ESE 3.3@10s. Wave heights will be in the stomach-chest high range once the tide backs down. Shape will be pretty walled at some-most sandbars.
 
-Notes: Aim for around noon and hope the swell sticks around.
+Notes: Swell overperformed. Look for a good bar and avoid the low tide.
 
-Best board: longboard
+Best board: Daily Driver
 
 ---
 
@@ -164,7 +166,7 @@ It's possible we see some reinforcing swell from another low pressure system exp
 
 Way too early to get into wave heights. Wind is likely to be offshore as the low pressure system passes our area and will probably be fairly strong.
 
-Notes: Check back later
+Notes: Check back later; Equally likely we see nothing from this
 
 Best board: TBD
 
