@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/07/2025 9:30**
+**Last Update: 12/07/2025 10:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -68,7 +68,7 @@ Best board: Longboard
 | 15:09  | L      |         -0.58 |
 | 21:19  | H      |          4.42 |
 
-Really annoying timing for the AM high tide. Our low pressure system was a lot stronger than expected and swell has outperformed the models. Actual swell on the buoy right now is ESE 3.3@10s. Wave heights will be in the stomach-chest high range once the tide backs down. Shape will be pretty walled at some-most sandbars.
+Really annoying timing for the AM high tide. Our low pressure system was a lot stronger than expected and swell has outperformed the models. Actual swell on the buoy right now is ESE 3.3@10s (model output for swell is currently 1.8ft@8.75s; way off). Wave heights will be in the stomach-chest high range once the tide backs down. Shape will be pretty walled at some-most sandbars.
 
 Notes: Swell overperformed. Look for a good bar and avoid the low tide.
 
@@ -92,11 +92,11 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.9 |      6   |            190.5 |                15.8 |         18.8 | SW               |
-| 10:00  |            5.2 |      6   |            192.5 |                23   |         23.5 | SSW              |
-| 13:00  |            6.9 |      6.5 |            187.9 |                44.7 |         27.6 | SSW              |
-| 16:00  |            7.2 |      6.9 |            184.5 |                55.3 |         26.5 | SSW              |
-| 19:00  |            6.6 |      7.3 |            180   |                59.4 |         19.7 | WSW              |
+| 07:00  |            3.7 |      6.5 |            188.7 |                19.6 |         16.3 | SW               |
+| 10:00  |            5.3 |      5.9 |            193.6 |                22.4 |         24.5 | SSW              |
+| 13:00  |            7.9 |      7   |            188.2 |                58.3 |         29.8 | SSW              |
+| 16:00  |            8.6 |      8   |            181.6 |                76.5 |         26.9 | SW               |
+| 19:00  |            7.5 |      8.4 |            176.6 |                78.2 |         23.9 | SW               |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -107,11 +107,11 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 Swell starts to come in from that low pressure system over the Great Lakes. We have strong south winds that will be too much for almost all breaks in the area. The timing of the low tide works out well for a late afternoon session.
 
-Wave heights are tough to call this far out. Given that we're looking at steep angled wind swell, I'd say this will be around stomach+ high or so.
+Model swell heights are still bouncing around some. This output is quite a bit stronger than the last few days, but it does seem to be trending stronger as we get closer. Take this with a grain of salt, but we might have some pretty fun surf for the afternoon.
 
-Notes: Sideshore wind during daylight hours. Timing is easier with less of a tide swing than last week.
+Notes: Sideshore wind during daylight hours. Timing is easier with less of a tide swing than last week. Depending on how this plays out, beginners should know their limits.
 
-Best board: Early to call, but probably a groveler.
+Best board: TBD
 
 
 ### Thursday 12/11
@@ -121,11 +121,11 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.9 |      7   |            179.2 |                31   |         17.8 | WSW              |
-| 10:00  |            3.5 |      7.8 |            159.5 |                46.7 |         15.6 | W                |
-| 13:00  |            3.5 |      8.4 |            153.1 |                55.9 |         13.9 | WSW              |
-| 16:00  |            3.3 |      8.5 |            155.4 |                52.4 |          7.9 | W                |
-| 19:00  |            3   |      8.5 |            156.5 |                47.1 |          4.3 | SSW              |
+| 07:00  |            4.7 |      8.5 |            171.6 |                61.7 |         19.4 | WNW              |
+| 10:00  |            3.8 |      8.6 |            169.9 |                53.6 |         15.6 | W                |
+| 13:00  |            3.6 |      8.4 |            168.1 |                49.3 |         19.4 | WNW              |
+| 16:00  |            3.2 |      8.1 |            171.5 |                39.2 |         17.4 | WNW              |
+| 19:00  |            2.6 |      7.8 |            169.2 |                29   |         14.9 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -137,14 +137,17 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 I'm hoping the wind forecast comes down a bit. Given the short period swell, it'd be better to see lighter winds. Best surf will be in the early AM on the incoming tide, but it's too early to get into wave height at this point. From what I'm looking at, waist-stomach high is a reasonable estimate.
 
-Notes: Conveniently timed low tide for the AM. Wind is forecasted to be pretty strong which isn't ideal. If the wind is as strong as forecasted, a bigger board will be the call.
+Update: Swell heights are trending larger. This could be a really fun day. Pretty much a choose your own adventure in terms of wave heights.
 
-Best board: Longboard or (maybe) a groveler
+Notes: Conveniently timed low tide for the AM. Wind is forecasted to be pretty strong which isn't ideal. If the wind is as strong as forecasted, a bigger board will be the call. Swell heights are still bouncing around, but this was a solid model run.
+
+Best board: TBD
 
 ### Friday 12/12
 
 See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
+**I've attached two model runs here to show variation in the outputs**
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
@@ -153,6 +156,14 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 | 13:00  |            4.5 |      7.8 |            164.5 |                55.8 |         21.1 | W                |
 | 16:00  |            4.2 |      7.9 |            165.4 |                52.8 |         20.5 | W                |
 | 19:00  |            3.9 |      8   |            165.8 |                50.3 |         21.7 | WNW              |
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            1.4 |      7.2 |            162.5 |                 8.2 |          5.8 | W                |
+| 10:00  |            1.3 |      7   |            163   |                 5.7 |          2.9 | W                |
+| 13:00  |            1.2 |      6.8 |            161.3 |                 4.8 |          0.6 | ENE              |
+| 16:00  |            1.2 |      6.7 |            159.7 |                 4.3 |          1.7 | ENE              |
+| 19:00  |            1.1 |      6.6 |            161.1 |                 3.2 |          4.9 | NNE              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -164,7 +175,7 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 It's possible we see some reinforcing swell from another low pressure system expected to move off the coast 12/12. Swell should come in overnight on Thursday into Friday AM. This is another fast moving system, but it's a little better aimed at our area.
 
-Way too early to get into wave heights. Wind is likely to be offshore as the low pressure system passes our area and will probably be fairly strong.
+Way different outputs from different models and model runs. Personally, I'd give this a pretty low probability of being a good day, but we could see something happen like 12/7, where we get an outperformance of the low pressure system relative to the model outputs. It's a pretty similar path. Personally, I'd expect ESE swell rather than SE swell, but there's a lot of time to dial this in.
 
 Notes: Check back later; Equally likely we see nothing from this
 
@@ -172,7 +183,9 @@ Best board: TBD
 
 ### Saturday 12/13 - Sunday 12/14
 
-Flat
+Flat. 
+
+Watch 12/15 for the next possible swell. Note that we're likely to have another steep south swell from a low over the Great Lakes.
 
 ---
 

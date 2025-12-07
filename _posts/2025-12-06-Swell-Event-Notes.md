@@ -7,6 +7,8 @@ title: Swell for the Second Week of December
 
 ---
 
+**Next expected update of this page will be 12/09**
+
 I *was* hoping to see a different pattern emerge where storm tracks would be further south rather than over the Great Lakes like we saw most of November. About a week ago, models were showing several runs where the jet stream was positioned over VA. Unfuortunately, it's looking like that isn't the case. Not that it was instantly going to be the pattern going forward, but it would have been a positive thing in a long stretch of poor surf.
 
 ## Moving On
@@ -42,6 +44,8 @@ I'd expect pretty mushy surf overall and plan on bringing a log or, at most, a g
 ## Friday 12/12
 
 Friday is still a big question mark right now. Models are showing different paths as well as different intensities for the next low pressure system approaching our area. Some of the tracks/intensities are decent and we could see some pretty fun, albeit short period, surf. It's too early given the lack of consensus to post swell heights, but I'll update this as soon as things start to look more consistent.
+
+Update (12/7): Model outputs are trending worse, but to my eye we could see something like today (12/7) where we get an outperforming ESE swell. It's way too early to call, but I give this a low probability.
 
 ## Looking Ahead
 
