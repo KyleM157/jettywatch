@@ -21,6 +21,8 @@ As you can see, the wind field is primarily from the southwest and therefore the
 
 ![20251210 Swell Period](/assets/images/period_2025-12-10_21.png)
 
+![20251210 Gif](/assets/images/2025-12-10_energy.gif)
+
 Most of the surfable swell will be near dark with swell peaking overnight. This is 4pm on 12/10. Monmouth should expect swell heights in the 6-8ft range and period to be around 8 seconds or so. Given that this is a steep angled south swell, our sandbars should fair pretty well, but I'd expect waves to be on the peaky side without too much room to run given the period. Wave heights are likely to be around shoulder high on average with some bigger sets.
 
 Although the surf will be pretty large, I wouldn't expect a ton of push. The period is still pretty short and the swell has to wrap in given the swell angle. It'll be soft relative to the size. Newer surfers should know their limits (haven't had to say that in a while!), but it should still be approachable for experienced-but-not-pro folks. Note that this is all assuming that the wind switches SW and you have some amount of south wind protection.
