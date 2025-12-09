@@ -5,7 +5,7 @@ title: Swell for the Second Week of December
 
 **Updated 12/09 09:30**
 
-## Moving On
+## The Set Up
 
 I'm seeing a very similar setup to what we saw last month, with a fairly strong low pressure system moving east over the Great Lakes and an area of high pressure over the central Atlantic. See below:
 
@@ -14,6 +14,8 @@ I'm seeing a very similar setup to what we saw last month, with a fairly strong 
 Courtesy of tropicaltidbits.com
 
 As you can see, the wind field is primarily from the southwest and therefore the swell will be too. This is due to the southeast portion of our low pressure system interacting with the west/northwest portion of our high pressure system. We will see some steep angled south windswell as it wraps into our region. Swell heights are period for the afternoon are shown below:
+
+## The Waves
 
 ![20251210 Swell Heights](/assets/images/swell_2025-12-10_21.png)
 
