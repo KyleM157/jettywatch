@@ -27,7 +27,7 @@ Most of the surfable swell will be near dark with swell peaking overnight. This 
 
 Although the surf will be pretty large, I wouldn't expect a ton of push. The period is still pretty short and the swell has to wrap in given the swell angle. It'll be soft relative to the size. Newer surfers should know their limits (haven't had to say that in a while!), but it should still be approachable for experienced-but-not-pro folks. Note that this is all assuming that the wind switches SW and you have some amount of south wind protection.
 
-The wind forecast is currently showing strong SSW winds (18kts+ w/ stronger gusts) for the afternoon, switching to more SW as we get closer to sunset. South wind protection will (most likely) be necessary if you're looking to get a few. I'd plan on surfing right before sunset/last light to make the most of it. High tide is mid-day, so that sets up a nice window late day on the dropping tide.
+The wind forecast is currently showing strong SSW winds (18kts+ w/ stronger gusts) for the afternoon, switching to more SW after sunset. South wind protection will be necessary if you're looking to get a few. I'd plan on surfing right before sunset/last light to make the most of it. High tide is mid-day, so that sets up a nice window late day on the dropping tide.
 
 ## Thursday 12/11
 
@@ -37,7 +37,7 @@ This is the best day of the week. Waves will be on the smaller side, but we have
 
 ![20251211 Period](/assets/images/period_2025-12-11_11.png)
 
-Swell heights for 6am are still in the 3-5 foot range, but I'd expect Monmouth County to see the lower end of that range. Period should be around 8 seconds for our south angled wind swell. Surf heights will most likely be around waist-stomach high on average (largest early) but I'd expect pretty soft surf, especially given the strong offshore winds (20kts+ or so).
+Swell heights for 6am are still in the 3-5 foot range, but I'd expect Monmouth County to see the lower end of that range. Period should be around 8-9 seconds for our south angled wind swell. Surf heights will most likely be around waist-stomach high on average (largest early) but I'd expect pretty soft surf, especially given the strong offshore winds (20kts+ or so).
 
 Waves will be mushy overall and I'd plan on bringing a log or, at most, a groveler. Light boards may struggle a bit given the amount of wind and lack of swell/lack of steepness to the swell. That said, it's still looking like a fun morning of waves.
 

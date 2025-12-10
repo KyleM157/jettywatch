@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/09/2025 09:30**
+**Last Update: 12/10/2025 09:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -28,11 +28,11 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            6   |      6.3 |            194   |                32.2 |         24.8 | SSW              |
-| 10:00  |            7.9 |      6.8 |            188.6 |                55.4 |         30.8 | SSW              |
-| 13:00  |            8.3 |      7.2 |            184.6 |                65.7 |         28   | SSW              |
-| 16:00  |            7.7 |      7.8 |            181   |                71.4 |         22   | SW               |
-| 19:00  |            7.1 |      8.1 |            180.8 |                71   |         24   | SW               |
+| 07:00  |            4.8 |      5.9 |            194.8 |                18.8 |         22.1 | SW               |
+| 10:00  |            6.3 |      6.2 |            195.2 |                32.5 |         27.6 | SSW              |
+| 13:00  |            8.4 |      7   |            187.9 |                61.1 |         31.8 | SSW              |
+| 16:00  |            8.4 |      7.5 |            186   |                68.1 |         28.8 | SSW              |
+| 19:00  |            7.2 |      7.8 |            180.6 |                68.3 |         22.4 | SW               |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -43,9 +43,9 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 Swell starts to come in from that low pressure system over the Great Lakes. We have strong south winds that will be too much for almost all breaks in the area. The timing of the low tide works out well for a late afternoon session if it comes together.
 
-Model swell heights are still bouncing around some. This output is quite a bit stronger than the last few days, but it does seem to be trending stronger as we get closer. Take this with a grain of salt, but we might have some pretty fun surf for the afternoon with wind being the limiting factor.
-
 Wave heights are likely to be around shoulder high on average with larger sets here and there.
+
+Update: Wind is expected to remain SSW longer than forecasted with the switch to SW happening around 6pm (last light is ~5pm).
 
 Notes: Sideshore wind during daylight hours. Timing is easier with less of a tide swing than last week. Beginners and newer surfers should know their limits.
 
@@ -60,11 +60,11 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            5.3 |      8.1 |            178.2 |                59.5 |         27.4 | WNW              |
-| 10:00  |            4.7 |      4.5 |            311.3 |                 0.1 |         22.5 | WNW              |
-| 13:00  |            4.5 |      4.4 |            294.4 |                 0   |         25.3 | W                |
-| 16:00  |            4.3 |      4.5 |            292   |                 0   |         24.6 | W                |
-| 19:00  |            4.6 |      4.5 |            275.5 |                 0   |         27.5 | W                |
+| 07:00  |            5   |      7.8 |            174.9 |                54.4 |         25.8 | WNW              |
+| 10:00  |            4.9 |      4.5 |            309.6 |                 0.1 |         26.1 | WNW              |
+| 13:00  |            4.6 |      4.5 |            313.2 |                 0.1 |         25   | WNW              |
+| 16:00  |            4.1 |      4.3 |            294.3 |                 0   |         24.4 | W                |
+| 19:00  |            4.4 |      4.5 |            287.8 |                 0   |         26.7 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -109,7 +109,7 @@ Flat.
 
 ### Sunday 12/14
 
-I'd check back to see if we get anything from a coastal low moving off North Carolina. Models aren't showing anything from this, but it's possible we get a short lived swell.
+I'd check back to see if we get anything from a coastal low moving off North Carolina. Models aren't showing anything from this, but it's possible we get a short lived swell. As of 12/10, it's looking like high pressure is moving in too closely behind this coastal low which is likely to block any swell we may have gotten from it. Essentially, we needed high pressure over the maritimes.
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -124,7 +124,7 @@ Notes: Probably flat
 
 ### Looking Ahead
 
-The next time period to watch is around 12/19. Models are showing a large high pressure system in the central atlantic that could generate some surf and a low pressure system that is too far north to generate swell, but large enough to potentially give us some offshore winds. It's too early for details, but it could be interesting. I'd expect at least some choppy surf from the high pressure system with unfavorable winds.
+The next time period to watch is around 12/19 for another (hopefully better directed) south swell.
 
 After that, there's a decent looking chart for around Christmas with what could be a Nor'easter and a fairly strong high over the Canadian Maritimes. That would be a really nice setup for our region if it comes to pass.
 
