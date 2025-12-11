@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/10/2025 09:30**
+**Last Update: 12/11/2025 10:00** (Next update will likely be 12/13)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -22,36 +22,6 @@ That setup for 12/10 looks like it's going to be working out, at least partially
 The only days worth watching this week are Wednesday/Thursday 12/10-12/11 and potentially 12/14.
 
 
-### Wednesday 12/10
-
-See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.8 |      5.9 |            194.8 |                18.8 |         22.1 | SW               |
-| 10:00  |            6.3 |      6.2 |            195.2 |                32.5 |         27.6 | SSW              |
-| 13:00  |            8.4 |      7   |            187.9 |                61.1 |         31.8 | SSW              |
-| 16:00  |            8.4 |      7.5 |            186   |                68.1 |         28.8 | SSW              |
-| 19:00  |            7.2 |      7.8 |            180.6 |                68.3 |         22.4 | SW               |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 04:57  | L      |          0.45 |
-| 11:25  | H      |          4.53 |
-| 17:45  | L      |          0.1  |
-
-Swell starts to come in from that low pressure system over the Great Lakes. We have strong south winds that will be too much for almost all breaks in the area. The timing of the low tide works out well for a late afternoon session if it comes together.
-
-Wave heights are likely to be around shoulder high on average with larger sets here and there.
-
-Update: Wind is expected to remain SSW longer than forecasted with the switch to SW happening around 6pm (last light is ~5pm).
-
-Notes: Sideshore wind during daylight hours. Timing is easier with less of a tide swing than last week. Beginners and newer surfers should know their limits.
-
-Best board: daily driver/shortboard
-
-
 ### Thursday 12/11
 
 See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
@@ -60,11 +30,11 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            5   |      7.8 |            174.9 |                54.4 |         25.8 | WNW              |
-| 10:00  |            4.9 |      4.5 |            309.6 |                 0.1 |         26.1 | WNW              |
-| 13:00  |            4.6 |      4.5 |            313.2 |                 0.1 |         25   | WNW              |
-| 16:00  |            4.1 |      4.3 |            294.3 |                 0   |         24.4 | W                |
-| 19:00  |            4.4 |      4.5 |            287.8 |                 0   |         26.7 | W                |
+| 07:00  |            5   |      4.5 |            306.8 |                 0.1 |         24.1 | WNW              |
+| 10:00  |            4.5 |      4.5 |            317.9 |                 0.2 |         23.4 | WNW              |
+| 13:00  |            4.1 |      4.4 |            306.7 |                 0   |         22.9 | WNW              |
+| 16:00  |            4   |      4.2 |            291.8 |                 0   |         25   | W                |
+| 19:00  |            4.2 |      4.4 |            278.4 |                 0   |         25.4 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -74,13 +44,11 @@ See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
 | 12:19  | H      |          4.24 |
 | 18:45  | L      |          0.27 |
 
-I'm hoping the wind forecast comes down a bit. Given the short period swell, it'd be better to see lighter winds. Best surf will be in the early AM on the incoming tide, but it's too early to get into wave height at this point. From what I'm looking at, waist-stomach high is a reasonable estimate with potentially larger surf in the early AM. Surf is expected to drop very quickly.
+Basically flat as of 9am. Certainly not worth dealing with the cold. Swell underperformed the models. Not that we were going to be seeing firing surf, but ~3'@8s south swell was the model output as of the 6z run of the GFS. Buoy readings were about half that at 1.6 ft. Is what it is. Just the year we're having.
 
-The swell table above is misleading. There will be some SE swell pretty much all day, but it gets unsurfably small (given the wind) by 1pm or so.
+Notes: Not much to say.
 
-Notes: Conveniently timed low tide for the AM. Wind is forecasted to be pretty strong which isn't ideal. If the wind is as strong as forecasted, a bigger board will be the call after early AM. Surf drops quickly.
-
-Best board: Groveler for the early AM and a longboard after.
+Best board: skateboard
 
 ### Friday 12/12
 
@@ -109,7 +77,7 @@ Flat.
 
 ### Sunday 12/14
 
-I'd check back to see if we get anything from a coastal low moving off North Carolina. Models aren't showing anything from this, but it's possible we get a short lived swell. As of 12/10, it's looking like high pressure is moving in too closely behind this coastal low which is likely to block any swell we may have gotten from it. Essentially, we needed high pressure over the maritimes.
+I'd check back to see if we get anything from a coastal low moving off North Carolina. Models aren't showing anything from this, but it's possible we get a short lived swell. As of 12/10, it's looking like high pressure is moving in too closely behind this coastal low which is likely to block any swell we may have gotten from it. Strong offshore winds will be an issue as well if this does work out.
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -118,24 +86,22 @@ I'd check back to see if we get anything from a coastal low moving off North Car
 | 14:55  | H      |          3.62 |
 | 21:09  | L      |          0.4  |
 
-Notes: Probably flat
+Notes: Probably flat. The GFS and Euro models are showing this system considerably differently with the Euro predicting a stronger low. There's more stacked against this than in favor of it, but there's a nonzero chance of surf. If it works out, the morning low-incoming tide looks like the best window.
 
 ---
 
 ### Looking Ahead
 
-The next time period to watch is around 12/19 for another (hopefully better directed) south swell.
+The next time period to watch is around 12/19 for another (hopefully better directed) south swell. This has been trending worse, unfortunately. If the trend holds, there won't be surf during this time period.
 
-After that, there's a decent looking chart for around Christmas with what could be a Nor'easter and a fairly strong high over the Canadian Maritimes. That would be a really nice setup for our region if it comes to pass.
+The end of the month looks pretty active but there's not much to get excited about. We could see a fun but small-moderately sized around 12/20 that could be a little bit better directed than this past swell. It's likely to be short period and will fade quickly. Following that, we could see some trade-wind-like swell around Christmas with light southerly sideshore winds.
+
+It's pretty depressing, honestly. January, statistically, is one of the slower months. We can get the occasional swell, but it's historically similar to June in terms of surfable days. That is to say, bad.
 
 
-
----
-
-Beach Cams (links to thesurfersview.com)
-[Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
+
 Current list of Surf Hazards
 [Surf Hazards](/pages/surf_hazards)
 
@@ -144,10 +110,27 @@ Current list of Surf Hazards
 Why Energy Percentile?
 [Energy Article](/2025/10/08/Energy-Not-Predictive)
 
+---
+
 ### Helpful Links
+
+[NOAA Atlantic Analysis](https://ocean.weather.gov/Atl_tab.php)
+
+#### Buoys
 
 [NOAA New York Harbor Entrance Buoy](https://www.ndbc.noaa.gov/station_page.php?station=44065)
 
+[Barnegat NJ Buoy](https://www.ndbc.noaa.gov/station_page.php?station=44091)
+
+#### Hurricane Analysis
+
 [NHS 7 Day Outlook](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7)
 
-[NOAA Atlantic Analysis](https://ocean.weather.gov/Atl_tab.php)
+[NHS Tropical Hazards Outlook](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghaz/index.php)
+
+
+#### Teleconnections
+
+[NAO](https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/nao.shtml)
+
+[ENSO Diagnostic Discussion](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
