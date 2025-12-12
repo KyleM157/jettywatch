@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/11/2025 10:00** (Next update will likely be 12/13)
+**Last Update: 12/12/2025 09:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -15,6 +15,8 @@ title: Monmouth County Surf Forecast
 
 ## Week of 12/7-12/14
 
+See my latest blog post for a more in depth forecast for 12/14 and 12/19: [here](/2025/12/12/Model-Divergence)
+
 The Outer Banks is looking interesting around 12/7-12/9 if you have the opportunity to head out of town.
 
 That setup for 12/10 looks like it's going to be working out, at least partially. We should see some surf from a interaction between a high pressure system in the central Atlantic with a low pressure system moving over the Great Lakes. The southward shift in the storm track didn't materialize the way the models had been showing earlier this month. Due to that, we're going to get another steep angled swell that is mostly aimed southwest.
@@ -22,45 +24,17 @@ That setup for 12/10 looks like it's going to be working out, at least partially
 The only days worth watching this week are Wednesday/Thursday 12/10-12/11 and potentially 12/14.
 
 
-### Thursday 12/11
-
-See the detailed forecast [here](/2025/12/06/Swell-Event-Notes)
-
-**Swell table is a bit misleading**
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            5   |      4.5 |            306.8 |                 0.1 |         24.1 | WNW              |
-| 10:00  |            4.5 |      4.5 |            317.9 |                 0.2 |         23.4 | WNW              |
-| 13:00  |            4.1 |      4.4 |            306.7 |                 0   |         22.9 | WNW              |
-| 16:00  |            4   |      4.2 |            291.8 |                 0   |         25   | W                |
-| 19:00  |            4.2 |      4.4 |            278.4 |                 0   |         25.4 | W                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 00:13  | H      |          4.18 |
-| 05:57  | L      |          0.7  |
-| 12:19  | H      |          4.24 |
-| 18:45  | L      |          0.27 |
-
-Basically flat as of 9am. Certainly not worth dealing with the cold. Swell underperformed the models. Not that we were going to be seeing firing surf, but ~3'@8s south swell was the model output as of the 6z run of the GFS. Buoy readings were about half that at 1.6 ft. Is what it is. Just the year we're having.
-
-Notes: Not much to say.
-
-Best board: skateboard
-
 ### Friday 12/12
 
 Flat. It looked like we might get something here a few model runs ago, but it's not looking like that'll be the case.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.4 |      4.2 |            270.2 |                   0 |         19.3 | W                |
-| 10:00  |            2.4 |      3.7 |            271.7 |                   0 |         15.1 | W                |
-| 13:00  |            2   |      3.2 |            261.2 |                   0 |         14.6 | W                |
-| 16:00  |            1.7 |      3.1 |            259   |                   0 |         12.8 | W                |
-| 19:00  |            1.4 |      2.9 |            251.4 |                   0 |         11.6 | WSW              |
+| 07:00  |            3.4 |      4.2 |            298.4 |                   0 |         21.6 | WNW              |
+| 10:00  |            2.9 |      4   |            293.6 |                   0 |         18.7 | WNW              |
+| 13:00  |            2.8 |      3.9 |            297.7 |                   0 |         18.9 | WNW              |
+| 16:00  |            2.4 |      3.7 |            295   |                   0 |         17   | WNW              |
+| 19:00  |            2.1 |      3.5 |            286.5 |                   0 |         15.3 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -77,6 +51,8 @@ Flat.
 
 ### Sunday 12/14
 
+Check out my [model divergence](/2025/12/12/Model-Divergence) for a more in depth forecast.
+
 I'd check back to see if we get anything from a coastal low moving off North Carolina. Models aren't showing anything from this, but it's possible we get a short lived swell. As of 12/10, it's looking like high pressure is moving in too closely behind this coastal low which is likely to block any swell we may have gotten from it. Strong offshore winds will be an issue as well if this does work out.
 
 | Time   | Tide   |   Height (ft) |
@@ -92,7 +68,7 @@ Notes: Probably flat. The GFS and Euro models are showing this system considerab
 
 ### Looking Ahead
 
-The next time period to watch is around 12/19 for another (hopefully better directed) south swell. This has been trending worse, unfortunately. If the trend holds, there won't be surf during this time period.
+The next time period to watch is around 12/19 for another (hopefully better directed) south swell. This has been trending worse, unfortunately. If the trend holds, there won't be surf during this time period. See my post [here](/2025/12/12/Model-Divergence) for more information.
 
 The end of the month looks pretty active but there's not much to get excited about. We could see a fun but small-moderately sized around 12/20 that could be a little bit better directed than this past swell. It's likely to be short period and will fade quickly. Following that, we could see some trade-wind-like swell around Christmas with light southerly sideshore winds.
 
