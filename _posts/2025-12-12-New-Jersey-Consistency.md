@@ -15,7 +15,7 @@ Here's the plot of percentage of days by wave height per month. In order to get 
 
 Let's call a surfable day anthing equal to, or above, waist high. This corresponds to anything not flat in the above chart. So, subtracting the value for flat from 1.0 yields the percentage of days that should be large enough to surf. Let's look at that chart:
 
-![PercentageOfSurfableDays](/assets/images/pct_surfable.jpeg)
+![PercentageOfSurfableDays](/assets/images/pct_surfable2.jpeg)
 
 Before breaking into the discussion portion of this here blog post, it's important to note that this doesn't include wind (it could be blown out), daylight hours (could eb dark), or tide heights (could be swamped). It's just the theoretical max percentage of surfable days.
 

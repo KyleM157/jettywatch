@@ -5,13 +5,15 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/12/2025 09:00**
+**Last Update: 12/13/2025 13:45**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
 **Scroll to the right for more information in the below tables**
+
+Does this year suck? Check out how it compares to past years [here](/2025/12/12/New-Jersey-Consistency)
 
 ## Week of 12/7-12/14
 
