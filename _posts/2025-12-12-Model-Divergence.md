@@ -21,7 +21,7 @@ Courtesy of tropicaltidbits.com
 
 I used the MSLP anomaly charts here rather than surface wind because it's a little bit easier to see what's going on (in my opinion). Starting with the first plot, this is the GFS surface anomaly chart, where you can see two large areas of high pressure (red) over the Mid-West and Central Atlantic. Between these areas of high pressure is a weak area of low pressure (blue). I added red arrows to show wind direction. The second chart is the ECMWF model and shows a similar setup, but one where the area of low pressure is much better developed (although still weak).
 
-This area of low pressure is expected to move off the North Carolina coast and track northeast (and give us snow). Currently, no model is suggesting we see swellf from this system. If the wind field is as the models describe it currently, we won't. However, this isn't all that dissimilar of a scenario compared to what we saw Sunday 12/7. I think there is a lower probability of decent surf from this system, but there is a chance that we see some waves. That said, it would be very short lived due to that giant area of high pressure moving in swiftly behind it.
+This area of low pressure is expected to move off the North Carolina coast and track northeast (and give us snow). Currently, no model is suggesting we see swellf from this system. If the wind field is as the models describe it currently, we won't. I think there is a lower probability of decent surf from this system, but there is a chance that we see some waves. That said, it would be very short lived due to that giant area of high pressure moving in swiftly behind it.
 
 ## Looking at 12/19
 
@@ -37,7 +37,7 @@ ECMWF Model. Courtesy of tropicaltidbits.com
 
 For these, I went back to the wind charts as theyshow the situation clearly enough. Here we have two completely different versions of events for 12/19. The GFS model run shows a scenario with no swell and relatively minor impacts to our area from a somewhat weak area of low pressure over the Great Lakes (too far North) and a somewhat strong but too far south area of high pressure off South Carolina. Again, this is a bad scenario.
 
-The Euro is showing a much more fruitful scenario, with a powerful low pressure system far north of the Great Lakes interacting with a large High Pressure system southeast of the Maritimes. We can seee a fairly large fetch of S-SSW winds that would generate some decent, likely mid-period swell for our region.
+The Euro is showing a much more fruitful scenario, with a powerful low pressure system far north of the Great Lakes interacting with a large High Pressure system southeast of the Maritimes. We can see a fairly large fetch of S-SSW winds that would generate some decent, likely mid-period swell for our region.
 
 Early runs of the GFS look more like current runs of the ECMWF. Hopefully that's the case.
 
