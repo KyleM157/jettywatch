@@ -49,19 +49,42 @@ Notes: 99% chance of being flat.
 
 ## Week of 12/15-12/21
 
-### Monday 12/15 - Tuesday 12/16
+### Monday 12/15
 
 Flat
+
+### Tuesday 12/16
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            2   |      3.1 |            272.9 |                 0   |         14.1 | WNW              |
+| 10:00  |            1.9 |      3   |            284.3 |                 0   |         12.8 | WNW              |
+| 13:00  |            1.6 |      5   |            197.9 |                 0.4 |         10.6 | W                |
+| 16:00  |            1.5 |      5.1 |            196.4 |                 0.4 |         10   | WSW              |
+| 19:00  |            1.7 |     10.8 |            124.5 |                51.5 |         11.8 | WSW              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 04:25  | H      |          4.5  |
+| 10:39  | L      |          0.36 |
+| 16:43  | H      |          3.61 |
+| 22:33  | L      |          0.35 |
+
+I'm not expecting much swell here, but there could be something in the afternoon.
+
+Notes: High probability of being flat.
+
 
 ### Wednesday 12/17
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.9 |      5.1 |            198.1 |                 6   |         19.6 | SW               |
-| 10:00  |            4.6 |      5.6 |            193.6 |                15.5 |         20.9 | SW               |
-| 13:00  |            4.7 |      6.3 |            185.2 |                26.6 |         18.6 | SW               |
-| 16:00  |            4.4 |      6.7 |            181.9 |                32   |         18.5 | WSW              |
-| 19:00  |            4.1 |      6.9 |            182.4 |                31.5 |         17.7 | WSW              |
+| 07:00  |            3.7 |      5   |            194.6 |                 5.7 |         19.8 | SW               |
+| 10:00  |            4.3 |      5.5 |            188.6 |                13.9 |         20.9 | SW               |
+| 13:00  |            4.3 |      6.1 |            184.9 |                21.2 |         17.7 | WSW              |
+| 16:00  |            4.3 |      6.5 |            182.3 |                27.7 |         19.2 | WSW              |
+| 19:00  |            3.9 |      6.8 |            179.6 |                29.6 |         16.3 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -77,11 +100,11 @@ Basically flat
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.4 |      6.9 |            182.2 |                12.5 |          7.5 | N                |
-| 10:00  |            2.1 |      6.8 |            180.6 |                 9.3 |          6.6 | E                |
-| 13:00  |            2.2 |      6.5 |            182.8 |                 8   |         13.7 | SSE              |
-| 16:00  |            2.9 |      3.7 |            160.6 |                 1.9 |         16.7 | SSE              |
-| 19:00  |            3.6 |      4.5 |            169.6 |                 7   |         17.6 | S                |
+| 07:00  |            2.2 |      6.7 |            179   |                10.3 |          7.3 | S                |
+| 10:00  |            2   |      6.4 |            181.5 |                 6.7 |          7.5 | SSE              |
+| 13:00  |            2.1 |      6.1 |            182.6 |                 5.7 |         11.8 | SSE              |
+| 16:00  |            2.8 |      3.8 |            168.2 |                 1.4 |         16.1 | S                |
+| 19:00  |            3.5 |      4.6 |            171.4 |                 6.7 |         19.9 | S                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -101,11 +124,11 @@ See my post [here](/2025/12/12/Model-Divergence) for more information.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            6.5 |      7.9 |            174.8 |                68   |         20.2 | W                |
-| 10:00  |            5.7 |      8.2 |            170.9 |                67.5 |         21.8 | W                |
-| 13:00  |            5.2 |      8.1 |            174.6 |                60.3 |         22.1 | W                |
-| 16:00  |            4.8 |      7.8 |            173.2 |                54   |         23.8 | WNW              |
-| 19:00  |            4.9 |      4.3 |            286.6 |                 0   |         24   | WNW              |
+| 07:00  |           11.7 |      8.9 |            161.7 |                94.6 |         35.7 | SW               |
+| 10:00  |            8.2 |      9.2 |            156.8 |                90.5 |         17.2 | W                |
+| 13:00  |            7.3 |      9.2 |            151.1 |                89.2 |         28.4 | W                |
+| 16:00  |            7.4 |      9.4 |            143.4 |                91.5 |         31.7 | WNW              |
+| 19:00  |            6.9 |      9.5 |            144.2 |                90.3 |         29.3 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -114,9 +137,11 @@ See my post [here](/2025/12/12/Model-Divergence) for more information.
 | 12:45  | L      |         -0.01 |
 | 18:49  | H      |          3.74 |
 
-This is a day worth watching. Models have been pretty all over the place, so I'll call this a mid-probability swell event. The last few GFS runs are closer to where the ECMWF model has been, which is positive. If this comes to pass, it'll be way better directed towards our region, but it's still unlikely to be a strong swell event and it will likely fade quickly.
+This is a day worth watching. Models have been pretty all over the place, so I'll call this a mid-probability swell event. The last few GFS runs are closer to where the ECMWF model has been, which is positive. If this comes to pass, it'll be way better directed towards our region.
 
-Notes: Another short period swell event that is likely to fade quickly. The swell direction is better than what we've been seeing but offshores are likely to be quite strong. Entirely possible this just doesn't happen.
+Update: All the sudden this is looking pretty strong. I'd take the swell numbers with a grain of salt, but that's a good looking table. I'll be looking to post an in depth forecast in the next couple of days once model runs settle a bit. This one could be fun.
+
+Notes: Another short period swell event that is likely to fade quickly. The swell direction is better than what we've been seeing but offshores are likely to be quite strong. Entirely possible this just doesn't happen, but it's looking more likely by the day.
 
 Best board: TBD
 
@@ -124,11 +149,11 @@ Best board: TBD
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.2 |      7.4 |            170.9 |                17.3 |          6.3 | WNW              |
-| 10:00  |            1.7 |      7   |            174.8 |                 7.8 |          4.2 | WSW              |
-| 13:00  |            1.6 |      6.8 |            174.3 |                 6.3 |         12.3 | SSW              |
-| 16:00  |            2.5 |      3.3 |            194.7 |                 0.1 |         19.3 | SSW              |
-| 19:00  |            3.6 |      4.5 |            191.1 |                 3.5 |         20.1 | SSW              |
+| 07:00  |            3.4 |      8.8 |            142.8 |                62.1 |         14   | NNW              |
+| 10:00  |            2.6 |      9.1 |            140.6 |                52.3 |          6.1 | NNW              |
+| 13:00  |            2.3 |      9.2 |            137.1 |                48   |          7.2 | S                |
+| 16:00  |            2.3 |      9   |            133.1 |                46.5 |         13.5 | S                |
+| 19:00  |            2.8 |      8.7 |            138.6 |                52.7 |         17.9 | SSW              |
 
 
 
@@ -139,9 +164,9 @@ Best board: TBD
 | 13:27  | L      |         -0.07 |
 | 19:31  | H      |          3.71 |
 
-Possible leftovers, but based on what I'm seeing currently (which could change) I wouldn't expect anthing.
+Possible leftovers. Model runs are too inconsistent to make any concrete statemnent, but if model heights trend up for Friday, the likelihood of leftovers trends up for Saturday.
 
-Notes: Unlikely to have waves
+Notes: This is likely to change, but it's a lot better than the last few model runs.
 
 Best board: TBD
 
@@ -149,11 +174,11 @@ Best board: TBD
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            7.1 |      6.7 |            176.3 |                56.2 |         27.2 | SSW              |
-| 10:00  |            7.7 |      7.2 |            175.9 |                66.7 |         27.3 | SW               |
-| 13:00  |            5.8 |      7.4 |            173.7 |                57.8 |         22.1 | NNW              |
-| 16:00  |            5.4 |      7.5 |            172.9 |                56.3 |         25   | NNW              |
-| 19:00  |            4.6 |      7.3 |            169.6 |                47.9 |         19.8 | NW               |
+| 07:00  |            5.2 |      6.2 |            179.4 |                33   |         19.3 | SW               |
+| 10:00  |            4.6 |      6.5 |            170   |                36.4 |         16.1 | SW               |
+| 13:00  |            3.9 |      6.6 |            166.3 |                31.5 |         12.3 | W                |
+| 16:00  |            3.4 |      6.6 |            164.2 |                27   |         10.8 | WSW              |
+| 19:00  |            3.1 |      6.5 |            162.7 |                23.6 |         12.3 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -163,14 +188,13 @@ Best board: TBD
 | 14:09  | L      |         -0.1  |
 | 20:07  | H      |          3.67 |
 
-Another swell is possible around this time. 
+Another swell is possible around this time. Check back as we get closer.
 
 ---
 
 ## Looking Ahead
 
-The end of the month looks pretty active but there's not much to get excited about. We could see a fun but small-moderately sized around 12/20 that could be a little bit better directed than this past swell. It's likely to be short period and will fade quickly. Following that, we could see some trade-wind-like swell around Christmas with light southerly sideshore winds.
-
+The end of the month looks pretty active but model runs have been very inconsistent. I'd expect some surf around Christmas or in the following days.
 ---
 
 Current list of Surf Hazards
