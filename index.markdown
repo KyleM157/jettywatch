@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/15/2025 10:15**
+**Last Update: 12/16/2025 09:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -121,9 +121,9 @@ All of the sudden this is looking pretty strong. I'd take the swell numbers with
 
 Timing of the wind switch is going to be important. Wave heights if this comes to pass will be solidly overhead in the AM and head high or so late day. The number are expected to bounce around a little bit.
 
-Notes: I wouldn't expect this to be user friendly, but it's looking really fun. Newer surfers should use caution.
+Notes: I wouldn't expect this to be user friendly, but it's looking really fun. Newer surfers should know their limits. Not looking like a day for novice surfers.
 
-Best board: TBD
+Best board: HPSB/Barrel board
 
 ### Saturday 12/20
 
@@ -149,7 +149,7 @@ Wave heights if something like this were to occur would be in the chest high ran
 
 Notes: This is likely to change, but it's been trending better. This would be really fun if it holds. Not the best timing on the high tide, but it's not a particularly high high-tide.
 
-Best board: TBD
+Best board: Most boards will work
 
 ### Sunday 12/21
 
@@ -161,6 +161,7 @@ Best board: TBD
 | 16:00  |            3.8 |      7.2 |            162.7 |                41.1 |         17   | W                |
 | 19:00  |            3.8 |      7.1 |            170.1 |                36   |         21.5 | WNW              |
 
+
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
 | 01:21  | L      |          0.32 |
@@ -169,6 +170,10 @@ Best board: TBD
 | 20:07  | H      |          3.67 |
 
 Another swell is possible around this time. Check back as we get closer. This one will be short lived if it occurs.
+
+Notes: Swell numbers are bouncing around a bit. Any change in the track of the low pressure system will have a big impact on the amount of surf we see.
+
+Best board: Longboard
 
 ---
 
