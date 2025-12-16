@@ -26,19 +26,16 @@ It's looking likely we then see another short lived, steep south, swell for Sund
 
 I'm optimistic about the next couple of weeks.
 
-### Monday 12/15
-
-Flat
 
 ### Tuesday 12/16
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2   |      3.3 |            260.1 |                 0   |         13.8 | WNW              |
-| 10:00  |            1.9 |      3   |            280.1 |                 0   |         13.5 | WNW              |
-| 13:00  |            1.6 |      4.9 |            199.7 |                 0.4 |          9.3 | W                |
-| 16:00  |            1.5 |     10.7 |            125.6 |                45.7 |         11.8 | WSW              |
-| 19:00  |            1.9 |     10.8 |            125.4 |                56.3 |         14.5 | WSW              |
+| 07:00  |            1.5 |     10.5 |            122   |                44.6 |          9.9 | W                |
+| 10:00  |            1.2 |     10.5 |            122.6 |                34   |          7.5 | W                |
+| 13:00  |            1.2 |     10.3 |            124.8 |                31.3 |          7.1 | W                |
+| 16:00  |            1.3 |     10.7 |            126   |                40.3 |         11.2 | WSW              |
+| 19:00  |            1.7 |     10.8 |            125.8 |                51   |         12.5 | WSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -48,9 +45,9 @@ Flat
 | 16:43  | H      |          3.61 |
 | 22:33  | L      |          0.35 |
 
-I'm not expecting much swell here, but there could be something in the afternoon. It's looking kike anything surfable is coming in right around end of daylight hours.
+I'm not expecting much swell here, but there could be something in the afternoon. It's looking like anything surfable is coming in right around end of daylight hours.
 
-Notes: High probability of being flat during the day. There could be something around sunset.
+Notes: Could have some small longboard waves available. Low expectations.
 
 Best board: Longboard
 
@@ -59,11 +56,11 @@ Best board: Longboard
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.7 |      5   |            194.6 |                 5.7 |         19.8 | SW               |
-| 10:00  |            4.3 |      5.5 |            188.6 |                13.9 |         20.9 | SW               |
-| 13:00  |            4.3 |      6.1 |            184.9 |                21.2 |         17.7 | WSW              |
-| 16:00  |            4.3 |      6.5 |            182.3 |                27.7 |         19.2 | WSW              |
-| 19:00  |            3.9 |      6.8 |            179.6 |                29.6 |         16.3 | W                |
+| 07:00  |            4   |      4.9 |            198.4 |                 5.5 |         20.9 | SW               |
+| 10:00  |            4.7 |      5.7 |            192.7 |                16.8 |         20.1 | SW               |
+| 13:00  |            4.7 |      6.4 |            183.1 |                29.4 |         18   | WSW              |
+| 16:00  |            4.7 |      6.8 |            180.1 |                36.1 |         20.8 | WSW              |
+| 19:00  |            4.4 |      7.1 |            181.6 |                35.7 |         18.2 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -73,9 +70,9 @@ Best board: Longboard
 | 17:31  | H      |          3.67 |
 | 23:15  | L      |          0.32 |
 
-Could be worth checking around 8:30am or so. I wouldn't expect much, but there could be some longboard waves on the dropping tide at the right spot.
+Could be worth checking around 8:30am or so. I wouldn't expect much, but there could be some longboard waves on the evening dropping tide at the right spot.
 
-Notes: South wind protection required.
+Notes: Winds a little strong for the amount of push on offer.
 
 Best board: longboard
 
@@ -83,11 +80,11 @@ Best board: longboard
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.2 |      6.9 |            181.8 |                11.1 |          2.1 | SSE              |
-| 10:00  |            2.1 |      6.6 |            183.2 |                 7.7 |         11.3 | SSE              |
-| 13:00  |            2.3 |      6.3 |            181.4 |                 7.9 |         11.3 | S                |
-| 16:00  |            2.5 |      6   |            181.5 |                 8   |         13.5 | SSE              |
-| 19:00  |            3   |      4.6 |            167.6 |                 5.2 |         15.4 | SSE              |
+| 07:00  |            2.1 |      6.7 |            181.9 |                 8.9 |          4.5 | SSE              |
+| 10:00  |            2.2 |      6.4 |            183.7 |                 7.7 |         12.5 | S                |
+| 13:00  |            2.3 |      6.2 |            180.6 |                 7.8 |          8.4 | S                |
+| 16:00  |            2.3 |      6   |            181.2 |                 6.9 |         11.4 | SSE              |
+| 19:00  |            2.7 |      4   |            165.3 |                 2   |         13.9 | S                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -107,11 +104,11 @@ See my post [here](/2025/12/12/Model-Divergence) for more information.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |           12.2 |      8.1 |            160.6 |                92.5 |         43.5 | S                |
-| 10:00  |            9.9 |      8.8 |            156.3 |                92.5 |         27   | WSW              |
-| 13:00  |            8.2 |      9.5 |            145.1 |                93.3 |         21.7 | W                |
-| 16:00  |            7.9 |      9.9 |            142.7 |                94   |         27.9 | W                |
-| 19:00  |            8   |     10.2 |            140.1 |                95.2 |         32.5 | W                |
+| 07:00  |           10.6 |      8.2 |            160.7 |                90.4 |         31.1 | S                |
+| 10:00  |            9.3 |      8.3 |            158.4 |                88.8 |         24.9 | SSW              |
+| 13:00  |            7.9 |      9.4 |            145.5 |                92.2 |         19.8 | W                |
+| 16:00  |            7.4 |      9.6 |            144.5 |                91.9 |         19.8 | W                |
+| 19:00  |            7.7 |     10   |            142.4 |                94.3 |         33.3 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -132,12 +129,11 @@ Best board: TBD
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.9 |     10   |            138.5 |                85.3 |         21.6 | WNW              |
-| 10:00  |            3.9 |      9.8 |            140.4 |                76.9 |         13.3 | NW               |
-| 13:00  |            3.1 |      9.6 |            138.9 |                66.4 |          7.3 | WSW              |
-| 16:00  |            2.8 |      9.4 |            137.2 |                60.9 |          9.4 | SSW              |
-| 19:00  |            3   |      9.2 |            140.5 |                60.5 |         16.8 | SSW              |
-
+| 07:00  |            4.5 |      9.7 |            143.9 |                80.2 |         19.9 | WNW              |
+| 10:00  |            3.9 |      9.5 |            141.8 |                73.5 |         15.2 | WNW              |
+| 13:00  |            3   |      9.3 |            144.4 |                59.8 |          7.7 | WSW              |
+| 16:00  |            2.6 |      9.2 |            142.7 |                53.8 |         10.3 | SW               |
+| 19:00  |            2.9 |      9.1 |            140.8 |                57.3 |         16.5 | SSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -159,12 +155,11 @@ Best board: TBD
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            6.4 |      6.4 |            183.4 |                43.3 |         24.6 | SSW              |
-| 10:00  |            5.9 |      6.9 |            175.7 |                51.1 |         20.4 | SW               |
-| 13:00  |            4.9 |      7.4 |            164.7 |                53.1 |         15.6 | WSW              |
-| 16:00  |            4.2 |      7.3 |            162.6 |                46.4 |         14.1 | W                |
-| 19:00  |            3.7 |      7.2 |            159.3 |                40.4 |         15.3 | W                |
-
+| 07:00  |            4.9 |      6.6 |            180.2 |                36   |         17.3 | SW               |
+| 10:00  |            4.4 |      7.1 |            173.1 |                40.5 |         14.3 | WSW              |
+| 13:00  |            4   |      7.3 |            164.2 |                43.4 |         15.3 | W                |
+| 16:00  |            3.8 |      7.2 |            162.7 |                41.1 |         17   | W                |
+| 19:00  |            3.8 |      7.1 |            170.1 |                36   |         21.5 | WNW              |
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
