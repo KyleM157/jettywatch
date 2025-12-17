@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/16/2025 09:30**
+**Last Update: 12/17/2025 13:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -27,40 +27,17 @@ It's looking likely we then see another short lived, steep south, swell for Sund
 I'm optimistic about the next couple of weeks.
 
 
-### Tuesday 12/16
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.5 |     10.5 |            122   |                44.6 |          9.9 | W                |
-| 10:00  |            1.2 |     10.5 |            122.6 |                34   |          7.5 | W                |
-| 13:00  |            1.2 |     10.3 |            124.8 |                31.3 |          7.1 | W                |
-| 16:00  |            1.3 |     10.7 |            126   |                40.3 |         11.2 | WSW              |
-| 19:00  |            1.7 |     10.8 |            125.8 |                51   |         12.5 | WSW              |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 04:25  | H      |          4.5  |
-| 10:39  | L      |          0.36 |
-| 16:43  | H      |          3.61 |
-| 22:33  | L      |          0.35 |
-
-I'm not expecting much swell here, but there could be something in the afternoon. It's looking like anything surfable is coming in right around end of daylight hours.
-
-Notes: Could have some small longboard waves available. Low expectations.
-
-Best board: Longboard
 
 
 ### Wednesday 12/17
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4   |      4.9 |            198.4 |                 5.5 |         20.9 | SW               |
-| 10:00  |            4.7 |      5.7 |            192.7 |                16.8 |         20.1 | SW               |
-| 13:00  |            4.7 |      6.4 |            183.1 |                29.4 |         18   | WSW              |
-| 16:00  |            4.7 |      6.8 |            180.1 |                36.1 |         20.8 | WSW              |
-| 19:00  |            4.4 |      7.1 |            181.6 |                35.7 |         18.2 | W                |
+| 07:00  |            3.1 |      4.1 |            198.3 |                 1   |         21.4 | SW               |
+| 10:00  |            3.9 |      4.9 |            191.4 |                 6.5 |         20.7 | SW               |
+| 13:00  |            3.9 |      5.3 |            186.5 |                10.9 |         19.9 | SW               |
+| 16:00  |            3.9 |      5.7 |            182.7 |                15.5 |         18.8 | WSW              |
+| 19:00  |            3.5 |      6.1 |            181   |                17.4 |         16.8 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -70,9 +47,9 @@ Best board: Longboard
 | 17:31  | H      |          3.67 |
 | 23:15  | L      |          0.32 |
 
-Could be worth checking around 8:30am or so. I wouldn't expect much, but there could be some longboard waves on the evening dropping tide at the right spot.
+Could be worth checking around 8:30am or so. I wouldn't expect much, but there could be some longboard waves on the evening dropping tide at the right spot. This trended down pretty significantly.
 
-Notes: Winds a little strong for the amount of push on offer.
+Notes: Winds a little strong for the amount of push on offer. Basically flat.
 
 Best board: longboard
 
@@ -80,11 +57,11 @@ Best board: longboard
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.1 |      6.7 |            181.9 |                 8.9 |          4.5 | SSE              |
-| 10:00  |            2.2 |      6.4 |            183.7 |                 7.7 |         12.5 | S                |
-| 13:00  |            2.3 |      6.2 |            180.6 |                 7.8 |          8.4 | S                |
-| 16:00  |            2.3 |      6   |            181.2 |                 6.9 |         11.4 | SSE              |
-| 19:00  |            2.7 |      4   |            165.3 |                 2   |         13.9 | S                |
+| 07:00  |            1.8 |      9.1 |            134.6 |                38.4 |          4.8 | ESE              |
+| 10:00  |            1.9 |      9.1 |            133   |                39   |          9.7 | SSE              |
+| 13:00  |            2   |      9.1 |            131.1 |                42.6 |         10.8 | SSE              |
+| 16:00  |            2.3 |      9.2 |            129.5 |                50.8 |         12.8 | SSE              |
+| 19:00  |            2.9 |      4.2 |            160   |                 3.3 |         15   | S                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -104,11 +81,11 @@ See my post [here](/2025/12/12/Model-Divergence) for more information.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |           10.6 |      8.2 |            160.7 |                90.4 |         31.1 | S                |
-| 10:00  |            9.3 |      8.3 |            158.4 |                88.8 |         24.9 | SSW              |
-| 13:00  |            7.9 |      9.4 |            145.5 |                92.2 |         19.8 | W                |
-| 16:00  |            7.4 |      9.6 |            144.5 |                91.9 |         19.8 | W                |
-| 19:00  |            7.7 |     10   |            142.4 |                94.3 |         33.3 | W                |
+| 07:00  |           10.1 |      7.8 |            160.7 |                87   |         32.4 | S                |
+| 10:00  |           10.2 |      8.6 |            159.2 |                92   |         28.2 | SSW              |
+| 13:00  |            8   |      9.1 |            151   |                90.5 |         14.8 | WSW              |
+| 16:00  |            7.7 |      9.6 |            142.9 |                93   |         30.8 | W                |
+| 19:00  |            7.9 |      9.9 |            143.9 |                94.2 |         34.8 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -117,11 +94,11 @@ See my post [here](/2025/12/12/Model-Divergence) for more information.
 | 12:45  | L      |         -0.01 |
 | 18:49  | H      |          3.74 |
 
-All of the sudden this is looking pretty strong. I'd take the swell numbers with a grain of salt, but that's a good looking table. I'll be looking to post an in depth forecast in the next couple of days once model runs settle a bit. This one could be fun.
+Model run after model run is showing powerful surf. The next question is going to be about the wind switch and when to expect it. Currently, the afternoon-evening session is looking the most approachable for most breaks.
 
-Timing of the wind switch is going to be important. Wave heights if this comes to pass will be solidly overhead in the AM and head high or so late day. The number are expected to bounce around a little bit.
+Wave heights will be solidly overhead all day if the past few model runs hold. This is one for the advanced to expert surfers and conditions won't be user friendly. Expect strong currents and blind takeoffs.
 
-Notes: I wouldn't expect this to be user friendly, but it's looking really fun. Newer surfers should know their limits. Not looking like a day for novice surfers.
+Notes: Know your limits.
 
 Best board: HPSB/Barrel board
 
@@ -129,11 +106,11 @@ Best board: HPSB/Barrel board
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.5 |      9.7 |            143.9 |                80.2 |         19.9 | WNW              |
-| 10:00  |            3.9 |      9.5 |            141.8 |                73.5 |         15.2 | WNW              |
-| 13:00  |            3   |      9.3 |            144.4 |                59.8 |          7.7 | WSW              |
-| 16:00  |            2.6 |      9.2 |            142.7 |                53.8 |         10.3 | SW               |
-| 19:00  |            2.9 |      9.1 |            140.8 |                57.3 |         16.5 | SSW              |
+| 07:00  |            4.4 |      9.5 |            143.5 |                77.9 |         18.9 | WNW              |
+| 10:00  |            3.7 |      9.3 |            145.2 |                69.9 |         16.3 | NNW              |
+| 13:00  |            2.9 |      9.2 |            143.8 |                57.1 |          7.4 | W                |
+| 16:00  |            2.5 |      9.1 |            141.8 |                50.2 |          9.3 | SW               |
+| 19:00  |            2.4 |      8.9 |            139.3 |                48   |         12.8 | SSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -143,23 +120,23 @@ Best board: HPSB/Barrel board
 | 13:27  | L      |         -0.07 |
 | 19:31  | H      |          3.71 |
 
-Possible leftovers. Model runs are too inconsistent to make any concrete calls, but if model heights trend up for Friday, the likelihood of leftovers trends up for Saturday.
+High likelihood of leftovers. Surf will drop pretty quickly throught the day, however. Unfortunately, the AM high tide slows things down. The best window will be on the dropping late-AM tide.
 
-Wave heights if something like this were to occur would be in the chest high range in the AM and waist+ range in the PM. Expect numbers to move around some.
+Currently, I'm expecting wave heights in the waist-chest high range. The wind forecast has backed down a touch, but will still be pretty strong for the amount of surf. Note the southerly wind switch for the afternoon.
 
-Notes: This is likely to change, but it's been trending better. This would be really fun if it holds. Not the best timing on the high tide, but it's not a particularly high high-tide.
+Notes: Much more approachable for average surfers and still looks fun. Be aware of the horribly timed AM high tide.
 
-Best board: Most boards will work
+Best board: Daily driver/groveler for the AM and a longboard for the afternoon. This could change based on period numbers.
 
 ### Sunday 12/21
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.9 |      6.6 |            180.2 |                36   |         17.3 | SW               |
-| 10:00  |            4.4 |      7.1 |            173.1 |                40.5 |         14.3 | WSW              |
-| 13:00  |            4   |      7.3 |            164.2 |                43.4 |         15.3 | W                |
-| 16:00  |            3.8 |      7.2 |            162.7 |                41.1 |         17   | W                |
-| 19:00  |            3.8 |      7.1 |            170.1 |                36   |         21.5 | WNW              |
+| 07:00  |            5.2 |      6.2 |            174.6 |                36.3 |         18.3 | SW               |
+| 10:00  |            4.6 |      6.7 |            174.9 |                36.2 |         16.9 | W                |
+| 13:00  |            4   |      7   |            169.2 |                37.1 |         14.4 | WNW              |
+| 16:00  |            3.5 |      7   |            167.8 |                31.8 |         14.4 | WNW              |
+| 19:00  |            3.3 |     10.8 |            115.2 |                80.8 |         17.3 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -169,11 +146,11 @@ Best board: Most boards will work
 | 14:09  | L      |         -0.1  |
 | 20:07  | H      |          3.67 |
 
-Another swell is possible around this time. Check back as we get closer. This one will be short lived if it occurs.
+Another steep south swell with some ESE swell mixing in. This could be fun if it comes together, but I'd expect some lulls between the sets. Still looking worthwhile as we get into mid-week.
 
-Notes: Swell numbers are bouncing around a bit. Any change in the track of the low pressure system will have a big impact on the amount of surf we see.
+Notes: Swell numbers are bouncing around a bit. Check back later.
 
-Best board: Longboard
+Best board: TBD
 
 ---
 
