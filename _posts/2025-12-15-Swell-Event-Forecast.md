@@ -7,7 +7,7 @@ title: Back-to-Back Swells for the Week of 12/19
 
 ---
 
-**Last updated 12/19 at 11:30**
+**Last updated 12/20 at 13:30**
 
 Friday, 12/19, and Saturday morning are looking potentially very fun with firing surf Friday.
 
@@ -51,9 +51,11 @@ Waves fade through the morning and are around waist high by 1pm. Beginners and n
 
 ![20251221 GFS](/assets/images/20251221_resized.jpg)
 
-![20251221 Waves](/assets/images/2025-12-21_15.png)
+![20251221 Wave gif](/assets/images/2025-12-21_swell.gif)
 
-![20251221 Waves](/assets/images/2025-12-21_18.png)
+![20251221 Waves](/assets/images/2025-12-21_11.png)
+
+
 
 
 We're looking at another setup that's similar to what we've been seeing with a steep angled south-southwest angled swell from an area of low pressure over the Great Lakes. This area of low pressure is interacting with an area of high pressure east of the Maritimes which helps aim the swell a little bit better towards our region than some of the past swell events we've had.

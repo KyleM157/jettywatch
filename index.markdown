@@ -25,34 +25,6 @@ It's looking likely we then see another short lived, steep south, swell for Sund
 I'm optimistic about the next couple of weeks.
 
 
-### Friday 12/19
-
-Click [here](/2025/12/15/Swell-Event-Forecast) for the detailed forecast for 12/19 - 12/21
-
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            9.3 |      6.8 |            152.8 |                78.2 |         38.1 | SSE              |
-| 10:00  |           10.8 |      7.7 |            154.8 |                89.4 |         37.6 | S                |
-| 13:00  |            9   |      8.9 |            150.6 |                92.1 |         19.7 | W                |
-| 16:00  |            8.6 |      9.6 |            142.3 |                94.5 |         31.7 | W                |
-| 19:00  |            9.2 |     10.1 |            139.7 |                96.4 |         37.3 | W                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 06:25  | H      |          4.78 |
-| 12:45  | L      |         -0.01 |
-| 18:49  | H      |          3.74 |
-
-Model run after model run is showing powerful surf. The next question is going to be about the wind switch and when to expect it. Currently, I'm seeing the wind switch at around 1pm. With the strength of the offshores we're looking at, surf should clean up quickly. Though it woul dbe best to give it a little bit of time to organize and a bit more water to fill in on the incoming tide.
-
-Wave heights will be solidly overhead all day if the past few model runs hold. This is one for the advanced to expert surfers and conditions won't be user friendly. Expect strong currents and blind takeoffs. This has potential to be one of the best swells of the year.
-
-Notes: Know your limits.
-
-Best board: HPSB/Barrel board
-
 ### Saturday 12/20
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
@@ -112,6 +84,8 @@ Best board: Daily driver/groveler for the AM and a longboard for the PM
 ## Looking Ahead
 
 The end of the month looks pretty active but model runs have been very inconsistent. I'd expect some surf around Christmas and/or in the following days.
+
+The best chance of good surf in the next week comes from a low pressure system that'll pass directly over us Tuesday PM. It's possible we'll see a weak south windswell on earlier that day. If everything works out, we will get some ENE swell sent back from that system for Christmas day. There's a fairly strong probability of weak surf on 12/23 and a medium chance of swell on 12/25.
 
 ### Monday 12/22
 
