@@ -25,29 +25,6 @@ The best chance of good surf in the next week comes from a low pressure system t
 
 Following that, there is another two systems I'm watching that could kick up some decent swell. Models are in disagreement about what's going to happen, so I'm going to hold back on making any calls. Either way, the end of the month looks active and there are reasons to be optimistic.
 
-### Monday 12/22
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3   |     10.1 |            112.6 |                71.6 |         16.5 | NW               |
-| 10:00  |            2.3 |      9.9 |            112.6 |                59.8 |         12.1 | WNW              |
-| 13:00  |            2.1 |      9.7 |            112.5 |                53.3 |         13.7 | WNW              |
-| 16:00  |            1.9 |      9.6 |            112.8 |                48.2 |         12.4 | W                |
-| 19:00  |            1.7 |      9.4 |            112.9 |                41.3 |         12.6 | WSW              |
-
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:03  | L      |          0.34 |
-| 08:13  | H      |          4.66 |
-| 14:45  | L      |         -0.09 |
-| 20:43  | H      |          3.62 |
-
-Weird model output. Not expecting anything, but I'll update if something changes.
-
-Notes: Most likely flat
-
 
 ### Tuesday 12/23
 
@@ -93,7 +70,7 @@ Flat; Spend time with family so you can surf later in the week.
 | 16:39  | L      |          0.02 |
 | 23:01  | H      |          3.83 |
 
-Too early to make calls, but this could be fairly fun. It's not the best swell direction for our region and it'll definitely be better further south. That said, the afternoon session looks pretty good. Models have been pretty consistently predicting swell to peak in the afternoon around 4pm. That said, anytime after noon/wind swtich should be fun. 
+Too early to make calls, but this could be fairly fun. It's not the best swell direction for our region and it'll definitely be better further south. That said, the afternoon session looks pretty good. Models have been pretty consistently predicting swell to peak in the afternoon around 4pm. That said, anytime after noon/wind switch should be fun. 
 
 The wind forecast is still up in the air (it'll be offshore; strength is in question) and I could see swell numbers moving around a little bit. Wind will once again be moderately strong but given the easterly swell direction, may be helpful.
 
