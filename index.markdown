@@ -5,25 +5,13 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 12/22/2025 09:30**
+**Last Update: 12/23/2025 08:15**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
 **Scroll to the right for more information in the below tables**
-
-
-## Week of 12/15-12/21
-
-Click [here](/2025/12/15/Swell-Event-Forecast) for the detailed forecast for 12/19 - 12/21
-
-We're looking at an active back half of this week with potentially some rideable waves on Wednesday. Friday sees potentially firing surf and Saturday should have fun leftovers, potentially up to chest high early.
-
-It's looking likely we then see another short lived, steep south, swell for Sunday 12/21.
-
-I'm optimistic about the next couple of weeks.
-
 
 ---
 
@@ -91,11 +79,11 @@ Flat; Spend time with family so you can surf later in the week.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.3 |      9.7 |             88.5 |                56.1 |         11.7 | WSW              |
-| 10:00  |            3.1 |      9.6 |             90.7 |                70.4 |         17   | SW               |
-| 13:00  |            3.6 |      9.9 |             92   |                78.1 |         17.1 | WSW              |
-| 16:00  |            3.6 |      9.9 |             92.6 |                78   |         15.4 | W                |
-| 19:00  |            3.4 |     10   |             94.6 |                76.9 |         14.6 | WNW              |
+| 07:00  |            1.6 |     11.1 |             95.7 |                54.1 |         15.6 | SW               |
+| 10:00  |            3   |     10.3 |             91.8 |                72.8 |         18.1 | SW               |
+| 13:00  |            3.1 |      9.7 |             90.3 |                70.4 |         14.1 | W                |
+| 16:00  |            3.5 |      9.6 |             91.6 |                75.1 |         18.5 | WNW              |
+| 19:00  |            5   |      4.6 |            346.4 |                 2.1 |         26.4 | NNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -105,23 +93,27 @@ Flat; Spend time with family so you can surf later in the week.
 | 16:39  | L      |          0.02 |
 | 23:01  | H      |          3.83 |
 
-Too early to make calls, but this could be fairly fun. It's not the best swell direction for our region and it'll definitely be better further south. That said, the afternoon session looks pretty good. 
+Too early to make calls, but this could be fairly fun. It's not the best swell direction for our region and it'll definitely be better further south. That said, the afternoon session looks pretty good. Models have been pretty consistently predicting swell to peak in the afternoon around 4pm. That said, anytime after noon/wind swtich should be fun. 
 
-The wind forecast is still up in the air (it'll be offshore; strength is in question) and I could see swell numbers moving around a little bit.
+The wind forecast is still up in the air (it'll be offshore; strength is in question) and I could see swell numbers moving around a little bit. Wind will once again be moderately strong but given the easterly swell direction, may be helpful.
 
-Notes: Recent GFS runs are more in line w/ ECMWF model runs. I'm expecting some potentially fun wind swell with offshore wind. Make sure to check back.
+Notes: Afternoon is the best window. Look for a bar that can handle the east swell direction.
+
+Best board: Groveler or daily driver
 
 ### Friday 12/26
 
 Models are diverging on this one. See my detailed write up [here](/2025/12/21/Christmas-Week).
 
+**Swell Table is misleading**
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.1 |     10.7 |             94   |                77.7 |         14.5 | NNE              |
-| 10:00  |            4.3 |      5   |             46.7 |                16.7 |         18.3 | NNE              |
-| 13:00  |            3.5 |     10.8 |             96.1 |                82.2 |         10   | ENE              |
-| 16:00  |            3.4 |     10.8 |             96   |                81.7 |         18.4 | ENE              |
-| 19:00  |            4.4 |      5.1 |             72.9 |                25.8 |         18.1 | ENE              |
+| 07:00  |            3.1 |      9.9 |             95.3 |                71.4 |         12.8 | NNE              |
+| 10:00  |            3.6 |      4.6 |             38.9 |                 7.4 |         17.5 | NNE              |
+| 13:00  |            3.1 |     10.2 |             96.6 |                73.8 |          8.4 | ENE              |
+| 16:00  |            2.5 |     10.3 |             95.7 |                66.9 |          8.3 | ESE              |
+| 19:00  |            2.5 |     10.3 |             94.9 |                67   |         12.5 | ESE              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -131,7 +123,7 @@ Models are diverging on this one. See my detailed write up [here](/2025/12/21/Ch
 | 17:27  | L      |          0.05 |
 | 23:55  | H      |          4.04 |
 
-Tough forecast to read, but it looks like we'll have continued easterly swell from a low pressure in the north central Atlantic (the same system sending swell on 12/25). Wind is expected to shift out of the north from a smaller low pressure center south of the Maritimes that would add a fair amount of texture early. The low tide is well situated for a AM session, but we'll have to keep an eye on the wind forecast.
+I'm expecting swell numbers to look closer to 2ft@10s which, while still surfable, isn't stomach high surf like the table above suggests. It could be fun on a longboard at the right spot, but I'd expect shape to be an issue at most sandbars. That said, we haven't had an east swell in a while and the sand could have shifted around.
 
 Another low is expected to move in behind an area of high pressure, setting up some SE swell for Saturday. Currently, short period wind swell is expected.
 
@@ -141,11 +133,11 @@ Notes: Active time period but hard to be sure of any specifics this far out. Che
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            6.1 |      6.3 |             80.7 |                61.5 |         21.9 | NE               |
-| 10:00  |            5.4 |      6.4 |             85   |                57.1 |         18.2 | NE               |
-| 13:00  |            4.9 |      6.4 |             87.6 |                52.7 |         16.6 | ENE              |
-| 16:00  |            4.3 |      6.4 |             89.6 |                46.9 |         14.1 | ENE              |
-| 19:00  |            4   |      6.3 |             91.2 |                42.7 |         13.1 | ESE              |
+| 07:00  |            6.1 |      6   |             91.3 |                57.6 |         23.4 | E                |
+| 10:00  |            6.9 |      6.4 |             86.8 |                68.7 |         24.3 | ENE              |
+| 13:00  |            6.8 |      6.7 |             88.6 |                71.4 |         22   | ENE              |
+| 16:00  |            6.2 |      6.6 |             86   |                66.5 |         19.4 | ENE              |
+| 19:00  |            5.3 |      6.5 |             92.4 |                59.6 |         15.1 | ENE              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -154,17 +146,19 @@ Notes: Active time period but hard to be sure of any specifics this far out. Che
 | 12:07  | H      |          4.08 |
 | 18:21  | L      |          0.04 |
 
-Notes: Too early for specifics, but there's possibly swell.
+Looking like it's going to be blown out. Coule be stronger than expected setting up surf for Sunday, but currently the wind looks bad both days.
+
+Notes: There will be swell but wind is very likely to be poor. 
 
 ### Sunday 12/28
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.4 |      5   |            137.9 |                23.6 |         19.7 | S                |
-| 10:00  |            5.7 |      5.5 |            151.4 |                38.3 |         27.2 | S                |
-| 13:00  |            6   |      6.2 |            166.5 |                46.2 |         22.5 | SW               |
-| 16:00  |            5.5 |      6.7 |            161.9 |                52.5 |         22.7 | W                |
-| 19:00  |            5.6 |      6.9 |            164.3 |                54.2 |         29.9 | WNW              |
+| 07:00  |            3.6 |      6   |            103.8 |                34.1 |         14.7 | SSE              |
+| 10:00  |            4.1 |      5.6 |            112   |                33.7 |         21.7 | SSE              |
+| 13:00  |            4.9 |      5.2 |            144.8 |                30.3 |         20.6 | S                |
+| 16:00  |            5   |      5.6 |            151.8 |                34.6 |         17.3 | SSW              |
+| 19:00  |            4.2 |      5.8 |            153.6 |                29.3 |         16.1 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -174,9 +168,19 @@ Notes: Too early for specifics, but there's possibly swell.
 | 13:07  | H      |          3.95 |
 | 19:21  | L      |         -0.03 |
 
+There's hope that a coastal low would kick up enough swell for Saturday that we'd see some waves on Sunday. At this point, that low pressure system is expected to stay pretty weak and isn't likely to generate any substantial swell.
+
+With that said, it wouldn't be surprising if this overperforms the swell table above and the wind be lighter than that forecast. It wouldn't be clean, but it'd be doable to fun. I'm expecting some longer period swell to be in there, which could boost the size a bit. As of 12/23, I'd call for thigh-waist high surf that would be fun at the right spot on a longboard.
+
+Notes: Don't get your hopes up but it could be better than expected. Swell is well directed which will boost the size a bit.
+
 ### Looking Ahead
 
-Things are expected to slow down after 12/28 with 1/05 currently showing the next swell. It's far out, but models are suggesting a fairly active pattern for mid-January as of right now. Take that with a grain of salt.
+We could see some swell around 12/29 from a large low pressure system north of the Great Lakes. Ideally we'd see a stronger region of high pressure to our east that could boost the winds a bit, but it's too weak/far away to add much. I'd give it a 50/50 probability that we see something at this point.
+
+Things are expected to slow down after 12/28. We'lll see a large low pressure system impact our region around New Years but it looks like it's too far north to generate swell directly and there's no high pressure system to interact with to aim wind at our region. It's too far out to make that call, but that's what the models are showing. It wouldn't be crazy to see another steep S/SSW swell from that system, but it would be a weak swell if we see anything (assuming no major changes).
+
+After that, high pressure moves in and prevents any surf until around Jan. 5. That'll be the next time period to watch for a decent swell.
 
 ---
 

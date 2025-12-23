@@ -7,6 +7,8 @@ title: What I'm Watching Christmas Week
 
 ---
 
+**Last Update: 12/22 (Next update 12/24)**
+
 ## First Up - Are we Getting a Christmas Swell?
 
 The quick answer, is maybe. Over the past few days, the GFS model runs have started to get closer to Euro model runs, which is a positive thing. While this won't be a great swell event for us (Look to the OBX for better surf), we should see some ENE swell as it wraps into our area. The main issue is Cape Cod blocking most of the swell from our region.
