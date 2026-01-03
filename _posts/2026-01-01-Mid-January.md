@@ -17,13 +17,28 @@ A weak coastal low is expected to lift off the coast Sunday AM, but since low pr
 
 ### Second Week of January
 
-High pressure moves in behind that coastal low I was just talking about for 1/5, and sets up over the Maritimes by 1/6. High pressure dominates the North Atlantic for almost the next week, potentially helping to create south swells as a few low pressure systems move across the mainland. We have a low likelihood of swell on 1/07 and a better chance around 1/10.
+High pressure moves in behind that coastal low I was just talking about for 1/5, and sets up over the Maritimes by 1/6. High pressure dominates the North Atlantic for almost the next week, potentially helping to create south swells as a few low pressure systems move across the mainland. We have an increasing likelihood of swell on 1/08 and a better chance around 1/10.
 
-Models have been trending worse for this time period as of 1/02. There's still some differences in model outputs, but they seem to be converging on a "no fun surf for NJ" answer to atmospheric conditions for mid-month. There's enough activity out there, it's just not moving where it needs to at the right time to work out for us. If there's any positive news to share, it's that we'll have higher temperatures to at least to something outside.
+Let's look at some surface wind charts:
 
-There's been a few model runs showing another potential swell around the 14th of the month. There's still a few more days before things are likely to really slow down if the time period around the 10th doesn't work out.
+![20260107](/assets/images/20260107_resized.jpg)
+
+Courtesy of tropicaltidbits.com
+
+We have a small area of low pressure taking an inland track NNE over the Great Lakes and interacting with an area of high pressure near Bermuda. You can see how little fetch there is and how weak the wind speeds are to create this swell. Regardless of model numbers, I'm expecting a small and weak swell event.
+
+Moving on to the end of the week:
+
+![20260110](/assets/images/20260110_resized.jpg)
+
+Courtesy of tropicaltidbits.com
+
+Here, we have a much larger low pressure system over the Great Lakes that will interact with a weak area of high pressure over Bermuda. This creates a longer fetch but the winds are too weak to bump the swell/period numbers up. The quality of surf we see will be highly dependent on how strong that low pressure system ends up being. Models are in closer agreement that we'll see a fairly large system, so I'd say we have a fairly good chance of surfable waves, just nothing to write home about.
+
 
 ### End of January into February
+
+Models are showing another system that could create swell around the end of the following week (1/16 or so). I wouldn't get my hopes up too high just yet.
 
 It's important to note that climate models aren't 100%, but the end of Jan. into Feb. looks pretty slow. I would try to make the most of whatever is on offer in the next two weeks.
 

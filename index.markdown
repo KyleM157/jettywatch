@@ -15,17 +15,10 @@ title: Monmouth County Surf Forecast
 
 ---
 
-## Week of 12/28 - 1/04
+## Week of 1/04 - 1/11
 
 A more detailed write up for January can be found [here](/2026/01/01/Mid-January)
 
-Overall, I wouldn't expect anything of note after Monday 12/29 until around 1/07 at the earliest. It's going to be a slow week of surf.
-
-Luckily, there's some good signs that the second week of Jan. will have more waves on offer. I'd try to make the most of mid-month. Climate model outputs are suggesting a pretty slow end to January.
-
-### Friday 1/02
-
-Flat.
 
 ### Saturday 1/03
 
@@ -87,11 +80,11 @@ Not flat, but close.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.9 |      7.4 |            158.7 |                32   |          5.6 | NW               |
-| 10:00  |            2.6 |      7.1 |            161   |                24.1 |          4.4 | NNW              |
-| 13:00  |            2.4 |      7   |            159.5 |                20.8 |          1   | E                |
-| 16:00  |            2.3 |      6.9 |            157.5 |                18.2 |          4.5 | ESE              |
-| 19:00  |            2.2 |      6.8 |            156.1 |                17.4 |          9.5 | SE               |
+| 07:00  |            2.8 |      7   |            162   |                25.4 |         13.5 | WNW              |
+| 10:00  |            2.9 |      7   |            163   |                26.9 |         12.3 | WNW              |
+| 13:00  |            2.8 |      8.1 |            159.1 |                39.2 |         11.1 | NW               |
+| 16:00  |            2.6 |      7.7 |            159.8 |                31   |         11   | WNW              |
+| 19:00  |            2.3 |      7.4 |            163.6 |                21.7 |          8.8 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -101,9 +94,9 @@ Not flat, but close.
 | 17:00  | L      |         -0.21 |
 | 23:33  | H      |          4.17 |
 
-Bad, but worth a look given the run of surf we will have had up to this point (and will have looking ahead).
+This is looking like one of the few doable days this week. There's still a bit of disagreement between major atmospheric models, but it's looking like we should get a small wind swell. Currently, the GFS model is the most optimistic and these numbers could come down a bit.
 
-Notes: Might be doable on a longboard.
+Notes: Nothing major, but there could be some longboard lines available with favorable shape.
 
 Best board: Longboard
 
@@ -124,9 +117,53 @@ Best board: Longboard
 | 11:41  | H      |          3.94 |
 | 17:47  | L      |          0.07 |
 
-### Weekend of 1/10 - 1/11
+Swell possibly starts to arrive overnight. Likely nothing surfable.
 
-This is the time period to watch.
+Notes: Too small to surf during daylight hours.
+
+### Saturday 1/10
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            4.7 |      6.5 |            163   |                40.5 |         13.7 | SSW              |
+| 10:00  |            4.4 |      6.5 |            163.2 |                37.5 |         12.7 | SSW              |
+| 13:00  |            4.4 |      6.5 |            166.4 |                36.8 |         11.1 | SW               |
+| 16:00  |            4.3 |      6.8 |            165.9 |                40   |         10.2 | WSW              |
+| 19:00  |            4   |      6.9 |            166.6 |                38.1 |         10.5 | W                |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 00:29  | H      |          3.64 |
+| 06:18  | L      |          0.6  |
+| 12:20  | H      |          4.09 |
+| 18:38  | L      |          0.31 |
+
+It's pretty far out, but models are in decent agreement that we'll see another south swell around this time. I'm not expecting anything sizeable, but it should be surfable.
+
+Notes: If this comes to pass, the AM is likely the best window and low tide is conveniently timed. The incoming tide could be pretty fun on a small wave board.
+
+### Sunday 1/11
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            3.1 |      6.8 |            168   |                25.2 |         11.4 | W                |
+| 10:00  |            3   |      6.7 |            167.9 |                22.4 |         14.6 | WSW              |
+| 13:00  |            3   |      6.8 |            167.3 |                23.7 |         14.9 | WNW              |
+| 16:00  |            3.3 |      6.8 |            167.2 |                27.9 |         21   | WNW              |
+| 19:00  |            3.3 |      3.7 |            309   |                 0   |         20.1 | NW               |
+
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 01:07  | H      |          4.02 |
+| 07:21  | L      |          0.69 |
+| 13:18  | H      |          3.38 |
+| 19:30  | L      |          0.46 |
+
+Too early to say, but there could be some leftovers on Sunday. Low expectations.
+
 
 ---
 
