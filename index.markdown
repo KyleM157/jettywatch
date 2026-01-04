@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/02/2026 12:00**
+**Last Update: 1/04/2026 10:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -60,11 +60,11 @@ Notes: Basically flat.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.6 |     12.7 |            105   |                64.7 |          5.9 | SSW              |
-| 10:00  |            1.9 |      5.3 |            163.9 |                 3.6 |          6.4 | W                |
-| 13:00  |            2.2 |      5.3 |            163.7 |                 5.1 |          7   | WSW              |
-| 16:00  |            2.4 |      5.8 |            160.1 |                 9.9 |          9.4 | W                |
-| 19:00  |            2.6 |      6   |            157.8 |                13.8 |          7.8 | W                |
+| 07:00  |            2.6 |      5   |            168.7 |                 5.3 |         10.3 | SW               |
+| 10:00  |            3.1 |      5.5 |            166.8 |                12   |         12.4 | WSW              |
+| 13:00  |            3.8 |      8.2 |            147.3 |                58.5 |         15.9 | W                |
+| 16:00  |            4.1 |      7.8 |            152.3 |                56.5 |         18.6 | WNW              |
+| 19:00  |            4.1 |      7.6 |            154.2 |                53.3 |         19   | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -74,17 +74,23 @@ Notes: Basically flat.
 | 16:16  | L      |         -0.51 |
 | 22:43  | H      |          4.26 |
 
-Not flat, but close.
+Well, things have changed for the better. After a couple weeks of model wave heights trending down, things are looking up. Timing is still up in the air. Currently, swell is expected to peak in the afternoon or possibly evening/overnight.
+
+We have a pretty large tide swing and I'd expect it to be pretty drained on the negative low tide. That said, the dropping tide in the afternoon is the window I'd be considering if nothing changes.
+
+Notes: Things could still change. Normally, swell heights are pretty consistent when we're withing three days. Timing could shift around a bit.
+
+Best board: Groveler
 
 ### Thursday 1/08
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.8 |      7   |            162   |                25.4 |         13.5 | WNW              |
-| 10:00  |            2.9 |      7   |            163   |                26.9 |         12.3 | WNW              |
-| 13:00  |            2.8 |      8.1 |            159.1 |                39.2 |         11.1 | NW               |
-| 16:00  |            2.6 |      7.7 |            159.8 |                31   |         11   | WNW              |
-| 19:00  |            2.3 |      7.4 |            163.6 |                21.7 |          8.8 | WNW              |
+| 07:00  |            2.4 |      7.5 |            163   |                23.9 |          9.3 | WNW              |
+| 10:00  |            2.1 |      7.3 |            161.6 |                18.4 |          7.1 | W                |
+| 13:00  |            1.8 |      7.2 |            159.2 |                14.5 |          4.2 | SW               |
+| 16:00  |            1.7 |      7   |            158.8 |                11.6 |          4.9 | SSW              |
+| 19:00  |            1.7 |      6.9 |            156.3 |                11.7 |         10.2 | S                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -94,7 +100,7 @@ Not flat, but close.
 | 17:00  | L      |         -0.21 |
 | 23:33  | H      |          4.17 |
 
-This is looking like one of the few doable days this week. There's still a bit of disagreement between major atmospheric models, but it's looking like we should get a small wind swell. Currently, the GFS model is the most optimistic and these numbers could come down a bit.
+Originally, this was looking like the day, but the swell is going to arrive earlier and stronger than expected. We could still see some leftovers on Thursday morning, but I'd have pretty low expectations for size. Could be fun on a longboard.
 
 Notes: Nothing major, but there could be some longboard lines available with favorable shape.
 
@@ -125,11 +131,11 @@ Notes: Too small to surf during daylight hours.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.7 |      6.5 |            163   |                40.5 |         13.7 | SSW              |
-| 10:00  |            4.4 |      6.5 |            163.2 |                37.5 |         12.7 | SSW              |
-| 13:00  |            4.4 |      6.5 |            166.4 |                36.8 |         11.1 | SW               |
-| 16:00  |            4.3 |      6.8 |            165.9 |                40   |         10.2 | WSW              |
-| 19:00  |            4   |      6.9 |            166.6 |                38.1 |         10.5 | W                |
+| 07:00  |            3.5 |      4.2 |            128.4 |                 9.4 |         20.6 | S                |
+| 10:00  |            8   |      6.8 |            170.1 |                66.5 |         29.6 | SSW              |
+| 13:00  |            7.3 |      7.8 |            163.5 |                75.9 |         26   | W                |
+| 16:00  |            6.6 |      8.2 |            160.7 |                77.5 |         23.8 | W                |
+| 19:00  |            6   |      8.4 |            160.8 |                75.7 |         23.4 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -139,19 +145,19 @@ Notes: Too small to surf during daylight hours.
 | 12:20  | H      |          4.09 |
 | 18:38  | L      |          0.31 |
 
-It's pretty far out, but models are in decent agreement that we'll see another south swell around this time. I'm not expecting anything sizeable, but it should be surfable.
+Next Saturday has also been trending up over the past 24 hours. I would take this with a grain of salt, but we could see some fun afternoon surf following a wind switch.
 
-Notes: If this comes to pass, the AM is likely the best window and low tide is conveniently timed. The incoming tide could be pretty fun on a small wave board.
+Notes: Swell numbers are likely to move around a bit.
 
 ### Sunday 1/11
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.1 |      6.8 |            168   |                25.2 |         11.4 | W                |
-| 10:00  |            3   |      6.7 |            167.9 |                22.4 |         14.6 | WSW              |
-| 13:00  |            3   |      6.8 |            167.3 |                23.7 |         14.9 | WNW              |
-| 16:00  |            3.3 |      6.8 |            167.2 |                27.9 |         21   | WNW              |
-| 19:00  |            3.3 |      3.7 |            309   |                 0   |         20.1 | NW               |
+| 07:00  |            6.6 |      5.4 |            230.2 |                 7   |         31.1 | W                |
+| 10:00  |            6.5 |      5.4 |            234.7 |                 5.8 |         30   | W                |
+| 13:00  |            5.7 |      5   |            247.7 |                 1.2 |         27.3 | W                |
+| 16:00  |            4.7 |      4.5 |            268.8 |                 0   |         22.8 | WNW              |
+| 19:00  |            4.4 |      4.5 |            276.2 |                 0   |         25.3 | WNW              |
 
 
 
