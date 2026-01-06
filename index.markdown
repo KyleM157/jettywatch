@@ -51,7 +51,7 @@ Notes: Basically flat.
 
 ### Wednesday 1/07
 
-Detailed write up for 1/7 can be found [here](/2026/01/07/Swell-Event-Notes)
+Detailed write up for 1/7 can be found [here](/2026/01/06/Swell-Event-Notes)
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
