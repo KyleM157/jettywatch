@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/05/2026 10:00**
+**Last Update: 1/06/2026 12:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -19,9 +19,9 @@ title: Monmouth County Surf Forecast
 
 This week has really been all over the place in terms of model runs. I think we're in a pretty good spot at this point in terms of forecasts and I'd expect the below tables to be representative of what we'll see, although specifics are likely to change for next weekend.
 
-Wednesday 1/07 will be one of the better days of the week. This swell is going to be wrapping in a bit, so I'd expect it to come in a little weaker than the raw swell numbers suggest. That said, it should be about stomach high with favorable shape.
+Wednesday 1/07 will be one of the better days of the week (if not best). This swell is going to be wrapping in a bit, so I'd expect it to come in a little weaker than the raw swell numbers suggest. That said, it should be about stomach high with favorable shape. More recent model runs are suggesting closer to chest high on the sets.
 
-Saturday/Sunday is still up in the air in terms of timing. This should be a more substantial swell given the fetch and swell direction. It's still a steep south, but it's not wrapping in like what we'll see Wednesday. Currently, winds on Saturday is expected to stay sideshore all day with a fun cleanup on Sunday. I'm not at a point where I want to make that call, so check back as we get closer.
+Saturday/Sunday is still up in the air in terms of timing. This should be a more substantial swell given the fetch and swell direction. It's still a steep south, but it's not wrapping in like what we'll see Wednesday. Currently, winds on Saturday is expected to stay sideshore all day with a fun cleanup on Sunday. I'm not at a point where I want to make that call, so check back as we get closer. Update: More recent model runs are suggesting that Monday may be the cleanup day.
 
 ### Monday 1/05
 
@@ -51,13 +51,15 @@ Notes: Basically flat.
 
 ### Wednesday 1/07
 
+Detailed write up for 1/7 can be found [here](/2026/01/07/Swell-Event-Notes)
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.7 |      5.5 |            162.4 |                 9.9 |         10.7 | SW               |
-| 10:00  |            3.8 |      9   |            140.7 |                69.7 |         18.4 | W                |
-| 13:00  |            4.6 |      8.6 |            148.4 |                70.7 |         21.3 | WNW              |
-| 16:00  |            4.2 |      8.4 |            151.5 |                64.4 |         15.9 | WNW              |
-| 19:00  |            3.6 |      8.3 |            153.6 |                55.4 |         12.3 | WNW              |
+| 07:00  |            2.6 |      5.2 |            166.9 |                 6.6 |         14   | WSW              |
+| 10:00  |            4.4 |      9.1 |            145.3 |                74.7 |         21.7 | W                |
+| 13:00  |            5   |      8.6 |            150.8 |                73.5 |         23   | WNW              |
+| 16:00  |            4.5 |      8.4 |            153.2 |                66.6 |         19.6 | WNW              |
+| 19:00  |            3.6 |      8.2 |            154.7 |                54.7 |         13.7 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -69,23 +71,23 @@ Notes: Basically flat.
 
 Well, things have changed for the better. After a couple weeks of model wave heights trending down, things are looking up. Timing is still up in the air. Currently, swell is expected to peak in the afternoon or possibly evening/overnight.
 
-I'd expect breaking wave heights to be in the stomach high range with potentially larger sets at better spots. This swell has to wrap in and should feel a bit weaker than the raw swell numbers would suggest.
+I'd expect breaking wave heights to be in the stomach-chest high range with potentially larger sets at better spots. This swell has to wrap in and should feel a bit weaker than the raw swell numbers would suggest.
 
 We have a pretty large tide swing and I'd expect it to be pretty drained on the negative low tide. That said, the dropping tide in the afternoon is the window I'd be considering if nothing changes.
 
-Notes: Looks pretty fun. Wind will be strong and timing is pretty critical given the tide swing. Early afternoon is the window.
+Notes: Looks pretty fun. Wind will be strong and timing is pretty critical given the tide swing. Early afternoon is the window. Offshore wind is going to be pretty strong, so make sure you have a board that deals with that well.
 
-Best board: Groveler or a longboard depending on the sand/tide.
+Best board: Groveler or daily driver
 
 ### Thursday 1/08
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.1 |      7.7 |            156.2 |                23.7 |         10.2 | WNW              |
-| 10:00  |            1.8 |      7.5 |            156.2 |                17.6 |          7.9 | W                |
-| 13:00  |            1.6 |      7.4 |            153   |                14.1 |          4.2 | W                |
-| 16:00  |            1.5 |      7.3 |            149.9 |                11.9 |          1.2 | SSW              |
-| 19:00  |            1.5 |      7.2 |            147.2 |                11.1 |          6.7 | S                |
+| 07:00  |            2.1 |      7.5 |            162.4 |                19.9 |          8.5 | WNW              |
+| 10:00  |            1.8 |      7.4 |            159.8 |                15.7 |          8.1 | NW               |
+| 13:00  |            1.6 |      7.2 |            155.6 |                12.7 |          7.2 | N                |
+| 16:00  |            1.5 |      7.1 |            158.6 |                 8.9 |          1.9 | ENE              |
+| 19:00  |            1.4 |      6.9 |            155.5 |                 7.7 |          8   | S                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -105,11 +107,11 @@ Best board: Longboard
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.8 |      6.8 |            147.7 |                13   |         13.3 | S                |
-| 10:00  |            2.4 |      3.7 |            166.1 |                 0.8 |         14.3 | S                |
-| 13:00  |            3.8 |      4.6 |            168.7 |                 8.1 |         21.6 | S                |
-| 16:00  |            5   |      5.7 |            166.7 |                30.6 |         21.2 | S                |
-| 19:00  |            5.4 |      6.3 |            161.2 |                45.4 |         20.2 | SSW              |
+| 07:00  |            1.7 |      6.5 |            153.4 |                 9.4 |         11.7 | S                |
+| 10:00  |            2.3 |      3.6 |            168.6 |                 0.5 |         14.9 | S                |
+| 13:00  |            3.7 |      4.6 |            168.6 |                 8.3 |         19.7 | S                |
+| 16:00  |            5.1 |      5.7 |            171.4 |                29.5 |         22.4 | SSW              |
+| 19:00  |            5.2 |      6.2 |            169.9 |                37   |         19.3 | SSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -118,7 +120,7 @@ Best board: Longboard
 | 11:41  | H      |          3.94 |
 | 17:47  | L      |          0.07 |
 
-Strong south winds. Nothing surfable, but it sets up swell for the weekend.
+Strong cross shore winds. I'm not seeing anything worth the trip to the beach.
 
 Notes: Watch the weekend.
 
@@ -126,11 +128,11 @@ Notes: Watch the weekend.
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.7 |      6.7 |            163.3 |                43   |         18.3 | SSW              |
-| 10:00  |            4.9 |      6.5 |            165.8 |                41.1 |         20.2 | SSW              |
-| 13:00  |            5.5 |      6.5 |            167.9 |                45.9 |         21.9 | SSW              |
-| 16:00  |            6.3 |      7.2 |            158.9 |                65.4 |         21.1 | SSW              |
-| 19:00  |            6.1 |      7.9 |            156.9 |                72.3 |         16.8 | SSW              |
+| 07:00  |            3.3 |      6.2 |            166.9 |                21.7 |         12.1 | NNE              |
+| 10:00  |            3.3 |      6.1 |            168.5 |                19.2 |         15.4 | NE               |
+| 13:00  |            3.7 |      6   |            167.1 |                22.8 |         18.4 | ENE              |
+| 16:00  |            4.6 |      5.1 |            110.9 |                30.8 |         15.6 | E                |
+| 19:00  |            4.7 |      5.3 |             99.7 |                35   |         18.3 | NE               |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -140,19 +142,18 @@ Notes: Watch the weekend.
 | 12:20  | H      |          4.09 |
 | 18:38  | L      |          0.31 |
 
-Fairly good chance we'll see a fun swell over the weekend. Timing is still up in the air. Currently, Saturday is expected to remain blown out with sideshore conditions.
+Saturday has been downgraded. Blown out; watch Sunday.
 
-Notes: Swell numbers and wind are likely to change this far out.
 
 ### Sunday 1/11
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.2 |      8.3 |            156.8 |                61   |         13.9 | WSW              |
-| 10:00  |            4.2 |      8.2 |            160.9 |                57.3 |         21.2 | WSW              |
-| 13:00  |            4.4 |      7.9 |            161.7 |                57.2 |         23.8 | W                |
-| 16:00  |            4.2 |      7.6 |            164.3 |                49.8 |         22.2 | W                |
-| 19:00  |            4.2 |      4.1 |            273.9 |                 0   |         23.9 | WNW              |
+| 07:00  |            4.5 |      6.4 |            156.7 |                40.9 |         14.4 | ENE              |
+| 10:00  |            4.4 |      6.8 |            160.6 |                42.2 |         13.3 | SSW              |
+| 13:00  |            5.6 |      6.9 |            165.1 |                53.6 |         17.7 | SSW              |
+| 16:00  |            6.4 |      7.2 |            162.6 |                65.1 |         22.1 | SSW              |
+| 19:00  |            5.7 |      7.6 |            163.8 |                63.9 |         12.6 | WNW              |
 
 
 
@@ -163,9 +164,40 @@ Notes: Swell numbers and wind are likely to change this far out.
 | 13:18  | H      |          3.38 |
 | 19:30  | L      |          0.46 |
 
-Sunday should clean up and be pretty fun if this forecast holds. I could see swell numbers increasing from here.
+This will be the best day of the weekend, but it's trending worse. Wind is cross-offshore for some mild chop and the period values have dropped a good bit. We're now looking at relatively chunky swell, but it should be fun at the right bar.
 
-Notes: Expect swell numbers and wind to change as we get closer.
+Wind is much stronger than I'd like to see given the swell numbers that are coming in from more recent model runs.
+
+I'd have fairly low expectations for quality surf, but there'll be waves on offer. I'd take advantage of it given the time of year.
+
+
+Notes: Expect swell numbers and wind to change as we get closer. Currently trending worse.
+
+### Monday 1/12
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            4.4 |      8.2 |            161.1 |                59.7 |         21.4 | WNW              |
+| 10:00  |            4.2 |      8.1 |            161.4 |                56.6 |         20.3 | WNW              |
+| 13:00  |            3.6 |      7.9 |            162.2 |                46.6 |         15.5 | NW               |
+| 16:00  |            3.2 |      7.7 |            162.8 |                39.1 |         15.7 | NW               |
+| 19:00  |            2.9 |      7.6 |            164.6 |                32.5 |         14.8 | NW               |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 01:54  | H      |          3.98 |
+| 08:21  | L      |          0.67 |
+| 14:10  | H      |          3.2  |
+| 20:23  | L      |          0.51 |
+
+It's possible that Monday AM will be the best of the swell that was originally slated for the weekend. I have little to no confidence in this forecast at this time.
+
+Notes: Maybe?
+
+## Looking Ahead
+
+There's a couple more potential swells next week. Both of these would be fairly weak steep angled south wind swells. I'll add more information as we get closer, but if we aren't getting firing swells, at least we're getting something.
 
 
 ---
