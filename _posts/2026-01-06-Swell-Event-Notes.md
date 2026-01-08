@@ -7,6 +7,8 @@ title: Swell Event - 1/7
 
 ---
 
+**NY Harbor Buoy peaked at 4.6@10s**
+
 ## The Setup
 
 ![20260107 GFS](/assets/images/20260107_resized.jpg)
