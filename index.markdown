@@ -24,6 +24,8 @@ After that, there's two or three other days worth keeping an eye on. Another wea
 
 ### Sunday 1/11
 
+See the detailed write up [here](/2026/01/10/Swell-Event-Notes)
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
 | 07:00  |            5.2 |      8.1 |            157.4 |                67.9 |         11.2 | W                |
