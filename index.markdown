@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/10/2026 13:30**
+**Last Update: 1/11/2026 15:30** (Next update will likely be 1/13)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -65,11 +65,11 @@ Flat
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            5.6 |      6.8 |            180.6 |                44.3 |         19.6 | SSW              |
-| 10:00  |            5.4 |      7.2 |            178.6 |                48.7 |         15.4 | SSW              |
-| 13:00  |            5   |      7.4 |            179.9 |                46.7 |          9.1 | SSW              |
-| 16:00  |            4.5 |      7.5 |            179.7 |                43.9 |          4.9 | WNW              |
-| 19:00  |            4   |      7.6 |            179.5 |                40.4 |          4.1 | WNW              |
+| 07:00  |            4.4 |      6.6 |            180.3 |                30.7 |         14.8 | SSW              |
+| 10:00  |            4   |      6.7 |            177.7 |                29.4 |         14   | SW               |
+| 13:00  |            3.5 |      6.7 |            178.4 |                23.6 |          9.9 | SSW              |
+| 16:00  |            3.2 |      6.6 |            181.4 |                18.1 |         11.3 | S                |
+| 19:00  |            3   |      6.5 |            179.9 |                16.1 |          9.6 | SSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -79,17 +79,21 @@ Flat
 | 16:08  | H      |          3.18 |
 | 22:01  | L      |          0.41 |
 
-Another steep south swell is expected around this time. Fairly likely we'll see something, but nothing firing. Check back later.
+Another steep south swell is expected around this time. Fairly likely we'll see something, but it's looking pretty weak. It's a really short fetch, so the 6 second period range is pretty likely to be accurate.
+
+Notes: Really weak and badly directed.
+
+Best board: longboard
 
 ### Thursday 1/15
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.1 |      7.2 |            166   |                31   |          9.2 | ENE              |
-| 10:00  |            3.3 |      7.3 |            164.7 |                34.9 |         17.9 | NE               |
-| 13:00  |            4.2 |      4.1 |             54.2 |                 8.1 |         23.9 | NNE              |
-| 16:00  |            6.1 |      5.2 |             58.1 |                37.4 |         30.3 | NE               |
-| 19:00  |            8.3 |      6.4 |             70   |                73.4 |         35.1 | NE               |
+| 07:00  |            2.9 |      6.6 |            172.2 |                19.1 |          5.1 | NW               |
+| 10:00  |            3.1 |      7.4 |            162.3 |                34.7 |          8.8 | NNE              |
+| 13:00  |            3.2 |      7.2 |            162.9 |                34   |         12.9 | NNE              |
+| 16:00  |            3.7 |      7.1 |            167   |                36.1 |         18.1 | NNE              |
+| 19:00  |            4.2 |      7.2 |            155.3 |                47.4 |         19.4 | NNE              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -99,15 +103,17 @@ Another steep south swell is expected around this time. Fairly likely we'll see 
 | 17:00  | H      |          3.31 |
 | 22:47  | L      |          0.3  |
 
+Wind isn't looking great, but there will be enough swell. We handle north winds fairly well, but it's going to come down to how NE the NNE is. I'm expecting it to look pretty bad at this time.
+
 ### Friday 1/16
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            9.4 |      9.2 |             78.9 |                95.2 |         29.4 | NNW              |
-| 10:00  |            9.4 |     10.1 |             87.1 |                97.3 |         33.8 | NNW              |
-| 13:00  |            9.3 |     10.3 |             89.2 |                97.5 |         29.2 | N                |
-| 16:00  |            7.7 |     10.3 |             93.1 |                96   |         19.6 | NW               |
-| 19:00  |            6   |     10   |             97.4 |                92.1 |         15.1 | WNW              |
+| 07:00  |            7.7 |      7.7 |             77.9 |                84.4 |         25.1 | N                |
+| 10:00  |            6.8 |      8   |             77.6 |                82.7 |         23.5 | NNW              |
+| 13:00  |            5.4 |      8.3 |             84.5 |                79.3 |         13.3 | NW               |
+| 16:00  |            4.6 |      8.3 |             93.9 |                74.4 |         15.1 | WNW              |
+| 19:00  |            3.9 |      8.2 |             97.4 |                66.3 |         14.5 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -117,7 +123,9 @@ Another steep south swell is expected around this time. Fairly likely we'll see 
 | 17:46  | H      |          3.47 |
 | 23:32  | L      |          0.19 |
 
-A stronger swell is possible around this time. There's a ton of uncertainty right now so don't get your hopes up just yet. This is a low probability forecast.
+A stronger swell is possible around this time. There's a ton of uncertainty right now so don't get your hopes up just yet. This is a low probability forecast and there's an equally likely chance we see absolutely nothing.
+
+Note: This isn't a "we'll see something, it may just not be firing, let's bring a groveler" type situations. It's a binary, it's firing and overhead or it's flat/choppy/blown out.
 
 ### Saturday 1/17
 
