@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/14/2026 15:00**
+**Last Update: 1/15/2026 09:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -19,34 +19,8 @@ title: Monmouth County Surf Forecast
 
 As we start to get clarity, this week is looking more disappointing. There'll be waves 1/14 and likely 1/17 but nothing great. 1/14 is too SW to get much out of it and is very short period. The weekend is currently looking like the best portion of the week, but we'll need to keep an eye on the winds. But, waves are waves.
 
-Beginners and newer surfers should take advantage of Wednesday. It seems like a decent day of weak surf with favorable shape.
+Check out the looking ahead section below for a more hopeful outlook. Currently, I'm watching 1/18 and 1/24 for the next rounds of quality surf.
 
-
-### Wednesday 1/14
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.7 |      6.9 |            179.8 |                38   |         15.5 | SSW              |
-| 10:00  |            4.3 |      6.9 |            180.4 |                33.8 |         13.5 | SW               |
-| 13:00  |            3.9 |      6.9 |            180.4 |                29.1 |         11.1 | SSW              |
-| 16:00  |            3.5 |      6.8 |            179.7 |                25.3 |         13.1 | S                |
-| 19:00  |            3.3 |      6.8 |            177.9 |                23   |         10.3 | S                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:42  | H      |          4.05 |
-| 10:05  | L      |          0.39 |
-| 16:08  | H      |          3.18 |
-| 22:01  | L      |          0.41 |
-
-We have a short period south swell with unfavorable winds to start the day. Not looking particularly good, but it should be doable on a longboard at the right spot. Possibly a groveler in the morning. Late morning closer to the low tide is probably best.
-
-In terms of breaking wave heights, I'd expect thigh-waist or so. Wave heights are largest early.
-
-Notes: Really weak and badly directed for the swell height.
-
-Best board: longboard
 
 ### Thursday 1/15
 
@@ -85,11 +59,11 @@ Flat
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.6 |      7.4 |            173.8 |                47.5 |         13.2 | SW               |
-| 10:00  |            4.6 |      7.7 |            167.9 |                52.6 |         16.5 | SSW              |
-| 13:00  |            5.4 |      7.6 |            173.4 |                56.6 |         20.3 | SSW              |
-| 16:00  |            5.5 |      7.8 |            169.5 |                62.3 |         18.8 | WSW              |
-| 19:00  |            5.1 |      8.2 |            163.6 |                65.9 |          9.8 | WSW              |
+| 07:00  |            4.5 |      7.2 |            173.5 |                43.9 |         17.6 | SSW              |
+| 10:00  |            5   |      7.4 |            173.3 |                51.7 |         17.7 | SW               |
+| 13:00  |            5.2 |      7.5 |            171.8 |                54.2 |         17.9 | SSW              |
+| 16:00  |            5   |      7.5 |            174.3 |                52.2 |         18.2 | WSW              |
+| 19:00  |            4.8 |      8   |            169.6 |                58.3 |         13.6 | WSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -98,9 +72,13 @@ Flat
 | 06:01  | H      |          4.51 |
 | 18:27  | H      |          3.61 |
 
-It's pretty far out, but we have another very steep south swell. This one is a little more powerful than what we see on Wednesday, but it's still pretty short fetch and poorly directed. We'll see something, but I'd expect breaking wave heights to be closer to waist-stomach high.
+This time period has trended worse in recent days. We're looking at another poorly directed swell that's mostly southwest in direction. Anything we get will have wrapped in, and given the swell period, there won't be a lot of push to the waves. Wind is still up in the air, but I'd expect SW winds most of the day and a bit lighter than what we see in the above table. Closer to 5-10kts to start the day.
 
-Wind is potentially an issue as well though I'd expect Monmouth County to fare decently if nothing changes.
+Currently, I'm expecting breaking wave heights in the thigh-waist high range, similar to what we saw on Wednesday/Thursday. Nothing to get excited about, but it's something to do if you want to get out there.
+
+Notes: Pretty cold for the quality. Mid-late AM is probably the best window, but watch the wind forecast as we get closer.
+
+Best board: Longboard
 
 ### Sunday 1/18
 
@@ -120,7 +98,36 @@ Wind is potentially an issue as well though I'd expect Monmouth County to fare d
 | 13:04  | L      |         -0.3  |
 | 19:05  | H      |          3.72 |
 
-Possible (and likely) leftovers. I wouldn't expect a ton of size. I would expect strong offshore wind.
+Possible leftovers, but likely very small. Wind looks favorable and should be lighter than the table above suggests. Probably fun on a longboard if this holds.
+
+Best board: Longboard
+
+### Sunday 1/18
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            3.3 |      8.2 |            153.1 |                50.4 |         14.3 | WNW              |
+| 10:00  |            3.1 |      8   |            159.2 |                42.8 |         14.6 | NW               |
+| 13:00  |            3   |      7.8 |            156.6 |                39.6 |         14.6 | WNW              |
+| 16:00  |            2.5 |      7.6 |            161   |                28   |         12.2 | WNW              |
+| 19:00  |            2.4 |      7.6 |            156.4 |                27.9 |         12.9 | NW               |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 06:39  | H      |          4.62 |
+| 12:17  | L      |          0.08 |
+| 13:04  | L      |         -0.3  |
+| 19:05  | H      |          3.72 |
+
+There looks to be a better directed swell around 1/18. Too early to say, but check back later.
+
+
+## Looking Ahead
+
+I'm not seeing much on the charts to get excited about right now. Looking towards the end of the forecast window, a stronger system could be expected near the end of the month, but it's too far out to make any calls at this point. Dominant high pressure prevents any surf early-mid next week, but likely sets up something surfable towards the end of the work week. What we see will be determined by the strength and track of a cutoff low. I'd expect to see something around 1/22 but it's likely to be poorly directed and weak.
+
+We should get a respite from high pressure around 1/23, which could set up some fun surf for the weekend that could actually be well directed.It's early to say, and way too far out to call, but that time period is one to keep an eye on as we get deeper into January.
 
 ---
 
