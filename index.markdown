@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/17/2026 08:30** (Traveling this week, so fewer updates. Next forecast update will be around 1/21. Not expecting surf early next week.)
+**Last Update: 1/22/2026 08:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
