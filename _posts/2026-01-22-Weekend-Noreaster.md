@@ -27,22 +27,16 @@ Recent model runs (2nd image) show stronger high pressure over the Central Atlan
 
 Based on current model runs, we should see well overhead waves on 1/26, with the swell peaking around 8am. Breaking wave heights could be in the 10ft range early. Definitely a day for the experts if it comes together. Early forecasts are showing NW wind for the afternoon. This would lead to decently clean conditions. Finding a bar will be a challenge.
 
-1/27 is going to be the best day of it for most surfers. Wave heights should still be in the head high range early and winds should be offshore. See the chart below:
 
-![1/27 Forecast AM](/assets/images/2026-01-27_12.png)
+As of 1/25, I'm not expecting much in the way of leftovers for Tuesday, 1/27. Some longboard waves perhaps.
 
-It's too early to call for leftovers on 1/28, but I'd expect to see something surfable early AM.
 
-## Remaining Questions
+## Update as of 1/25
 
-The main questions going into the weekend will be:
+Unfortunately, this has trended down over the past three days or so. But there are some upsides. We're seeing a swell mix of SE and E swells which should lend itself to breaking a little better here in Monmouth County than the original swell angles of ~114 degrees or so. While there won't be well overhead surf, waves should still be in the head high+ range early before fading to around shoulder high by end of daylight hours.
 
-1. Will the wind turn favorably on Monday?
-2. Will there be leftovers on Wednesday?
-3. How will our bars handle a mid-period east swell?
+The wind forecast looks pretty good, with offshores expected around 1am. This keeps trending earlier and earlier (one of the reasons we see less swell).
 
-So far, the Euro has been the more accurate model for this system, and it is showing a more northeasterly exit. This track leads to a better wind switch than recent GFS runs. Either way, we'll know in a day or two.
+Originally, I was hoping we would see leftovers on Tuesday and even Wednesday. Given the track/speed of this low pressure system, we definitely won't be seeing leftovers on Wednesday and as of 1/25, I'm not expecting much on Tuesday either. Overall, I'd try to get out there on Monday if you want to get some decent waves.
 
-I'd expect leftovers on 1/28. We should get a solid swell from this system and I'd expect recent swell numbers to be in the ballpark of what we'll see. A significant downgrade is not expected at this time.
 
-Sandbars are probably my main concern. Given that we've only had steep south swells since around mid-December, I'm in the dark as to where the best sandbar will be. On a positive note for Monmouth County, the consistent southerly swells and associated currents should have removed a bunch of the excess sand that has been lowering the quality of our breaks since the beach replenishment was completed last Spring. We still have about another year before they should actually be back to normal, but an improvement wouldn't be a surprise.

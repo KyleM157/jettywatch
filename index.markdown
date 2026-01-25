@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/23/2026 08:00**
+**Last Update: 1/25/2026 08:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -22,33 +22,6 @@ There could be some small waves on Thursday 1/22. It's another steep south swell
 We're all basically watching the same thing, Sunday/Monday. A Nor'easter is expected to work up the coast and deliver some solid surf early next week. More on that below and [here](/2026/01/22/Weekend-Noreaster).
 
 
-### Friday 1/23
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.7 |      6.7 |            155.8 |                22.5 |         12.2 | W                |
-| 10:00  |            2.9 |     10   |            117.8 |                70.3 |         20.1 | W                |
-| 13:00  |            3.2 |      3.7 |            284.1 |                 0   |         21.5 | W                |
-| 16:00  |            3.6 |      4   |            284   |                 0   |         24.2 | WNW              |
-| 19:00  |            3.7 |      4.2 |            300.3 |                 0   |         21.8 | WNW              |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:43  | L      |         -0.02 |
-| 09:56  | H      |          4.26 |
-| 16:06  | L      |         -0.39 |
-| 22:29  | H      |          4.19 |
-
-Swell mix of 1.2ft@10s and 1.5@7s. Some small longboard lines out there this morning.
-
-Notes: Very small waves expected. Enough for someone learning.
-
-Best board: longboard
-
-### Saturday 1/24
-
-Flat; prep for the snow.
 
 ### Sunday 1/25
 
@@ -80,11 +53,11 @@ Read more [here](/2026/01/22/Weekend-Noreaster)
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            9.4 |      9   |            107.5 |                95.5 |         24.1 | NNE              |
-| 10:00  |            8.8 |      9.2 |            112   |                95   |         20.3 | N                |
-| 13:00  |            8   |      9.2 |            113.2 |                93.7 |         20.6 | NNW              |
-| 16:00  |            7   |      9.2 |            115.7 |                91.4 |         18.5 | NNW              |
-| 19:00  |            6.3 |      9.3 |            119.6 |                89.9 |         22.8 | NW               |
+| 07:00  |            7.3 |      9.5 |            137.2 |                91.9 |         12.4 | NW               |
+| 10:00  |            6.4 |      9.5 |            139.2 |                89.2 |         14.7 | WNW              |
+| 13:00  |            5.9 |      9.5 |            140.1 |                87.2 |         22.4 | WNW              |
+| 16:00  |            5.7 |      9.4 |            140.5 |                85.8 |         25.3 | WNW              |
+| 19:00  |            5.3 |      9.2 |            141.2 |                82.7 |         24   | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -94,21 +67,27 @@ Read more [here](/2026/01/22/Weekend-Noreaster)
 | 12:17  | H      |          4.39 |
 | 18:47  | L      |         -0.03 |
 
-Likely peak of the swell. Wind could shift favorably but it's too early to say. I would say things are trending in a way that would suggest there could be some surfable waves somewhere within driving distance on Monday.
+Overall, swell numbers have trended down a lot in the past few days. I'm still comfortable calling for overhead surf in the AM, but it should be in the shoulder high range by sunset. Wind should be relatively light and side-offshore in the AM with an earlier wind switch for Ocean County. I'd expect a fair amount of water to be moving around early on with strong longshore current.
 
-Swell numbers have come down a bit from recent runs, but we're still looking at very solid surf.
+Conditions end of day will be far more user friendly, but still challenging with the strength of the offshore winds.
 
-Notes: These numbers are likely to move around a bit. Conditions are unlikely to be user friendly.
+Unfortunately, this swell is going to fade very quickly, so I'd take advantage of what's on offer.
+
+Notes: Know your limits. While this isn't the 10ft@10s we were seeing on some of the early model runs, it's still going to be fairly solid surf. Should be fun!
+
+Best board: HPSB with some weight to it.
 
 ### Tuesday 1/27
 
+**swell table is misleading**
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4.2 |      9.1 |            123.3 |                76.9 |         21.5 | WNW              |
-| 10:00  |            3.7 |      9.1 |            120.5 |                71.9 |         19.1 | W                |
-| 13:00  |            3.3 |      9   |            116.3 |                67.4 |         18.3 | W                |
-| 16:00  |            3   |      8.9 |            112.9 |                62.5 |         16.9 | W                |
-| 19:00  |            3.4 |      4   |            230.4 |                 0.1 |         21.2 | SW               |
+| 07:00  |            3.3 |      4   |            282.6 |                   0 |         20.9 | WNW              |
+| 10:00  |            3   |      3.9 |            288.1 |                   0 |         19.1 | WNW              |
+| 13:00  |            2.1 |      3.4 |            288.8 |                   0 |         13.5 | WNW              |
+| 16:00  |            1.7 |      3   |            283.9 |                   0 |         13.3 | W                |
+| 19:00  |            1.8 |      3   |            265.9 |                   0 |         16.3 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -118,35 +97,15 @@ Notes: These numbers are likely to move around a bit. Conditions are unlikely to
 | 13:49  | H      |          3.52 |
 | 20:00  | L      |         -0.03 |
 
-Potentially solid surf. The main thing to keep in mind is the swell direction and the mid-period swell. Most spots are likely to be closing out in Monmouth County. Check around for a good bar.
+As with Monday trending down, so has Tuesday. There should still be a swell mix remaining, something like SE 1.8ft@9s and E 1ft@9s. I'd put that somewhere around 2.5ft@9s for the AM. That should translate to somewhere around waist high breaking waves. Wind is strong offshore and will likely be an issue given the size of the surf.
 
-Swell numbers have dropped in recent model runs, but this is looking like a pretty fun day that is approachable for most surfers.
+Notes: Not looking particularly good at this time. I would plan on taking a look around first light or 10am if looking to surf. The swell is fading very quickly.
 
-Notes: These numbers are likely to move around a bit, but this is the main day to watch for most surfers.
-
-Best board: TBD
+Best board: longboard
 
 ### Wednesday 1/28
 
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.1 |      6.5 |            189.9 |                14.2 |         17.9 | WNW              |
-| 10:00  |            2.9 |      6.7 |            184.1 |                15.2 |         16.6 | WNW              |
-| 13:00  |            2.3 |      6.8 |            184.1 |                10.3 |         12.3 | WNW              |
-| 16:00  |            1.8 |      6.8 |            183.4 |                 5.9 |         10.6 | W                |
-| 19:00  |            1.6 |      6.5 |            189.2 |                 3   |         11.6 | W                |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:23  | H      |          4.51 |
-| 09:12  | L      |          0.06 |
-| 15:01  | H      |          3.52 |
-| 21:08  | L      |         -0.15 |
-
-This has really trended down with recent model runs. Depending on how quickly the low pressure system exits, we could see some leftovers. Check back later.
-
-Notes: Likely to change a little bit. Coin flip on leftovers.
+Flat
 
 ---
 
