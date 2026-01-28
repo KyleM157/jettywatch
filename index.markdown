@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/27/2026 08:00**
+**Last Update: 1/28/2026 10:30** (Next update will likely be 1/30 as we have a slow week of surf)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -21,36 +21,8 @@ Originally, I was hoping to see some leftovers this morning. Not going to lie, t
 
 No surf is expected until the weekend. That said, it could/should be a significant swell event for our region. Check back later for more details.
 
-### Tuesday 1/27
+Write up for the next round of surf/Nor'easter can be found [here](/2026/01/28/Another-Noreaster)
 
-**Table is misleading**
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.7 |      9   |            126.7 |                69.7 |         19.9 | WNW              |
-| 10:00  |            3.2 |      9   |            125.4 |                65.3 |         19.1 | W                |
-| 13:00  |            3.2 |      9.1 |            123.6 |                65.4 |         19.7 | WSW              |
-| 16:00  |            3.8 |      4.4 |            225.9 |                 0.7 |         21.9 | WSW              |
-| 19:00  |            3.9 |      4.9 |            215.6 |                 2.5 |         20.1 | WSW              |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 01:17  | H      |          4.45 |
-| 08:04  | L      |          0.27 |
-| 13:49  | H      |          3.52 |
-| 20:00  | L      |         -0.03 |
-
-Basically flat. Models really struggled with this swell all in all.
-
-For reference:
-
-GFS Output -> SE 1.9@9s and E 1.2@9.5s which should be around 2.3@9s
-Buoy as of 7:10am -> ESE 1.3@10.8s
-
-Notes: It's cold and flat.
-
-Best board: Stay home
 
 ### Wednesday 1/28 - Saturday 1/31
 
@@ -68,11 +40,11 @@ GFS model runs have been back and forth on that time period, but the Euro has be
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |           10.8 |      7.5 |             60.9 |                89.2 |         40.9 | NNE              |
-| 10:00  |           11.7 |      8.7 |             74   |                96.1 |         39.1 | NNE              |
-| 13:00  |           12.1 |     10.2 |             96.9 |                98.8 |         37.8 | N                |
-| 16:00  |           11.5 |     11.2 |            100.4 |                99.3 |         37.4 | N                |
-| 19:00  |           10.1 |     11.7 |            101.2 |                99.2 |         31.9 | NNW              |
+| 07:00  |            9.8 |      7.3 |             62.2 |                85.6 |         37.8 | NNE              |
+| 10:00  |           10.9 |      8.2 |             73.3 |                93.9 |         38.1 | N                |
+| 13:00  |           10.8 |      9.7 |             87   |                97.7 |         35.7 | N                |
+| 16:00  |           10.1 |     10.6 |             92.5 |                98.5 |         34.2 | NNW              |
+| 19:00  |            8.7 |     11.1 |             95.6 |                98.2 |         29.8 | NW               |
 
 
 
@@ -83,17 +55,21 @@ GFS model runs have been back and forth on that time period, but the Euro has be
 | 12:04  | L      |         -0.65 |
 | 18:58  | H      |          4.47 |
 
-Might be worth driving somewhere? More details later.
+Very likely there will be waves, somewhat likely you'll want to drive to get a few.
+
+For the blog post on this swell, click [here](/2026/01/28/Another-Noreaster)
+
+Notes: Swell numbers will be moving around for another day or two.
 
 ### Monday 2/02
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            5.6 |     11.1 |             98.9 |                94.1 |         24.8 | NW               |
-| 10:00  |            4.9 |     11.6 |             99.6 |                93.5 |         22.6 | WNW              |
-| 13:00  |            4   |     11.4 |             98.5 |                89.1 |         17.2 | WNW              |
-| 16:00  |            3.5 |     11   |             98.5 |                83.5 |         17.9 | W                |
-| 19:00  |            3.1 |     10.6 |            100.1 |                78.1 |         17.2 | W                |
+| 07:00  |            5.1 |     11.3 |             99.3 |                93.3 |         21.1 | NW               |
+| 10:00  |            4.5 |     11.5 |             98.2 |                91.5 |         19.4 | NW               |
+| 13:00  |            4.1 |     11.1 |             97.2 |                88.4 |         19.4 | NW               |
+| 16:00  |            4   |     10.9 |             97.2 |                87   |         19.8 | NW               |
+| 19:00  |            3.6 |     10.7 |             98.7 |                82.9 |         17.5 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -103,17 +79,20 @@ Might be worth driving somewhere? More details later.
 | 13:39  | L      |         -0.99 |
 | 19:46  | H      |          4.57 |
 
-Obviously, it's way too early to take this table too seriously, but if this system looks anything like the charts, we'll have a solid swell coming our way.
+Potentially very fun but you'll need to put the time in to find the right sandbar. Closeouts at most spots.
+
+Notes: Expect swell numbers to move around a little bit through the next couple of days.
+
 
 ### Tuesday 2/03
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.1 |      9.7 |            109.9 |                53.5 |         13.2 | W                |
-| 10:00  |            2.1 |      9.6 |            112.1 |                51.9 |         13.2 | W                |
-| 13:00  |            2.3 |      9.4 |            112.8 |                54.3 |         15.7 | W                |
-| 16:00  |            2.6 |      3.3 |            261.2 |                 0   |         17.4 | W                |
-| 19:00  |            2.8 |      3.6 |            263.2 |                 0   |         18.5 | W                |
+| 07:00  |            2.6 |      9.6 |             98.2 |                63   |         17.2 | W                |
+| 10:00  |            2.3 |      9.5 |             97   |                56.5 |         14.7 | W                |
+| 13:00  |            2.2 |      9.4 |             97.5 |                51.8 |         14.2 | W                |
+| 16:00  |            2   |      9.2 |             98.4 |                45.9 |         14.2 | WNW              |
+| 19:00  |            1.9 |      9   |             99.2 |                41.3 |         15.1 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -123,6 +102,8 @@ Obviously, it's way too early to take this table too seriously, but if this syst
 | 14:22  | L      |         -0.96 |
 | 20:32  | H      |          4.57 |
 
+
+Possible leftovers. Lots of uncertainty.
 
 ---
 
