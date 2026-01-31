@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 1/30/2026 15:30** (Next update will likely be 1/30 as we have a slow week of surf)
+**Last Update: 1/31/2026 08:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -15,36 +15,34 @@ title: Monmouth County Surf Forecast
 
 ---
 
-## 1/27 - 1/31
-
-Originally, I was hoping to see some leftovers this morning. Not going to lie, the air temps were offputting, but it's been slow lately. Unfortunately, model outputs were pretty inaccurate and it's basically flat as of 7am.
-
-No surf is expected until the weekend. That said, it could/should be a significant swell event for our region. Check back later for more details.
-
-Write up for the next round of surf/Nor'easter can be found [here](/2026/01/28/Another-Noreaster)
-
-
 ### Wednesday 1/28 - Saturday 1/31
 
 Flat
 
 ---
 
-## Looking Ahead
+## Week of Sunday 2/01 - Sunday 2/08
 
-Recent model runs are suggesting another Nor'easter to impact our region around the end of the month/beginning of February. This would be another snow producing system like what we're going to see Sunday/Monday and is likely to send some ESE swell our way. Way too early to get into specifics, but we may end up with a really good couple of weeks of surf. I'm optimistic!
+Write up for the next round of surf/Nor'easter can be found [here](/2026/01/28/Another-Noreaster)
 
-GFS model runs have been back and forth on that time period, but the Euro has been pretty consistent in showing a swell producing system for ~2/02.
+Another Nor'easter is expected to pass by our region on Sunday and should generate some powerful ENE swell for our region (this time without the snow, at least for NJ). North Carolina looks to get the most from this system but good luck getting to Hatteras after the snowfall. South NJ should do OK on Sunday afternoon if looking to get as much from the swell as possible. Otherwise, Monday is looking particularly fun for this area depending on how well the sandbars handle the easterly swell direction.
+
+After that, there's another potential system impacting our region mid-week. I'm not seeing anything on the swell charts from this, but it's worth keeping in mind. I wouldn't expect much if there is something, but it could work out with a bit of remaining swell from this weekend's Nor'easter.
+
+A clipper system is possible next weekend with a little bit of snow as well. I'm not expecting any surf from that system at the moment.
+
 
 ### Sunday 2/01
 
+Write up for the next round of surf/Nor'easter can be found [here](/2026/01/28/Another-Noreaster)
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            6.5 |      6   |             44   |                46.8 |         30.1 | N                |
-| 10:00  |            7.1 |      6.3 |             47.2 |                58.1 |         30.6 | N                |
-| 13:00  |            7.3 |      7.3 |             65.2 |                76.8 |         29.9 | NNW              |
-| 16:00  |            6.5 |      9   |             85.8 |                88.6 |         23.4 | NW               |
-| 19:00  |            6.2 |      9.9 |             91.5 |                91.9 |         24.2 | NW               |
+| 07:00  |            6.2 |      5.9 |             44.9 |                43.5 |         28.2 | N                |
+| 10:00  |            6.9 |      6.2 |             38.9 |                50.9 |         29.7 | N                |
+| 13:00  |            6.9 |      7   |             59.4 |                69.9 |         27.9 | NNW              |
+| 16:00  |            6.3 |      8.2 |             80.6 |                82.5 |         22.5 | NNW              |
+| 19:00  |            6   |      9.6 |             92.3 |                90.2 |         23.1 | NW               |
 
 
 
@@ -55,24 +53,27 @@ GFS model runs have been back and forth on that time period, but the Euro has be
 | 12:04  | L      |         -0.65 |
 | 18:58  | H      |          4.47 |
 
-Significant drop from earlier runs as high pressure north of our Nor'easter is weaker than originally expected. This creates a more NE fetch rather than E fetch and swell wraps in a bit. Still solid.
+Significant drop from earlier runs as high pressure north of our Nor'easter is weaker than originally expected. This creates a more NE fetch rather than E fetch and swell wraps in a bit. Still solid. Lots of water moving around.
+
+At this point, it's looking unlikely that we see offshores here in Monmouth County. Consider driving south.
 
 For the blog post on this swell, click [here](/2026/01/28/Another-Noreaster)
 
-Notes: Swell numbers should be mostly settled at this point. Not expecting a great day of surf, but somewhere will work if you're adamant about going.
+Notes: Swell numbers should be mostly settled at this point. Not expecting a great day of surf, but somewhere will work end of day if you're adamant about going.
 
 Best board: HPSB
 
 ### Monday 2/02
 
+Write up for the next round of surf/Nor'easter can be found [here](/2026/01/28/Another-Noreaster)
+
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            5.1 |     11.3 |             99.3 |                93.3 |         21.1 | NW               |
-| 10:00  |            4.5 |     11.5 |             98.2 |                91.5 |         19.4 | NW               |
-| 13:00  |            4.1 |     11.1 |             97.2 |                88.4 |         19.4 | NW               |
-| 16:00  |            4   |     10.9 |             97.2 |                87   |         19.8 | NW               |
-| 19:00  |            3.6 |     10.7 |             98.7 |                82.9 |         17.5 | WNW              |
-
+| 07:00  |            5   |     11.1 |            100.4 |                92.5 |         18.4 | NW               |
+| 10:00  |            4.7 |     11   |             99.4 |                91.1 |         19.2 | NW               |
+| 13:00  |            4.4 |     11   |             99   |                89.5 |         19.2 | NW               |
+| 16:00  |            4.2 |     11   |             97.8 |                88.1 |         20.5 | NW               |
+| 19:00  |            3.6 |     10.9 |             96.6 |                84.5 |         16.9 | NW               |
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -87,16 +88,18 @@ Watch out for the large tide swing. Mid-late AM and the mid-afternoon incoming t
 
 Notes: This is looking quite good (at the right sandbar).
 
+Best board: HPSB
+
 
 ### Tuesday 2/03
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.5 |     11.1 |             94.1 |                71.9 |         14.1 | NW               |
-| 10:00  |            2.1 |     11   |             94   |                65.1 |         12.8 | WNW              |
-| 13:00  |            2.1 |     10.8 |             93.9 |                63.3 |         14.9 | WNW              |
-| 16:00  |            2.3 |     10.6 |             92.8 |                64.1 |         16.5 | WNW              |
-| 19:00  |            2.1 |     10.4 |             93.1 |                60.2 |         14.8 | WNW              |
+| 07:00  |            2.3 |     10.5 |             94.7 |                63.5 |         11.2 | W                |
+| 10:00  |            2.1 |     10.4 |             94   |                58.5 |         12.9 | W                |
+| 13:00  |            1.9 |     10.2 |             93.4 |                53.5 |         11.9 | WSW              |
+| 16:00  |            1.7 |     10.2 |             93.4 |                48.4 |         10.9 | W                |
+| 19:00  |            1.7 |     10.2 |             93.8 |                47.5 |         10.9 | WSW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -113,7 +116,7 @@ Notes: Could very well be flat.
 
 ### Wednesday 2/04
 
-Likely flat
+Flat
 
 ### Thursday 2/05
 
@@ -121,7 +124,7 @@ Flat
 
 ### Friday 2/06 - Weekend
 
-Watching for back to back east swells around this time. Check back later.
+Flat on the charts, but a couple of runs have suggested we could see some waves. Low expectations at this time.
 
 ---
 

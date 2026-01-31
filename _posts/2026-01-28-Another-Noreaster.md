@@ -29,11 +29,21 @@ It's possible that southern NJ will have the best actual conditions for surfing 
 
 It shouldn't need to be said, but this is one for the experts if it comes together.
 
+## Updates as of 1/31
+
+Well, swell numbers have trended down (not totally unexpected). This is still a very strong storm system and is pushing out 20+ft seas that are fairly poorly aimed at any actual land. At least for the mainland U.S., North Carolina will see the strongest waves from this system.
+
+That said, we're still looking at solid mid-period surf for early next week. Sunday 2/1, at this point, looks like a wash for Monmouth County. Ocean County cleans up earlier, but swell heights will be lower (but it'll handle the direction better). If you're not looking to drive, Monday mid-morning and mid-afternoon will be the best conditions. The large tide swing limits windows of surfability, but there will be plenty of waves if you pick your windows carefully. 
+
+Given the easterly swell direction (almost straight in to our beaches) and the mid-period swell, closeouts will be an issue.
+
+Wind is expected to be out of the northwest and not too strong all day.
+
+All in all, Monday should be pretty user friendly (although solid). Largest conditions early (around head high) before fading to around chest high late day.
+
 ## The Leftovers
 
-Luckily for the mortals amongst us, it's looking like we'll have some fun waves on Monday. Currently, forecasted numbers are around 5ft@11s which works out to punchy shoulder to a little over head high surf. Currently, winds are expected to be cross-offshore, but we handle NW winds pretty well in Monmouth County, so I wouldn't expect too much chop at this time. Ocean County is likely to be better than Monmouth County given the easterly swell direction, but it's too early to make that call.
-
-I would expect the swell to drop really quickly (like we saw 1/26), so leftovers for Tuesday are a coin flip at this point. Monday will be the day to target for most surfers. Later in the day will be more manageable for less skilled surfers.
+Tuesday is looking pretty small at this point. Although swell tables are calling ~2.5ft@11, that will include some NW swell from the sustained offshore winds. Currently, I'm expecting closer to 1.5ft@11s on the buoys for Tuesday AM. At this point, I'm calling it a coin flip as for whether there will be enough for a longboard in the AM. The early AM low tide will need to be avoided again. Late AM is the best window if there is surf.
 
 ## Pattern Shift?
 
