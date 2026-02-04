@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 2/02/2026 20:00**
+**Last Update: 2/04/2026 09:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -32,50 +32,102 @@ After that, there's another potential system impacting our region mid-week. I'm 
 A clipper system is possible next weekend with a little bit of snow as well. I'm not expecting any surf from that system at the moment.
 
 
-### Tuesday 2/03
+### Wednesday 2/04 - Thursday 2/05
+
+Flat
+
+### Friday 2/06
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.3 |      9.9 |            103   |                58.6 |         11.2 | W                |
-| 10:00  |            2.2 |      9.9 |            102   |                57.9 |         14.2 | W                |
-| 13:00  |            2.2 |     10.4 |             98.2 |                60.9 |         13.9 | W                |
-| 16:00  |            2.1 |     10.3 |             96.9 |                59.3 |         13.6 | W                |
-| 19:00  |            1.8 |     10.1 |             96.3 |                50.7 |         11.3 | WSW              |
+| 07:00  |            1.8 |     11.9 |            103.8 |                65.4 |          8.7 | N                |
+| 10:00  |            1.6 |     11.7 |            105   |                58.6 |          7.2 | NNW              |
+| 13:00  |            1.5 |     11.6 |            106.1 |                53.7 |          0.8 | NW               |
+| 16:00  |            1.4 |     11.3 |            105   |                50.1 |          4.3 | S                |
+| 19:00  |            1.4 |     11   |            106   |                45.6 |          8.1 | SSW              |
 
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
-| 01:45  | L      |         -0.71 |
-| 08:01  | H      |          5.01 |
-| 14:22  | L      |         -0.96 |
-| 20:32  | H      |          4.57 |
+| 03:56  | L      |         -0.12 |
+| 10:15  | H      |          4.08 |
+| 16:15  | L      |         -0.22 |
+| 22:50  | H      |          4.2  |
 
+Not expecting a whole lot, but it's worth keeping an eye on given the slow week of surf. This is the best chance we get this week. 
 
-Actual swell looks more like 2ft@10s. There should be enough for a longboard, but it's not looking great.
+Notes: Check back later
 
-Notes: It's really not worth it. Mid-tide in the AM if you want to go for some reason.
+### Weekend of 2/7 - 2/8
 
-Best board: longboard
+Flat. 
 
-### Wednesday 2/04
-
-Flat
-
-### Thursday 2/05
-
-Flat
-
-### Friday 2/06 - Weekend
-
-Flat on the charts, but a couple of runs have suggested we could see some waves on 2/6. Low expectations at this time.
+Notes: Some snow is expected from a clipper system but shouldn't be too much.
 
 ---
 
 ## Looking Ahead
 
-It's probably going to be slow for a week or so. Around Valentines day is the next time period to watch. 
+Next week looks a lot more interesting with a potential (but somewhat low probability) mid-period east swell on Monday/Tuesday and then another large system moving in over the weekend. It's too early to get into specifics but this could potentially be another solid swell (and unfortunately more snow).
 
-Stay warm and check back later.
+### Monday 2/9
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            1.9 |      9.9 |             93.2 |                50.5 |          9.9 | W                |
+| 10:00  |            2.1 |     11.9 |             97.4 |                71.4 |          9.4 | W                |
+| 13:00  |            2.3 |     11.5 |             97.2 |                71.8 |          8.4 | W                |
+| 16:00  |            2.4 |     11.6 |             97.6 |                73.9 |         10.1 | W                |
+| 19:00  |            2.4 |     12.1 |             97.9 |                77.2 |          9.2 | W                |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 00:36  | H      |          3.19 |
+| 06:29  | L      |          0.69 |
+| 12:20  | H      |          3.91 |
+| 18:30  | L      |          0.65 |
+
+I'm putting this into the low probability category. A lot has to come together for this to work out.
+
+### Tuesday 2/10
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            2.5 |     12.1 |             99.2 |                79.4 |         12.2 | W                |
+| 10:00  |            2.4 |     12.2 |             99.8 |                78.5 |          9.3 | NW               |
+| 13:00  |            2.4 |     12.3 |            102.9 |                79.3 |         12.2 | NNW              |
+| 16:00  |            2.4 |     12.3 |            102.4 |                78.5 |         11.7 | N                |
+| 19:00  |            2.3 |     12.3 |            102   |                77.6 |         11.4 | NNE              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 01:07  | H      |          3.79 |
+| 07:35  | L      |          0.76 |
+| 13:28  | H      |          3.03 |
+| 19:33  | L      |          0.76 |
+
+
+### Saturday 2/15
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            9.1 |      6.7 |             83.5 |                81.8 |         36.9 | ENE              |
+| 10:00  |           13.1 |      8   |             83.2 |                96.1 |         46.7 | ENE              |
+| 13:00  |           14.9 |      9.4 |             91.9 |                99   |         42.6 | NE               |
+| 16:00  |           16   |     10.2 |             94   |                99.5 |         42.7 | NE               |
+| 19:00  |           15.4 |     10.8 |             97.4 |                99.6 |         40.3 | NNE              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 05:36  | H      |          4.4  |
+| 11:52  | L      |         -0.17 |
+| 18:01  | H      |          3.75 |
+| 23:55  | L      |         -0.01 |
+
+Too far out of course, but those are some serious numbers.
 
 ---
 
