@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 2/04/2026 09:30**
+**Last Update: 2/05/2026 09:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -14,6 +14,8 @@ title: Monmouth County Surf Forecast
 **Scroll to the right for more information in the below tables**
 
 ---
+
+**This week is looking slow, read my forecast note [here](/2026/02/05/Forecasters-Note)**
 
 ### Wednesday 1/28 - Saturday 1/31
 
@@ -56,7 +58,9 @@ Flat
 
 Not expecting a whole lot, but it's worth keeping an eye on given the slow week of surf. This is the best chance we get this week. 
 
-Notes: Check back later
+Notes: Likely too small
+
+Best board: Longboard
 
 ### Weekend of 2/7 - 2/8
 
@@ -70,15 +74,17 @@ Notes: Some snow is expected from a clipper system but shouldn't be too much.
 
 Next week looks a lot more interesting with a potential (but somewhat low probability) mid-period east swell on Monday/Tuesday and then another large system moving in over the weekend. It's too early to get into specifics but this could potentially be another solid swell (and unfortunately more snow).
 
+I think we have reason to be optimistic about the next month or so, from mid-Feb through mid-March. Read my forecast note [here](/2026/02/05/Forecasters-Note)
+
 ### Monday 2/9
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.9 |      9.9 |             93.2 |                50.5 |          9.9 | W                |
-| 10:00  |            2.1 |     11.9 |             97.4 |                71.4 |          9.4 | W                |
-| 13:00  |            2.3 |     11.5 |             97.2 |                71.8 |          8.4 | W                |
-| 16:00  |            2.4 |     11.6 |             97.6 |                73.9 |         10.1 | W                |
-| 19:00  |            2.4 |     12.1 |             97.9 |                77.2 |          9.2 | W                |
+| 07:00  |            2.7 |     11   |            101.4 |                74.3 |         11.9 | W                |
+| 10:00  |            2.8 |     11.2 |            100.6 |                77   |         13.1 | WNW              |
+| 13:00  |            2.8 |     11.1 |            100.1 |                77   |         14.5 | NW               |
+| 16:00  |            2.9 |     11.1 |            100.2 |                78.1 |         16.7 | NNW              |
+| 19:00  |            3.2 |     11.6 |            103.3 |                84.3 |         17.6 | NNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -90,15 +96,19 @@ Next week looks a lot more interesting with a potential (but somewhat low probab
 
 I'm putting this into the low probability category. A lot has to come together for this to work out.
 
+Let's say it does work out, we're looking at swell closer to 2.5ft@11s which would be pretty fun.
+
+Notes: Let's wait and see.
+
 ### Tuesday 2/10
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.5 |     12.1 |             99.2 |                79.4 |         12.2 | W                |
-| 10:00  |            2.4 |     12.2 |             99.8 |                78.5 |          9.3 | NW               |
-| 13:00  |            2.4 |     12.3 |            102.9 |                79.3 |         12.2 | NNW              |
-| 16:00  |            2.4 |     12.3 |            102.4 |                78.5 |         11.7 | N                |
-| 19:00  |            2.3 |     12.3 |            102   |                77.6 |         11.4 | NNE              |
+| 07:00  |            1.9 |     11.8 |            106.4 |                67.7 |          9.3 | NW               |
+| 10:00  |            1.9 |     11.8 |            106.6 |                66.5 |          9.2 | NW               |
+| 13:00  |            1.9 |     11.7 |            106.2 |                65   |         11.2 | NW               |
+| 16:00  |            1.8 |     11.6 |            106.2 |                62.8 |         10.7 | NW               |
+| 19:00  |            1.7 |     11.5 |            105.8 |                60.3 |         11.2 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -108,6 +118,9 @@ I'm putting this into the low probability category. A lot has to come together f
 | 13:28  | H      |          3.03 |
 | 19:33  | L      |          0.76 |
 
+Possibly a continuation of Monday's swell. I doubt these numbers.
+
+Notes: Likely to be flat
 
 ### Saturday 2/15
 
