@@ -31,13 +31,13 @@ Courtesy of tropicaltidbits.com
 
 This chart shows mid-Feb through the end of February. As you can see by the red shaded area around Bermuda, we have high pressure set up over the western Atlantic (the Bermuda High). This is actually a particularly great chart for us. High pressure anomaly over Canada means storm tracks should be further south and then low pressure anomaly over the great planes helps confirm.
 
-The two weeks following have show similar charts.
+The two weeks following have similar charts.
 
 This is a good setup for southeast swells, which we pretty desperately need after the paucity of them we've seen this year. A more southerly storm track increases the probability that we see them relative to the northerly storm tracks we've seen in the last quarter of 2025 and early 2026. In real terms, this means less steep south - SSW swells and more southeast and ESE swells.
 
 ## Conclusions
 
-While things look pretty this week, I think there is solid evidence that things should be improving. More southeast swells should be on the way and we could see an active end to winter, which frankly, we deserve after what we've had this year. I'm expecting a lot more consistent surf than we've seen in the past couple of weeks.
+While things look pretty slow this week, I think there is solid evidence that things should be improving. More southeast swells should be on the way and we could see an active end to winter, which frankly, we deserve after what we've put up with this year. I'm expecting a lot more consistent surf than we've seen in the past couple of weeks.
 
 There is *some* evidence of an early spring, which could potentially slow things down after mid-March. It's too early to make any calls of course, but it's something to keep in mind. The positive, of course, is that we would experience temperatures fit for living instead of hibernating, which seems like a dream at this point.
 
