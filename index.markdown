@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 2/05/2026 09:30**
+**Last Update: 2/06/2026 10:00** (Next update will likely be Sunday, 2/8)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -80,11 +80,11 @@ I think we have reason to be optimistic about the next month or so, from mid-Feb
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            2.7 |     11   |            101.4 |                74.3 |         11.9 | W                |
-| 10:00  |            2.8 |     11.2 |            100.6 |                77   |         13.1 | WNW              |
-| 13:00  |            2.8 |     11.1 |            100.1 |                77   |         14.5 | NW               |
-| 16:00  |            2.9 |     11.1 |            100.2 |                78.1 |         16.7 | NNW              |
-| 19:00  |            3.2 |     11.6 |            103.3 |                84.3 |         17.6 | NNW              |
+| 07:00  |            3   |     11.2 |             96.4 |                80.3 |         10.6 | NW               |
+| 10:00  |            2.8 |     11.2 |             95.9 |                77.2 |         11.1 | WNW              |
+| 13:00  |            2.6 |     11.5 |             98.1 |                76.3 |          8.4 | WNW              |
+| 16:00  |            2.4 |     11.2 |             95.4 |                71.9 |          8.3 | W                |
+| 19:00  |            2.4 |     11.2 |             95.3 |                71.7 |         12.9 | W                |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -96,19 +96,21 @@ I think we have reason to be optimistic about the next month or so, from mid-Feb
 
 I'm putting this into the low probability category. A lot has to come together for this to work out.
 
-Let's say it does work out, we're looking at swell closer to 2.5ft@11s which would be pretty fun.
+Update: Weirdly, this is trending better on the GFS but worse on the Euro. I'd feel better if they were in closer agreement given we're three days out.
 
-Notes: Let's wait and see.
+Let's say it does work out, we're looking at swell closer to 2.5ft@11s which would be pretty fun. That said, mid-period swell plus east swell direction means lots of closeouts. Finding the right bar is going to be important.
+
+Notes: Let's wait and see. Could be nothing.
 
 ### Tuesday 2/10
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.9 |     11.8 |            106.4 |                67.7 |          9.3 | NW               |
-| 10:00  |            1.9 |     11.8 |            106.6 |                66.5 |          9.2 | NW               |
-| 13:00  |            1.9 |     11.7 |            106.2 |                65   |         11.2 | NW               |
-| 16:00  |            1.8 |     11.6 |            106.2 |                62.8 |         10.7 | NW               |
-| 19:00  |            1.7 |     11.5 |            105.8 |                60.3 |         11.2 | WNW              |
+| 07:00  |            2   |     11.9 |            100.7 |                68.6 |          8.9 | NW               |
+| 10:00  |            1.8 |     11.8 |            101.2 |                64.2 |          7.5 | NNW              |
+| 13:00  |            1.7 |     11.6 |            101.4 |                59.9 |          5.4 | NNW              |
+| 16:00  |            1.5 |     11.5 |            101.4 |                55.2 |          6.6 | NNW              |
+| 19:00  |            1.4 |     11.3 |             99.4 |                50   |          5.6 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
