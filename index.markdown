@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 2/07/2026 18:00** (Next update will likely be Sunday, 2/8)
+**Last Update: 2/08/2026 10:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -23,44 +23,12 @@ Flat
 
 ---
 
-## Week of Sunday 2/01 - Sunday 2/08
+## Week of 2/08 - 2/15
 
-Write up for the next round of surf/Nor'easter can be found [here](/2026/01/28/Another-Noreaster)
+This won't be a particularly busy week for surf, but we should start to see evidence of more frequent swell events as we approach the weekend. We will have waves on Monday 2/9 and possibly leftovers on Tuesday 2/10 (low probability). The real story is going to be what happens over the weekend into the following week. Currently, it looks like we should see a solid swell come through on 2/15 with cleaner conditions for  2/16. More on that below.
 
-Another Nor'easter is expected to pass by our region on Sunday and should generate some powerful ENE swell for our region (this time without the snow, at least for NJ). North Carolina looks to get the most from this system but good luck getting to Hatteras after the snowfall. South NJ should do OK on Sunday afternoon if looking to get as much from the swell as possible. Otherwise, Monday is looking particularly fun for this area depending on how well the sandbars handle the easterly swell direction.
+Too early to say, but the following week (2/16-2/22) has one of the best charts I've seen in a while. Back-back-back swells are possible. Fingers crossed.
 
-After that, there's another potential system impacting our region mid-week. I'm not seeing anything on the swell charts from this, but it's worth keeping in mind. I wouldn't expect much if there is something, but it could work out with a bit of remaining swell from this weekend's Nor'easter.
-
-A clipper system is possible next weekend with a little bit of snow as well. I'm not expecting any surf from that system at the moment.
-
-
-### Wednesday 2/04 - Thursday 2/05
-
-Flat
-
-### Friday 2/06
-
-| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
-|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.8 |     11.9 |            103.8 |                65.4 |          8.7 | N                |
-| 10:00  |            1.6 |     11.7 |            105   |                58.6 |          7.2 | NNW              |
-| 13:00  |            1.5 |     11.6 |            106.1 |                53.7 |          0.8 | NW               |
-| 16:00  |            1.4 |     11.3 |            105   |                50.1 |          4.3 | S                |
-| 19:00  |            1.4 |     11   |            106   |                45.6 |          8.1 | SSW              |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:56  | L      |         -0.12 |
-| 10:15  | H      |          4.08 |
-| 16:15  | L      |         -0.22 |
-| 22:50  | H      |          4.2  |
-
-Not expecting a whole lot, but it's worth keeping an eye on given the slow week of surf. This is the best chance we get this week. 
-
-Notes: Likely too small
-
-Best board: Longboard
 
 ### Sunday 2/08
 
@@ -84,23 +52,16 @@ Notes: Not worth it
 
 Best board: Why are you still reading this? Go to Monday's forecast.
 
----
-
-## Looking Ahead
-
-Next week looks a lot more interesting with a potential (but somewhat low probability) mid-period east swell on Monday/Tuesday and then another large system moving in over the weekend. It's too early to get into specifics but this could potentially be another solid swell (and unfortunately more snow).
-
-I think we have reason to be optimistic about the next month or so, from mid-Feb through mid-March. Read my forecast note [here](/2026/02/05/Forecasters-Note)
 
 ### Monday 2/9
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.4 |     10.8 |             98.6 |                82.2 |         16.1 | NW               |
-| 10:00  |            3.1 |     10.8 |             98.3 |                79   |         12.9 | NNW              |
-| 13:00  |            2.7 |     10.8 |             98.1 |                73.2 |         11.2 | NW               |
-| 16:00  |            2.6 |     10.6 |             95.4 |                70.6 |         13.8 | NW               |
-| 19:00  |            2.4 |     10.6 |             95.4 |                66.2 |         11.5 | WNW              |
+| 07:00  |            3.3 |     11.3 |             95.7 |                83.8 |         15.4 | NW               |
+| 10:00  |            3   |     11.1 |             95.3 |                78.9 |         12.4 | NW               |
+| 13:00  |            2.7 |     11   |             95   |                74.4 |         11.1 | NW               |
+| 16:00  |            2.6 |     10.9 |             94.8 |                72.3 |         12.6 | NW               |
+| 19:00  |            2.5 |     11   |             94.9 |                71.6 |         12.1 | WNW              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -110,27 +71,26 @@ I think we have reason to be optimistic about the next month or so, from mid-Feb
 | 12:20  | H      |          3.91 |
 | 18:30  | L      |          0.65 |
 
-At this point, I'd say we will have waves, but it'll likely be lully and with some weird shape. Probably worth going. There's still some uncertainty in terms of swell heights. I'm seeing 2.5ft@10.5s as the main swell but also the 3+ft above. Hopefully there is a little more clarity tomorrow, but at the very least, plan on checking the cam if you have the opportunity to surf. Mid-morning - late AM before the high tide is probably the best window.
+Swell models have remained pretty consistent in terms of height/period for tomorrow. I'd expect buoys to be in the 2.6@11s range for actual swell. I would go in expecting some lulls between sets. On a positive note, currents shouldn't be too bad.
 
 As for breaking wave heights, I'm going to call waist-stomach high for Monmouth County with larger wave heights further south. Ocean County will likely be pushing stomach-chest high but I'd be surprised if we see much more than that.
 
 Wind is side-offshore for clean conditions. Actual winds on the beach should be closer to 10kts and it should remain manageable all day.
 
-Notes: This could be a sneakily fun swell given the light winds and mid-period surf. Closeouts are going to be an issue, but at the right bar it could end up being really fun if the lulls aren't too bad.
+Notes: This could be a sneakily fun swell given the light winds and mid-period surf. Closeouts are going to be an issue, but at the right bar it could end up being really fun if the lulls aren't too bad. 
 
-Best board: daily driver or possibly a hpsb if swell comes in a bit stronger.
-
+Best board: daily driver or performance groveler
 
 
 ### Tuesday 2/10
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            1.7 |     11.3 |             99.8 |                58.9 |          7.6 | W                |
-| 10:00  |            1.6 |     11.2 |            100.2 |                54.9 |          9.1 | SSW              |
-| 13:00  |            2.1 |     11   |            100.7 |                65.8 |         14.9 | SSW              |
-| 16:00  |            2.6 |     11   |            100.9 |                73.7 |         16.3 | SSW              |
-| 19:00  |            2.7 |      4.2 |            179.7 |                 1.7 |         13.4 | SW               |
+| 07:00  |            1.7 |     11.6 |            100   |                61   |          7.5 | W                |
+| 10:00  |            1.6 |     11.5 |            100.1 |                56.6 |          8   | SSW              |
+| 13:00  |            2   |     11.4 |             97.7 |                65.6 |         14.4 | SSW              |
+| 16:00  |            3   |      3.9 |            192.8 |                 0.9 |         18.9 | SSW              |
+| 19:00  |            3.4 |      4.6 |            189.1 |                 3.7 |         15.4 | SW               |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -140,21 +100,53 @@ Best board: daily driver or possibly a hpsb if swell comes in a bit stronger.
 | 13:28  | H      |          3.03 |
 | 19:33  | L      |          0.76 |
 
-Possibly a continuation of Monday's swell. I doubt these numbers.
+Possibly a continuation of Monday's swell. Not much size, but there could be enough for a longboard.
 
-Notes: Likely to be small or flat
+Notes: Likely to be small or flat. Check the cam in the morning if looking to surf.
 
 Best board: longboard
+
+### Wednesday 2/11
+
+Some south windswell is expected with small east mid-period swell mixing in, but we're talking 2.5ft@6.5s. Very minimal and week. If something changes, I'll update this.
+
+Notes: Not looking like it'll be worth it given the winter temps.
+
+### Thursday 2/12 - Saturday 2/14
+
+Flat
+
+
+### Sunday 2/15
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            3.1 |      4   |            140.5 |                 4.8 |         21.2 | SE               |
+| 10:00  |            4.9 |      5.2 |            140.6 |                30.8 |         24.5 | SE               |
+| 13:00  |            7.3 |      6.4 |            133.5 |                69.2 |         28.8 | ESE              |
+| 16:00  |           11.8 |      7.9 |            140   |                93.8 |         40.2 | SE               |
+| 19:00  |           11.3 |      9.1 |            142   |                96.3 |         15.9 | S                |
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 05:36  | H      |          4.4  |
+| 11:52  | L      |         -0.17 |
+| 18:01  | H      |          3.75 |
+| 23:55  | L      |         -0.01 |
+
+Possible low pressure system with a favorable track. Swell angle looks good. This could be a fun one depending on when conditions come together.
+
 
 ### Monday 2/16
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            4   |      6.8 |            170.4 |                34.6 |         13   | WSW              |
-| 10:00  |            3.7 |      6.9 |            173.1 |                30.2 |         16.8 | W                |
-| 13:00  |            3.3 |      6.8 |            174.2 |                25   |         15.2 | WNW              |
-| 16:00  |            3   |      7   |            172.7 |                24.3 |         12.9 | WNW              |
-| 19:00  |            3.3 |      7   |            170.8 |                28.5 |         20.8 | W                |
+| 07:00  |            8.1 |     10.3 |            138.1 |                95.7 |         32.7 | NW               |
+| 10:00  |            8.1 |     10.2 |            134.9 |                95.8 |         34.4 | NW               |
+| 13:00  |            8   |     10   |            131.6 |                95.3 |         36.5 | NW               |
+| 16:00  |            8.1 |      5.6 |            339.2 |                13.2 |         37.6 | NW               |
+| 19:00  |            7.7 |      5.6 |            340.2 |                12.1 |         36.6 | NW               |
+
 
 
 | Time   | Tide   |   Height (ft) |
@@ -163,8 +155,28 @@ Best board: longboard
 | 06:15  | H      |          4.61 |
 | 18:39  | H      |          4    |
 
-Possible steep south swell.
+Watch this time period closely. More details later.
 
+### Tuesday 2/17
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            4.3 |      9.9 |            108.8 |                83.7 |         21.1 | NW               |
+| 10:00  |            3.5 |      9.9 |            106.6 |                77.4 |         16   | NNW              |
+| 13:00  |            2.7 |     10   |            105.3 |                67.6 |         10.5 | NNW              |
+| 16:00  |            2.5 |     10   |            100.5 |                63.2 |          7   | NNW              |
+| 19:00  |            2.4 |     10.2 |             98   |                62.9 |          3.5 | W                |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 06:53  | H      |          4.74 |
+| 12:39  | L      |         -0.21 |
+| 13:13  | L      |         -0.56 |
+| 19:16  | H      |          4.23 |
+
+
+Waves? Perhaps.
 
 
 ---
