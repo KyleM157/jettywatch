@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 2/12/2026 09:30** (Next update will likely be 2/15)
+**Last Update: 2/14/2026 07:30** (Next update will likely be 2/15)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -17,29 +17,124 @@ title: Monmouth County Surf Forecast
 
 **This week is looking slow, read my forecast note [here](/2026/02/05/Forecasters-Note)**
 
-### Wednesday 1/28 - Saturday 1/31
-
-Flat
-
 ---
 
 ## Week of 2/08 - 2/15
 
-This won't be a particularly busy week for surf, but we should start to see evidence of more frequent swell events as we approach the weekend. We will have waves on Monday 2/9 and possibly leftovers on Tuesday 2/10 (low probability). The real story is going to be what happens over the weekend into the following week. Currently, it looks like we should see a solid swell come through on 2/15 with cleaner conditions for  2/16. More on that below.
+Nothing for the remainder of the week. Next week is looking better.
 
-Too early to say, but the following week (2/16-2/22) has one of the best charts I've seen in a while. Back-back-back swells are possible. Fingers crossed.
+## Week of 2/15 - 2/22
+
+We have a weak coastal low that's expected to generate some swell but shouldn't do much in the way of precipitation, etc. We should start to see something from this around Monday 2/16. High pressure moves in following the passage of that low pressure system before another low approaches mid-week. That setup isn't looking too great but it's possible we could see some small, steep south, short period waves. Another low pressure system looks to impact our area a few days later on 2/20 and should be a better swell producer if the forecast holds.
+
+### Monday 2/16
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            6.5 |      6.3 |             83.8 |                64   |         27.2 | NNE              |
+| 10:00  |            7   |      6.9 |             80.8 |                74.2 |         24.8 | NNE              |
+| 13:00  |            7   |      7.8 |             90.8 |                83.4 |         20.6 | NNE              |
+| 16:00  |            6.9 |      8.9 |            108.4 |                89.9 |         14.4 | N                |
+| 19:00  |            6.6 |      9.6 |            113.7 |                92.2 |          8.7 | NW               |
 
 
-### Thursday 2/12 - Friday 2/13
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 00:33  | L      |         -0.39 |
+| 06:15  | H      |          4.61 |
+| 18:39  | H      |          4    |
 
-Flat
+Wild swing overnight with the forecast models. This went from 2.7ft@5s to now close to 7ft@9s. The major atmoshperic models are in much closer agreement now, and I feel a little more confident in this forecast, though it could certainly change.
 
-### Weekend of Valentines Day
+As of right now, the main thing to watch is whether wind shifts offshore before dark.
 
-There's still a lot of uncertainty at this point and major atmoshperic models are pretty different. I think it's safe to say there will be swell, but the amount we see and the resulting swell direction is still very much up in the air.
+Notes: Large tide swing. Numbers could still move around a bit.
 
-Either way, Saturday looks to be flat, which works out for the holiday. Sunday is likely to be stormy and onshore. Luckily, we aren't likely to see snow from this system but heavy rain is a possibility depending on what happens.
 
+### Tuesday 2/17
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            4.6 |     10.1 |             97.5 |                86.3 |         10.4 | WSW              |
+| 10:00  |            4.3 |     10.1 |             96.7 |                85.2 |         11.3 | SW               |
+| 13:00  |            4   |     10.3 |             95.8 |                83.7 |          9.3 | WSW              |
+| 16:00  |            3.9 |     10.5 |             94.3 |                83.6 |         12.8 | WNW              |
+| 19:00  |            3.6 |     10.6 |             93.9 |                82.4 |         10.8 | W                |
+
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 06:53  | H      |          4.74 |
+| 12:39  | L      |         -0.21 |
+| 13:13  | L      |         -0.56 |
+| 19:16  | H      |          4.23 |
+
+
+While we are still looking at a combo swell, most of the energy will be coming from roughly due east at around 4.3@10s. I'm not super pleased about that and we would have had better conditions when it was still in the shorter period range. That said, surf should be quite a bit punchier than earlier forecasts have suggested.
+
+Breaking wave heights should be in the chest-head high range early and if this holds, will be in the stomach-chest range by evening.
+
+Notes: Swell numbers could change. Large tide swing limits surfable window. Close outs will be an issue at most breaks again.
+
+Best board: short board
+
+### Wednesday 2/18
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            2.9 |     11.5 |             91.2 |                80.1 |         10.1 | N                |
+| 10:00  |            2.6 |     11.5 |             90.6 |                76.6 |          5.9 | ENE              |
+| 13:00  |            2.4 |     11.3 |             87.2 |                71.7 |          9.8 | E                |
+| 16:00  |            2.3 |     11.6 |             90.4 |                73.2 |          9.7 | E                |
+| 19:00  |            2.5 |     11.6 |             90.2 |                75.2 |         13.8 | ESE              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 01:23  | L      |         -0.36 |
+| 07:31  | H      |          4.77 |
+| 13:51  | L      |         -0.67 |
+| 19:53  | H      |          4.42 |
+
+
+Too early to call, but it's possible we'll have some waves on Wednesday. Glassy conditions expected. Large tide swing.
+
+Notes: I'd expect this to come down a bit. Check back later.
+
+Best board: TBD
+
+### Thursday 2/19
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            3   |      4.8 |            140.8 |                10   |         10.5 | E                |
+| 10:00  |            2.8 |      5   |            140.7 |                10.1 |          1.4 | N                |
+| 13:00  |            2.6 |      5   |            137   |                 9.6 |          7.2 | N                |
+| 16:00  |            2.4 |      5   |            132.5 |                 8.3 |          5.6 | NNE              |
+| 19:00  |            2.5 |      5   |            130   |                 8.9 |          4.2 | ENE              |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:06  | L      |         -0.45 |
+| 08:10  | H      |          4.69 |
+| 14:27  | L      |         -0.7  |
+| 20:32  | H      |          4.56 |
+
+I'm doubting the combined swell heights/period on this one. Most of the height is coming from a steep south wind swell at less than 6s period.
+
+Notes: Low expectations. Enough for a true beginner. Could change.
+
+
+### Friday 2/20
+
+We might have a swell here. Model runs are varying.
+
+
+### Saturday 2/21
+
+We might have a swell here. Model runs are varying.
 
 ---
 
