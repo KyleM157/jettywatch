@@ -120,9 +120,8 @@ For breaking wave heights, I'd expect stomach high with some plus sets. Given th
 
 Wind is onshore, ENE at around 10kts.
 
-I'm going to say this should be pretty fun even with the onshore wind. It shouldn't be enough to blow it out completely and light onshores with weaker surf can be a good thing.
+**Update: Looks pretty blown out as the tide goes out. Probably best to stay warm.**
 
-Notes: Hopefully the wind comes in as forecasted or lighter, but ~10kts is expected.
 
 Best board: groveler or longboard
 
