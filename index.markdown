@@ -15,11 +15,6 @@ title: Monmouth County Surf Forecast
 
 ---
 
-**This week is looking slow, read my forecast note [here](/2026/02/05/Forecasters-Note)**
-
----
-
-
 ## Week of 2/15 - 2/22
 
 This looks like a really decent week of surf. Normally I'd write more, but there's too much to put here. Continue below for more:
@@ -93,23 +88,23 @@ Best board: Most boards will work today if you find a good wave.
 | 19:53  | H      |          4.42 |
 
 
-Models are still showing leftovers for Wednesday AM. Curretnly, it looks pretty fun, although more easterly given the swell period than I'd like to see. Conditions should be glassy but closeouts will be an issue.
+Models are still showing leftovers for Wednesday AM. Currently, it looks pretty fun, although more easterly given the swell period than I'd like to see. Conditions should be glassy but closeouts will be an issue.
 
-Breaking wave heights should be in the waist-stomach high range or so for most of Monmouth County with slightly larger waves a little further south.
+More swell on the buoy than expectee as of 7am this morning. Looks like waves will be in the chest high range. Models missed on this one.
 
-Notes: This could drop some, but it's looking more likely. Closeouts will be a major issue at most sandbars.
+Notes: Closeouts will be a major issue at most sandbars.
 
-Best board: groveler or longboard
+Best board: longboard or daily driver
 
 ### Thursday 2/19
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.5 |      7.4 |            164   |                39   |         11   | NE               |
-| 10:00  |            3.3 |      8.1 |            158.8 |                46.4 |          8.5 | ENE              |
-| 13:00  |            3.2 |      8.2 |            156.3 |                47.1 |          5.3 | ENE              |
-| 16:00  |            3   |      8   |            162.2 |                38.6 |          6   | ENE              |
-| 19:00  |            2.7 |      7.7 |            161.4 |                31   |          7.2 | ESE              |
+| 07:00  |            3.7 |     11.1 |             94.2 |                85.8 |         12   | ENE              |
+| 10:00  |            3.9 |      7.7 |            146.2 |                54.6 |         12.5 | ENE              |
+| 13:00  |            3.9 |      7.6 |            156.1 |                49.9 |         10.7 | ENE              |
+| 16:00  |            3.8 |      7.5 |            156.1 |                47.3 |         11.3 | E                |
+| 19:00  |            3.7 |      7.3 |            155.8 |                43.6 |         11.5 | ENE              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -119,15 +114,17 @@ Best board: groveler or longboard
 | 14:27  | L      |         -0.7  |
 | 20:32  | H      |          4.56 |
 
-This has trended up a good bit and is starting to look like a pretty fun little southeast swell. The numbers we're seeing in the chart are based on a little bit of mid-period east mixing in from the swell we're getting Tuesday. I'd expect there to be fairly long lulls if this comes to pass.
+*Models didn't do a great job with this one. Actual buoy numbers are SSE 3ft@6s and E 3ft@13s. The Barnegat buoy is closer to S 5ft@8s and 2ft@11s. Kind of a hard read given the difference in wind wave values.
 
-Overall, I'd expect waves in the waist-stomach high with occasional plus sets. Nothing huge, but it could be fairly user friendly all in all.
+For breaking wave heights, I'd expect stomach high with some plus sets. Given the swell mix, long lulls are to be expected. There is likely to be some current running but nothing too strong.
 
-Wind is light onshore for textured but doable conditions.
+Wind is onshore, ENE at around 10kts.
 
-Notes: This could change and I'd have somewhat low expectations at this point.
+I'm going to say this should be pretty fun even with the onshore wind. It shouldn't be enough to blow it out completely and light onshores with weaker surf can be a good thing.
 
-Best board: TBD
+Notes: Hopefully the wind comes in as forecasted or lighter, but ~10kts is expected.
+
+Best board: groveler or longboard
 
 
 ### Friday 2/20
@@ -148,18 +145,18 @@ Best board: TBD
 | 15:03  | L      |         -0.65 |
 | 21:15  | H      |          4.64 |
 
-Looking blown out, but things could change.
+Looking blown out.
 
 
 ### Saturday 2/21
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            3.6 |      6.4 |            120   |                38.7 |          8.4 | W                |
-| 10:00  |            3.2 |      6.4 |            119.6 |                34   |          7.7 | NW               |
-| 13:00  |            2.9 |      6.4 |            118.4 |                30.2 |          6.7 | N                |
-| 16:00  |            2.7 |      6.5 |            121.1 |                27.8 |          6.5 | NNE              |
-| 19:00  |            2.5 |      6.6 |            124.6 |                25.5 |         10.1 | NE               |
+| 07:00  |            3.7 |      6.8 |            123.6 |                45.1 |         14   | WNW              |
+| 10:00  |            3.3 |      6.8 |            125.1 |                39.8 |         12.4 | WNW              |
+| 13:00  |            3   |      6.8 |            129.6 |                34.2 |         10.6 | NNW              |
+| 16:00  |            2.7 |      6.8 |            136.4 |                29.4 |          9.4 | NNW              |
+| 19:00  |            2.3 |      6.8 |            139.8 |                22.6 |          6.4 | NW               |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -169,18 +166,21 @@ Looking blown out, but things could change.
 | 15:41  | L      |         -0.52 |
 | 22:04  | H      |          4.65 |
 
-Potentially enough for beginners and longboards. Check back later.
+Potentially enough for a groveler or at least a longboard. Might be worth a look.
 
+Notes: Could be fun in the AM.
+
+Best board: longboard or groveler
 
 ### Sunday 2/22
 
 | Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
 |:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
-| 07:00  |            5.9 |      6.1 |             88.8 |                57.9 |         22.7 | E                |
-| 10:00  |            7.5 |      6.6 |             89.6 |                74.6 |         28.1 | E                |
-| 13:00  |            9.3 |      7.4 |             93.8 |                88.2 |         31   | E                |
-| 16:00  |           11.7 |      8.3 |            100.1 |                96.1 |         34.2 | E                |
-| 19:00  |           12.9 |      9.3 |            102.4 |                98.4 |         30.6 | E                |
+| 07:00  |            4.7 |      5.4 |             84.4 |                35.2 |         20   | E                |
+| 10:00  |            4.7 |      5.6 |             87.3 |                38.5 |         17.9 | E                |
+| 13:00  |            4.7 |      5.5 |             88.2 |                37.4 |         19   | E                |
+| 16:00  |            5   |      5.7 |             86.5 |                42.7 |         18.8 | ENE              |
+| 19:00  |            6.2 |      6.1 |             83   |                58.7 |         24.2 | ENE              |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -190,7 +190,53 @@ Potentially enough for beginners and longboards. Check back later.
 | 16:24  | L      |         -0.31 |
 | 22:59  | H      |          4.61 |
 
-Another swell is possible around this time. Check back later.
+Stormy and blown out.
+
+It's possible we see a ton of snow (1ft+). Prepare for that.
+
+### Monday 2/23
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |           11.4 |      9.1 |             85.9 |                97.2 |         36.6 | NNE              |
+| 10:00  |           12   |     10.6 |             92   |                99   |         34.9 | N                |
+| 13:00  |           12.3 |     11.7 |             98   |                99.6 |         34   | N                |
+| 16:00  |           11.5 |     12.1 |             97.2 |                99.6 |         34.6 | NNW              |
+| 19:00  |           10.3 |     12.2 |             98   |                99.4 |         21.5 | NNW              |
+
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 05:19  | L      |          0.1  |
+| 11:31  | H      |          3.79 |
+| 17:18  | L      |         -0.06 |
+| 23:58  | H      |          4.53 |
+
+Big numbers from what looks like another Miller B Nor'easter. Watch Tuesday, assuming it's possible to get to the beach.
+
+
+### Tuesday 2/24
+
+| Time   |   Swell Height |   Period |   Wave Direction |   Energy Percentile |   Wind Speed | Wind Direction   |
+|:-------|---------------:|---------:|-----------------:|--------------------:|-------------:|:-----------------|
+| 07:00  |            5.9 |     12.3 |             97.1 |                97   |         21.1 | NW               |
+| 10:00  |            5.2 |     12.5 |             97   |                95.9 |         17.8 | WNW              |
+| 13:00  |            4.4 |     12.4 |             96.8 |                93.9 |         16   | W                |
+| 16:00  |            3.8 |     12.3 |             96.6 |                91.2 |         14.3 | W                |
+| 19:00  |            3.4 |     12.2 |             94   |                88.2 |         11   | WNW              |
+
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 00:34  | H      |          3.61 |
+| 06:33  | L      |          0.29 |
+| 18:29  | L      |          0.16 |
+
+Firing surf.
+
+
 
 ---
 
