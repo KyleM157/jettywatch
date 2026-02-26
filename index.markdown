@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 2/25/2026 09:30**
+**Last Update: 2/26/2026 15:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -13,38 +13,9 @@ title: Monmouth County Surf Forecast
 
 ## Week of 2/22 - 2/28
 
-For everyone else, Tuesday is looking fun, though it's an east swell, meaning you're going to want to find a sandbar that can handle the swell direction.
-
-Following Tuesday's swell, it looks like another low pressure system moves across the Great Lakes setting up a fun, prefrontal south swell for Wednesday afternoon and possible leftovers on Thursday AM.
-
-Great week of surf here. Let's hope we get the least amount of snow possible.
 
 
-### Wednesday 2/25
 
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 07:00  |            205.1 |            2.4 |     10   |                17.5 | S                |         14.1 |
-| 09:00  |            184.9 |            3   |      3.6 |                 0.2 | SSW              |         19   |
-| 11:00  |            175   |            4.3 |      4.7 |                 5.4 | SSW              |         21   |
-| 13:00  |            175   |            5.3 |      5.7 |                20.1 | SSW              |         21.1 |
-| 15:00  |            175   |            5.8 |      6.6 |                37.5 | SW               |         20.4 |
-| 17:00  |            175   |            6   |      7.2 |                47.7 | SW               |         18.8 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 01:01  | H      |          4.44 |
-| 07:50  | L      |          0.3  |
-| 13:40  | H      |          3.52 |
-| 19:47  | L      |          0.21 |
-
-Swell builds through the day with moderately strong side-offshore wind expected for Monmouth County and sideshore wind for most of Ocean County. Swell heights are roughly 6ft but have to wrap in a little bit. Given the refraction and shorter period, I'd expect breaking wave heights in the chest high range or so by last light today.
-
-Notes: South wind protection will be helpful. Some texture, but it won't be closing out.
-
-Best board: groveler or longboard given the period
 
 ### Thursday 2/26
 
@@ -67,24 +38,26 @@ Best board: groveler or longboard given the period
 | 20:59  | L      |          0.1  |
 
 
-Clean to glassy conditions with light offshore wind to start day. Swell is around 4ft@8s early. I'm expecting waist-stomach high surf for the AM which fades throughout the day. I'm expecting wind to be a little lighter in the AM than the chart above suggests.
+This actually overperformed mid-day. Models mised this one but actual readings were around 4.5ft@10s. Solid overperformance on this one!
+
+Hope y'all got a few. Good day!
 
 Notes: Looks fun!
 
-Best board: groveler or longboard
+Best board: groveler or longboard or daily driver
 
 
 ### Friday 2/27
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 06:00  |            185   |            2.4 |      6.9 |                 6.3 | NNW              |          5   |
-| 08:00  |            185   |            2.3 |      6.8 |                 5.2 | NNW              |          5   |
-| 10:00  |            185   |            2.3 |      7   |                 6.5 | N                |          5.9 |
-| 12:00  |            172.4 |            2.6 |      7.4 |                14.8 | N                |          5.8 |
-| 14:00  |            172.4 |            2.8 |      7.6 |                19.5 | NNE              |          5.3 |
-| 16:00  |            175   |            2.9 |      7.7 |                20.4 | NNE              |          5.3 |
-| 18:00  |            175   |            2.8 |      7.7 |                19   | NNE              |          5.9 |
+| 06:00  |            185   |            3.1 |      7.2 |                13.7 | NW               |         13.2 |
+| 08:00  |            185   |            3   |      7   |                12   | NW               |         13.7 |
+| 10:00  |            185   |            3   |      6.9 |                10.7 | NW               |         14.2 |
+| 12:00  |            185   |            2.9 |      6.8 |                10.1 | NW               |         14.4 |
+| 14:00  |            185   |            3   |      7   |                11.8 | NNW              |         15   |
+| 16:00  |            179.9 |            3.2 |      7.3 |                17.9 | NNW              |         15.2 |
+| 18:00  |            172.4 |            3.4 |      7.5 |                25.9 | NNW              |         15.9 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -94,42 +67,22 @@ Best board: groveler or longboard
 | 16:02  | H      |          3.81 |
 | 22:01  | L      |         -0.1  |
 
-Some reinforcing swell shows up around 10am. There's some variation in the models right now and this could end up being nothing. Check back later.
+**Focus on those last few rows in the above table.**
 
-There's also snow possible, but if it's less that half a foot who even cares at this point.
+Some reinforcing swell shows up around mid-afternoon. This has moved around a little, so I'm tempering my expectations as of right now. It's worth a look late day, but the wind isn't looking too great. 
 
-Notes: This could overperform. Very short lived and if it works out, you'll want to be there at 10 to make the most of it.
-
-
-### Saturday 2/28
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 06:00  |            184.9 |              2 |      7.1 |                 4.7 | S                |          4.5 |
-| 08:00  |            155   |              2 |      7.1 |                10.6 | S                |          4.9 |
-| 10:00  |            154.9 |              2 |      7.2 |                11   | S                |          4.9 |
-| 12:00  |            155   |              2 |      7.2 |                11.2 | SSW              |          5   |
-| 14:00  |            155   |              2 |      7.2 |                11   | SSW              |          4.3 |
-| 16:00  |            155   |              2 |      7.1 |                10.6 | SSW              |          5.3 |
-| 18:00  |            154.9 |              2 |      7.1 |                10.1 | SSW              |          5.7 |
+Notes: This could overperform (or underperform). Check end of day but have low expectations.
 
 
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 04:28  | H      |          4.62 |
-| 10:53  | L      |         -0.36 |
-| 17:02  | H      |          4.14 |
-| 22:58  | L      |         -0.31 |
+### The Weekend of 2/28-3/01
 
-There are technically waves, but it'll be very small. Maybe enough for a beginner if they want to learn in freezing cold water.
+Flat.
 
 ---
 
 ## Looking Ahead
 
-There's plenty of activity on the charts. The next major system to watch is around 3/02 or 3/03. Unfortunately, that one seems to come with snow attached. It's too early to speculate about that, but it'll be another east swell if it comes to pass.
-
-Otherwise, we should keep seeing prefrontal south swells as the Bermuda high stays a part of the overall picture. The North Pacific has been active and we have a chance at fun south swells each time one of those low pressure systems moves accross the country and interacts with that high. There's certainly nothing particularly exciting on the charts, but I'll take consistent surf anytime and don't plan on complaining about it any time soon. The snow on the other hand...
+Watching for something early next week. I'll update this over the weekend.
 
 
 ---
