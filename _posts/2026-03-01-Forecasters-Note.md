@@ -5,7 +5,7 @@ title: Forecaster's Note for March First
 
 ## How Things are Looking
 
-Our weather pattern has definitely changed and is fairly consistent with expectations based on long range models. High pressure is dominating over the Atlantic and is strong enough in the western Atlantic where we're starting to see low pressure systems take a more inland track, even with the jetstream starting to shift south (directly over us).
+Our weather pattern has definitely changed and is fairly consistent with expectations based on long range models. High pressure is dominating over the Atlantic and is strong enough in the western Atlantic where we're starting to see low pressure systems take a more inland track as the jet stream gets pushed further north.
 
 While this isn't an ideal setup, there's still swell on the charts, although nothing particularly exciting or historic. Overall, I'd expect more trade-like-swell for at least the next week or two. This means shorter period swell with more periods of poor wind as we don't have a front pushing through with the characteristic wind switch. It does look like we'll luck out with some offshores for each of the next couple of swells, but it's not a sure thing with systems like this.
 
@@ -54,7 +54,7 @@ source [windy.com](https://www.windy.com/)
 
 If you look up at the pressure chart for that second high pressure system, you can see a region of low pressure over the Great Plains. Looking at the image above, you can see the track that it is taking is northeast (almost NNE). That wall of high pressure over the western Atlantic is going to be a problem for coastal storm tracks until something shifts in the pattern.
 
-The jetstream being further south is a positive sign, but if storms can't exit off the coast, swell production is going to be limited. Somewhat ironically, this is almost the inverse of the problems we had in early February. Other than Nor'easters, we didn't have any high pressure to bump into and given the northerly tracks of low pressure, they were too far north to be in our swell window. No high pressure to the south meant we couldn't get any prefrontal swells. Now, we don't have any low pressure systems at all.
+Somewhat ironically, this is almost the inverse of the problems we had in early February. Other than Nor'easters, we didn't have any high pressure to bump into and given the northerly tracks of low pressure, they were too far north to be in our swell window. No high pressure to the south meant we couldn't get any prefrontal swells. Now, we don't have any low pressure systems at all.
 
 ## How Long will this Continue?
 
