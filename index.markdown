@@ -13,6 +13,8 @@ title: Monmouth County Surf Forecast
 
 ### The Weekend of 2/28-3/01
 
+See my Note for March 1st [here](/2026/03/01/Forecasters-Note)
+
 Small but enough for a longboard both days. Nothing great. Wind turns sideshore Sunday afternoon.
 
 At least it's warm on Saturday.
@@ -78,13 +80,13 @@ Notes: Check back later. Not looking particularly exciting at this time.
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 06:00  |            164.7 |            3.8 |      5.5 |                11.3 | SW               |         15.4 |
-| 08:00  |            165   |            4   |      5.8 |                16   | SW               |         15.1 |
-| 10:00  |            165.1 |            4.1 |      6.1 |                20.3 | SW               |         13.4 |
-| 12:00  |            165   |            4.2 |      6.5 |                26.3 | WSW              |         12   |
-| 14:00  |            135   |            4.3 |      6.8 |                40.8 | W                |         10   |
-| 16:00  |            135   |            4.2 |      7   |                43.8 | WNW              |          8.3 |
-| 18:00  |            135   |            4   |      7.2 |                44.1 | NW               |          7.2 |
+| 06:00  |            135   |            3.3 |      5.6 |                14.2 | SW               |         11.1 |
+| 08:00  |            142.4 |            3.4 |      5.8 |                16.2 | SW               |         10.7 |
+| 10:00  |            165   |            3.4 |      5.9 |                12.6 | SW               |         10.3 |
+| 12:00  |            164.9 |            3.4 |      6.1 |                13.8 | WSW              |          9.4 |
+| 14:00  |            165   |            3.4 |      6.2 |                15.1 | WSW              |          8.4 |
+| 16:00  |            165   |            3.4 |      6.4 |                17.3 | SW               |          7.2 |
+| 18:00  |            165   |            3.5 |      6.7 |                20.3 | SW               |          7   |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -94,19 +96,22 @@ Notes: Check back later. Not looking particularly exciting at this time.
 | 13:51  | L      |         -0.69 |
 | 20:03  | H      |          4.82 |
 
-Generally looking weird on the charts, but this is a time to watch.
+I think this could be undercalled at this point. I'm expecting closer to 4ft@7s give or take. Wednesday is likely the best day of the work week.
+
+Notes: Watch this day closely.
+
 
 ### Thursday 3/05
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 06:00  |            135   |            3.3 |      7.2 |                34.2 | SE               |          5.7 |
-| 08:00  |            135   |            3.3 |      7.3 |                36.6 | SE               |          5.7 |
-| 10:00  |            132.4 |            3.4 |      7.6 |                41.7 | SE               |          6.3 |
-| 12:00  |            132.2 |            3.5 |      8   |                47.7 | SSE              |          7.8 |
-| 14:00  |            132.2 |            3.5 |      8.2 |                51.2 | SSE              |          8.5 |
-| 16:00  |            132.4 |            3.6 |      8.2 |                53.9 | S                |         10.1 |
-| 18:00  |            135   |            3.8 |      8.4 |                56.8 | S                |         11   |
+| 06:00  |            135   |            3.2 |      6.9 |                28.2 | S                |          6   |
+| 08:00  |            135   |            3.1 |      6.8 |                26   | SSW              |          5.7 |
+| 10:00  |            135   |            3.1 |      6.7 |                25.7 | SSW              |          6.7 |
+| 12:00  |            135   |            3.2 |      6.8 |                27   | SSW              |          7.9 |
+| 14:00  |            134.9 |            3.3 |      7   |                31.2 | SSW              |          7.9 |
+| 16:00  |            134.9 |            3.4 |      7.9 |                45.8 | SSW              |          8.8 |
+| 18:00  |            135   |            3.6 |      7.9 |                47.6 | SSW              |          9.5 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -116,20 +121,34 @@ Generally looking weird on the charts, but this is a time to watch.
 | 14:27  | L      |         -0.53 |
 | 20:43  | H      |          4.73 |
 
-Currently looking like the best day of the week along with Friday. Wind is onshore, but will have been light for awhile by Thursday AM. I'd expect peaky conditions with a bit of weirdness to it. Mostly glassy with a little texture.
+I'm expecting a fair amount of texture from the South wind. While wind at the shore may not be too bad, there's the entire southerly fetch to consider. Expect mediocre but doable conditions and look for some ind protection.
 
-The tide swing complicates things. Dawn patrol looks out of the question unless you have a shore break setup somewhere. The best session at the moment is after the afternoon low tide with some south wind protection. Second best is the dropping tide in the AM.
-
-Notes: Short period swell and a huge tide swing makes timing challenging. This could be fairly fun overall even if the wind doesn't switch offshore.
-
-Best board: Longboard (for the AM) or a groveler
+Notes: Check back later. Large tide swing. Tough day to plan right now.
 
 
 ### Friday 3/06
 
-Some south swell is expected to filter in, but it's possible that we'll see stronger onshore winds as a large area of high pressure moves over the Canadian Maritimes.
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
+| 06:00  |            125   |            3.5 |      6.6 |                30.6 | ENE              |          8.9 |
+| 08:00  |            125   |            3.5 |      9.5 |                67.9 | ENE              |          9.1 |
+| 10:00  |            115   |            3.9 |      5.9 |                26   | ENE              |          9.4 |
+| 12:00  |            104.9 |            4.5 |      5.9 |                34   | ENE              |         10.2 |
+| 14:00  |             95   |            5.1 |      6.4 |                47.5 | ENE              |         10.2 |
+| 16:00  |             85   |            5.4 |      6.7 |                54.6 | ENE              |         10.9 |
+| 18:00  |             85   |            5.7 |      7   |                60.9 | ENE              |         11.7 |
 
-Notes: There is likely to be swell but wind is looking bad at this time. Check back later.
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:48  | L      |         -0.35 |
+| 08:57  | H      |          4.31 |
+| 15:01  | L      |         -0.29 |
+| 21:23  | H      |          4.57 |
+
+Possible east swell. Too early to call. This is likely to change some. It will be blown out on Friday if this works out for us.
+
+Notes: Potentially fun swell, but up in the air. I'd expect something for Saturday but this is hard to forecast at this time. Wind is going to be an issue most likely.
 
 ---
 
