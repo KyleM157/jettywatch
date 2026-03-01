@@ -13,7 +13,7 @@ title: Monmouth County Surf Forecast
 
 ### The Weekend of 2/28-3/01
 
-See my Note for March 1st [here](/2026/03/01/Forecasters-Note)
+See my Note for March 1st [here](/2026/03/01/Forecasters-Note).
 
 Small but enough for a longboard both days. Nothing great. Wind turns sideshore Sunday afternoon.
 

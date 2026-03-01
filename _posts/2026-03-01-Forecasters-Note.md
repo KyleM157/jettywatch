@@ -60,6 +60,10 @@ The jetstream being further south is a positive sign, but if storms can't exit o
 
 It's hard to say. The Climate Prediction Center has our current strong phase of the NAO starting to decrease in strength back towards neutral. In so far as that is having an effect, we should be at the peak right about now.
 
+![nao forecast 3/1](/assets/images/NAO_forecast_20260301_resized.jpg)
+
+source: NOAA Climate Prediction Center
+
 It's hard to believe charts as far out as mid-next week, but I'm seeing an area of low pressure that's expected to track through our region and in our swell window. High pressure is weaker over Bermuda for that time as well.
 
 All in all, I'm still pretty optimistic about our odds through mid-March (at least for consistent and fun surf).
