@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 2/26/2026 15:30**
+**Last Update: 3/02/2026 11:15**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -72,21 +72,21 @@ Notes: Bad
 | 13:11  | L      |         -0.76 |
 | 19:22  | H      |          4.81 |
 
-Maybe?
+If this was summer, I'd say get out there. It's not going to feel like summer.
 
-Notes: Check back later. Not looking particularly exciting at this time.
+Notes: Cold for the quality. Large tide swing. Watch mid-week.
 
 ### Wednesday 3/04
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 06:00  |            135   |            3.3 |      5.6 |                14.2 | SW               |         11.1 |
-| 08:00  |            142.4 |            3.4 |      5.8 |                16.2 | SW               |         10.7 |
-| 10:00  |            165   |            3.4 |      5.9 |                12.6 | SW               |         10.3 |
-| 12:00  |            164.9 |            3.4 |      6.1 |                13.8 | WSW              |          9.4 |
-| 14:00  |            165   |            3.4 |      6.2 |                15.1 | WSW              |          8.4 |
-| 16:00  |            165   |            3.4 |      6.4 |                17.3 | SW               |          7.2 |
-| 18:00  |            165   |            3.5 |      6.7 |                20.3 | SW               |          7   |
+| 06:00  |            134.9 |            4.3 |      7.6 |                53.1 | WSW              |          6.9 |
+| 08:00  |            125   |            4.3 |      7.6 |                55.5 | W                |          5.9 |
+| 10:00  |            125   |            4.2 |      7.6 |                54.6 | WNW              |          4.9 |
+| 12:00  |            125   |            4.1 |      7.6 |                53.5 | NE               |          5   |
+| 14:00  |            125   |            4   |      7.6 |                52.3 | E                |          5.5 |
+| 16:00  |            125   |            4   |      7.6 |                51.6 | E                |          4.1 |
+| 18:00  |            125   |            3.9 |      7.7 |                51.6 | ESE              |          3.8 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -96,22 +96,22 @@ Notes: Check back later. Not looking particularly exciting at this time.
 | 13:51  | L      |         -0.69 |
 | 20:03  | H      |          4.82 |
 
-I think this could be undercalled at this point. I'm expecting closer to 4ft@7s give or take. Wednesday is likely the best day of the work week.
+This has trended better and is starting to look pretty fun. Waves stick around all day. Wind shifts onshore in the afternoon but should remain fairly light for relatively clean conditions. It's more about the tide than anything else.
 
-Notes: Watch this day closely.
+Notes: Watch this day closely. Large tide swing makes timing difficult.
 
 
 ### Thursday 3/05
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 06:00  |            135   |            3.2 |      6.9 |                28.2 | S                |          6   |
-| 08:00  |            135   |            3.1 |      6.8 |                26   | SSW              |          5.7 |
-| 10:00  |            135   |            3.1 |      6.7 |                25.7 | SSW              |          6.7 |
-| 12:00  |            135   |            3.2 |      6.8 |                27   | SSW              |          7.9 |
-| 14:00  |            134.9 |            3.3 |      7   |                31.2 | SSW              |          7.9 |
-| 16:00  |            134.9 |            3.4 |      7.9 |                45.8 | SSW              |          8.8 |
-| 18:00  |            135   |            3.6 |      7.9 |                47.6 | SSW              |          9.5 |
+| 06:00  |            132.2 |            3.3 |      8   |                46.6 | SE               |          5.3 |
+| 08:00  |            125   |            3.3 |      8.1 |                47.8 | SE               |          5.3 |
+| 10:00  |            125   |            3.2 |      8.2 |                47.8 | SSE              |          6   |
+| 12:00  |            125   |            3.1 |      8.3 |                48.7 | S                |          7   |
+| 14:00  |            125   |            3.1 |      8.5 |                51.1 | SSE              |          6.3 |
+| 16:00  |            125   |            3.1 |      8.7 |                53.2 | ESE              |          7.2 |
+| 18:00  |            125   |            3.2 |      8.8 |                55.1 | ESE              |          7.8 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -121,7 +121,7 @@ Notes: Watch this day closely.
 | 14:27  | L      |         -0.53 |
 | 20:43  | H      |          4.73 |
 
-I'm expecting a fair amount of texture from the South wind. While wind at the shore may not be too bad, there's the entire southerly fetch to consider. Expect mediocre but doable conditions and look for some ind protection.
+I'm expecting a fair amount of texture from the South wind. While wind at the shore may not be too bad, there's the entire southerly fetch to consider. Expect mediocre but doable conditions and look for some wind protection.
 
 Notes: Check back later. Large tide swing. Tough day to plan right now.
 
@@ -130,13 +130,13 @@ Notes: Check back later. Large tide swing. Tough day to plan right now.
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
-| 06:00  |            125   |            3.5 |      6.6 |                30.6 | ENE              |          8.9 |
-| 08:00  |            125   |            3.5 |      9.5 |                67.9 | ENE              |          9.1 |
-| 10:00  |            115   |            3.9 |      5.9 |                26   | ENE              |          9.4 |
-| 12:00  |            104.9 |            4.5 |      5.9 |                34   | ENE              |         10.2 |
-| 14:00  |             95   |            5.1 |      6.4 |                47.5 | ENE              |         10.2 |
-| 16:00  |             85   |            5.4 |      6.7 |                54.6 | ENE              |         10.9 |
-| 18:00  |             85   |            5.7 |      7   |                60.9 | ENE              |         11.7 |
+| 06:00  |              115 |            3.6 |      9.3 |                67.8 | ENE              |          9.9 |
+| 08:00  |              115 |            3.7 |      9.4 |                69.6 | NE               |         11   |
+| 10:00  |              115 |            3.7 |      9.5 |                71.7 | NE               |         11   |
+| 12:00  |              115 |            3.7 |      9.6 |                72.8 | NE               |         11.7 |
+| 14:00  |              115 |            3.8 |      9.6 |                73.3 | NE               |         11.7 |
+| 16:00  |              105 |            3.8 |      9.5 |                72.8 | NE               |         11.7 |
+| 18:00  |              105 |            3.9 |      9.3 |                71.5 | ENE              |         11.7 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -146,9 +146,38 @@ Notes: Check back later. Large tide swing. Tough day to plan right now.
 | 15:01  | L      |         -0.29 |
 | 21:23  | H      |          4.57 |
 
-Possible east swell. Too early to call. This is likely to change some. It will be blown out on Friday if this works out for us.
+This is trending better. The dawn patrol session may be doable. Wind/Tide is tricky.
 
-Notes: Potentially fun swell, but up in the air. I'd expect something for Saturday but this is hard to forecast at this time. Wind is going to be an issue most likely.
+Notes: Potentially fun swell, but up in the air.
+
+### Saturday 3/07
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
+| 06:00  |             94.7 |            3.7 |      5.9 |                24.2 | ESE              |          7.2 |
+| 08:00  |             85   |            3.6 |      8.2 |                54.3 | SE               |          7.2 |
+| 10:00  |             75   |            3.6 |      9   |                61.6 | SSE              |          8.6 |
+| 12:00  |             75   |            3.6 |      9   |                61.5 | S                |         10.3 |
+| 14:00  |             75   |            3.7 |      9   |                63.3 | S                |         10.8 |
+| 16:00  |             75   |            3.9 |      9.1 |                65.7 | SSW              |         11.8 |
+| 18:00  |             77.8 |            4   |      9.1 |                68.5 | SSW              |         13   |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:26  | L      |         -0.12 |
+| 09:39  | H      |          3.99 |
+| 15:33  | L      |          0.01 |
+| 22:04  | H      |          4.37 |
+
+Too early to call. It'll be warm so it's probably worth a look.
+
+Notes: Check back later.
+
+
+---
+
+All data sourced from NOAA NWPS
 
 ---
 
