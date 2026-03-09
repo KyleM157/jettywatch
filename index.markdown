@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update: 3/07/2026 13:30**
+**Last Update: 3/09/2026 08:50**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -98,9 +98,11 @@ Best board: lots of boards will work in the AM. Groveler for the evening session
 | 12:10  | H      |          3.43 |
 | 17:41  | L      |          0.62 |
 
-More swell is possible with favorable wind and swell direction.
+**A bit more swell on the buoy than forecasted. Actual values are around 3.6@7s.**
 
-Notes: Enough for a longboard. Strong offshores limit surfability.
+More swell is possible with favorable wind and swell direction. Looks decent this morning.
+
+Notes: Enough for a longboard and groveler at a favored tide.
 
 
 ### Tuesday 3/10
@@ -179,6 +181,24 @@ Best board: Something that can handle a strong current and overhead surf.
 
 
 ### Friday 3/13
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|
+| 06:00  |            158.7 |            5.1 |      8.9 |                69.5 | W                |         19.7 |
+| 08:00  |            296   |            4.5 |      8.8 |                 0.8 | W                |         17.3 |
+| 10:00  |            205   |            4.1 |      8.7 |                27.3 | WSW              |         17.1 |
+| 12:00  |            202.2 |            4.3 |      5.5 |                 4.8 | SSW              |         19.1 |
+| 14:00  |            185   |            5.2 |      5.2 |                10.6 | SSW              |         22   |
+| 16:00  |            175   |            6.5 |      6.1 |                35.1 | S                |         25.7 |
+| 18:00  |            175   |            7.9 |      6.8 |                55.9 | SSW              |         28.1 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:13  | H      |          3.74 |
+| 09:54  | L      |          0.73 |
+| 15:53  | H      |          3.17 |
+| 21:59  | L      |          0.89 |
 
 We may have good luck this year! Check back later.
 
