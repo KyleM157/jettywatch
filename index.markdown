@@ -26,32 +26,6 @@ Things slow down after that until (potentially) early the following week.
 ---
 
 
-### Tuesday 3/10
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            175   |            2.5 |      7.9 |                17.3 | SW               |          6   |          -1.2 |
-| 08:00  |            174.9 |            2.4 |      8   |                16.6 | SSW              |          6   |          -1.2 |
-| 10:00  |            175   |            2.4 |      8   |                16.3 | SSW              |          7   |          -0.2 |
-| 12:00  |            174.9 |            2.4 |      8.1 |                16.8 | SSW              |          8.4 |           0.3 |
-| 14:00  |            174.9 |            2.4 |      8.2 |                18   | S                |         10   |          -0.1 |
-| 16:00  |            164.9 |            2.5 |      8.1 |                23.8 | S                |         11   |          -0.8 |
-| 18:00  |            165   |            2.7 |      8   |                25   | SSW              |         11.5 |          -1.4 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 00:33  | H      |          3.96 |
-| 06:39  | L      |          0.73 |
-| 13:00  | H      |          3.23 |
-| 18:29  | L      |          0.89 |
-
-Steep angled and weak. Maybe enough for a longboard but those winds aren't looking too great.
-
-Notes: Water is a little cold for this.
-
-Best board: longboard
-
 ### Wednesday 3/11
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
@@ -80,13 +54,13 @@ Notes: Watch Thursday
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            5.5 |      6.7 |                41.7 | SW               |         19.8 |          -0   |
-| 08:00  |            165   |            5.5 |      7   |                45.9 | WSW              |         19.2 |          -1   |
-| 10:00  |            165   |            5.5 |      7.2 |                49.3 | W                |         19   |          -1.4 |
-| 12:00  |            165.1 |            5.3 |      7.4 |                49.8 | WNW              |         18   |          -1   |
-| 14:00  |            172.4 |            5.2 |      7.4 |                45.6 | WNW              |         18   |          -0.1 |
-| 16:00  |            172.4 |            5   |      7.5 |                44.7 | WNW              |         17.7 |          -0.2 |
-| 18:00  |            172.4 |            4.7 |      7.5 |                41.4 | WNW              |         16.6 |          -1   |
+| 06:00  |            172.5 |            5.6 |      6.9 |                42.2 | WSW              |         18.9 |           0   |
+| 08:00  |            172.4 |            5.4 |      7.2 |                43.8 | W                |         19.7 |          -0.8 |
+| 10:00  |            172.4 |            5.3 |      7.3 |                43.8 | WNW              |         19   |          -1.1 |
+| 12:00  |            172.4 |            5.2 |      7.3 |                43.4 | WNW              |         19   |          -0.9 |
+| 14:00  |            165   |            5   |      7.3 |                46.3 | WNW              |         17.7 |          -0.2 |
+| 16:00  |            165   |            4.7 |      7.4 |                43.9 | WNW              |         15.9 |           0.1 |
+| 18:00  |            165   |            4.4 |      7.5 |                41.5 | WNW              |         14   |          -1   |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -96,26 +70,28 @@ Notes: Watch Thursday
 | 14:49  | H      |          3.08 |
 | 20:55  | L      |          1.06 |
 
-Smaller than earlier forecasts but better directed. All in all, I'd expect this to be pretty fun. Wind is stronger than ideal, but it's offshore. Best conditions are likely in the afternoon but watch the wind forecast.
+Smaller than earlier forecasts and a little worse directed. Originally this was forecasted to be more SE rather than SSE. All in all, I'd expect this to be pretty fun in the AM. Wind is stronger than ideal, but it's offshore. This is expected to fade pretty quickly and the table above is a bit suspect. Personally, I'd get on it early if looking to surf.
+
+It's possible this overperforms a little over model forecast.
 
 If this holds, I'd expect breaking wave heights in the chest high range.
 
-Notes: 
+Notes: Conditions may not be particularly user friendly. I'd expect some residual weirdness and a strong current.
 
-Best board: Something that can handle a strong current and overhead surf.
+Best board: Most should work in the AM. You probably want a bigger board for the afternoon.
 
 
 ### Friday 3/13
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            155   |            2.9 |      7.5 |                26.8 | WNW              |          8.3 |          -0.2 |
-| 08:00  |            162.4 |            2.6 |      7.6 |                20.4 | W                |          4.9 |          -1.5 |
-| 10:00  |            165   |            2.4 |      7.5 |                16.5 | SSW              |          8   |          -2   |
-| 12:00  |            165   |            2.4 |      7.5 |                15.8 | S                |         14   |          -1.5 |
-| 14:00  |            172.2 |            3   |      7.5 |                21.4 | S                |         19   |          -0.7 |
-| 16:00  |            182.4 |            4.4 |      4.3 |                 2.5 | S                |         23.1 |          -0   |
-| 18:00  |            175   |            5.6 |      5.3 |                17.8 | S                |         24.5 |          -0.1 |
+| 06:00  |            155   |            3.3 |      8   |                38   | WNW              |          9   |          -0.3 |
+| 08:00  |            155   |            3.1 |      8.1 |                35.6 | WSW              |          9   |          -1.5 |
+| 10:00  |            162.4 |            2.9 |      8.1 |                30.7 | SW               |         10.1 |          -2   |
+| 12:00  |            165   |            3   |      8.1 |                31.3 | SSW              |         14   |          -1.7 |
+| 14:00  |            175   |            3.7 |      8.1 |                35.4 | S                |         19.1 |          -0.8 |
+| 16:00  |            175   |            5   |      4.8 |                 8.5 | S                |         24.3 |           0   |
+| 18:00  |            165   |            6.4 |      5.7 |                33.5 | SSW              |         26.1 |          -0.2 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -125,22 +101,22 @@ Best board: Something that can handle a strong current and overhead surf.
 | 15:53  | H      |          3.17 |
 | 21:59  | L      |          0.89 |
 
-Not looking particularly great at this time. Originally it looked like there could be some leftovers, but less than 3ft@7.5s isn't going to make much of a wave.
+I have my doubts about the validity of this table. It's possible surf fades quicker than expected and Friday is flat. Based on this table we'd have waist high surf give or take with a favorable swell direction and offshore wind. Definitely keep an eye on it but have low expectations.
 
-Notes: Watch the weekend.
+Notes: Check a cam in the AM and watch the weekend.
 
 
 ### Saturday 3/14
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            5.4 |      7.5 |                52.5 | W                |         16.7 |           0.3 |
-| 08:00  |            172.4 |            5   |      7.6 |                45.3 | W                |         15.7 |          -1   |
-| 10:00  |            175   |            4.6 |      7.6 |                39.5 | W                |         14.7 |          -2.1 |
-| 12:00  |            175   |            4.1 |      7.5 |                33.5 | W                |         12.7 |          -2.5 |
-| 14:00  |            185   |            3.6 |      7.4 |                21.4 | W                |         10.5 |          -1.6 |
-| 16:00  |            185   |            3.2 |      7.3 |                15.5 | W                |          9   |          -0.3 |
-| 18:00  |            185   |            2.8 |      7.1 |                10.7 | W                |          7   |          -0.3 |
+| 06:00  |            165   |            5.8 |      8   |                62.7 | WSW              |         18.6 |           0.2 |
+| 08:00  |            172.5 |            5.4 |      8   |                54.4 | W                |         18   |          -1.1 |
+| 10:00  |            175   |            5   |      7.9 |                47.9 | W                |         17.9 |          -2.4 |
+| 12:00  |            175   |            4.6 |      7.7 |                41.1 | W                |         16.4 |          -2.9 |
+| 14:00  |            182.3 |            4.2 |      7.5 |                29.4 | W                |         14   |          -1.9 |
+| 16:00  |            185   |            3.7 |      7.3 |                21.6 | W                |         12.5 |          -0.6 |
+| 18:00  |            185   |            3.3 |      7.2 |                16.3 | W                |         10.5 |          -0.6 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -150,10 +126,15 @@ Notes: Watch the weekend.
 | 16:54  | H      |          3.41 |
 | 22:53  | L      |          0.62 |
 
+**Update as of 3/11: This has been trending better.**
 
-Another prefrontal swell. There's some uncertainty in the track of the low pressure system responsible for this swell and these numbers could  end up being higher than what we're seeing here. We could see closer to 6ft@7s or so. Check back later.
+Another prefrontal swell but it's looking more powerful than forecasts were showing even a few days ago. Some of the more recent model runs would suggest that these numbers could go up from here.
 
-Notes: I'd expect this to look a little better by late week.
+Breaking wave heights may very well be in the shoulder high range for the AM if this trend continues. I'd expect waist high surf (at best) by end of day.
+
+Notes: Largest conditions early. Looks like a really good day but offshore winds are going to be very strong. Won't be user friendly.
+
+Best board: daily driver
 
 ### Sunday 3/15
 
@@ -168,6 +149,29 @@ Notes: I'd expect this to look a little better by late week.
 | 18:00  |            175   |            5.3 |      5.9 |                22.5 | SSE              |         20.5 |           1   |
 
 Not leftovers are expected but we'll be watching for another (potentially stronger) swell on Monday, 3/16.
+
+### Monday 3/16
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |            175   |            9.4 |      7.5 |                73.9 | S                |         27.7 |           2.2 |
+| 08:00  |            175.1 |           10.3 |      8.1 |                83.5 | S                |         27.6 |           1.4 |
+| 10:00  |            172.4 |           11.5 |      8.9 |                91.7 | SSW              |         29.5 |          -0.5 |
+| 12:00  |            165   |           12.5 |      9.4 |                95.9 | SSW              |         29   |          -2.2 |
+| 14:00  |            155   |           12.1 |      9.9 |                97.5 | SSW              |         26.3 |          -2.1 |
+| 16:00  |            155   |           11   |     10   |                96.8 | SW               |         24.5 |          -0.4 |
+| 18:00  |            155.2 |            9.6 |      9.9 |                95.2 | WSW              |         22.6 |           1.1 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 06:03  | H      |          4.41 |
+| 12:15  | L      |         -0.07 |
+| 18:29  | H      |          4.14 |
+
+A solid swell is looking likely at this time. Potentially the best year to date if the wind works out.
+
+Notes: Expert only if it comes together. Tuesday is looking fun for the rest of us.
 
 ---
 

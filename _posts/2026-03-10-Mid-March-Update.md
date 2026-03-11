@@ -51,7 +51,7 @@ ECMWF Surface wind. Source [windy.com](https://www.windy.com/)
 
 Data source: NOAA NWPS
 
-While the swell numbers are similar to what we see on Thursday, I'd expect this to fade really quickly and stay in the lower period values with no mid-period swell mixing in. It's important to note that Thursday's swell is better directed as well.
+While the swell numbers are similar to what we see on Thursday, I'd expect this to fade really quickly and stay in the lower period values.
 
 Looking at our conditions for Saturday, models are predicting buoy heights in the 5-6ft range at 7-8 seconds. Wind is again expected to shift strong offshore following the passage of the low pressure system.
 
