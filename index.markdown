@@ -19,7 +19,7 @@ title: Monmouth County Surf Forecast
 
 Several back-back prefrontal swells are expected to come through this week. Each of them will be short-lived, but the swell angle is favorable and there will be an offshore wind switch.
 
-A more powerful swell is expected next Monday 3/16 with leftovers lasting into Wednesday.
+A more powerful swell is expected next Monday 3/16 with leftovers lasting into Wednesday or Thursday.
 
 Things slow down after that until (potentially) early the following week.
 
