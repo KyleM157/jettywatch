@@ -47,11 +47,9 @@ Things slow down after that until (potentially) early the following week.
 
 **Offshore wind will be near gale. Actual swell height is closer to 5ft@7.7s**
 
-Another prefrontal swell but it's looking more powerful than forecasts were showing even a few days ago.
+Breaking wave heights are in the stomach high range in the AM. The wind isn't too bad to start the day, but it's going to be strong soon.
 
-Breaking wave heights may very well be in the shoulder high range for the AM if this trend continues. I'd expect waist-stomach high surf (at best) by end of day.
-
-Notes: Largest conditions early and fades fast. Looks like a really good day but offshore winds are going to be very strong. Won't be user friendly.
+Notes: Largest conditions early and fades fast. Looks like a really good day but offshore winds are going to be very strong.
 
 Best board: something that handles the offshores
 
