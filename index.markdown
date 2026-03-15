@@ -25,34 +25,6 @@ Things slow down after that until (potentially) early the following week.
 
 ---
 
-### Saturday 3/14
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              175 |            6   |      8.1 |                60.6 | WSW              |         19.2 |           0.4 |
-| 08:00  |              175 |            5.7 |      8   |                57.3 | W                |         22.2 |          -1   |
-| 10:00  |              175 |            5.6 |      7.8 |                53.8 | W                |         22.9 |          -2.5 |
-| 12:00  |              185 |            5.3 |      7.5 |                39.9 | W                |         20.9 |          -2.9 |
-| 14:00  |              185 |            4.8 |      7.3 |                32.3 | W                |         17.6 |          -2   |
-| 16:00  |              185 |            4.2 |      7.2 |                25.1 | W                |         16   |          -0.9 |
-| 18:00  |              185 |            3.7 |      7   |                17.9 | WNW              |         14   |          -0.9 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 04:16  | H      |          3.87 |
-| 10:46  | L      |          0.49 |
-| 16:54  | H      |          3.41 |
-| 22:53  | L      |          0.62 |
-
-**Offshore wind will be near gale. Actual swell height is closer to 5ft@7.7s**
-
-Breaking wave heights are in the stomach high range in the AM. The wind isn't too bad to start the day, but it's going to be strong soon.
-
-Notes: Largest conditions early and fades fast. Looks like a really good day but offshore winds are going to be very strong.
-
-Best board: something that handles the offshores
-
 ### Sunday 3/15
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
@@ -174,6 +146,14 @@ Best board: HPSB or daily driver
 ## Looking Ahead
 
 Things might slow down a bit after 3/16 or 3/17 as a large region of high pressure moves into our region.
+
+
+|Swell 1|||Swell 2|||
+|swell1_dir|swell1_height|swell1_period|swell2_dir|swell2_height|swell2_period|
+|---|---|---|---|---|---|
+173.155|1.4435697|6.19|120.17|0.39370078|9.29
+172.12|1.0498687|6.125|118.384995|0.32808396|9.785
+|||||
 
 
 ---
