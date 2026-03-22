@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  3/21/2026 12:00**
+**Last Update:  3/22/2026 09:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -19,74 +19,11 @@ Small and weak steep south swell for Saturday 3/21. Best conditions at first lig
 
 We could see something early week (Monday) as well, but models have been mixed on that. 
 
-There's a chance for a more powerful swell late next week with the major atmospheric models in something resembling agreement. The strength of that swell is still uncertain.
-
-Overall, our run of surf is starting to slow down. There's very little on the charts right now.
+There's a chance for a more powerful swell late next week with the major atmospheric models in something resembling agreement. The strength of that swell is still uncertain, but the swell numbers seem pretty consistent around the 4-6ft and 7-9 second range. Nothing amazing, but potentially really fun it it comes together.
 
 ---
 
-### Saturday 3/21
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            175   |            4.7 |      6.9 |                31.6 | WSW              |          9.9 |          -1.1 |
-| 08:00  |            174.9 |            4.4 |      7   |                29.2 | NNW              |         10   |           1.1 |
-| 10:00  |            175   |            4.1 |      7   |                27.3 | NNW              |         10   |           1.8 |
-| 12:00  |            185   |            3.9 |      7   |                19.5 | NNW              |          9   |          -0.2 |
-| 14:00  |            185   |            3.7 |      6.9 |                16.8 | NNW              |          7.9 |          -2.2 |
-| 16:00  |            185   |            3.5 |      7.1 |                16.8 | NNW              |          6.8 |          -2.7 |
-| 18:00  |            185   |            3.3 |      7.9 |                22.4 | N                |          5.8 |          -0.8 |
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|
-| 08:00  |     178.4 |       4.3 |        6.9 |     116.2 |       1.9 |        8.8 |       0   |       0   |        0   |
-| 14:00  |     174.1 |       2.8 |        6.5 |     116.2 |       1.9 |        8.4 |     327.1 |       1.4 |        3.4 |
-| 20:00  |     173.6 |       2.1 |        6.3 |     115   |       1.9 |        8.2 |     329   |       0.8 |        2.7 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:34  | L      |         -0.6  |
-| 09:35  | H      |          4.62 |
-| 15:40  | L      |         -0.57 |
-| 21:53  | H      |          5.23 |
-
-**Wave height predictions were accurate. Period is a little lower at closer to 6 seconds. Really soft out there, but it was stomach-chest high or so early this morning.**
-
-A weak low pressure system passes by our region and generates some short period SSE/S wind swell. Certainly nothing firing, but it should be fun on a groveler or longboard. There is still some small 8 or 9 second swell mixing in, which should help a little.
-
-We have a fairly well timed low tide for the dawn patrol session and light offshore winds to start the day. Wind stays offshore all day, but I'd expect the surf to fade fast. No sleeping in, unfortunately.
-
-Breaking wave heights should be in the stomach high range give or take. Expect the waves to be pretty soft given the short period.
-
-Notes: Large tide swing limits the available windows to surf. The AM session is the only one worth considering. Seasonally warm weather expected.
-
-Best board: Groveler/Longboard. Longboard for the afternoon.
-
 ### Sunday 3/22
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              105 |            2.8 |      8   |                39.2 | S                |         10.6 |          -1.5 |
-| 08:00  |              185 |            3   |      8   |                20.2 | S                |         12.6 |           0.9 |
-| 10:00  |              185 |            3.4 |      8   |                24.3 | SSW              |         14.5 |           2.3 |
-| 12:00  |              185 |            3.6 |      8   |                27.3 | SSW              |         14.2 |           1   |
-| 14:00  |              185 |            3.6 |      8   |                26.9 | SSW              |         12.9 |          -0.9 |
-| 16:00  |              185 |            3.6 |      5.8 |                 7.2 | SSW              |         13.8 |          -2.1 |
-| 18:00  |              175 |            3.6 |      5.2 |                 5.6 | SSW              |         13.2 |          -1.3 |
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     118.7 |       1.8 |          8 |      170.6 |         2.2 |         3.5 |
-| 14:00  |     120.8 |       1.6 |          8 |      176   |         3.5 |         4.7 |
-| 20:00  |     124.6 |       1.6 |          8 |      183.1 |         4.2 |         5.5 |
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     114.9 |       1.7 |        8   |      176.4 |         1.8 |         5.9 |
-| 14:00  |     115.1 |       1.6 |        8   |      181.3 |         3.5 |         4.5 |
-| 20:00  |     115.4 |       1.9 |        8.1 |      183.7 |         3.9 |         5   |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -96,29 +33,30 @@ Best board: Groveler/Longboard. Longboard for the afternoon.
 | 16:22  | L      |         -0.4  |
 | 22:45  | H      |          5.11 |
 
-Not as good as the combined swell table would suggest. Really small waves with some wind swell mixing in for the afternoon. Lots of texture if not completely blown out.
+Looking pretty small as of this morning. Watch the wind, but it's looking choppy/low quality all day. More swell shows late, but without a wind switch, there won't be anything surfable.
 
 Low expectations for rideable waves on anything but a longboard. Wind is cross-shore for textured and poor conditions.
 
-Notes: Possibly flat, definitely small. Warm weather though.
+Notes: Large tide swing.
 
 ### Monday 3/23
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              155 |            4.1 |      6.7 |                31.6 | NNE              |         15   |          -1.7 |
-| 08:00  |              155 |            4.5 |      6.8 |                37.2 | NNE              |         17   |           0   |
-| 10:00  |              145 |            4.8 |      6.7 |                43.6 | N                |         17.9 |           1.8 |
-| 12:00  |               93 |            4.9 |      6.5 |                46.8 | N                |         17   |           1.5 |
-| 14:00  |               85 |            4.8 |      6.5 |                45   | N                |         15.8 |          -0.1 |
-| 16:00  |               85 |            4.7 |      6.6 |                46.3 | N                |         15.9 |          -1.4 |
-| 18:00  |               75 |            4.7 |      6.7 |                45.1 | N                |         16.1 |          -1.9 |
+| 06:00  |              155 |            3.6 |      6.8 |                26.3 | N                |         13.6 |          -1.7 |
+| 08:00  |              145 |            3.9 |      7   |                36.8 | N                |         15   |          -0.1 |
+| 10:00  |              145 |            4.3 |      7.2 |                45.6 | N                |         15.6 |           1.7 |
+| 12:00  |              145 |            4.6 |      7.1 |                46.5 | N                |         15.6 |           1.7 |
+| 14:00  |              145 |            4.7 |      6.8 |                42.9 | N                |         14.9 |          -0.1 |
+| 16:00  |               85 |            4.7 |      6.8 |                47.6 | NNW              |         15   |          -1.7 |
+| 18:00  |               75 |            4.6 |      6.8 |                45.4 | NNW              |         15   |          -1.8 |
+
 
 | Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
 |:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     157.9 |       3.1 |        7.7 |       0   |       0   |        0   |       67.2 |         2.4 |           4 |
-| 14:00  |     152.8 |       2.8 |        7.7 |      74.5 |       2.5 |        5.5 |        0   |         0   |           0 |
-| 20:00  |     150.2 |       2.6 |        7.8 |      75.1 |       1.9 |        6.2 |        0   |         0   |           0 |
+| 08:00  |     154.9 |       3.3 |        7.6 |       0   |       0   |        0   |       46.6 |         1.7 |         3.2 |
+| 14:00  |     153.1 |       3   |        7.8 |      78.3 |       3   |        5.7 |        0   |         0   |         0   |
+| 20:00  |     151.5 |       2.9 |        7.7 |      81.1 |       2.2 |        6.2 |      340.5 |         1   |         2.5 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -128,25 +66,65 @@ Notes: Possibly flat, definitely small. Warm weather though.
 | 17:09  | L      |         -0.12 |
 | 23:44  | H      |          4.92 |
 
+**This has trended even further down. Not looking great. Best conditions will be at first light if it somehow comes together.**
+
 This has trended down a lot over the past five days or so. All in all, I still think it's worth a look with a few caveats. The wind needs to be lighter than forecast and we need a bit of overperformance in relation to the model outputs.
 
 While there's almost no way this will be *good*, at least the low tide lines up for the AM session which has been a real problem all this (last) week.
 
-Notes: It could overperform but low expectations at this time. Check a camera before going.
+Notes: It could overperform but low expectations at this time. Check a camera in the AM.
 
 ### Tuesday 3/24
 
-Flat with strong north wind (20kts)
+There's a northeast swell that looks too steep angled to get to us. I'd expect poor to poor and flat conditions.
 
 
 ### Wednesday 3/25
 
-Watching for another swell around this time. If something comes through, I'd expect surfable waves to be on Thursday.
+Likely flat but I'll update if something changes.
 
 
 ### Thursday 3/26
 
-I still think we could see something from this setup, but model output has really trended worse for this time period. Check back later.
+A new swell is expected around this time with a wind switch for Friday. Check back later.
+
+
+### Friday 3/27
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |            175   |            6   |      7.2 |                48.3 | WSW              |         21   |           0   |
+| 08:00  |            175   |            5.6 |      7.3 |                46.3 | WNW              |         20   |          -1.9 |
+| 10:00  |            175   |            5.2 |      7.3 |                42.8 | NW               |         18.1 |          -2.7 |
+| 12:00  |            175   |            4.8 |      7.3 |                38.1 | NW               |         16.1 |          -1.8 |
+| 14:00  |            184.7 |            4.3 |      7.3 |                27.3 | NNW              |         14.1 |          -0.2 |
+| 16:00  |            185   |            3.9 |      7.2 |                22.5 | NNW              |         13.4 |           0.5 |
+| 18:00  |            185   |            3.7 |      7.2 |                19.4 | NNW              |         13.2 |          -0.6 |
+
+
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |     188.4 |       5.1 |        7   |       107 |       0.4 |          9 |     129.8 |       0.2 |       12.9 |        0   |         0   |         0   |
+| 14:00  |     177.6 |       3.3 |        7.1 |         0 |       0   |          0 |       0   |       0   |        0   |      322.2 |         3.2 |         4.2 |
+| 20:00  |     174.5 |       2.4 |        7   |         0 |       0   |          0 |       0   |       0   |        0   |      335   |         3.3 |         4.4 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:57  | H      |          4.43 |
+| 09:42  | L      |          0.23 |
+| 15:41  | H      |          3.92 |
+| 21:50  | L      |          0.39 |
+
+The swell angle could be better, but this is our next chance for decent surf. Wind could be an issue and quality conditions are not a guarentee at this time. I'd expect this to be a short lived swell event with no leftovers for the weekend.
+
+Notes: Still pretty far out for specifics, but a swell is likely at this time.
+
+### Next Weekend and Beyond
+
+High pressure moves in to our region following the passage of that low pressure system that we see on Thursday/Friday. Assuming that holds, no swell is possible through roughly Wednesday of the following week. Again, it's really far out, but I'd expect something around the end of the month/first couple of days in April.
+
+From where I'm sitting, our best chance of a significant swell (besides ~3/27) is the second week of April (4/4-4/11). After that, I'd expect things to slow down pretty significantly. That coincides with the typical seasonal trends that we expect to see around that time of year.
 
 ---
 
