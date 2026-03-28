@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  3/25/2026 10:00**
+**Last Update:  3/28/2026 10:00 (Next Update will be Sunday evening)**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -13,88 +13,40 @@ title: Monmouth County Surf Forecast
 
 **New Feature: [Water Level](/2026/03/09/Water-Level)**
 
-## Week of 3/21 - 3/27
+## Week 3/27 - 4/5
 
-Friday 3/27 is the main day to watch. The week ends slow as high pressure builds in.
+High pressure moves in to our region on Saturday. We start to see some south wind as high pressure starts to move off the coast late Sunday into Monday. South wind continues through mid-week as a fairly strong area of low pressure moves out of the Great Plains and takes an inland track up over the Great Lakes. Unfortunately, that track limits the potential swell, but we should still see a fairly strong (albeit short) fetch of south wind that, while somewhat poorly directed, should kick up some short period swell for late Wednesday or Thursday.
 
-Mid-late next week could have something.
+Immediately following that, another area of high pressure moves in causing onshore wind. As that region of high pressure moves overt the Maritimes, I'm watching for a potentially solid, mid-period, east swell for late week or into the weekend.
 
----
+Overall, there should be plenty of swell this week, but wind is likely to be an issue. These setups don't create the guaranteed wind switches we've been seeing almost all year. Normally, that east swell that's on the charts would be a low probability event, but it's been incredibly consistent for the past week or so.
 
-### Wednesday 3/25
+There's still a ton of uncertainty right now, so I'm holding off on putting out tabular forecasts.
 
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |             75   |            2.6 |      8.8 |                43.1 | WSW              |          7.3 |          -1.9 |
-| 08:00  |             75.2 |            2.5 |      8.8 |                39.5 | WSW              |          5.7 |          -2.3 |
-| 10:00  |             75.2 |            2.3 |      8.8 |                36   | WSW              |          4.7 |          -1.1 |
-| 12:00  |             74.9 |            2.2 |      8.8 |                33   | SSW              |          5.9 |           0.2 |
-| 14:00  |             75   |            2.2 |      8.7 |                32.4 | S                |          9   |           0.1 |
-| 16:00  |             74.9 |            2.3 |      8.7 |                34.1 | S                |         10   |          -0.9 |
-| 18:00  |             75   |            2.4 |      8.6 |                34.9 | S                |         10.9 |          -2.1 |
+### Weekend of 3/28 and 3/29
 
-Longboardable on the incoming tide late AM. A little too drained early AM. Nothing great. Largest further south but waist high max.
-
-Best board: Longboard
+Not great
 
 
-### Thursday 3/26
+### Monday 3/30
 
-A new swell is expected around this time with a wind switch for Friday.
+Swell is likely but it'll be short period (~4.5ft@6.5s). Wind could be an issue. Worth keeping an eye on.
 
-### Friday 3/27
+### Tuesday 3/31
 
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              175 |            5.4 |      7.2 |                43   | WSW              |         15   |          -0.1 |
-| 08:00  |              175 |            5.1 |      7.3 |                41   | WNW              |         14.9 |          -1.8 |
-| 10:00  |              175 |            4.8 |      7.3 |                38.9 | NNW              |         14.9 |          -2.7 |
-| 12:00  |              175 |            4.7 |      7.3 |                37.5 | NNW              |         14.3 |          -1.7 |
-| 14:00  |              175 |            4.5 |      7.3 |                35.3 | N                |         13   |          -0.1 |
-| 16:00  |              175 |            4.1 |      7.3 |                31.4 | N                |         12   |           0.5 |
-| 18:00  |              175 |            3.9 |      7.3 |                28   | N                |         12   |          -0.5 |
+The AM session could work out, but wind is cross-shore and building through the day.
 
+### Wednesday 4/1
 
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     170.7 |       4.6 |        7.1 |        0   |         0   |         0   |
-| 14:00  |     168.6 |       3.5 |        7.2 |       17   |         1.7 |         3.1 |
-| 20:00  |     169   |       2.8 |        7.2 |       37.1 |         2   |         3.7 |
+Strong south wind expected. Building swell likely.
 
+### Thursday 4/2
 
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:57  | H      |          4.43 |
-| 09:42  | L      |          0.23 |
-| 15:41  | H      |          3.92 |
-| 21:50  | L      |          0.39 |
+Watching for a strong east swell around this time.
 
-After trending down some it has trended back up. Looking pretty fun all in all. Wind is still a little iffy and is likely to be strong out of the north by mid-morning. Waves are largest in the AM and fade through the day.
+### Late Week and the Weekend
 
-Breaking wave heights should be in the stomach+ range with larger waves south of Monmouth County. Swell angle and period are favorable for our sandbars. Rain is expected in the AM, but we'll have air temps up near 60 degrees which is pretty great for a change.
-
-Waves are still pretty soft given the size.
-
-Notes: It's looking pretty fun! Manageable tide swing and wind should be decent all day but best in the AM.
-
-Best board: Groveler or a longboard.
-
-### Saturday 3/28
-
-Marginal surf and strong north wind.
-
-### Sunday 3/29
-
-Marginal surf.
-
-
-### Looking Ahead
-
-A strong region of high pressure moves in following Friday's cold front. There's a small chance of weak surf on Monday as a weak area of low pressure moves over the Great Lakes but I wouldn't pencil that swell in just yet as it will be really poorly directed if we see anything at all.
-
-Another strong region of high pressure moves in mid-week and it's possible we see some east swell from an interaction with a small area of low pressure. Low probability, but it's been on the charts consistently. A slightly larger area of low pressure moves through late week for a better chance at another south wind swell.
-
-From where I'm sitting, our best chance of a significant swell is the second week of April (4/4-4/11). After that, I'd expect things to slow down pretty significantly. That coincides with the typical seasonal trends that we expect to see around that time of year.
+Hopefully we see a wind switch with that east swell. Tentative wave heights are in the 5ft@8s range. Certainly not maxing out, but potentially really fun.
 
 ---
 
