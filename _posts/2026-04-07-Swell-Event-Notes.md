@@ -45,7 +45,7 @@ Waves show more size for the afternoon but with potentially worse conditions dep
 
 ![4/10 waves](/assets/images/2026-04-11_10_resized.jpg)
 
-Saturday should be the best day of conditions, all things considered. We have plenty of swell left over and favorable wind until late day. Most likely the best conditions will be early, with offshore winds and an incoming tide.
+Saturday should be the best day of conditions, all things considered. We have plenty of swell left over and favorable wind until late day. Most likely the best conditions will be early, with offshore winds and the most size.
 
 **Sunday 4/12**
 
