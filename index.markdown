@@ -5,56 +5,18 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  4/12/2026 09:00**
+**Last Update:  4/13/2026 09:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-**New Feature: [Water Level](/2026/03/09/Water-Level)**
-
-
-
 ## Week of 4/12 - 4/18
-
-Fading mid-period east swell for Suday AM. Onshore wind.
 
 We should see some steep-south wind swell on Tuesday and again on Friday. Nothing firing on the charts, but it'll keep us in the water for the time being. There is still some uncertainty in the forecast for those days, but some surf is expected.
 
+All in all, it's looking like a fairly slow week.
 
-### Sunday 4/12
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |             95   |            3.5 |      9.8 |                71.6 | NE               |          6   |           0   |
-| 08:00  |             95   |            3.4 |      9.8 |                70.4 | ENE              |          7   |          -1.3 |
-| 10:00  |             95   |            3.3 |      9.8 |                69.2 | E                |          6.8 |          -2.1 |
-| 12:00  |             95   |            3.3 |      9.8 |                68.3 | SE               |          7.8 |          -1.7 |
-| 14:00  |             95   |            3.3 |      9.8 |                68.2 | SSE              |         10   |          -0.5 |
-| 16:00  |             95   |            3.4 |      9.8 |                69.4 | SSE              |         11   |           0.6 |
-| 18:00  |             94.9 |            3.5 |      9.8 |                70.9 | SSE              |         12   |           0.1 |
-
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     116.6 |       3   |       10   |       38.5 |         0.7 |         2.2 |
-| 14:00  |     114.7 |       2.8 |       10   |       98.1 |         0.7 |         2.3 |
-| 20:00  |     113.4 |       2.5 |        9.8 |      164.4 |         1.6 |         3   |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:26  | H      |          4.02 |
-| 10:02  | L      |          0.62 |
-| 16:08  | H      |          3.79 |
-| 22:20  | L      |          0.84 |
-
-Fun if the wind cooperates. Early is probably best.
-
-Notes: Fun leftovers but closeouts will be an issue.
-
-Best board: daily driver/groveler
 
 ### Monday 4/13
 
@@ -83,7 +45,7 @@ Best board: daily driver/groveler
 | 17:03  | H      |          4.19 |
 | 23:12  | L      |          0.48 |
 
-Strong south wind for another quick windswell. Conditions aren't likely to clean up. Watch Tuesday.
+Strong south wind for another quick windswell. Conditions aren't likely to clean up (maybe with south wind protection but it'll be really soft for the swell height). Watch Tuesday.
 
 ### Tuesday 4/14
 
@@ -112,12 +74,17 @@ Strong south wind for another quick windswell. Conditions aren't likely to clean
 | 17:51  | H      |          4.65 |
 
 
+At this point, I'm really hoping we see some overperformance that could push us closer to 4ft@7s for tomorrow AM. If this table holds it's longboard only.
 
-Another short period south wind swell. Weaker than I'd want to see but worth a look around the low tide. This could overperform the above table, check back later.
+Wind is expected to shift out of the south sometime around mid-day or late AM. Conditions are clean to start the day with light offshore winds.
 
-Notes: Surfable but not looking great with the really short period. Could overperform and there's some uncertainty in the locations of the low/high pressure systems responsible.
+Breaking wave heights are in the thigh-waist range early assuming the above table holds. There could be some larger sets, but I'd expect some lulls.
 
-Best board: Longboard
+Warm air temps.
+
+Notes: Check a cam mid-AM. You'll want to be out before the wind switches south late AM/early PM.
+
+Best board: Longboard or a groveler if it overperforms.
 
 ### Wednesday 4/15
 
@@ -129,37 +96,11 @@ Same as Wednesday.
 
 ### Friday 4/17
 
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            3.2 |      6.2 |                13.3 | WSW              |          8   |           1.2 |
-| 08:00  |            164.9 |            3.1 |      6.3 |                13.2 | W                |          7.2 |           2   |
-| 10:00  |            172.4 |            3   |      6.4 |                11.4 | WNW              |          6.3 |           0.3 |
-| 12:00  |            175   |            3   |      6.5 |                10.6 | W                |          6.3 |          -1.9 |
-| 14:00  |            175   |            2.8 |      6.5 |                 9.4 | SW               |          6.3 |          -2.8 |
-| 16:00  |            175   |            2.7 |      6.4 |                 7.8 | SW               |          6.9 |          -1   |
-| 18:00  |            175   |            2.5 |      6.3 |                 6.3 | WSW              |          7   |           1.5 |
+We could see some waves on Friday. Currently, the Euro is suggesting ~4ft@7s swell but the GFS isn't picking that up. Uncertain at this time.
 
+### Weekend
 
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     178.3 |       3.4 |        5.8 |       0   |       0   |        0   |        0   |         0   |         0   |
-| 14:00  |     177.6 |       3.1 |        6.2 |     121.7 |       0.2 |       13.9 |        0   |         0   |         0   |
-| 20:00  |     170.8 |       2.6 |        6   |     115.8 |       0.2 |       13.3 |      283.8 |         1.4 |         3.1 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 01:42  | L      |         -0.44 |
-| 07:43  | H      |          4.88 |
-| 13:47  | L      |         -0.45 |
-| 20:00  | H      |          5.7  |
-
-Another weak windswell is expected. Maybe enough for a longboard. This could overperform, check back later.
-
-Notes: Huge tide swing. Could get better as we get closer.
-
-Best board: Longboard
-
+There's a stronger frontal system possible around Sunday. Lots of uncertainty at this time; check back later.
 
 ---
 
