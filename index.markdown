@@ -5,45 +5,37 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  4/15/2026 15:00**
+**Last Update:  4/16/2026 15:00** (Next Update is likely Saturday PM)
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-## Week of 4/12 - 4/18
+## Week of 4/12 - 4/19
 
 We should see some steep-south wind swell on Tuesday and again on Friday. Nothing firing on the charts, but it'll keep us in the water for the time being. There is still some uncertainty in the forecast for those days, but some surf is expected.
 
 All in all, it's looking like a fairly slow week.
 
 
-### Wednesday 4/15
-
-Very small windswell. Warm though.
-
-### Thursday 4/16
-
-Same as Wednesday. Wind turns south in the late AM/afternoon.
-
 ### Friday 4/17
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            3.3 |      6.2 |                13.5 | WSW              |          6.9 |           1.2 |
-| 08:00  |            172.4 |            3.3 |      6.4 |                12.8 | WSW              |          7   |           2   |
-| 10:00  |            172.4 |            3.2 |      6.5 |                14.2 | W                |          5.9 |           0.2 |
-| 12:00  |            175   |            3.2 |      6.6 |                13.4 | W                |          5.9 |          -2   |
-| 14:00  |            175   |            3   |      6.6 |                12   | SW               |          7   |          -2.8 |
-| 16:00  |            175   |            2.8 |      6.6 |                10.2 | SW               |          6.9 |          -1.1 |
-| 18:00  |            182.4 |            2.7 |      6.5 |                 7.1 | WSW              |          5.9 |           1.4 |
+| 06:00  |            165   |            3.3 |      6.3 |                14.2 | W                |          5.8 |           1.2 |
+| 08:00  |            165   |            3.3 |      6.4 |                15.4 | W                |          5.9 |           2   |
+| 10:00  |            165   |            3.2 |      6.5 |                16.6 | WNW              |          4.8 |           0.3 |
+| 12:00  |            165.1 |            3.2 |      6.6 |                16.4 | W                |          4.1 |          -2   |
+| 14:00  |            175   |            3   |      6.6 |                12   | SSW              |          3.3 |          -2.8 |
+| 16:00  |            175   |            2.9 |      6.6 |                10.7 | S                |          5   |          -1   |
+| 18:00  |            175   |            2.8 |      6.5 |                 9.7 | SSW              |          5   |           1.5 |
 
 
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     169.1 |       3.2 |        6.4 |         0 |       0   |        0   |      279.5 |           1 |         2.7 |
-| 14:00  |     169   |       3   |        6.6 |       300 |       0.5 |        2.4 |        0   |           0 |         0   |
-| 20:00  |     167.5 |       2.6 |        6.4 |         0 |       0   |        0   |        0   |           0 |         0   |
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |     168.5 |       3.4 |        6.5 |      275   |         1.1 |         2.7 |
+| 14:00  |     168.4 |       3   |        6.6 |      302.3 |         1.1 |         2.8 |
+| 20:00  |     166.1 |       2.6 |        6.5 |        9.9 |         1.8 |         3.2 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -53,7 +45,7 @@ Same as Wednesday. Wind turns south in the late AM/afternoon.
 | 13:47  | L      |         -0.45 |
 | 20:00  | H      |          5.7  |
 
-I'm expecting this to look a little better by Friday. Currently, the GFS is lagging the other models in terms of wind strength (what the tables above pull from). Regardless, swell will be dropping through the day, so I'd get on it as early as the tide allows.
+I'm expecting this to look a little better by Friday. Currently, the GFS is lagging the other models in terms of wind strength (what the tables above pull from). Regardless, swell will be dropping through the day, so I'd get on it as early as the tide allows. **Update: Well, it didn't change much...**
 
 Breaking wave heights should be in the waist high range if the table above holds. Personally, I'm expecting a little better than that at around stomach high. Waves will be soft given the short period.
 
@@ -70,11 +62,13 @@ Best board: Longboard only if it keeps to forecast. A groveler would work if it 
 
 ### The Weekend
 
-We have a pretty large low pressure system that appears to be too far north for any worthwhile surf. I'd like to say there's some uncertainty but it looks bad. It's possible some long period swell will make it's way here from a high pressure system off Canada, but I'd keep low expecations going forward.
+We have a pretty large low pressure system that appears to be too far north for any worthwhile surf. I'd like to say there's some uncertainty but it looks bad. It's possible some long period swell will make it's way here from a high pressure system off Canada, but I'd keep low expecations going forward. Sunday looks better than Saturday but that doesn't mean much. The wind switch on Sunday will knock down anything that shows up really quick. Keep that in mind.
 
 ## Looking Ahead
 
-The season is definitely looking like it's coming to an end. A stronger coastal low has been on the charts for a couple of days for late month, but that's too far out to really take seriously. We could see another prefrontal swell for late next week, but I'd keep expectations in check.
+Yikes.
+
+The season is definitely coming to an end. About time to break out the skateboard for Summer.
 
 ---
 
