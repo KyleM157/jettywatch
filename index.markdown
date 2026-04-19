@@ -5,70 +5,67 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  4/16/2026 15:00** (Next Update is likely Saturday PM)
+**Last Update:  4/19/2026 09:15**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-## Week of 4/12 - 4/19
+## Week of 4/19 - 4/26
 
-We should see some steep-south wind swell on Tuesday and again on Friday. Nothing firing on the charts, but it'll keep us in the water for the time being. There is still some uncertainty in the forecast for those days, but some surf is expected.
+Really slow week ahead.
 
-All in all, it's looking like a fairly slow week.
+Currently, it's looking like our best chance of surf would be Thursday, 4/23. There's some uncertainty for this time period, but we could see some 8-10 second swell. Nothing huge, but it could be fun for this time of year.
 
+Otherwise, it's looking like nothing until closer to the end of the month (4/27 - 5/1).
 
-### Friday 4/17
+### Monday and Tuesday
+
+Flat
+
+### Wednesday
+
+Prefrontal south swell in the 5s period range with a wind switch expected in the afternoon. Maybe enough for a longboard. Afternoon high tide likely means this will be quite terrible.
+
+### Thursday 4/23
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            3.3 |      6.3 |                14.2 | W                |          5.8 |           1.2 |
-| 08:00  |            165   |            3.3 |      6.4 |                15.4 | W                |          5.9 |           2   |
-| 10:00  |            165   |            3.2 |      6.5 |                16.6 | WNW              |          4.8 |           0.3 |
-| 12:00  |            165.1 |            3.2 |      6.6 |                16.4 | W                |          4.1 |          -2   |
-| 14:00  |            175   |            3   |      6.6 |                12   | SSW              |          3.3 |          -2.8 |
-| 16:00  |            175   |            2.9 |      6.6 |                10.7 | S                |          5   |          -1   |
-| 18:00  |            175   |            2.8 |      6.5 |                 9.7 | SSW              |          5   |           1.5 |
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     168.5 |       3.4 |        6.5 |      275   |         1.1 |         2.7 |
-| 14:00  |     168.4 |       3   |        6.6 |      302.3 |         1.1 |         2.8 |
-| 20:00  |     166.1 |       2.6 |        6.5 |        9.9 |         1.8 |         3.2 |
+| 06:00  |               85 |            3.5 |      9.6 |                68.4 | NNW              |          6   |          -1.7 |
+| 08:00  |               85 |            3.4 |      9.6 |                67.2 | N                |          6.1 |          -1.8 |
+| 10:00  |               85 |            3.3 |      9.6 |                65   | NNW              |          5.1 |          -0.4 |
+| 12:00  |               85 |            3.1 |      9.5 |                61.7 | NNE              |          4.8 |           1   |
+| 14:00  |               85 |            3   |      9.3 |                58.2 | ESE              |          5.2 |           0.8 |
+| 16:00  |               85 |            2.9 |      9.2 |                55.1 | S                |          6.6 |          -0.3 |
+| 18:00  |               85 |            2.8 |      9.1 |                51.5 | SSW              |          7.7 |          -1.6 |
 
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
-| 01:42  | L      |         -0.44 |
-| 07:43  | H      |          4.88 |
-| 13:47  | L      |         -0.45 |
-| 20:00  | H      |          5.7  |
+| 00:37  | H      |          4.92 |
+| 07:07  | L      |          0.24 |
+| 13:23  | H      |          4.21 |
+| 19:13  | L      |          0.66 |
 
-I'm expecting this to look a little better by Friday. Currently, the GFS is lagging the other models in terms of wind strength (what the tables above pull from). Regardless, swell will be dropping through the day, so I'd get on it as early as the tide allows. **Update: Well, it didn't change much...**
+We should see some combo swell around this time. The swell mix will probably be something like 2ft@10s and 1ft@6s. Not great, but it could be fun on a longboard or (maybe) a groveler. I'd expect waves in the waist high range if that holds.
 
-Breaking wave heights should be in the waist high range if the table above holds. Personally, I'm expecting a little better than that at around stomach high. Waves will be soft given the short period.
+We have a convenient AM low tide that at least isn't negative and wind looks to be light enough for somewhat glassy conditions.
 
-Annoyingly, we have a huge tide swing with a AM high tide. I'd expect most breaks in the area to be pretty swamped early AM and too drained at low tide.
+Given the east swell angle and period, I'd expect closeouts at a lot of spots.
 
-The wind on the other hand looks pretty good all day without being too strong.
+Notes: Some uncertainty, check back later. If this holds, it certainly won't be *good*, but given how bad the forecast looks, I'd try to make the most of it.
 
-Timing will be tough, but these swells are playing nicely with our sandbars.
+Best board: Longboard or maybe a groveler.
 
-Notes: Could be more fun than the table suggests. Watch the tide closely. Check the buoy or a cam in the AM.
+### Friday 4/24
 
-Best board: Longboard only if it keeps to forecast. A groveler would work if it comes in over.
-
+Probably enough for a beginner if the wind isn't too bad.
 
 ### The Weekend
 
-We have a pretty large low pressure system that appears to be too far north for any worthwhile surf. I'd like to say there's some uncertainty but it looks bad. It's possible some long period swell will make it's way here from a high pressure system off Canada, but I'd keep low expecations going forward. Sunday looks better than Saturday but that doesn't mean much. The wind switch on Sunday will knock down anything that shows up really quick. Keep that in mind.
+Nothing on the GFS, but some other models are suggesting we could see a couple low pressure systems move through. If that happens, I'd expect onshore winds to accompany, but it's possible we could see a cleanup sometime early week. 
 
-## Looking Ahead
-
-Yikes.
-
-The season is definitely coming to an end. About time to break out the skateboard for Summer.
+Lot's of uncertainty. Check back later.
 
 ---
 
