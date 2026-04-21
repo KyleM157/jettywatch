@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  4/20/2026 11:15**
+**Last Update:  4/21/2026 16:45**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -25,15 +25,14 @@ Flat
 
 ### Wednesday
 
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              185 |            2.8 |      4   |                 0.3 | S                |         14   |          -2.2 |
-| 08:00  |              185 |            2.9 |      4.4 |                 0.7 | S                |         13   |          -1.2 |
-| 10:00  |              185 |            2.8 |      4.8 |                 1.1 | S                |         11.1 |           0.4 |
-| 12:00  |              185 |            2.8 |      5   |                 1.4 | S                |         10   |           1   |
-| 14:00  |              185 |            2.7 |      5.2 |                 1.7 | S                |          9   |           0.1 |
-| 16:00  |              185 |            2.7 |      5.3 |                 2   | SE               |          8   |          -1.3 |
-| 18:00  |              185 |            2.7 |      5.4 |                 2.2 | ESE              |          7   |          -2.2 |
+| 06:00  |            184.8 |            3.1 |      4   |                 0.4 | S                |         16.3 |          -2.1 |
+| 08:00  |            185   |            3.5 |      4.4 |                 1.4 | S                |         17   |          -1.1 |
+| 10:00  |            185   |            3.7 |      4.9 |                 3.3 | S                |         16   |           0.4 |
+| 12:00  |            185   |            3.7 |      5.3 |                 5.3 | S                |         14.3 |           1.1 |
+| 14:00  |            185   |            3.5 |      5.5 |                 5.3 | S                |         11.5 |           0.2 |
+| 16:00  |            185   |            3.3 |      5.5 |                 4.7 | S                |          9   |          -1.3 |
+| 18:00  |            185   |            3.1 |      5.6 |                 4.2 | N                |          6.2 |          -2.2 |
 
 
 | Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
@@ -51,6 +50,8 @@ Flat
 
 Prefrontal south swell in the 5s period range with a wind switch expected in the afternoon. Maybe enough for a longboard. Afternoon high tide likely means this will be quite terrible.
 
+Wind is still up in the air with a 50/50 model split for a wind switch or continued south winds. Watch your local wind forecast.
+
 Notes: Looks pretty bad, honestly.
 
 Best board: Longboard
@@ -59,13 +60,13 @@ Best board: Longboard
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            195   |            2.7 |      6.4 |                 4.3 | NNE              |          4.9 |          -1.7 |
-| 08:00  |            192.4 |            2.7 |      6.3 |                 4.1 | N                |          5   |          -1.8 |
-| 10:00  |            118.2 |            2.7 |      6.2 |                16   | N                |          4   |          -0.4 |
-| 12:00  |             95   |            2.7 |      6.7 |                21.8 | NE               |          4   |           0.9 |
-| 14:00  |            160   |            2.6 |      8.3 |                28.8 | SSE              |          4.6 |           0.8 |
-| 16:00  |            185   |            2.6 |      8   |                15.1 | S                |          5.6 |          -0.3 |
-| 18:00  |            185   |            2.5 |      6.7 |                 6.2 | S                |          7   |          -1.5 |
+| 06:00  |              185 |            2.7 |      6   |                 4.1 | NNW              |          3.9 |          -1.7 |
+| 08:00  |              185 |            2.6 |      6   |                 3.9 | NW               |          4.9 |          -1.7 |
+| 10:00  |               95 |            2.7 |      6   |                13.8 | WNW              |          5   |          -0.4 |
+| 12:00  |               95 |            2.7 |      6   |                14.2 | W                |          5   |           1   |
+| 14:00  |               95 |            2.7 |      6   |                15.2 | SW               |          6   |           0.9 |
+| 16:00  |               95 |            2.7 |      6.1 |                15.8 | WSW              |          7   |          -0.3 |
+| 18:00  |               95 |            2.6 |      6.2 |                15.4 | W                |          8   |          -1.6 |
 
 
 | Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
@@ -90,7 +91,7 @@ Given the east swell angle and period, I'd expect closeouts at a lot of spots.
 
 Notes: Worth keeping an eye on, but it looks pretty bad.
 
-Best board: Longboard or maybe a groveler if it overperforms.
+Best board: Longboard or maybe a groveler if it somehow overperforms.
 
 ### Friday 4/24
 
@@ -101,6 +102,32 @@ Probably enough for a beginner if the wind isn't too bad. Very small.
 Nothing on the GFS, but some other models are suggesting we could see a couple low pressure systems move through. If that happens, I'd expect onshore winds to accompany, but it's possible we could see a cleanup sometime early week. 
 
 Lot's of uncertainty and models are not in agreement. Check back later.
+
+### Sunday 4/26
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |            125.2 |            4.8 |      7.2 |                54.6 | ENE              |         14.4 |           0.8 |
+| 08:00  |            132.4 |            4.7 |      7.2 |                53   | ENE              |         14.4 |          -1   |
+| 10:00  |            125.2 |            4.7 |      7.2 |                54.1 | ENE              |         15.4 |          -2.3 |
+| 12:00  |             95   |            4.7 |      7.1 |                54.2 | ENE              |         15.9 |          -1.4 |
+| 14:00  |             95   |            4.5 |      7   |                50.8 | ENE              |         15.3 |           0.5 |
+| 16:00  |             95   |            4.4 |      6.7 |                45.4 | ENE              |         15   |           1.7 |
+| 18:00  |             95   |            4.2 |      6.6 |                41.4 | ENE              |         14.5 |           1.1 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:41  | H      |          4.43 |
+| 10:12  | L      |          0.19 |
+| 16:23  | H      |          4.54 |
+| 22:32  | L      |          0.49 |
+
+Onshore winds but waves over 7s period? Some said it would never happen again.
+
+Early week is worth a watch but it doesn't look like a cleanup is in the cards at this time.
+
+Notes: Blown out surf is still surf given the time of year. Let's be honest, I'll see y'all out there.
 
 ---
 
