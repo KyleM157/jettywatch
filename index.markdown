@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  5/5/2026 11:30**
+**Last Update:  5/7/2026 09:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -15,7 +15,9 @@ title: Monmouth County Surf Forecast
 
 Sunday, 5/3, really underperformed. We should have seen more south swell according to model output, but at least the rest of the week looks interesting.
 
-We have a pretty active week, with several low pressure systems expected to pass through with sustained south winds through mid-week. Currently, I'm watching Wednesday for swell and Thursday for a wind switch with possible leftovers on Friday. High presure behind that frontal passage may end up affecting the resulting winds which would mean a north wind switch rather than offshore. That said, given the swell direction, this isn't the worst thing that could happen.
+Thursday, 5/7 also really underperformed. 
+
+Friday, 5/8,  hasn't underperformed yet, but by this time tomorrow, it too will have underperformed.
 
 High pressure is expected to return for early next weekend, but we could see a little south swell at that time. That would be weak and steep angled, but it may be enough for a longboard.
 
@@ -55,13 +57,7 @@ Strong south wind from high pressure and two passing low pressure systems. There
 | 12:01  | H      |          3.61 |
 | 17:18  | L      |          1.25 |
 
-Fun, short-period, south swell expected for Thursday with mostly decent conditions expected at this time. Convenient low tide timing for the AM session. Really nice swell angle on this one.
-
-Breaking wave heights should be in the stomach+ range with chest high sets at better spots. New York will end up seeing the most size locally and best conditions (closeouts though). Keep that in mind.
-
-Notes: Looks really fun for our area and sandbars.
-
-Best board: Small wave performance board
+Massive underperformance on this one. Buoy was reading around 3ft@6.7s at dawn. Really disappointing.
 
 ### Friday 5/8
 
@@ -89,42 +85,11 @@ Best board: Small wave performance board
 | 12:51  | H      |          3.63 |
 | 18:12  | L      |          1.38 |
 
-More recent model runs are looking pretty pessimistic about leftovers for Friday. I'd make the most of Thursday.
-
-If this trend holds, I'd expect shin to waist high waves at most. Get on it early and bring a big board.
-
-Notes: Don't count on it.
-
-Best board: Longboard
+It's going to be close to if not flat.
 
 ### Saturday 5/9
 
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              185 |            2.2 |      8.1 |                11.7 | SSW              |          7   |          -0.9 |
-| 08:00  |              185 |            2.3 |      8.6 |                16.3 | SSW              |          9   |          -1.4 |
-| 10:00  |              175 |            2.6 |      8.8 |                25.8 | SSW              |         12   |          -0.6 |
-| 12:00  |              175 |            3.1 |      8.8 |                34.1 | S                |         15   |           0.4 |
-| 14:00  |              175 |            3.5 |      4.3 |                 1.8 | S                |         16   |           1   |
-| 16:00  |              175 |            3.7 |      4.8 |                 3.8 | S                |         16   |           0.3 |
-| 18:00  |              175 |            3.7 |      5   |                 5   | SSW              |         14.8 |          -1   |
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     112.5 |       1.3 |        9.3 |       0   |       0   |        0   |       0   |       0   |        0   |      183.9 |         6.1 |         6   |
-| 14:00  |     111.8 |       1.3 |        9   |       0   |       0   |        0   |       0   |       0   |        0   |      184.1 |         5.3 |         6.4 |
-| 20:00  |     172.4 |       3.5 |        6   |     110.9 |       1.2 |        8.9 |     132.2 |       0.2 |       13.7 |        0   |         0   |         0   |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 00:51  | H      |          4.2  |
-| 07:19  | L      |          0.89 |
-| 13:39  | H      |          3.75 |
-| 19:27  | L      |          1.41 |
-
-South wind should kick up a little wind swell late day. It won't be good by any means (only here because it's the weekend). At the right spot, it may be doable on a longboard.
+South winds. Maybe something for Sunday AM but we're talking longboard waves at best.
 
 ### Sunday 5/10
 
@@ -134,14 +99,12 @@ best board: longboard
 
 ### Monday 5/11
 
-Worth a look early AM on Monday from Sunday's southerly wind switch. Nothing great.
-
-Best board: longboard
+Northeast winds expected with no surf.
 
 
 ## Looking Ahead
 
-Watching next Thursday/Friday for a potentially fun but short lived south swell and potentially the weekend as well. Too far out.
+Watching next Thursday/Friday for a potentially swell in the 8 second range.
 
 
 
