@@ -5,79 +5,20 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  5/18/2026 11:30 (Next Update will likely be Friday 5/22)**
+**Last Update:  5/21/2026 10:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-## Week of 5/16 - 5/23
+## 5/21 - Memorial Day Weekend and Early Week
 
-Friday and Saturday were fun; hope y'all got a few!
+High pressure moves in for Friday into the weekend. We should see some east swell from this setup over the weekend with strong onshore winds. Swell lingers into early week with a possible cleanup on Monday with small leftovers on Tuesday. The wind forecast is still uncertain for that time range.
 
-Sunday looks fun with new south wind swell mixing in with some leftover east swell and offshore winds.
+The rest of the week is looking really slow with light winds and comfortable temperatures expected. Find something else to do.
 
-We could see another weak south swell on Wednesday or Thursday. The wind forecast is unclear at this time.
+In non-surf related news, JettyWatch may be coming to you from Brielle soon!
 
-Looking ahead, we may see another east swell next weekend. Lots of uncertainty at this time on that one.
-
-
-
-### Monday 5/18
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            3   |      7.5 |                22.7 | SW               |          5   |          -0.9 |
-| 08:00  |            164.9 |            2.8 |      7.5 |                21.2 | SSW              |          4   |           1   |
-| 10:00  |            165   |            2.6 |      7.6 |                19.5 | SSE              |          6   |           0.8 |
-| 12:00  |            165   |            2.5 |      7.6 |                17.6 | SSE              |          8.2 |          -1.1 |
-| 14:00  |            165   |            2.5 |      7.6 |                17.6 | SSE              |         10.9 |          -2.7 |
-| 16:00  |            165   |            2.7 |      7.5 |                19.6 | S                |         12.7 |          -2.6 |
-| 18:00  |            165   |            2.8 |      7.5 |                22   | S                |         14   |          -0.1 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:08  | L      |         -0.54 |
-| 09:08  | H      |          4.75 |
-| 15:05  | L      |         -0.21 |
-| 21:23  | H      |          5.88 |
-
-Enough for a longboard on the mid-lower tide. Good for newer surfers with decent shape expected and not too much wind to ruin it completely.
-
-Notes: Not clean, but worth a look for learners to get some uncrowded longboard waves.
-
-Best board: longboard
-
-### Tuesday
-
-No surf expected with strong south winds by afternoon.
-
-### Wednesday
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            175   |            3.9 |      6.3 |                17.4 | SW               |         12.2 |          -2.6 |
-| 08:00  |            175   |            3.7 |      6.3 |                15.5 | SW               |         11.3 |          -0.8 |
-| 10:00  |            175   |            3.6 |      6.3 |                14.2 | SSW              |         11.5 |           0.9 |
-| 12:00  |            175   |            3.6 |      6.2 |                14.1 | SSW              |         14.5 |           0.3 |
-| 14:00  |            175   |            4.1 |      6.1 |                16   | SSW              |         17.4 |          -1.2 |
-| 16:00  |            172.4 |            4.3 |      6   |                17.3 | SSW              |         15.2 |          -2.5 |
-| 18:00  |            165   |            4.1 |      6   |                18.9 | SW               |         10.7 |          -2.3 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 04:51  | L      |         -0.31 |
-| 11:08  | H      |          4.59 |
-| 16:52  | L      |          0.2  |
-| 23:22  | H      |          5.34 |
-
-Possible poorly directed south swell. Not expecting much, but it should be enough for a longboard at worst. Cross-offshore wind expected for doable but imperfect conditions.
-
-Notes: Low expectations required
-
-Best board: Longboard
 
 ### Thursday 5/21
 
@@ -98,7 +39,7 @@ Best board: Longboard
 | 12:10  | H      |          4.56 |
 | 17:51  | L      |          0.49 |
 
-We could see some more south wind swell but it'll be small and the wind won't be ideal.
+Some shin-knee high longboard waves out there this morning.
 
 Notes: Lower expectations needed than Wednesday
 
@@ -108,15 +49,88 @@ Small waves and moderately strong onshore wind that strengthens into mid-morning
 
 ### Saturday 5/23
 
-Same as Friday
+5-7ft seas with strong onshore wind.
 
 ### Sunday 5/24
 
-We could see a low form between two areas of high pressure. This would create an east swell with no guarentee of offshore winds. As of right now, there are some major differences in the model outputs with the GFS being far more bullish on this setup. At this point, I want to say that there should be something in the way of waves, but the wind forecast is likely to be imperfect.
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |              125 |            8.8 |      8.5 |                91.5 | E                |         19.5 |          -0.4 |
+| 08:00  |              125 |            8.9 |      8.7 |                92.6 | E                |         18.1 |          -1.7 |
+| 10:00  |              125 |            9.2 |      8.9 |                93.8 | ENE              |         17.3 |          -1.2 |
+| 12:00  |              125 |            9.6 |      9   |                94.7 | ENE              |         15.6 |           0.3 |
+| 14:00  |              125 |            9.7 |      9.1 |                95.3 | ENE              |         12.7 |           1.9 |
+| 16:00  |              125 |            9.7 |      9.2 |                95.5 | NE               |         11   |           1.8 |
+| 18:00  |              125 |            9.3 |      9.2 |                94.9 | NE               |          9   |           0.3 |
 
-Note that although we see the majority of the swell generated on Sunday, it's likely that conditions aren't going to come together until Monday/Tuesday (and more likely Tuesday).
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:15  | H      |          4.56 |
+| 08:45  | L      |          0.31 |
+| 14:58  | H      |          4.68 |
+| 21:11  | L      |          0.83 |
+
+
+8-10ft seas with strong onshore wind. It's *possible* that we see lighter winds Sunday afternoon but this will be a last minute call (or at least Saturday). There's a little low pressure system that wants to spin up right over us and if that happens, we may see locally offshore winds (somewhere in the state). Way too much uncertainty to make that call.
+
+### Monday 5/25
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |              115 |            6.5 |      9.1 |                88.2 | NNE              |          5   |           0.2 |
+| 08:00  |              115 |            6.1 |      9.1 |                86.1 | NE               |          4.9 |          -1.6 |
+| 10:00  |              115 |            5.7 |      9   |                83.6 | SE               |          4.1 |          -2.3 |
+| 12:00  |              115 |            5.4 |      8.9 |                81   | SSE              |          4.1 |          -1.1 |
+| 14:00  |              115 |            5.1 |      8.8 |                78.2 | S                |          4   |           0.7 |
+| 16:00  |              115 |            4.8 |      8.7 |                74.8 | S                |          5   |           1.5 |
+| 18:00  |              115 |            4.5 |      8.5 |                70.4 | S                |          4.7 |           0.4 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:10  | H      |          4.35 |
+| 09:36  | L      |          0.35 |
+| 15:52  | H      |          4.77 |
+| 22:08  | L      |          0.73 |
+
+Watching for a wind switch on Monday. There's still a lot of uncertainty going into early next week.
+
+Not the best swell direction for our region. You'll definitely want to find a good east swell spot if this forecast holds. I expect the period numbers to come down a bit which should help.
+
+Notes: The quality of the conditions really comes down to the wind forecast which is really uncertain.
+
+Best board: TBD; it's possible the period numbers are a bit inflated over what we actually see.
+
+### Tuesday 5/26
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |            115   |            3.4 |      7.9 |                47.3 | NW               |          3.1 |           0.6 |
+| 08:00  |            115   |            3.2 |      7.7 |                43   | NW               |          3.6 |          -1   |
+| 10:00  |            115   |            3.1 |      7.5 |                38.1 | NW               |          2.8 |          -2.2 |
+| 12:00  |            115   |            3   |      7.4 |                34.5 | WNW              |          2.8 |          -1.7 |
+| 14:00  |            115   |            2.9 |      7.3 |                31.6 | SSW              |          3   |           0.4 |
+| 16:00  |            115   |            2.8 |      7.2 |                29.3 | SSW              |          4   |           1.9 |
+| 18:00  |            115.1 |            2.7 |      7.1 |                27.1 | SSW              |          4   |           1.5 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 04:06  | H      |          4.2  |
+| 10:23  | L      |          0.38 |
+| 16:44  | H      |          4.89 |
+| 22:59  | L      |          0.6  |
+
+Models are in pretty good agreement that we see offshore winds on Tuesday, at least in the AM. It's entirely possible we end up seeing light south instead, but I'd expect decent conditions around this time period.
+
+Wave size is a bit tougher to call. I'd expect relatively minor leftovers. Probably enough for a groveler, but keep a longboard handy especially if looking to surf later in the day.
+
+The dropping tide in the morning is definitely the best window.
 
 Notes: Check back later.
+
+Best board: TBD but probably a longboard all things considered.
 
 
 ---
