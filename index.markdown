@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  6/1/2026 17:00**
+**Last Update:  6/2/2026 07:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -37,11 +37,11 @@ In terms of solid surf, this week is unlikely to deliver. The second week of Jun
 | 15:08  | L      |          0.85 |
 | 21:23  | H      |          4.88 |
 
-Steep angled NE wind swell with relatively light winds. Knee-thigh waves expected.
+Steep angled NE wind swell with relatively light winds. Waist-stomach high surf this morning at better breaks. Period values came in better than expected at around 9 seconds. Looks decent early.
 
 Notes: Low expectations
 
-Best board: longboard
+Best board: longboard or groveler.
 
 ### Wednesday 6/3
 
