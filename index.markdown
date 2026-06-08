@@ -5,140 +5,76 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  6/5/2026 09:00**
+**Last Update:  6/8/2026 09:45 (Next update will be Wednesday 6/10)**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-## Forecast for 6/3 - 6/8
+## Forecast for the Week of 6/7 - 6/14
 
-Small but rideable surf for Saturday AM. Shape could be better with closeouts being the norm.
+Watching Thursday AM for rideable waves with decent shape.
 
-Small short period surf for Sunday AM with offshores to start the day.
-
-
-### Saturday 6/6
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            115   |            3.1 |      8.1 |                47.1 | SW               |          8   |          -2   |
-| 08:00  |            115   |            3.1 |      8.1 |                47.4 | SW               |          8   |          -1.2 |
-| 10:00  |            115   |            3.1 |      8.2 |                47.4 | SSW              |          9.2 |           0.1 |
-| 12:00  |            115   |            3.2 |      8.2 |                49.3 | S                |         12   |           0.9 |
-| 14:00  |            115   |            3.5 |      8.1 |                53.4 | SSW              |         14.7 |           0.4 |
-| 16:00  |            155.1 |            4   |      8.1 |                49   | SSW              |         17.1 |          -0.6 |
-| 18:00  |            162.4 |            4.4 |      4.9 |                10   | SSW              |         18   |          -1.4 |
-
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     142.6 |       3   |        8.1 |       0   |       0   |        0   |        0   |         0   |         0   |
-| 14:00  |     128   |       2.3 |        8.1 |       0   |       0   |        0   |      183.2 |         2.4 |         3.9 |
-| 20:00  |     126.2 |       2.1 |        7.9 |     295.1 |       0.8 |        3.2 |      184.4 |         2.8 |         4.9 |
-
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 05:48  | L      |          0.63 |
-| 12:18  | H      |          3.93 |
-| 17:46  | L      |          1.27 |
-
-**Actual buoy readings are closer to 2.6ft@8s**
-
-Came in under forecast.
-
-Definitely worth keeping an eye on this one given the time of year. The swell angle is a bit more east than I'd like, but I'd expect pretty good shape given the shorter period. Wave heights should be in the waist-stomach range. The table above is a bit misleading due to new south wind waves mixing in. The AM is the time to watch.
-
-Low tide is conveniently timed for the early morning session. Wind is light enough but somewhat cross-offshore. Conditions are unlikely to be flawless, but it looks good considering it's June.
-
-Notes: Looks pretty fun.
-
-Best board: longboard or groveler
-
-
-### Sunday 6/7
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            3.2 |      6.3 |                14.7 | W                |          8   |          -1.5 |
-| 08:00  |            165   |            3.2 |      6.5 |                15.1 | W                |          7.9 |          -1.5 |
-| 10:00  |            164.9 |            3.1 |      6.6 |                15.8 | W                |          6.1 |          -0.4 |
-| 12:00  |            165   |            3.1 |      6.7 |                17   | WSW              |          5   |           0.8 |
-| 14:00  |            165   |            3.1 |      6.9 |                18.6 | WSW              |          5.9 |           1   |
-| 16:00  |            165   |            3.1 |      6.9 |                19.2 | W                |          5.7 |           0   |
-| 18:00  |            175   |            3   |      6.9 |                15   | NW               |          5   |          -1.3 |
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     161.2 |       3   |        6.7 |      274.2 |         1.1 |         2.8 |
-| 14:00  |     162   |       3   |        6.8 |        0   |         0   |         0   |
-| 20:00  |     162.7 |       2.8 |        6.8 |      341   |         1.8 |         3.3 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 00:16  | H      |          4.41 |
-| 06:33  | L      |          0.66 |
-| 13:03  | H      |          4.11 |
-| 18:49  | L      |          1.3  |
-
-This had trended down in the past few days. At this point, I have really low expectations for our region.
-
-At this point, knee-waist at best unless we see overperformance. Wind should be offshore, but possibly stronger than desired given the really weak swell.
-
-Notes: Get on it early but check to make sure there's waves. Everything has underperformed this week, if this does the same, I'd skip it.
-
-Best board: longboard
+Really slow week with poor or no waves other than Thursday. Based on what I'm seeing on the upper level charts, we're looking at sometime next week for the next round of decent surf. A persistent ridge of high pressure is pushing any low pressure system too far north to generate swell for our region. This is typical for summer, but it's certainly better when it's not the case.
 
 
 ### Monday 6/8
 
+Onshore wind with poor conditions
+
+### Tuesday 6/9
+
+Small northeast wind waves with clean conditions. A little over ankle high but not by much. Wind turns out of the south for poor conditions by late afternoon.
+
+### Wednesday 6/10
+
+South wind and no surf. A fetch of stronger south wind develops late day into the overnight hours.
+
+### Thursday 6/11
+
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              175 |            3   |      6.6 |                12.2 | NNE              |         10.4 |          -1.2 |
-| 08:00  |              175 |            2.9 |      6.5 |                10.7 | NNE              |          9   |          -2   |
-| 10:00  |              175 |            2.8 |      6.2 |                 7.6 | NE               |          7   |          -1.1 |
-| 12:00  |              175 |            2.7 |      5.9 |                 5.5 | ENE              |          5.7 |           0.3 |
-| 14:00  |               75 |            2.7 |      5.8 |                10.5 | SE               |          5.7 |           1.3 |
-| 16:00  |               75 |            2.5 |      5.8 |                 9.7 | SSE              |          7   |           0.7 |
-| 18:00  |               75 |            2.4 |      6   |                 9.6 | SSE              |          8.1 |          -0.8 |
-
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     177.2 |       1.6 |        6.2 |     134.7 |       1.3 |        7.7 |         0 |       0   |        0   |       55.7 |         1.7 |         4.3 |
-| 14:00  |      80.9 |       1.2 |        5.9 |     138.4 |       1.2 |        7.4 |       178 |       1.2 |        5.8 |        0   |         0   |         0   |
-| 20:00  |     135.8 |       1.1 |        7.4 |      75.7 |       0.8 |        5.3 |         0 |       0   |        0   |      180.7 |         2.4 |         3.5 |
-
+| 06:00  |            175   |            3.4 |      6.3 |                12.3 | SW               |          8.2 |           0.6 |
+| 08:00  |            175   |            3.3 |      6.4 |                13.4 | WSW              |          7.7 |          -1   |
+| 10:00  |            165   |            3.3 |      6.6 |                18.1 | SW               |          7.6 |          -2.4 |
+| 12:00  |            165   |            3.4 |      6.7 |                19.2 | SW               |          8.6 |          -1.9 |
+| 14:00  |            165   |            3.4 |      6.7 |                19.9 | SSW              |         11   |           0.4 |
+| 16:00  |            165   |            3.5 |      6.7 |                21.7 | SSW              |         12.3 |           2.2 |
+| 18:00  |            165.1 |            3.6 |      6.7 |                22.1 | SSW              |         11.5 |           2   |
 
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
-| 01:06  | H      |          4.35 |
-| 07:26  | L      |          0.64 |
-| 13:50  | H      |          4.37 |
-| 20:03  | L      |          1.2  |
+| 04:02  | H      |          4.25 |
+| 10:12  | L      |          0.23 |
+| 16:35  | H      |          5.32 |
+| 23:12  | L      |          0.31 |
 
-Strong onshore winds send new swell. Poor conditions.
+The only day to watch during the work week. Cleanest conditions expected early.
 
-### Tuesday - End of Week
+Notes: Not great, but it's waves. Early AM session is best. Thunderstorms are possible (but unlikely early AM), watch your local weather forecast.
 
-Flat - Near flat
+Best board: longboard
 
-As of right now, it looks pretty terrible next week. Wednesday/Thursday early AM for longboard waves maybe. It's really bad until something changes. High pressure remains dominant potentially all week. Models are in disagreement on that.
+### Friday 6/12
+
+Small wind waves with light south wind. Ankle-knee high or so.
+
+### Saturday 6/13
+
+Flat
+
+### Sunday 6/14
+
+Flat
 
 ---
 
 ## Looking Ahead
 
-Upper level charts look really bleak. High pressure dominates and the jet stream stays really far north. Other than the possibility of an early season tropical storm, the next time period I'm seeing is around 6/15 and then again around 6/20. That far out, there's no confidence anyway.
+I'm a bit more optimistic about next week. While there's nothing super exciting in the charts, the pattern that is preventing surf will have broken down and stronger low pressure systems should be able to be in the vicinity of our region. Whether that occurs or not is still challenging to say, but it's way more positive than what we've been seeing lately.
 
-Long story short, welcome to summer.
+The following week (after 6/22) looks like a return to the pattern we've been seeing the past two weeks. I'd plan on making the most of whatever we see from 6/16 - 6/20 because I'd expect things to look pretty slow as we get into the summer months.
 
 
 
