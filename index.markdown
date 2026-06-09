@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  6/8/2026 09:45 (Next update will be Wednesday 6/10)**
+**Last Update:  6/9/2026 09:45 (Next update will be Wednesday 6/10)**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -17,10 +17,6 @@ Watching Thursday AM for rideable waves with decent shape.
 
 Really slow week with poor or no waves other than Thursday. Based on what I'm seeing on the upper level charts, we're looking at sometime next week for the next round of decent surf. A persistent ridge of high pressure is pushing any low pressure system too far north to generate swell for our region. This is typical for summer, but it's certainly better when it's not the case.
 
-
-### Monday 6/8
-
-Onshore wind with poor conditions
 
 ### Tuesday 6/9
 
@@ -50,7 +46,7 @@ South wind and no surf. A fetch of stronger south wind develops late day into th
 | 16:35  | H      |          5.32 |
 | 23:12  | L      |          0.31 |
 
-The only day to watch during the work week. Cleanest conditions expected early.
+The only day to watch during the work week. Cleanest conditions expected early. Larger waves further south.
 
 Notes: Not great, but it's waves. Early AM session is best. Thunderstorms are possible (but unlikely early AM), watch your local weather forecast.
 
@@ -74,9 +70,31 @@ Flat
 
 I'm a bit more optimistic about next week. While there's nothing super exciting in the charts, the pattern that is preventing surf will have broken down and stronger low pressure systems should be able to be in the vicinity of our region. Whether that occurs or not is still challenging to say, but it's way more positive than what we've been seeing lately.
 
+Current numbers for 6/16:
+
+2026-06-16
+| Time   |   Wave Direction |   Swell Height |   Period |   Wind Direction |   Wind Speed |
+|:-------|-----------------:|---------------:|---------:|-----------------:|-------------:|
+| 08:00  |            170.2 |            4.9 |      5.7 |            208.3 |         18.6 |
+| 14:00  |            166.2 |            5   |      6.9 |            199.7 |         14.5 |
+| 20:00  |            165.6 |            4.8 |      7.5 |            247.8 |          7.9 |
+
+
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |       0   |       0   |        0   |      175.6 |         4.9 |         5.7 |
+| 14:00  |       0   |       0   |        0   |      174   |         5   |         6.9 |
+| 20:00  |     168.8 |       4.8 |        7.5 |        0   |         0   |         0   |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:54  | L      |         -0.52 |
+| 08:56  | H      |          4.83 |
+| 14:52  | L      |         -0.16 |
+| 21:11  | H      |          5.92 |
+
 The following week (after 6/22) looks like a return to the pattern we've been seeing the past two weeks. I'd plan on making the most of whatever we see from 6/16 - 6/20 because I'd expect things to look pretty slow as we get into the summer months.
-
-
 
 ---
 
