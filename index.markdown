@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  6/10/2026 16:20**
+**Last Update:  6/11/2026 07:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -50,9 +50,11 @@ Next week looks more interesting, particularly late week.
 | 16:35  | H      |          5.32 |
 | 23:12  | L      |          0.31 |
 
+**Came in under forecast. Buoy reading is 3ft@5.9s. Bring a big board.**
+
 Steep angled south wind swell. Definitely worth a look in the AM.
 
-Wave heights aren't going to be particularly impressive, but it should be around waist high on average. Larger for Ocean Couty.
+Wave heights aren't going to be particularly impressive. Larger for Ocean Couty.
 
 Notes: Not great, but it's waves. Early AM session is best. Thunderstorms are possible (but unlikely early AM), watch your local weather forecast.
 
@@ -86,7 +88,7 @@ Best board: longboard or a groveler at the right sandbar
 | 11:06  | L      |          0.06 |
 | 17:34  | H      |          5.66 |
 
-Small wind waves with light wind and clean conditions. Ankle-knee high or so.
+Small wind waves with light wind and clean conditions. Ankle high.
 
 Best board: longboard
 
