@@ -5,17 +5,17 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  6/14/2026 08:00**
+**Last Update:  6/16/2026 09:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-## Forecast for the Week of 6/7 - 6/14
-
-Watching Monday for rideable waves. We may see an overperformance here.
+## Forecast for the Week of 6/14 - 6/21
 
 Late week (Friday most likely but maybe Thurs. PM) for actual swell.
+
+Early next week (6/22 or 6/23) also looks interesting but it's too early to call.
 
 
 
@@ -70,9 +70,46 @@ Best board: longboard
 
 ### Tuesday 6/16
 
-Flat - ankle high
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |              185 |            2.9 |      7   |                11.2 | NNW              |         10.7 |          -0.2 |
+| 08:00  |              185 |            2.9 |      6.9 |                10.2 | NW               |          9.2 |           1.7 |
+| 10:00  |              185 |            2.7 |      6.9 |                 8.5 | NW               |          6.7 |           1.1 |
+| 12:00  |              185 |            2.5 |      6.8 |                 6.8 | W                |          3.9 |          -0.9 |
+| 14:00  |              185 |            2.3 |      6.9 |                 5.6 | S                |          7.6 |          -2.4 |
+| 16:00  |              185 |            2.1 |      6.9 |                 4.7 | S                |         12   |          -2.1 |
+| 18:00  |              185 |            2.3 |      6.9 |                 5.4 | S                |         14.7 |           0.6 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:54  | L      |         -0.52 |
+| 08:56  | H      |          4.83 |
+| 14:52  | L      |         -0.16 |
+| 21:11  | H      |          5.92 |
+
+Came in over forecast. Avoid the AM high tide. Enough for a longboard.
+
+Wind turns cross shore in the afternoon.
+
+Notes: Annoying tide swing today.
+
+Best board: longboard
 
 ### Wedndesday 6/17
+
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |     155.1 |       1.6 |        6.7 |     131.9 |       0.2 |         16 |      171   |         1.4 |         4.2 |
+| 14:00  |     132.1 |       0.2 |       15.9 |       0   |       0   |          0 |      158.7 |         2.4 |         6.7 |
+| 20:00  |     131.4 |       0.2 |       15.4 |       0   |       0   |          0 |      160.9 |         3.3 |         6.9 |
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:45  | L      |         -0.53 |
+| 09:53  | H      |          4.84 |
+| 15:46  | L      |         -0.04 |
+| 22:07  | H      |          5.68 |
 
 Flat - knee with some tiny long period mixing in. Might be better than expected, but those expectations are quite low.
 
@@ -80,13 +117,14 @@ Flat - knee with some tiny long period mixing in. Might be better than expected,
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            155   |            2.6 |      6.4 |                11.3 | S                |          9.8 |          -1.5 |
-| 08:00  |            162.4 |            2.8 |      6.6 |                13   | S                |         13.2 |           0.5 |
-| 10:00  |            165   |            3.4 |      6.9 |                22.2 | S                |         18.4 |           1.9 |
-| 12:00  |            165   |            4.5 |      5   |                10.6 | S                |         21.4 |           1   |
-| 14:00  |            175   |            5.5 |      5.9 |                24.6 | SSW              |         22.2 |          -0.6 |
-| 16:00  |            172.4 |            6.2 |      6.4 |                40   | SSW              |         23   |          -2.1 |
-| 18:00  |            175   |            6.7 |      6.7 |                45.6 | SSW              |         22.6 |          -1.6 |
+| 06:00  |            155   |            3.1 |      6.4 |                16.7 | S                |         13.8 |          -1.5 |
+| 08:00  |            155   |            3.6 |      6.4 |                21.8 | S                |         16.4 |           0.5 |
+| 10:00  |            155   |            4.2 |      6.3 |                26.9 | S                |         18.5 |           1.9 |
+| 12:00  |            155   |            4.8 |      6.2 |                31.8 | S                |         20.4 |           1   |
+| 14:00  |            162.2 |            5.5 |      6.2 |                35.2 | SSW              |         21.4 |          -0.7 |
+| 16:00  |            165   |            5.8 |      6.6 |                42.3 | SSW              |         20.8 |          -2.1 |
+| 18:00  |            172.2 |            5.8 |      6.7 |                40.6 | SW               |         19.6 |          -1.7 |
+
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -97,39 +135,39 @@ Flat - knee with some tiny long period mixing in. Might be better than expected,
 
 New south swell arrives with strong south winds expected. Choppy conditions for most or all of the day with a cleanup occurring overnight.
 
-Notes: Keep an eye on the wind forecast for late day. It's possible the wind switch happens late on Thursday. Waves are likely.
+Notes: Keep an eye on the wind forecast for late day. It's possible the wind switch happens late on Thursday.
 
-Best board: daily driver or groveler
+Best board: daily driver
 
 ### Friday 6/19
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            175   |            4   |      6.9 |                24.6 | WSW              |         10.2 |          -2.4 |
-| 08:00  |            175   |            3.7 |      6.9 |                21.8 | WSW              |          9.5 |          -0.7 |
-| 10:00  |            175   |            3.7 |      7.1 |                23.8 | WSW              |          9.3 |           1.1 |
-| 12:00  |            175   |            3.7 |      7.3 |                26.5 | WSW              |          9.3 |           1.4 |
-| 14:00  |            175   |            3.7 |      7.4 |                27.1 | WSW              |         10   |           0.1 |
-| 16:00  |            182.2 |            3.6 |      7.4 |                22.5 | WSW              |         10   |          -1.4 |
-| 18:00  |            185   |            3.5 |      7.4 |                19.7 | WSW              |         10   |          -2.1 |
+| 06:00  |            175   |            3.8 |      7.1 |                25.6 | W                |         10   |          -2.5 |
+| 08:00  |            175   |            3.6 |      7.2 |                23.8 | W                |          9   |          -0.9 |
+| 10:00  |            175   |            3.6 |      7.3 |                24.9 | W                |          9   |           1.1 |
+| 12:00  |            175   |            3.7 |      7.6 |                29.2 | WSW              |          9.8 |           1.4 |
+| 14:00  |            175   |            3.8 |      7.7 |                31.3 | WSW              |         10.8 |          -0   |
+| 16:00  |            175   |            3.7 |      7.5 |                28.4 | WSW              |         11   |          -1.6 |
+| 18:00  |            182.4 |            3.5 |      7.4 |                21.1 | WSW              |         11   |          -2.3 |
 
 
 **Prediction for NY Harbor Buoy**
 
 | Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
 |:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     166   |       3.3 |        7   |     132.5 |       0.3 |       14.1 |      250.8 |         1.7 |         3.1 |
-| 14:00  |     169.7 |       3.5 |        7.6 |     132   |       0.3 |       13.7 |      266.5 |         1.8 |         3.4 |
-| 20:00  |     175.8 |       3.2 |        7.3 |     131.4 |       0.3 |       13.5 |        0   |         0   |         0   |
+| 08:00  |     168.7 |       3.3 |        7.1 |     130.8 |       0.3 |       14.1 |      284.8 |         1.5 |         3.3 |
+| 14:00  |     174.5 |       3.4 |        7.8 |     130.6 |       0.3 |       13.7 |        0   |         0   |         0   |
+| 20:00  |     175.1 |       3.5 |        7.3 |     129.1 |       0.3 |       13.5 |      267.2 |         1.6 |         3.2 |
 
 
 **Prediction for Barnegat Light Buoy**
 
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     171.8 |       3.8 |        7.1 |     114.4 |       0.4 |       14.2 |       0   |       0   |        0   |      235.6 |         1   |         2.2 |
-| 14:00  |     172   |       3.8 |        7.5 |     317.2 |       0.7 |        3.1 |     114.5 |       0.4 |       13.8 |        0   |         0   |         0   |
-| 20:00  |     174.3 |       3.8 |        7.3 |     114.5 |       0.4 |       13.5 |       0   |       0   |        0   |      310.6 |         1.4 |         2.9 |
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |     169.6 |       3.4 |        7.1 |     115.6 |       0.4 |       14.1 |      302   |         1.1 |         2.8 |
+| 14:00  |     115.8 |       0.4 |       13.7 |     115.2 |       0.4 |       13.8 |      178.8 |         4   |         7.7 |
+| 20:00  |     181.7 |       3.7 |        7.1 |     115.2 |       0.4 |       13.5 |        0   |         0   |         0   |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -140,28 +178,46 @@ Best board: daily driver or groveler
 
 Best day of the week all things considered. Clean conditions are expected all day with light to moderate offshore winds.
 
-Breaking waves should be in the stomach-chest range depending on location with Ocean County showing larger. These numbers are likely to move around a little bit, but at this point I'm pretty confident in saying we'll see a fun day of surf on Friday.
+Breaking waves should be in the waist-chest range depending on location with Ocean County showing larger. These numbers are likely to move around a little bit, but at this point I'm pretty confident in saying we'll see a fun day of surf on Friday.
 
 Swell direction is pretty ideal for our sandbars with most breaks having good shape.
 
-Notes: Fun day of surf.
+Notes: Fun day of surf. I could see this fading a bit faster than model forecast. Get on it early.
 
 Best board: groveler or daily driver
 
 
 ### Saturday 6/20
 
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |              185 |            2.9 |      6.9 |                10.3 | WNW              |         10   |          -2.6 |
+| 08:00  |              185 |            2.9 |      6.8 |                 9.3 | WNW              |         11   |          -1.8 |
+| 10:00  |              185 |            2.9 |      6.7 |                 8.5 | WNW              |         10   |           0.1 |
+| 12:00  |              185 |            2.8 |      6.6 |                 7.7 | WNW              |         10   |           1.3 |
+| 14:00  |              185 |            2.8 |      6.6 |                 7.3 | W                |         10.7 |           0.5 |
+| 16:00  |              185 |            2.7 |      6.6 |                 7.2 | WNW              |         11.7 |          -0.9 |
+| 18:00  |              185 |            2.8 |      6.6 |                 7.3 | WNW              |         12.1 |          -2.2 |
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 00:01  | H      |          5.08 |
+| 06:16  | L      |         -0.01 |
+| 12:45  | H      |          4.83 |
+| 18:33  | L      |          0.71 |
+
 Likely some small leftovers for the longboards and beginners. Make the most of Thursday/Friday.
 
 ### Sunday 6/21
 
-Flat
+Flat - knee longboard waves are possible. Low expectations and really just for the absolute beginner.
+
 
 ---
 
 ## Looking Ahead
 
-We could see another swell early week but models are mixed. For now, plan on making the most of late week as it's (probably) as good as it'll get until we start to see tropical storms.
+Early next week is interesting. Models aren't in agreeement, but waves aren't *unlikely* around that time period. Check back later.
 
 ---
 
