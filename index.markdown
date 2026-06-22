@@ -5,18 +5,24 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  6/20/2026 14:00 (Next Update will likely be Monday 6/22)**
+**Last Update:  6/22/2026 10:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
+
+## Summer Forecast Note
+
+As we get into summer, this page will be updated less. I primarily mean for this page to track swells as they arrive and that's not something that happens that much this time of year. As surfers, we all know that July-mid August is the slowest time of year for surf. The waves we do see tend to be more similar to trade swell than actual swell events. For this type of setup, wave heights are pretty unimportant and will be too affected by local bathymetry. In general, if the waves are under waist high, I won't be attaching the tabular data associated.
+
+I'll still be updating this page with days that are worth a look, but I'll go ahead and give the NOAA servers a rest until something of interest pops up.
 
 
 ## Forecast for the Week of 6/21 - 6/28
 
 Waves early week from a weak low pressure system moving through our region. This brings cooler weatehr and maybe some rain on Monday/Tuesday. We should see a pretty similar day of surf to what we saw on Thurs./Fri. on Tuesday AM.
 
-Consider a surf trip after 6/23
+Really slow week y'all. Unfortunately, summer is upon us and that means no waves. Upper level charts are lookin pretty bleak for another week+. We could see something in early July, but I'd find another hobby for the time being.
 
 
 ### Sunday 6/21
@@ -29,13 +35,13 @@ Wind is relatively light all day for a nice beach day.
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            174.9 |            1.7 |      6.5 |                 2.5 | ESE              |          2.8 |          -1.2 |
-| 08:00  |            175   |            1.6 |      6.5 |                 2.1 | ESE              |          4   |          -2   |
-| 10:00  |            175   |            1.6 |      6.4 |                 1.9 | SE               |          8   |          -0.9 |
-| 12:00  |            165   |            1.9 |      6.4 |                 4.1 | SE               |         12   |           0.7 |
-| 14:00  |            165   |            2.6 |      3.6 |                 0.3 | SE               |         15   |           1.7 |
-| 16:00  |            175   |            3.5 |      4.7 |                 3.1 | SSE              |         17.6 |           1.4 |
-| 18:00  |            175   |            4.6 |      5.6 |                14.3 | S                |         18.6 |          -0.2 |
+| 06:00  |              175 |            1.8 |      6.5 |                 2.8 | ESE              |          2.9 |          -1.1 |
+| 08:00  |              165 |            1.7 |      6.5 |                 3.3 | E                |          5.4 |          -2   |
+| 10:00  |              165 |            1.7 |      6.4 |                 2.9 | ESE              |          7   |          -1   |
+| 12:00  |              165 |            1.8 |      6.4 |                 3.5 | SE               |         12   |           0.6 |
+| 14:00  |              165 |            2.8 |      3.5 |                 0.3 | SSE              |         18   |           1.8 |
+| 16:00  |              165 |            3.6 |      4.6 |                 3.8 | SSE              |         15.7 |           1.4 |
+| 18:00  |              165 |            3.8 |      5.2 |                 8.6 | S                |         15.3 |          -0.1 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -45,20 +51,20 @@ Wind is relatively light all day for a nice beach day.
 | 14:26  | H      |          4.81 |
 | 20:40  | L      |          0.96 |
 
-Watching for a new south swell. Wind isn't expected to go offshore until Tuesday.
+Watching for a new south swell. Wind isn't expected to go offshore until Tuesday. Messy conditions once waves arrive. Watch Tuesday.
 
 
 ### Tuesday 6/23
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            185   |            4.6 |      6.8 |                23.6 | SW               |          9.4 |          -0.5 |
-| 08:00  |            185   |            4.3 |      6.7 |                20.3 | WSW              |          8.8 |          -1.9 |
-| 10:00  |            185   |            4   |      6.7 |                17.3 | WNW              |          8.3 |          -1.8 |
-| 12:00  |            192.4 |            3.8 |      6.6 |                12   | NNW              |          8   |          -0.2 |
-| 14:00  |            155   |            3.5 |      6.6 |                23.8 | N                |          7   |           1.3 |
-| 16:00  |            155   |            3.4 |      6.6 |                21.8 | N                |          6.1 |           1.4 |
-| 18:00  |            155   |            3.2 |      6.6 |                20.2 | N                |          6   |           0.3 |
+| 06:00  |            185   |            3.5 |      5.9 |                 7.4 | WNW              |          6.8 |          -0.6 |
+| 08:00  |            185   |            3.2 |      6   |                 6.5 | N                |          8.9 |          -1.6 |
+| 10:00  |            192.2 |            3   |      5.9 |                 4.1 | N                |         13.2 |          -1.7 |
+| 12:00  |            195   |            2.9 |      5.9 |                 3   | N                |         14.5 |          -0.2 |
+| 14:00  |            195   |            2.8 |      5.9 |                 2.7 | NNW              |         11.3 |           1.4 |
+| 16:00  |            195   |            2.8 |      5.9 |                 2.6 | NNW              |          9   |           1.5 |
+| 18:00  |            195   |            2.6 |      5.9 |                 2.3 | NNW              |          8.2 |           0.3 |
 
 
 **Prediction for NY Harbor Buoy**
@@ -66,18 +72,18 @@ Watching for a new south swell. Wind isn't expected to go offshore until Tuesday
 
 | Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
 |:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     168.8 |       3.1 |        6.2 |     128.4 |       0.2 |       11.6 |       32.8 |         1.5 |         2.9 |
-| 14:00  |     162.7 |       2.7 |        6.1 |     127.5 |       0.2 |       11.6 |       41   |         1.9 |         3.4 |
-| 20:00  |     158   |       2.4 |        6.1 |     127.5 |       0.2 |       11.4 |       63.3 |         1.6 |         3.8 |
+| 08:00  |     169.7 |       3.5 |        5.9 |     129.9 |       0.2 |       11.6 |        0   |         0   |         0   |
+| 14:00  |     163.3 |       2.8 |        5.9 |     130   |       0.2 |       11.6 |      345.2 |         1.3 |         2.7 |
+| 20:00  |     158.7 |       2.4 |        5.8 |     128   |       0.2 |       11.3 |        4.8 |         1.1 |         2.8 |
 
 
 **Prediction for Barnegat Light Buoy**
 
 | Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
 |:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     169.8 |       3.4 |        6.1 |     113.3 |       0.3 |       11.6 |       30.7 |         1.5 |         3   |
-| 14:00  |     160.4 |       2.8 |        6   |     113.2 |       0.3 |       11.6 |       24.5 |         2.4 |         3.8 |
-| 20:00  |     155   |       2.3 |        6.1 |     111.3 |       0.3 |       11.3 |       41.7 |         2.4 |         4   |
+| 08:00  |     170.2 |       3.5 |        5.9 |     116.4 |       0.3 |       11.6 |        0   |         0   |         0   |
+| 14:00  |     162.9 |       2.9 |        5.8 |     114.4 |       0.3 |       11.6 |      349.2 |         1.1 |         2.4 |
+| 20:00  |     157   |       2.3 |        5.7 |     112.9 |       0.3 |       11.3 |        3.1 |         1.8 |         3.6 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -87,25 +93,28 @@ Watching for a new south swell. Wind isn't expected to go offshore until Tuesday
 | 15:15  | H      |          4.8  |
 | 21:38  | L      |          0.93 |
 
-Similar to what we saw on Friday, 6/19. Weak but fun south swell with enough wave height to be worth driving to the beach. Waist-stomach high surf for most of the region with a little larger surf expected in Ocean County. Expect really soft conditions given the period numbers and swell angle. Also cold water and some longshore current are to be expected.
 
-Nothing to get excited about, but this is it for a while.
+**This has trended down significantly over the past 48 hours**
 
-Notes: Check back later.
+Wave height predictions have dropped about a foot and now the period numbers are expected to be at or just below 6s. I had fairly high hopes for this one, but the wind strength just isn't there.
 
-Best board: longboard or groveler
+Breaking waves should be in the knee-waist range and very soft/mushy.
+
+Notes: Not what we wanted to see from this system. That said, it won't be better for a while. 7am or so should be best.
+
+Best board: longboard
 
 ### Wednesday 6/24
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              165 |            2.7 |      6.3 |                 9.6 | NNW              |          6.8 |          -0.1 |
-| 08:00  |              165 |            2.6 |      6.4 |                 9.4 | NNW              |          6   |          -1.4 |
-| 10:00  |              165 |            2.6 |      6.5 |                 9.9 | N                |          4.1 |          -2.1 |
-| 12:00  |              165 |            2.6 |      6.7 |                10.9 | NE               |          3   |          -1   |
-| 14:00  |              165 |            2.6 |      6.8 |                12.1 | ESE              |          3.2 |           0.8 |
-| 16:00  |              165 |            2.6 |      6.9 |                13.3 | SSE              |          5.9 |           1.8 |
-| 18:00  |              165 |            2.6 |      7   |                14.2 | S                |          7.2 |           1.1 |
+| 06:00  |              145 |            3   |      6.4 |                17.3 | NNW              |         13   |           0   |
+| 08:00  |              145 |            2.9 |      6.5 |                18.1 | NW               |         12.1 |          -1.4 |
+| 10:00  |              145 |            2.7 |      6.6 |                17.2 | NNW              |          8.9 |          -2.2 |
+| 12:00  |              145 |            2.5 |      6.7 |                14.6 | NNW              |          3   |          -1   |
+| 14:00  |              145 |            2.3 |      6.7 |                13.2 | S                |          4.9 |           0.8 |
+| 16:00  |              145 |            2.3 |      6.7 |                12.9 | S                |          8.3 |           1.7 |
+| 18:00  |              145 |            2.3 |      6.8 |                13.2 | S                |          9.9 |           1   |
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -114,7 +123,7 @@ Best board: longboard or groveler
 | 16:06  | H      |          4.82 |
 | 22:30  | L      |          0.83 |
 
-Enough for a beginner and the longboards. Clean conditions expected from light NNW winds. Waves in the ankle-knee range.
+Enough for a beginner and the longboards. Clean conditions expected from light NNW winds. Breaking waves in the knee-thigh range.
 
 Best board: Longboard
 
@@ -122,11 +131,15 @@ Best board: Longboard
 
 Roughly 2ft seas for very small surf. Flat at most spots at anything other than low tide.
 
+Really slow week for surf.
+
 ---
 
 ## Looking Ahead
 
 It's definitely summer and July isn't known for waves. Look into a surf trip if wanting to surf something over knee high in the next few weeks. Things *could* change, but after Tuesday 6/23 it looks pretty bleak.
+
+The next time period to keep an eye on is around 7/5, but that's pretty far out.
 
 ---
 
