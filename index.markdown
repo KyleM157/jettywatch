@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  6/27/2026 15:00**
+**Last Update:  6/29/2026 11:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -24,13 +24,19 @@ I'd be lying if I said this isn't another really slow week with nothing to look 
 
 There's enough for the absolute beginner on a longboard, but it's terrible all week.
 
+### Tuesday 6/30 - Thursday 7/2
+
+Strong south wind from high pressure moving through. Unfortunately, the swell produced from this is mainly headed northeast and is likely to miss our region. It's also *very* short fetch and isn't expected to wrap into our area. If you have a reason to be in NY, maybe give it a look, but don't expect too much in the way of surf here in NJ.
+
+Thursday AM looks to be the best time to try it if you must. Buoy heights are around 3ft@6s for knee+ surf and imperfect conditions.
+
+
+
 ---
 
 ## Looking Ahead
 
-There's some disagreement in the major atmospheric models about the time period around 7/5. That's the next time period for a potential swell event. That or in the following few days.
-
-As always, when you start looking at the end of the forecast window, uncertainty is really high. I'd plan on having other stuff to do.
+Currently, the week of 7/5 still looks the most interesting. Model runs are inconsistent, but mid-late week (around 7/9) looks like the best chance at fun waves. Major atmospheric models aren't in agreement, but the upper level charts look decent for that time period. Note that this is still in the 3ft@8s range, but it's expected to be an east swell if it comes together. It could be pretty fun, especially for July.
 
 
 ---
