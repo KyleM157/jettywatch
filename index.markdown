@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  7/15/2026 14:15**
+**Last Update:  7/16/2026 13:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
@@ -18,44 +18,35 @@ As we get into summer, this page will be updated less. I primarily mean for this
 I'll still be updating this page with days that are worth a look, but I'll go ahead and give the NOAA servers a rest until something of interest pops up.
 
 
-## Forecast for 7/15 - 7/
+## Forecast for 7/15 - 7/20
+
+Flat through Saturday.
+
+Sunday and (maybe) Monday look fun! Watch the middle of next week as well.
+
+See my recent blog post about mid-July [here](/2026/07/16/Mid-July-Surf)
 
 
-
-### Wednesday 7/15 - Friday 7/20
+### Wednesday 7/15 - Friday 7/17
 
 Essentially flat to actually flat. There could be enough south background swell to push beginners into waves on a big board, but it's flat.
+
+### Saturday 7/18
+
+New south swell starts to show. Strong south wind through the afternoon and evening hours. Not a day for surf.
+
 
 ### Sunday 7/19
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            182.4 |            3.7 |      6.3 |                12.7 | WSW              |         12   |          -2.4 |
-| 08:00  |            182.2 |            3.5 |      6.3 |                11.8 | W                |         10.9 |          -0.9 |
-| 10:00  |            185   |            3.4 |      6.3 |                 9.6 | W                |         10   |           1   |
-| 12:00  |            185   |            3.3 |      6.3 |                 9   | WNW              |          9   |           1.6 |
-| 14:00  |            175   |            3.3 |      6.5 |                14.2 | WNW              |          8   |           0.3 |
-| 16:00  |            175   |            3.5 |      6.9 |                19   | WNW              |          6.9 |          -1   |
-| 18:00  |            175   |            3.4 |      7.1 |                21.1 | WNW              |          6.9 |          -2.1 |
-
-
-**Prediction for NY Harbor Buoy**
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     132.1 |       0.4 |       12.8 |       0   |       0   |        0   |      200.1 |         4.1 |         6   |
-| 14:00  |     177.2 |       3.2 |        7.1 |     132   |       0.4 |       12.7 |      305.8 |         1.9 |         3.7 |
-| 20:00  |     174.5 |       3   |        7.5 |     133.2 |       0.4 |       12.6 |      336.4 |         1.8 |         3.5 |
-
-
-**Prediction for Barnegat Light Buoy**
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     116.3 |       0.5 |       12.8 |     116.2 |       0.5 |       12.8 |      199.6 |         4   |         5.8 |
-| 14:00  |     177.7 |       3.6 |        7.4 |     116.7 |       0.5 |       12.7 |      305.6 |         1.6 |         3.3 |
-| 20:00  |     174.6 |       3.1 |        7.4 |     116.8 |       0.5 |       12.6 |      344   |         2.1 |         4   |
+| 06:00  |            182.4 |            3.8 |      6.5 |                14.7 | WSW              |         12   |          -2.6 |
+| 08:00  |            185   |            3.5 |      6.6 |                12.4 | W                |         10.9 |          -1.1 |
+| 10:00  |            185   |            3.4 |      6.7 |                12.5 | WNW              |         10.4 |           0.7 |
+| 12:00  |            185   |            3.4 |      6.9 |                14.3 | NW               |          8.5 |           1.4 |
+| 14:00  |            185   |            3.5 |      7   |                16.2 | NW               |          6   |           0.5 |
+| 16:00  |            185   |            3.5 |      7.1 |                17.2 | NW               |          5.9 |          -1   |
+| 18:00  |            185   |            3.5 |      7.1 |                17.6 | NW               |          5.9 |          -2.1 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -78,32 +69,13 @@ Best board: Longboard or groveler.
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              175 |            3.1 |      7.3 |                18.9 | N                |          7.9 |          -2.1 |
-| 08:00  |              175 |            3   |      7.2 |                16.9 | NNE              |          7.2 |          -1.6 |
-| 10:00  |              175 |            2.9 |      7.2 |                16   | ENE              |          6.7 |           0.1 |
-| 12:00  |              175 |            2.9 |      7.4 |                17.1 | ESE              |          6.7 |           1.5 |
-| 14:00  |              175 |            2.9 |      7.5 |                18   | SE               |          6   |           1.2 |
-| 16:00  |              175 |            2.9 |      7.4 |                17.4 | SSE              |          7.6 |          -0.2 |
-| 18:00  |              175 |            2.9 |      7.3 |                16.6 | SSE              |          9.6 |          -1.4 |
-
-
-**Prediction for NY Harbor Buoy**
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     169.2 |       2.6 |        7.6 |     344.1 |       0.5 |        2.6 |        0   |         0   |         0   |
-| 14:00  |     168.4 |       2.4 |        7.5 |     128.7 |       0.3 |       12.2 |        0   |         0   |         0   |
-| 20:00  |     132.5 |       0.3 |       11.9 |       0   |       0   |        0   |      177.4 |         3.1 |         7.3 |
-
-
-**Prediction for Barnegat Light Buoy**
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     169.1 |       2.6 |        7.4 |       6.5 |       0.9 |        3.4 |     116.1 |       0.4 |       12.4 |        0   |         0   |         0   |
-| 14:00  |     167.6 |       2.5 |        7.3 |     115.2 |       0.4 |       12   |      28.7 |       0.4 |        2.8 |      163.1 |         2.3 |         7.3 |
-| 20:00  |     167   |       2.2 |        7.1 |     116.3 |       0.4 |       11.9 |       0   |       0   |        0   |      184.2 |         1.6 |         3.3 |
+| 06:00  |              185 |            3.1 |      7.2 |                14.2 | NNE              |          8   |          -2   |
+| 08:00  |              185 |            3   |      7.1 |                12.8 | NNE              |          7.6 |          -1.6 |
+| 10:00  |              175 |            3   |      7   |                15.2 | ENE              |          6.6 |           0.1 |
+| 12:00  |              175 |            3   |      7   |                14.9 | E                |          6.4 |           1.5 |
+| 14:00  |              175 |            2.9 |      7   |                14.4 | ESE              |          6   |           1.1 |
+| 16:00  |              175 |            2.8 |      7   |                13   | SE               |          7.5 |          -0.3 |
+| 18:00  |              185 |            2.7 |      6.9 |                 8.2 | SSE              |          8.6 |          -1.5 |
 
 
 | Time   | Tide   |   Height (ft) |
@@ -113,9 +85,10 @@ Best board: Longboard or groveler.
 | 13:02  | H      |          4.88 |
 | 19:00  | L      |          0.93 |
 
-I have my doubts. Swell is likely to drop out faster than this prediction.
 
-If this is accurate, waist high longboard waves.
+Swell could drop faster than expected but model outputs are still showing swell for Monday.
+
+If this is accurate, waist high waves or so.
 
 Notes: Check back later
 
@@ -127,9 +100,25 @@ Best board: Longboard or groveler.
 
 Early next week looks interesting, but there is still some uncertainty in the models. Originally, a low was expected to track over the great lakes and set up another south swell like we see on Saturday/Sunday. Now, models are showing a potential (weak) tropical storm off the southeast. I still think we should get something early week, but check back later.
 
+### Wednesday 7/22
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |            165   |            4.5 |      7.7 |                46.2 | W                |         12.4 |          -1.2 |
+| 08:00  |            167.6 |            4.5 |      8   |                48.2 | W                |         11.4 |          -2   |
+
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:00  | H      |          4.01 |
+| 08:08  | L      |          0.85 |
+| 14:36  | H      |          4.7  |
+| 21:02  | L      |          1.12 |
+
 ## Tropics
 
-Tropics were expected to remain quiet, but now there's a few regions of interest on the NHS tropical outlook that are worth watching.
+Tropics were expected to remain quiet, but now there's a few regions of interest on the NHS tropical outlook that are worth watching. The tropical wave off Africa isn't expected to be of that much interest, but the one in the gulf could end up becoming a factor into early next week.
 
 
 ---
