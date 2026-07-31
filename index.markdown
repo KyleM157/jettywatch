@@ -48,77 +48,45 @@ A low pressure system is expected to track east across the Ohio Valley (south of
 | 15:08  | L      |          0.63 |
 | 21:13  | H      |          5.04 |
 
-Low expectations. Maybe enough for a  longboard, but I'm not seeing where the swell numbers are coming from on this one.
+Got this one wrong. Really fun out there this morning and should be decent as the tide drops. Wind is light enough for decent conditions.
+
+Notes: Way better than expected!
 
 ### Saturday 8/01
 
-Similar to Friday. Light side-offshore wind early with very small to barely better than flat waves.
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |            174.9 |            2.6 |      8.5 |                23.4 | SW               |          7.5 |          -0.9 |
+| 08:00  |            174.9 |            2.4 |      8.1 |                17.7 | SW               |          3   |           0.8 |
+| 10:00  |            174.9 |            2.3 |      8   |                14.4 | S                |          3.9 |           1.6 |
+| 12:00  |            175   |            2.2 |      7.8 |                12.2 | S                |          6.4 |           0.1 |
+| 14:00  |            175   |            2.2 |      7.7 |                11.3 | S                |          9.8 |          -1.5 |
+| 16:00  |            175   |            2.3 |      7.5 |                12.2 | S                |         10.9 |          -2.1 |
+| 18:00  |            175   |            2.5 |      7.5 |                13.2 | S                |         11   |          -0.7 |
+
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:38  | L      |          0.12 |
+| 09:43  | H      |          4.5  |
+| 15:46  | L      |          0.63 |
+| 21:50  | H      |          4.91 |
+
+Light side-offshore wind early with very small waves.
+
+Best board: Longboard
 
 ### Sunday 8/02
 
-Sidshore wind all day with little to no waves.
+Sidshore wind all day with little to no waves. Generally bad conditions.
 
-### Monday 8/03
+### Monday 8/03 - Wednesday 8/05
 
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            165   |            3   |      5.8 |                 8.1 | SSW              |          9.4 |          -1.9 |
-| 08:00  |            164.8 |            3.2 |      6.2 |                13.1 | SSW              |          8.6 |          -0.1 |
-| 10:00  |            155   |            3.5 |      6.7 |                24.2 | SSW              |          8.9 |           1.7 |
-| 12:00  |            155   |            3.9 |      7.1 |                34.6 | SSW              |          8.9 |           1.6 |
-| 14:00  |            155   |            4.1 |      7.3 |                39.9 | SSW              |          9   |          -0   |
-| 16:00  |            155   |            4.3 |      7.3 |                42.2 | SSW              |          9.7 |          -1.6 |
-| 18:00  |            155   |            4.3 |      7.4 |                44   | SSW              |          9.1 |          -2.1 |
+Our next south swell is expected in this time range. There will definitely be waves, but the wind is going to take some time to call accurately. Expect Monday to be blown out and watch Tuesday/Wednesday for surfable waves.
 
+Buoy numbers should be in the 3-5ft at 7 second range on Tuesday with smaller waves expected Wednesday. The early AM low tides will be convenient for the early morning sessions. Very possible we don't see any offshore wind with this setup.
 
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 04:44  | L      |          0.21 |
-| 11:05  | H      |          4.73 |
-| 17:08  | L      |          0.77 |
-| 23:19  | H      |          4.55 |
-
-Definitely the day to watch next week. Wind is going to be hard to call, so expect that to move around some. At this point, it looks like we should see surf with major models in something resembling agreement for Monday.
-
-Notes: Too early for specifics but this is our next chance for waves.
-
-### Tuesday 8/04
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              155 |            3.8 |      7.1 |                33.7 | N                |          7   |          -2.4 |
-| 08:00  |              155 |            3.8 |      7   |                32.3 | ENE              |          6.4 |          -1   |
-| 10:00  |              155 |            3.8 |      7   |                32.9 | E                |          5.5 |           0.9 |
-| 12:00  |              155 |            3.9 |      7.1 |                33.9 | ESE              |          5.3 |           1.7 |
-| 14:00  |              165 |            3.9 |      7.1 |                29.5 | SE               |          4.9 |           0.6 |
-| 16:00  |              165 |            3.8 |      7   |                28.1 | SSE              |          6.2 |          -0.9 |
-| 18:00  |              165 |            3.7 |      7   |                26.6 | SSE              |          7.9 |          -2.2 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 05:21  | L      |          0.3  |
-| 11:53  | H      |          4.86 |
-| 18:01  | L      |          0.89 |
-
-Another day to keep an eye on. Too early for specifics.
-
-### Wednesday 8/05
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              165 |            3.6 |      7   |                26.1 | SSW              |          5   |          -2.3 |
-| 08:00  |              155 |            3.5 |      6.8 |                26.1 | SSW              |          4.9 |          -1.9 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 00:12  | H      |          4.36 |
-| 06:05  | L      |          0.43 |
-| 12:46  | H      |          4.98 |
-| 19:09  | L      |          0.98 |
-
-If the GFS has the correct solution, Wednesday may end up being the best day. Too early to call.
 
 ## Tropics
 
