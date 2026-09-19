@@ -9,7 +9,7 @@ title: The First Swell of Fall?
 
 ## The Setup
 
-![20260923_pressure](/assets/images/20260923_pressure.jpg)
+![20260923_pressure](/assets/images/20260923_pressure_resized.jpg)
 
 source: windy.com
 
