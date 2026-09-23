@@ -5,236 +5,154 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg)
 
-**Last Update:  09/19/2026 15:00**
+**Last Update:  09/23/2026 10:30**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-## Forecast for 9/20 - 9/27
+## Forecast for 9/23 - 9/27
 
-Onshore wind and possibly 15+ ft seas. Solid swell, but will the wind cooperate?
+We're at the point of the forecast where small changes will have big impacts on the amount of swell we end up seeing. If you follow my instagram account, I put out a video on this earlier.
 
-As of right now, the model outputs aren't looking great. There's still plenty of uncertainty for late week when things could start to come together. I'm confident in saying we'll get a window of fun conditions, but whether it occurs when wave heights are still in the overhead range is yet to be seen (and looks unlikely).
+Essentially, we need to watch the location of the low where the recurving path occurs. Every model is calling for that recurve (pretty much), but whether it occurs further north or south will play a significant role in our local winds, as well as which days to surf.
 
-Realistically, I think Long Island (NY) and Hatteras will end up seeing the best actual conditions from this swell. Cape May will probably end up looking decent as well.
+The Euro shows a recurve south of Cape Cod, which means continued swell but cross-shore winds for Sunday. The GFS model is showing a recurve north of Cape Cod and quickly fading swell for Sunday.
 
-
-
-### Saturday 9/19
-
-Onshore wind for poor conditions
-
-### Sunday 9/20
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |             95   |            2.7 |      6   |                14.8 | SE               |         10   |          -0.5 |
-| 08:00  |             95   |            2.7 |      7.3 |                29   | SE               |         11   |          -0.9 |
-| 10:00  |            135   |            2.8 |      7.4 |                29.3 | SSE              |         12.5 |          -0.6 |
-| 12:00  |            134.9 |            3   |      7.5 |                32.9 | SSE              |         14   |           0.6 |
-| 14:00  |            135   |            3.2 |      7.5 |                36.5 | S                |         15.4 |           1.4 |
-| 16:00  |            135   |            3.4 |      4.2 |                 3.8 | S                |         15.1 |           1.5 |
-| 18:00  |            135   |            3.4 |      4.4 |                 4.9 | S                |         14   |           0.7 |
-
-
-**Prediction for NY Harbor Buoy**
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     121.1 |       1.1 |        7.4 |     129.9 |       0.5 |       11.1 |      122.3 |         2.3 |         4.4 |
-| 14:00  |     125.8 |       1.3 |        7.4 |     130.9 |       0.5 |       10.9 |      153.2 |         2.8 |         4   |
-| 20:00  |     126.4 |       1.4 |        7.3 |     130.4 |       0.5 |       10.8 |      172.9 |         3.3 |         4.4 |
-
-
-**Prediction for Barnegat Light Buoy**
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     126.2 |       1.1 |        8.3 |      95.3 |       0.6 |        7.5 |     116.2 |       0.6 |       11.1 |      107.2 |         2.6 |         5.8 |
-| 14:00  |     117.3 |       1.6 |        7.4 |      88   |       1.4 |        5   |     115.4 |       0.6 |       10.9 |      166.8 |         2.3 |         3.8 |
-| 20:00  |     111.6 |       2.1 |        7.3 |     111   |       0.5 |       10.9 |       0   |       0   |        0   |      175.1 |         2.6 |         4   |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:41  | H      |          3.66 |
-| 08:43  | L      |          1.58 |
-| 15:03  | H      |          4.36 |
-| 21:41  | L      |          1.23 |
-
-Not looking too great with the side-onshore wind and weak swell. There will be something out there, but I'd have low expectations for quality.
-
-### Monday 9/21
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            135   |            3.2 |      7.5 |                36.1 | N                |         17   |           0.2 |
-| 08:00  |             15   |            3.7 |      3.8 |                 0.4 | NNE              |         17   |          -0.6 |
-| 10:00  |              7.7 |            4   |      4.3 |                 0.7 | NNE              |         17.1 |          -0.8 |
-| 12:00  |             43.9 |            4.1 |      4.5 |                 5.2 | NNE              |         16.9 |          -0   |
-| 14:00  |             65   |            4.2 |      5   |                12.3 | NE               |         15.9 |           1.2 |
-| 16:00  |             75   |            4   |      5.3 |                17.2 | NE               |         13.9 |           1.9 |
-| 18:00  |             85   |            4   |      5.9 |                26.2 | NE               |         13.2 |           1.4 |
-
-
-**Prediction for NY Harbor Buoy**
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     130.9 |       2.1 |        7.7 |     194.9 |       0.8 |        4.3 |       31.8 |         3.1 |           4 |
-| 14:00  |     134   |       1.7 |        7.3 |     199.8 |       0.3 |        4   |       69.7 |         3.4 |           5 |
-| 20:00  |       0   |       0   |        0   |       0   |       0   |        0   |       90.8 |         4.6 |           6 |
-
-
-**Prediction for Barnegat Light Buoy**
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     124.3 |       2.4 |        7.5 |     200.3 |       0.8 |        4.1 |       29.4 |         3.3 |         4.2 |
-| 14:00  |     131.9 |       1.8 |        8   |     109   |       0.4 |       10.6 |       57.5 |         4.4 |         5.3 |
-| 20:00  |       0   |       0   |        0   |       0   |       0   |        0   |       77.8 |         5.5 |         6.2 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:40  | H      |          3.75 |
-| 09:44  | L      |          1.43 |
-| 16:01  | H      |          4.45 |
-| 22:30  | L      |          0.99 |
-
-Worth a look in the early AM, but again, wind.
+Right now, Saturday PM is looking like the most reliable window with solid surf and cross-offshore winds. It's possible (and somewhat likely) that the wind direction is more north than we'd like to see, but this setup isn't ideal for our region. Breaks south of LBI are likely to be the best overall in terms of size and wind for Saturday. Long Island will have solid conditions with offshore wind for Friday if you want to make a road trip out of it.
 
 ### Tuesday 9/22 - Friday 9/25
 
-9/24 Chart
+Onshore NE winds through Friday where we should see a North wind switch. Sideshore for our region, so no cleanup. Other areas may be worth a look though.
 
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |              105 |           13.5 |     10.7 |                99.5 | NE               |         29.3 |           3.1 |
-| 08:00  |              105 |           13.7 |     10.8 |                99.6 | NE               |         29   |           2.6 |
-| 10:00  |              105 |           13.9 |     10.9 |                99.6 | NE               |         29.7 |           0.9 |
-| 12:00  |              105 |           13.9 |     11   |                99.6 | NE               |         29.9 |          -0.2 |
-| 14:00  |              105 |           13.8 |     11.1 |                99.7 | NE               |         30.8 |           0.3 |
-| 16:00  |              105 |           13.5 |     11.2 |                99.6 | NE               |         29.8 |           2.1 |
-| 18:00  |               95 |           13.2 |     11.3 |                99.6 | NE               |         29.6 |           3.3 |
-
-Swell peaks in the 10-15 ft range with strong onshores expected. Not looking surfable for NJ, but NY may end up seeing improving conditions for Saturday.
+Swell peaks in the 10-15 ft range with strong onshores expected.
 
 ### Saturday 9/26
 
-Wind shifts out of the north if the forecasts hold. Some models are still showing continuing NE winds.
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |             85   |           11.5 |     11.4 |                99.3 | N                |         32.1 |           2.8 |
+| 08:00  |             85   |           11.2 |     11.3 |                99.2 | N                |         32.6 |           3.5 |
+| 10:00  |             85   |           10.9 |     11.2 |                99.1 | N                |         32.1 |           1.9 |
+| 12:00  |             85   |           10.5 |      7.9 |                91.7 | N                |         31.4 |          -0.4 |
+| 14:00  |             85   |            9.9 |      6.5 |                79.5 | N                |         30.2 |          -1.3 |
+| 16:00  |             34.4 |            9.3 |      6.3 |                56.6 | NNW              |         28.2 |           0.4 |
+| 18:00  |             15   |            8.6 |      6.1 |                36   | NNW              |         27.2 |           2.3 |
 
-Worth a watch, either here or maybe NY.
 
-Notes: Some uncertainty for this time, but forecasts have trended worse for our region
+**Prediction for NY Harbor Buoy**
+
+
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |      86.7 |       6.5 |       11.5 |        0   |         0   |         0   |
+| 14:00  |      94.6 |       4.9 |       11.3 |      351.4 |         2.4 |         3.5 |
+| 20:00  |      96.4 |       3.3 |       11   |       10.4 |         3.2 |         4.5 |
+
+
+**Prediction for Barnegat Light Buoy**
+
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |      68.7 |       8.7 |       11.5 |        0   |         0   |         0   |
+| 14:00  |      71.3 |       7   |       11.2 |        0   |         0   |         0   |
+| 20:00  |      79.4 |       4.1 |       11   |       25.8 |         5.9 |         5.8 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 01:14  | L      |          0.11 |
+| 07:26  | H      |          5.23 |
+| 13:39  | L      |          0.25 |
+| 19:43  | H      |          5.2  |
+
+Less swell as you go north, more as you go towards LBI. Wind should get more cross-offshore vs. cross-shore as the day goes on. Currently, the PM session likely has the best overall conditions, but swell fades as the day goes on.
+
+I'm not too sure about the combined numbers vs. the swell breakdown numbers. I'd expect that to move around a bit depending on the ultimate storm track. That said, this is definitely a window to watch.
+
+Notes: Big tide swing and challenging conditions. Not for beginners.
+
+Best board: HPSB or step-up
+
+
 
 ### Sunday 9/27
 
-This is the first day worth watching for NJ if the models are to be believed. Wind won't be perfect, but it looks doable.
-
-
-
-
-
-### Sunday 9/20
-
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |             85   |            2.9 |      6.9 |                26.4 | SE               |         11   |          -0.4 |
-| 08:00  |             95   |            2.9 |      7.1 |                29.5 | SSE              |         12   |          -0.9 |
-| 10:00  |            102.4 |            2.9 |      7.2 |                31.4 | SSE              |         12.9 |          -0.7 |
-| 12:00  |            134.9 |            3   |      4.7 |                 5   | SSE              |         13   |           0.5 |
-| 14:00  |            135   |            3.1 |      4.8 |                 6.4 | S                |         13.2 |           1.4 |
-| 16:00  |            135   |            3.2 |      5.1 |                 9.3 | SSE              |         12.2 |           1.5 |
-| 18:00  |            135   |            3.3 |      5.3 |                11   | SSE              |         12   |           0.6 |
+| 06:00  |              7.6 |            7.7 |      6.1 |                26.5 | NNW              |         28.8 |           1.7 |
+| 08:00  |              7.6 |            7.6 |      6.1 |                26.3 | N                |         27.4 |           3   |
+| 10:00  |              7.6 |            7.2 |      6.1 |                23.1 | N                |         24.5 |           1.7 |
+| 12:00  |              5   |            6.6 |      6   |                17.3 | N                |         22.3 |          -0.8 |
+| 14:00  |              5   |            5.8 |      5.9 |                12.4 | N                |         20.3 |          -2.2 |
+| 16:00  |            264.7 |            4.9 |      5.5 |                 0.1 | N                |         18   |          -1.1 |
+| 18:00  |            355   |            4.1 |      5.2 |                 1.5 | N                |         17   |           0.9 |
 
 
 **Prediction for NY Harbor Buoy**
 
 
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |       0   |       0   |        0   |       0   |       0   |        0   |      123.6 |         3.1 |         4   |
-| 14:00  |     119.3 |       1   |        7.2 |     128.7 |       0.6 |       10.8 |      173.2 |         4.4 |         4.8 |
-| 20:00  |     127.9 |       0.5 |       10.7 |       0   |       0   |        0   |      186.3 |         6   |         5.8 |
+| Time   |   Angle 1 |   Swell 1 |   Period 1 |   WW Angle |   Wind Wave |   WW Period |
+|:-------|----------:|----------:|-----------:|-----------:|------------:|------------:|
+| 08:00  |      98.3 |       1.7 |       10   |      340   |         2.3 |         3.7 |
+| 14:00  |      99.2 |       1.4 |        9.6 |      342.8 |         1.8 |         3.4 |
+| 20:00  |     103.1 |       1.2 |        9.3 |      342.1 |         1.3 |         3.2 |
 
 
 **Prediction for Barnegat Light Buoy**
 
 | Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   WW Angle |   Wind Wave |   WW Period |
 |:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |      92.8 |       2.5 |        6.9 |     116.5 |       0.6 |       10.9 |      149.7 |         2   |         3.7 |
-| 14:00  |     107   |       1.3 |        7   |     115.9 |       0.6 |       10.8 |      165.7 |         4   |         4.6 |
-| 20:00  |     114   |       0.6 |       10.8 |       0   |       0   |        0   |      179.7 |         5.5 |         5.5 |
+| 08:00  |      80.9 |       2.3 |       10.1 |         0 |       0   |        0   |      332.5 |         3.5 |         4.4 |
+| 14:00  |      81.9 |       1.9 |        9.7 |         0 |       0   |        0   |      357   |         2   |         4.3 |
+| 20:00  |      86   |       1.6 |        9.4 |       242 |       0.4 |        4.8 |      353.1 |         1.6 |         3.8 |
 
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
-| 02:41  | H      |          3.66 |
-| 08:43  | L      |          1.58 |
-| 15:03  | H      |          4.36 |
-| 21:41  | L      |          1.23 |
+| 01:54  | L      |          0.01 |
+| 08:02  | H      |          5.46 |
+| 14:25  | L      |          0.13 |
+| 20:23  | H      |          5.13 |
 
-Wind and whatnot. Expect this to change a little as we get closer.
+Plenty of uncertainty at this time due to differences in model outputs regarding the storm track. Trust the buoy numbers if the GFS is right and the combined numbers if the ECMWF is correct.
 
-Notes: check back later
+If there's a lot of swell, expect north winds and poor conditions on Sunday.
 
-### Monday 9/21
+### Monday 9/28
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |            145   |            3.5 |      5.3 |                11.5 | NE               |         14.4 |           0.2 |
-| 08:00  |             72.2 |            3.6 |      5   |                10.6 | NE               |         14.9 |          -0.6 |
-| 10:00  |             85   |            3.9 |      5.3 |                18.1 | NE               |         15   |          -0.7 |
-| 12:00  |             85   |            4.3 |      5.8 |                28   | NE               |         15   |           0.1 |
-| 14:00  |             85   |            4.6 |      6.1 |                35.3 | ENE              |         14.2 |           1.3 |
-| 16:00  |             85   |            4.7 |      6.4 |                41.1 | ENE              |         15.1 |           2   |
-| 18:00  |             85   |            4.8 |      6.5 |                44.3 | ENE              |         15.6 |           1.4 |
-
-
-**Prediction for NY Harbor Buoy**
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     161.3 |       2.4 |        5.7 |     126.6 |       0.5 |       10.6 |       0   |       0   |        0   |       41.4 |         3.4 |         4.5 |
-| 14:00  |     164   |       1.2 |        5.4 |     143.5 |       0.7 |        8.4 |     113.2 |       0.5 |        8.1 |       68.9 |         3.2 |         5.2 |
-| 20:00  |     142.6 |       0.7 |        8.1 |     124.9 |       0.4 |       10.4 |       0   |       0   |        0   |       85.7 |         3.6 |         5.3 |
-
-
-**Prediction for Barnegat Light Buoy**
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     162.6 |       2   |        5.4 |     119.5 |       0.9 |        8.6 |     117.1 |       0.5 |       10.6 |       38.5 |         4   |         4.8 |
-| 14:00  |     160   |       1.1 |        5.8 |     137.8 |       0.8 |        8.8 |     114.9 |       0.6 |       10.4 |       58   |         4.2 |         5.5 |
-| 20:00  |     143.2 |       0.7 |        7.8 |     118.4 |       0.5 |       10.4 |       0   |       0   |        0   |       73   |         4.7 |         5.9 |
+| 06:00  |              5   |            3.2 |      4.5 |                 0.4 | N                |         15   |           0.9 |
+| 08:00  |              5   |            3.1 |      4.4 |                 0.3 | NNW              |         13.9 |           2.7 |
+| 10:00  |              5   |            2.9 |      4.4 |                 0.2 | NNW              |         13.3 |           2.2 |
+| 12:00  |              5   |            2.7 |      8.9 |                13.4 | NNW              |         11.3 |          -0.1 |
+| 14:00  |            264.7 |            2.4 |      8.8 |                 0.2 | N                |          8.9 |          -1.9 |
+| 16:00  |             85   |            2.1 |      8.7 |                33.4 | N                |          7.5 |          -1.9 |
+| 18:00  |             85   |            2   |      8.6 |                28.4 | NNW              |          7   |           0.2 |
 
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
-| 03:40  | H      |          3.75 |
-| 09:44  | L      |          1.43 |
-| 16:01  | H      |          4.45 |
-| 22:30  | L      |          0.99 |
+| 02:33  | L      |         -0.02 |
+| 08:40  | H      |          5.59 |
+| 15:10  | L      |          0.09 |
+| 21:05  | H      |          4.96 |
 
-Not loving the wind forecast, but there could be a window of favorable conditions depending on what happens with a small low over our region.
+Possible leftovers depending on the storm track. Disregard the numbers for now. If Sunday is blown out, watch Monday and vice versa.
 
-Notes: Trended up a little over the past few days.
 
-Best board: longboard or groveler
 
 ## Looking Ahead
 
-Early week looks to be blown out with 15kts+ onshore winds. The "day" at this point is still up in the air and will likely be a moving target as we get into early next week, but currently, 9/24 is favored by the GFS model. Lots of variation at the moment.
+Watching for a possible south swell around 10/1.
+
+Overall, things are looking way more exciting than what we've seen over the past few months. The North Pacific seems to be coming online and that means way more swell events.
 
 
 ### The Tropics
 
-The largest chance we have for a TS is likely next week. Still fairly low probability, but models are starting to pick up the chance of cyclone formation.
+Low chance over the next three weeks with potential formation in the Gulf the week of 9/30. Less than 40% chance though.
 
 
 ---
@@ -254,6 +172,8 @@ Why Energy Percentile?
 ---
 
 ### Helpful Links
+
+[Seasonal Sandbar Formation](https://www.youtube.com/watch?v=O6ZhTQQk-3s)
 
 [NOAA Atlantic Analysis](https://ocean.weather.gov/Atl_tab.php)
 
