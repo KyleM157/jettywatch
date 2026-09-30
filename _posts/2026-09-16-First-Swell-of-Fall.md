@@ -9,7 +9,7 @@ title: The First Swell of Fall?
 
 ## The Setup
 
-![20260923_pressure](/assets/images/20260923_pressure_resized.jpg)
+![20260923_pressure](/assets/images/20260923_pressure_resized.jpg "Incredibly strong high pressure over the Canadian Maritimes")
 
 source: windy.com
 
@@ -17,7 +17,7 @@ We have a particularly strong area of high pressure over the Canadian Maritimes 
 
 Let's go ahead and look at the wind chart real quick:
 
-![20260923_wind](/assets/images/20260923_wind_resized.jpg)
+![20260923_wind](/assets/images/20260923_wind_resized.jpg "Strong wind from this setup is expected")
 
 While there is still some uncertainty
 
@@ -25,7 +25,7 @@ source: windy.com
 
 ## The Waves
 
-![20260924 waves](/assets/images/20260924_waves_resized.jpg)
+![20260924 waves](/assets/images/20260924_waves_resized.jpg "Serious wave power if this comes to pass")
 
 source: windy.com
 

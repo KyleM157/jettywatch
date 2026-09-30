@@ -3,91 +3,22 @@ layout: page
 title: Monmouth County Surf Forecast
 ---
 
-![wave picture](/assets/images/wave_example_banner.jpg)
+![wave picture](/assets/images/wave_example_banner.jpg "Belmar A Frame")
 
-**Last Update:  09/27/2026 15:30**
+**Last Update:  09/30/2026 08:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
 ---
 
-## Forecast for 9/28 - 10/01
+## Forecast for 9/30 - 10/01
 
-We certainly didn't get the quality surf that some of the nearby regions had, but we should at least get a few surfable days early-mid week.
+More small surf due for Wednesday-Friday.
 
-I'd plan on taking a look at the favorable tides Monday-Wednesday.
+Small surf continues into the weekend with a short period east swell.
 
-Another quick south swell is possible late week but it currently looks like there's too much west in the swell direction.
+Watching around 10/8 for a more substantial swell.
 
-
-### Sunday 9/27
-
-Not the day we had hoped for.
-
-
-### Monday 9/28
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |             85   |            4.6 |      8.8 |                73.4 | NE               |         13   |           1.4 |
-| 08:00  |             84.7 |            4.6 |      8.8 |                73   | NNE              |         14   |           3.4 |
-| 10:00  |             75   |            4.7 |      8.7 |                71.2 | NNE              |         14.7 |           2.9 |
-| 12:00  |             75   |            4.6 |      5.6 |                26.4 | N                |         14.5 |           0.3 |
-| 14:00  |             75   |            4.4 |      5.5 |                23.2 | N                |         13.6 |          -1.6 |
-| 16:00  |             75   |            4   |      8.7 |                63.7 | NNW              |         12.2 |          -1.6 |
-| 18:00  |             75   |            3.6 |      8.7 |                58.9 | NNW              |         11.6 |           0.2 |
-
-
-**Prediction for NY Harbor Buoy**
-
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |      86.4 |       3.5 |        6.4 |     106.2 |       1.6 |        8.8 |     172.4 |       1.5 |        6.9 |       25.9 |         4.5 |         5.2 |
-| 14:00  |      69.7 |       2.4 |        5.6 |     101.6 |       1.6 |        8.7 |     149.8 |       1.6 |        6   |      352   |         2.7 |         4.2 |
-| 20:00  |     104.1 |       1.7 |        8.7 |     158.4 |       1   |        5.5 |      76.3 |       0.8 |        5   |      347.5 |         2   |         3.6 |
-
-
-**Prediction for Barnegat Light Buoy**
-
-| Time   |   Angle 1 |   Swell 1 |   Period 1 |   Angle 2 |   Swell 2 |   Period 2 |   Angle 3 |   Swell 3 |   Period 3 |   WW Angle |   Wind Wave |   WW Period |
-|:-------|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|------------:|------------:|
-| 08:00  |     107.7 |       2.8 |        8.8 |     115.6 |       0.2 |       14.8 |       0   |       0   |        0   |       26.3 |         6   |           6 |
-| 14:00  |      25.3 |       4   |        5.8 |      90   |       2   |        8.7 |     162.5 |       1   |        5.3 |        0   |         0   |           0 |
-| 20:00  |      97.1 |       2.2 |        8.7 |     113.9 |       0.3 |       14.4 |     166.4 |       0.4 |        5.8 |       10.2 |         2.7 |           5 |
-
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 02:33  | L      |         -0.02 |
-| 08:40  | H      |          5.59 |
-| 15:10  | L      |          0.09 |
-| 21:05  | H      |          4.96 |
-
-I mean, it's not firing, but it's worth a look. Wind shifts offshore sometime late AM or early PM. Lines up with the dropping tide. Worth a look in the evening as well.
-
-Notes: Large tide swing. Possible high bacteria levels following the flooding.
-
-Best board: small wave performance board
-
-### Tuesday 9/29
-
-| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
-|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |               85 |            2.5 |      8.3 |                37.4 | NW               |          7.6 |           0.2 |
-| 08:00  |               85 |            2.4 |      8.2 |                34.9 | NW               |          6.9 |           2.5 |
-| 10:00  |               85 |            2.4 |      8.2 |                33   | NW               |          6.7 |           2.9 |
-| 12:00  |               85 |            2.3 |      8.2 |                31.4 | NW               |          5.3 |           0.9 |
-| 14:00  |               85 |            2.2 |      8.2 |                29.8 | NW               |          3.2 |          -1.4 |
-| 16:00  |               85 |            2.2 |      8.2 |                28.7 | NW               |          3   |          -2.3 |
-| 18:00  |               85 |            2.2 |      8.2 |                28.2 | WNW              |          3   |          -0.8 |
-
-| Time   | Tide   |   Height (ft) |
-|:-------|:-------|--------------:|
-| 03:13  | L      |          0.03 |
-| 09:23  | H      |          5.62 |
-| 15:55  | L      |          0.17 |
-| 21:53  | H      |          4.74 |
 
 
 ### Wednesday 9/30
@@ -109,19 +40,21 @@ Best board: small wave performance board
 | 16:44  | L      |          0.34 |
 | 22:48  | H      |          4.5  |
 
-More small surf is possible. Favorable wind.
+Small surf and favorable wind. Most size late day.
+
+Best board: Longboard
 
 ### Thursday 10/1
 
 | Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
 |:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
-| 06:00  |             85   |            2.4 |      8.5 |                36.2 | SW               |          5.8 |          -1.8 |
-| 08:00  |             84.9 |            2.4 |      8.5 |                35.9 | SW               |          5.5 |           0.5 |
-| 10:00  |             84.9 |            2.4 |      8.4 |                35.5 | SSW              |          6.5 |           2.3 |
-| 12:00  |             85.2 |            2.4 |      8.5 |                35.9 | SSW              |          8.5 |           2   |
-| 14:00  |             95   |            2.5 |      8.5 |                40.1 | S                |         10.1 |           0.3 |
-| 16:00  |             95   |            2.8 |      8.5 |                45.8 | SSW              |         11.1 |          -1.5 |
-| 18:00  |            165   |            2.9 |      8.6 |                35.2 | SSW              |         11.1 |          -2.1 |
+| 06:00  |             85   |            2.6 |      8.6 |                41.3 | SW               |          6.8 |          -1.8 |
+| 08:00  |             94.9 |            2.5 |      8.6 |                42.4 | SW               |          7   |           0.6 |
+| 10:00  |             95.1 |            2.5 |      8.6 |                42.1 | SW               |          8.1 |           2.3 |
+| 12:00  |             95   |            2.5 |      8.6 |                42.2 | SSW              |          9.6 |           2   |
+| 14:00  |             95   |            2.6 |      8.6 |                43.5 | SSW              |         10.6 |           0.4 |
+| 16:00  |            175   |            2.8 |      8.6 |                27.1 | SSW              |         11.1 |          -1.5 |
+| 18:00  |            175   |            2.9 |      8.6 |                28.8 | SSW              |         11.2 |          -2.1 |
 
 | Time   | Tide   |   Height (ft) |
 |:-------|:-------|--------------:|
@@ -132,10 +65,100 @@ More small surf is possible. Favorable wind.
 
 At least enough for a longboard. Light wind for the early AM session. Wind turns out of the south for the PM.
 
+Most size late day.
+
 ### Friday 10/2
 
-Possibly enough of a swell mix to take a look. Wind looks decent, but it's a little early to call.
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |              175 |            3.1 |      5.3 |                 4.4 | SW               |         10.1 |          -2.2 |
+| 08:00  |              175 |            3.1 |      5.4 |                 4.6 | SW               |          9.7 |          -0.9 |
+| 10:00  |              175 |            3.1 |      5.4 |                 4.8 | SSW              |          9.9 |           1.3 |
+| 12:00  |              175 |            3.1 |      5.5 |                 5.2 | SSW              |         10.9 |           2.2 |
+| 14:00  |              175 |            3.2 |      5.6 |                 5.9 | SSW              |         11.9 |           1   |
+| 16:00  |              175 |            3.3 |      5.6 |                 6.6 | SSW              |         12.6 |          -0.7 |
+| 18:00  |              175 |            3.3 |      5.6 |                 6.9 | SSW              |         11.6 |          -2   |
 
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 05:32  | L      |          0.6  |
+| 12:13  | H      |          5.21 |
+| 18:47  | L      |          0.77 |
+
+Possibly enough of a swell mix to take a look. Wind looks decent, but it's a little early to call. Most size late day.
+
+Note: Most of the swell is headed away from us, to the northeast. Actual swell angle is more in the 185 degree range.
+
+### Saturday 10/3
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |              175 |            3.1 |      5.3 |                 4.4 | SW               |         10.1 |          -2.2 |
+| 08:00  |              175 |            3.1 |      5.4 |                 4.6 | SW               |          9.7 |          -0.9 |
+| 10:00  |              175 |            3.1 |      5.4 |                 4.8 | SSW              |          9.9 |           1.3 |
+| 12:00  |              175 |            3.1 |      5.5 |                 5.2 | SSW              |         10.9 |           2.2 |
+| 14:00  |              175 |            3.2 |      5.6 |                 5.9 | SSW              |         11.9 |           1   |
+| 16:00  |              175 |            3.3 |      5.6 |                 6.6 | SSW              |         12.6 |          -0.7 |
+| 18:00  |              175 |            3.3 |      5.6 |                 6.9 | SSW              |         11.6 |          -2   |
+
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 05:32  | L      |          0.6  |
+| 12:13  | H      |          5.21 |
+| 18:47  | L      |          0.77 |
+
+Models are showing some small, long period swell mix in. May be worth a look.
+
+
+### Sunday 10/4
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |               95 |            3.5 |      6.1 |                24.4 | E                |         12   |          -0.9 |
+| 08:00  |               85 |            3.6 |      6.1 |                25   | E                |         13   |          -1.6 |
+| 10:00  |               85 |            3.5 |      5.9 |                22   | E                |         12.9 |          -0.5 |
+| 12:00  |               85 |            3.3 |      5.8 |                17.7 | E                |         11.1 |           1.3 |
+| 14:00  |               85 |            3.2 |      5.6 |                14   | E                |         10   |           2.4 |
+| 16:00  |               85 |            3   |      5.5 |                12   | E                |          9   |           1.8 |
+| 18:00  |               85 |            2.8 |      5.5 |                10.6 | E                |          8   |           0.1 |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 02:02  | H      |          4.23 |
+| 08:01  | L      |          0.93 |
+| 14:24  | H      |          4.99 |
+| 21:10  | L      |          0.67 |
+
+More time is needed on the wind forecast. May be worth a look later in the day.
+
+Currently, this event peaks at around 8am which coincides with moderately strong onshore wind. I'd have low expectations for leftover swell on Monday if the model forecasts hold.
+
+### Monday 10/5
+
+| Time   |   Wave Direction |   Swell Height |   Period |   Energy Percentile | Wind Direction   |   Wind Speed |   Water Level |
+|:-------|-----------------:|---------------:|---------:|--------------------:|:-----------------|-------------:|--------------:|
+| 06:00  |               95 |            2.2 |      6   |                 9.4 | NW               |          9   |          -0.1 |
+| 08:00  |               95 |            2.3 |      6.2 |                11.8 | NW               |         10   |          -1.5 |
+| 10:00  |               95 |            2.4 |      6.5 |                16.9 | NW               |         11   |          -1.7 |
+| 12:00  |               95 |            2.6 |      6.8 |                21.3 | NW               |         10.9 |           0   |
+| 14:00  |               85 |            2.6 |      6.9 |                21.8 | NW               |         10   |           1.8 |
+| 16:00  |               85 |            2.7 |      7   |                24.1 | NW               |         11   |           2.3 |
+| 18:00  |               85 |            2.9 |      7.7 |                36.6 | NW               |         12.9 |           1   |
+
+
+| Time   | Tide   |   Height (ft) |
+|:-------|:-------|--------------:|
+| 03:07  | H      |          4.35 |
+| 09:15  | L      |          0.82 |
+| 15:30  | H      |          4.97 |
+| 22:09  | L      |          0.44 |
+
+Possible leftovers from Sunday, but low expectations at this time.
 
 ## Looking Ahead
 

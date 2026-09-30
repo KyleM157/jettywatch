@@ -15,13 +15,13 @@ In other news, we have a strong positive phase of the NAO right now. This contri
 
 First, let's look at the mslp chart to just get an ideal of how the Atlantic is looking:
 
-![mslp 1](/assets/images/windy_img1_resized.jpg)
+![mslp 1](/assets/images/windy_img1_resized.jpg "High pressure dominating the local weather pattern")
 
 source [windy.com](https://www.windy.com/)
 
 As you can see, we have a massive region of high pressure that is expected to move into our swell window sometime around Tuesday. Let's look at the wind chart:
 
-![mslp 1 wind](/assets/images/windy_img1_wind_resized.jpg)
+![mslp 1 wind](/assets/images/windy_img1_wind_resized.jpg "Possible south swell on the chart")
 
 source [windy.com](https://www.windy.com/)
 
@@ -33,14 +33,14 @@ As an aside, Florida is going to be getting some pretty solid surf from this. It
 
 Around Friday 3/06 we should see another large high pressure system move through, though an easterly fetch is expected this time:
 
-![mslp 2](/assets/images/windy_img2_resized.jpg)
+![mslp 2](/assets/images/windy_img2_resized.jpg "Possible east swell if high pressure lines up")
 
 source [windy.com](https://www.windy.com/)
 
 Note that those two high pressure systems create opposing wind fields, so that doesn't help our swell.
 
 
-![wind 2](/assets/images/windy_img2_wind_resized.jpg)
+![wind 2](/assets/images/windy_img2_wind_resized.jpg "Wind chart for that possible swell")
 
 source [windy.com](https://www.windy.com/)
 
@@ -48,7 +48,7 @@ We should end up seeing some combo swell from these two systems. Small changes i
 
 ## Inland Tracks for Low Pressure Systems
 
-![mslp 3](/assets/images/windy_img3_resized.jpg)
+![mslp 3](/assets/images/windy_img3_resized.jpg "Low pressure may move out of the great plains")
 
 source [windy.com](https://www.windy.com/)
 
@@ -60,7 +60,7 @@ Somewhat ironically, this is almost the inverse of the problems we had in early 
 
 It's hard to say. The Climate Prediction Center has our current strong phase of the NAO starting to decrease in strength back towards neutral. In so far as that is having an effect, we should be at the peak right about now.
 
-![nao forecast 3/1](/assets/images/NAO_forecast_20260301_resized.jpg)
+![nao forecast 3/1](/assets/images/NAO_forecast_20260301_resized.jpg "We've probably reached the nadir for the NAO for now")
 
 source: NOAA Climate Prediction Center
 

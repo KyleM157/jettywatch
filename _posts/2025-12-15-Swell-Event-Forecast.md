@@ -49,7 +49,7 @@ Waves fade through the morning and are around waist high by 1pm. Beginners and n
 
 ## Sunday 12/21
 
-![20251221 GFS](/assets/images/20251221_resized.jpg)
+![20251221 GFS](/assets/images/20251221_resized.jpg "Shows the south to north movement of this system")
 
 ![20251221 Wave gif](/assets/images/2025-12-21_swell.gif)
 

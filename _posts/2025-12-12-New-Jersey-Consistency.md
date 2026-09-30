@@ -9,13 +9,13 @@ title: Does History Tell Us That This Year Sucks?
 
 ## Data and Methodology
 
-![Wave Consistency w/ Error Bars](/assets/images/wave_height_per_month.jpeg)
+![Wave Consistency w/ Error Bars](/assets/images/wave_height_per_month.jpeg "Overall bar plot with error bars of swells by height and month. Everything but summer is good.")
 
 Here's the plot of percentage of days by wave height per month. In order to get this data, I downloaded historic buoy spectrum data, took wind waves out of the spectrum, calculated wave heights by integrating the energy/frequency values, and converted to feet from meters. I then used the standard buoy data to assign wave direction to each corresponding time stamp by making the assumption that the mean wave direction was going to be the swell direction (not always the case). After that, I applied an algorithm to convert buoy heights to rough breaking wave heights based on my experience forecasting. Lastly, I aggregated the data by month, divided raw counts by the sum of raw counts to get percentages, and plotted them to create the above figure. I'm comfortable enough with the methodology to say that this should be fairly accurate.
 
 Let's call a surfable day anthing equal to, or above, waist high. This corresponds to anything not flat in the above chart. So, subtracting the value for flat from 1.0 yields the percentage of days that should be large enough to surf. Let's look at that chart:
 
-![PercentageOfSurfableDays](/assets/images/pct_surfable2.jpeg)
+![PercentageOfSurfableDays](/assets/images/pct_surfable2.jpeg "Shows that the fall, winter, and spring months are better")
 
 Before breaking into the discussion portion of this here blog post, it's important to note that this doesn't include wind (it could be blown out), daylight hours (could eb dark), or tide heights (could be swamped). It's just the theoretical max percentage of surfable days.
 

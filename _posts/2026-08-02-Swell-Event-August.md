@@ -19,7 +19,7 @@ First, this low (blue region) is further south and actually was tracking directl
 
 Secondly, we have a strong ridge over the West Atlantic. This blocks the eastward movement of our low pressure system and creates a sustained fetch of south wind. Let's take a look at the wind chart:
 
-![20260802_wind](/assets/images/20260802_wind_resized.jpg)
+![20260802_wind](/assets/images/20260802_wind_resized.jpg "south wind fetch of moderate strength")
 
 source: windy.com
 
@@ -35,18 +35,18 @@ While the wind forecast could certainly be better, I'm still expecting surfable 
 
 Let's look at some plots:
 
-![20260803_0600_contour](/assets/images/2026-08-03_12.png)
+![20260803_0600_contour](/assets/images/2026-08-03_12.png "forecast graphic showing decent sized surf peaking early in the morning")
 
 Wave heights are expected to peak in the AM and slowly fade through Tuesday night. Model forecasts are putting the AM on Monday at around head high with spots in North Ocean County and LBI likely pushing into the overhead range.
 
 
 Wind is expected to be strong SSW early and most spots are looking pretty poor.
 
-![20260803_2100_contour](/assets/images/2026-08-03_21.png)
+![20260803_2100_contour](/assets/images/2026-08-03_21.png "forecast graphic showing end of day surf conditions")
 
 Wave heights are still expected to be in the chest-head high range as we approach the end of day with larger sets expected in Ocean County. Wind should start to back off a bit late day and favors spots further north (or those with south wind protection).
 
-![20260804_0600_contour](/assets/images/2026-08-04_10.png)
+![20260804_0600_contour](/assets/images/2026-08-04_10.png "forecast graphic showing fast fading surf")
 
 Moving into Tuesday, the best conditions are likely in the AM (tide depending). Given the swell angle, I'd expect low tide to be doable, especially given that we aren't expecting a huge tide swing. That said, we could be looking at 5-10kts north wind, which isn't ideal. Monmouth certainly handles that better than spots further south, but expect a bit of weirdness on it if that comes to pass.
 

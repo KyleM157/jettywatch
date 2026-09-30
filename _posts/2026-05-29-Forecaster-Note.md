@@ -32,19 +32,19 @@ The swell is expected to fade pretty fast through the day. If you are looking to
 Check out the charts below (data source: NOAA NWPS and NOAA Tides and Currents):
 
 
-![20260531_10](/assets/images/2026-05-31_10_resized.jpg)
+![20260531_10](/assets/images/2026-05-31_10_resized.jpg "forecast graphic showing the time of the largest surf")
 
 The early AM shows the most size, but you'll want to watch out for the mid-AM high tide.
 
-![20260531_14](/assets/images/2026-05-31_14_resized.jpg)
+![20260531_14](/assets/images/2026-05-31_14_resized.jpg "forecast graphic showing fading but still doable surf")
 
 I'd avoid the high tide, but there should still be some waves around after the slack tide.
 
-![20260531_19](/assets/images/2026-05-31_19_resized.jpg)
+![20260531_19](/assets/images/2026-05-31_19_resized.jpg "forecast graphic showing barely any surf remaining")
 
 Surf fades significantly by evening.
 
-![20260601_10](/assets/images/2026-06-01_10_resized.jpg)
+![20260601_10](/assets/images/2026-06-01_10_resized.jpg "forecast graphic showing potential but unlikely reinforcing swell")
 
 Currently, the GFS model is predicting some reinforcing swell to show up late Sunday or early Monday. Personally, I'm not seeing this happen, but I'd keep an eye on it just in case.
 

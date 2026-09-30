@@ -11,7 +11,7 @@ Surfboard fin placement is a critical factor in board performance. Unlike thrust
 
 ### Understanding Fin Layout
 
-![Fin Example](/assets/images/fin_example.jpg)
+![Fin Example](/assets/images/fin_example.jpg "Examples of different sized fins")
 
 Shapers mark fin placement from the trailing edge of the fin rather than the front of the box. On thrusters, the trailing edge sits at the back of the box, so longer fins shift forward. Twin fins and keels can hang beyond the back of the box when their base is longer than the box slot. This means twin fin base lengths from around 4 3/4" up to 6 3/4" will end up with different positioning of the trailing edge. Always confirm the effective trailing edge location before selecting your fins.
 

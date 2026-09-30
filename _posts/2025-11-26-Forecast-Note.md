@@ -7,7 +7,7 @@ title: Forecast Note for 11/26/2025
 
 ---
 
-![Forecast Image](/assets/images/20251125_resized.png)
+![Forecast Image](/assets/images/20251125_resized.png "Combined forecast image")
 
 Courtesy of tropicaltidbits.com (red arrows are mine)
 

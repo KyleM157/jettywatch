@@ -17,7 +17,7 @@ Before we dive into that, I first want to talk about natural beach recovery cycl
 
 Beach replenishment is the act of dredging sand offshore and pumping the sand onto the beach, normally building up sand dunes and adding widening the beach area. Ideally, and this is known, it is best to also add sand under the surface of the water out ~40ft, to help keep the surf zone intact. However, because of the high costs associated with these projects (~10-15 million per mile), that rarely happens in practice. There are symptoms of this that can be seen just walking along the beach. Here's a picture I took today in Belmar. It doesn't quite capture how steep the beach looks in person, but it should be enough to get an idea.
 
-![Belmar Beach Slope](/assets/images/belmar_beach_slope.jpg)
+![Belmar Beach Slope](/assets/images/belmar_beach_slope.jpg "Significant beach slope photo from earlier today; probably 30 degrees or more")
 
 ### How Does This Affect Us?
 

@@ -11,7 +11,7 @@ title: Hurricane Season?
 
 The statistical peak of hurricane season is today, 9/10. Historically (going back to 1851), there is a 74.3% chance of finding *something* in the Atlantic Basin. Below is the graphical tropical outlook for today:
 
-![NHC Graphical Tropical 7 day forecast](/assets/images/hurricane_graphic_resized.jpg)
+![NHC Graphical Tropical 7 day forecast](/assets/images/hurricane_graphic_resized.jpg "Empty chart from NHS")
 
 Source: NOAA National Hurricane Center
 
@@ -21,11 +21,11 @@ The primary reason for the lack of cyclone development is the extraordinary stre
 
 Even though we know the why, it's still interesting to look at the data and how different this year is from the trend. Below is a chart of named storms over time (includes non-hurricane tropical storms):
 
-![named storms over time](/assets/images/named_storms_over_time.png)
+![named storms over time](/assets/images/named_storms_over_time.png "Chart showing the trend of more named storms over the years")
 
 For good measure, let's look at the percentage of storms by month:
 
-![percent storms by month](/assets/images/pct_named_by_month.png)
+![percent storms by month](/assets/images/pct_named_by_month.png "Number of named storms by month; September is the peak")
 
 ## Discussion and What Could Happen Next
 

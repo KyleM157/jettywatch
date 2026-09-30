@@ -9,7 +9,7 @@ title: Forecaster's Note for February
 
 ## The Current Set Up
 
-![CFS Current](/assets/images/20260205_cfs_week0_resized.jpg)
+![CFS Current](/assets/images/20260205_cfs_week0_resized.jpg "Pressure chart showing why we don't have waves")
 
 Courtesy of tropicaltidbits.com
 
@@ -25,7 +25,7 @@ There are times when two low pressure systems can chain together and generate sw
 
 ## Looking Forward
 
-![CFS Week 2](/assets/images/20260205_cfs_week2_resized.jpg)
+![CFS Week 2](/assets/images/20260205_cfs_week2_resized.jpg "CFS model showing hope for waves")
 
 Courtesy of tropicaltidbits.com
 

@@ -10,7 +10,7 @@ title: Notes for 1/11
 
 ### The Setup
 
-![20260111 GFS](/assets/images/20260111_resized.jpg)
+![20260111 GFS](/assets/images/20260111_resized.jpg "Chart showing low moving away from south to northeast")
 
 Courtesy of tropicaltidbits.com (with red arrow added by me)
 

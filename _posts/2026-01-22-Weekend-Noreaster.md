@@ -11,11 +11,11 @@ title: Weekend Nor'easter
 
 It took awhile, but the GFS model has started to agree with the Euro over the past several runs. Typically, the Euro is more accurate further out, and has had a better grasp on our weather over the past month or so. Let's look at a couple of charts:
 
-![GFS Early Run](/assets/images/GFS_20260119_noreaster_resized.jpg)
+![GFS Early Run](/assets/images/GFS_20260119_noreaster_resized.jpg "Pressure chart of January nor'easter")
 
 Courtesy of tropicaltidbits.com
 
-![GFS Current Run](/assets/images/GFS_20260121_noreaster_resized.jpg)
+![GFS Current Run](/assets/images/GFS_20260121_noreaster_resized.jpg "wind chart for January Nor'easter")
 
 Courtesy of tropicaltidbits.com
 

@@ -15,19 +15,19 @@ The quick answer, is maybe. Over the past few days, the GFS model runs have star
 
 Here's the MSLP anomaly plot showing the low pressure system in question:
 
-![20251224_GFS_resized](/assets/images/20251224_GFS_resized.jpg)
+![20251224_GFS_resized](/assets/images/20251224_GFS_resized.jpg "Pressure chart showing location of the low pressure system")
 
 Courtesy of tropicaltidbits.com
 
 That low pressure system directly east of us has a dome of high pressure over top of it, aiming winds back to it's west and (primarily) southwest. That's the GFS model run, which is a bit less favorable, but still has us receiving swell.
 
-![20251225_Waves](/assets/images/2025-12-25_18.png)
+![20251225_Waves](/assets/images/2025-12-25_18.png "Wave chart for this system")
 
 While I wouldn't expect a strong swell event, it's better than what previous runs have had in store. Again, this isn't 100%, but the trend is positive. While it's too soon to get into specifics, I would expect the swell to peak around mid-day on 12/25 and we should have light-moderate offshore winds thanks to an area of high pressure over the Florida panhandle.
 
 ## The Gift That Keeps on Giving?
 
-![20251227_GFS](/assets/images/20251227_gfs_resized.jpg)
+![20251227_GFS](/assets/images/20251227_gfs_resized.jpg "Possible continued swell based on gfs model chart")
 
 
 Wind is expected to stay onshore all day for 12/27. I'll add an updated forecast chart once we get closer, but it looks like there will be some leftover swell 12/28 with ok winds.

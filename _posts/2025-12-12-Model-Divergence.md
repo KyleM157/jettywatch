@@ -11,11 +11,11 @@ title: Model Divergence for the Back Half of December
 
 Let's start with the charts:
 
-![20251214 GFS](/assets/images/20251214_GFS_resized.jpg)
+![20251214 GFS](/assets/images/20251214_GFS_resized.jpg "GFS model pressure chart for december 14th")
 
 Courtesy of tropicaltidbits.com
 
-![20251214 ECMWF](/assets/images/20251214_ECMWF_resized.jpg)
+![20251214 ECMWF](/assets/images/20251214_ECMWF_resized.jpg "Euro model pressure chart for 12/14")
 
 Courtesy of tropicaltidbits.com
 
@@ -27,11 +27,11 @@ This area of low pressure is expected to move off the North Carolina coast and t
 
 This is another situation where the GFS and ECMWF models are diverging. Originially, it looked like a good setup for our region on both models, but GFS runs in recent days are pretty terrible. The charts:
 
-![20251219 GFS](/assets/images/20251219_GFS_resized.jpg)
+![20251219 GFS](/assets/images/20251219_GFS_resized.jpg "Chart showing the west to east movement of this system")
 
 GFS Model. Courtesy of tropicaltidbits.com
 
-![20251219 ECMWF](/assets/images/20251219_ECMWF_resized.jpg)
+![20251219 ECMWF](/assets/images/20251219_ECMWF_resized.jpg "Euro showing a south to north movement of this system")
 
 ECMWF Model. Courtesy of tropicaltidbits.com
 

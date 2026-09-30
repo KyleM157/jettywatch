@@ -9,7 +9,7 @@ title: Another Nor'easter?
 
 ## The Setup
 
-![20260201 MSLP Chart](/assets/images/20260201_MSLP_resized.jpg)
+![20260201 MSLP Chart](/assets/images/20260201_MSLP_resized.jpg "Pressure chart for February Nor'easter")
 
 Courtesy of tropicaltidbits.com
 
@@ -19,7 +19,7 @@ The chart above isn't all that dissimilar from what we saw last weekend/Monday. 
 
 ## The Waves
 
-![20260201 Wave Heights](/assets/images/20260201_wave_heights_resized.jpg)
+![20260201 Wave Heights](/assets/images/20260201_wave_heights_resized.jpg "Wave height chart for February Nor'easter")
 
 Courtesy of tropicaltidbits.com
 

@@ -19,11 +19,11 @@ Let's look at each setup swell event by swell event, starting with Thursday 3/12
 
 ### Thursday 3/12
 
-![20260312_0500 mslp](/assets/images/20260312_0500_pressure_resized.jpg)
+![20260312_0500 mslp](/assets/images/20260312_0500_pressure_resized.jpg "chart showing northeast storm track")
 
 ECMWF MSLP Chart. Source [windy.com](https://www.windy.com/)
 
-![20260312_0500 wind](/assets/images/20260312_0500_wind_resized.jpg)
+![20260312_0500 wind](/assets/images/20260312_0500_wind_resized.jpg "chart showing ssw wind direction")
 
 ECMWF Surface Wind. Source [windy.com](https://www.windy.com/)
 
@@ -43,7 +43,7 @@ All in all, it looks like a pretty fun swell and should show decent conditions a
 
 We have another low pressure system moving through our region Friday afternoon. This won't be quite as impressive as the system we see move through on Wednesday/Thursday, but it should still be enough to kick up some decent sized short period surf for Saturday AM.
 
-![20260313_2000_wind](/assets/images/20260313_2000_wind_resized.jpg)
+![20260313_2000_wind](/assets/images/20260313_2000_wind_resized.jpg "chart showing strong south wind")
 
 ECMWF Surface wind. Source [windy.com](https://www.windy.com/)
 
@@ -63,11 +63,11 @@ Should be fun!
 
 We could see a stronger swell event on Monday 3/16. Let's look at the wind chart for Sunday evening:
 
-![20260315_1700_wind](/assets/images/20260315_1700_wind_resized.jpg)
+![20260315_1700_wind](/assets/images/20260315_1700_wind_resized.jpg "chart showing strong south wind")
 
 ECMWF Surface wind. Source [windy.com](https://www.windy.com/)
 
-![20260316_1400_waves](/assets/images/20260316_1400_waves_resized.jpg)
+![20260316_1400_waves](/assets/images/20260316_1400_waves_resized.jpg "chart showing wave heights with over 16 foot seas.")
 
 ECMWF waves. Source [windy.com](https://www.windy.com/)
 

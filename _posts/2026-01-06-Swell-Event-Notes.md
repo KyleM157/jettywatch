@@ -11,7 +11,7 @@ title: Swell Event - 1/7
 
 ## The Setup
 
-![20260107 GFS](/assets/images/20260107_resized.jpg)
+![20260107 GFS](/assets/images/20260107_resized.jpg "GFS wind chart for January seventh")
 
 Courtesy of tropicaltidbits.com
 

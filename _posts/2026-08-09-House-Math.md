@@ -15,11 +15,11 @@ The normal disclaimer of your mileage may vary applies, but by the end of this b
 
 A quick note before I start throwing formulas (it's literally just algebra, chill) at you. You don't *need* to do any of this math to buy a home. The main thing is to understand what the mathematical relations are saying and what happens when you change the numbers around. While it can be helpful to calculate an actual breakeven at some point, there are likely calculators out there to help you with that. With that out of the way, let's get started with the amortization schedule and what a mortgage calculator does behind the scenes:
 
-![Amortization Formulas](/assets/images/amortization_math_formulas.jpg)
+![Amortization Formulas](/assets/images/amortization_math_formulas.jpg "Various formulas for calculating mortgage values")
 
 This is the math for calculating the amortized loan payment for a 30 year fixed rate mortgage. It's the same for a 15 year if you switch that 30 in number of payments to 15. The total amount you owe on a mortgage is the monthly mortgage amount times the number of payments, which will likely be a larger number than you're expecting. But, there's more to add to that to get your actual total monthly payment because there's also taxes and insurance to think about:
 
-![Total Monthly Payment Formula](/assets/images/total_monthly_payment_formula.jpg)
+![Total Monthly Payment Formula](/assets/images/total_monthly_payment_formula.jpg "My formula for total monthly payment")
 
 P being the price of the home and r being the monthly interest rate. I used 2k annualy for insurance which gives that ~170/month, which may or may not be enough for what you're looking at. Typically, I would add another 1%/year for maintenance costs, but that isn't typically done by a mortgage calculator. For the analysis further in the post, I added that in to the monthly payment.
 
@@ -56,13 +56,13 @@ Rent = Buy
 
 The next step is to run out the amortization schedule and get the remaining balance, principle and interest payed, and the interest earned at each time step for the 30 year period on the home. Let's look at a typical chart for something like this given a 1M dollar home (did I mention it's Monmouth County yet?) with a down payment of 20%. In this case, the buyer got lucky and only had 20k of necessary costs and not the 150k+ most homes on the market need these days.
 
-![standard breakeven](/assets/images/standard_breakeven_analysis.jpeg)
+![standard breakeven](/assets/images/standard_breakeven_analysis.jpeg "What I think of as standard mortgage vs rent; shows roughly 10 year breakeven")
 
 The main takeaway here is that most people forget about the closing costs and initial money spent when you own a home. There's a lot of fees, taxes, etc. associated with that purchase and that's before you get into needing new appliances, yard equipment, etc. Throw in a remodel because the better half wants the bathroom to look like something off Instagram and you're quickly in for another 50k on top of those necessary fees. But, there's more. You also get hit with a lot of those same fees (but more) when you go to sell your house. Around 8% is to be expected in closing costs on the sell side.
 
 So, while rent is pure negative cash flow, you start off with another 100k+ in costs you didn't have to pay. The main difference is the leverage you get with a mortgage to earn interest on the full value of the home, as well as the slow increase in monthly payments going to principle (eg. you and not the bank). But it's critical to realize how important the appreciation rate is on the home you're buying (wouldn't it be great if that was in the ad?). The following chart is probably the most important thing you'll look at if planning on purchasing a home:
 
-![breakeven vs. various appreciation rates](/assets/images/rent_vs_buy_varied_Ra.jpeg)
+![breakeven vs. various appreciation rates](/assets/images/rent_vs_buy_varied_Ra.jpeg "Charts that show breakeven vs. rent for different compounded interest; not as great as you'd think")
 
 Rent assumes 4500/month less the risk free rate on the deposit money. The dark vertical line represents 10 years. Notice that you only break even on this property within a decade if you get ~4% appreciation annually. It goes to 17 years if you're at 3%. This is also assuming only 20k in extra costs. No new kitchen and no new bathroom. This is closer to buying a new construction or very well updated home.
 

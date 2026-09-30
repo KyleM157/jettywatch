@@ -9,7 +9,7 @@ title: East Swell for Early April
 
 ## The Setup
 
-![20260407 Pressure](/assets/images/20260409_2200_pressure_resized.jpg)
+![20260407 Pressure](/assets/images/20260409_2200_pressure_resized.jpg "chart showing small low pressur forming between high pressure systems")
 
 source: windy.com
 
@@ -17,7 +17,7 @@ This is a pretty atypical setup for us. We have two large regions of high pressu
 
 Let's look at that wind:
 
-![20260407 wind](/assets/images/20260409_2200_wind_resized.jpg)
+![20260407 wind](/assets/images/20260409_2200_wind_resized.jpg "chart showing strong east wind fetch")
 
 source: windy.com
 
@@ -33,23 +33,23 @@ Let's look at some charts (data source: NOAA NWPS):
 
 **Friday 4/10:**
 
-![4/10 waves](/assets/images/2026-04-10_10_resized.jpg)
+![4/10 waves](/assets/images/2026-04-10_10_resized.jpg "forecast graphic showing decent surf with ok wind conditions")
 
 Swell (ideally) starts to show Friday morning. Wind is expected to be light before turning sideshore later in the day. This is a good time period to watch depending on how the wind forecast shifts.
 
-![4/10 PM waves](/assets/images/2026-04-10_18_resized.jpg)
+![4/10 PM waves](/assets/images/2026-04-10_18_resized.jpg "forecast graphic showing larger surf with worse wind conditions")
 
 Waves show more size for the afternoon but with potentially worse conditions depending on the wind direction/speed. For those looking to surf the most size from this setup, Friday PM with some south wind protection may be the call.
 
 **Saturday 4/11**
 
-![4/10 waves](/assets/images/2026-04-11_10_resized.jpg)
+![4/10 waves](/assets/images/2026-04-11_10_resized.jpg "forecast graphic showing moderate surf with clean conditions.")
 
 Saturday should be the best day of conditions, all things considered. We have plenty of swell left over and favorable wind until late day. Most likely the best conditions will be early, with offshore winds and the most size.
 
 **Sunday 4/12**
 
-![4/10 waves](/assets/images/2026-04-12_10_resized.jpg)
+![4/10 waves](/assets/images/2026-04-12_10_resized.jpg "forecast graphic showing leftover but fading surf")
 
 The swell starts to drop on Sunday with swell heights in the 3-4ft range early. I'd expect wind to be light, but it's unlikely to be offshore. It all depends on a region of high pressure that is moving in and where it is at the time. There will be plenty of swell if the forecast holds, but conditions could be poor.
 

@@ -9,7 +9,7 @@ title: Surf in the Middle of July?
 
 ## The Setup
 
-![20260718_ecmwf_wind](/assets/images/20260718_wind_resized.jpg)
+![20260718_ecmwf_wind](/assets/images/20260718_wind_resized.jpg "chart showing ssw wind fetch")
 
 We have a fairly modest low that is expected to move east across the Great Lakes on Saturday. This will interact with high pressure over the western Atlantic and create a SW-SSW wind fetch and corresponding swell. Note that most of this is headed northeast rather than north, but some swell should wrap in to our area. The red arrows shows the main direction of swell and the "H" shows where that high pressure is (the center is east of the image).
 
@@ -17,7 +17,7 @@ While we'd rather see a stronger south fetch of wind (or southeast), for July, t
 
 ## The Waves
 
-![20260719_waves](/assets/images/2026-07-19_14.png)
+![20260719_waves](/assets/images/2026-07-19_14.png "forecast graphic showing small but rideable surf")
 
 We'll probably see a few days of surfable waves from this system. Sunday is doable all day except for right around high tide. Avoid that and you should find most breaks working with the swell angle.
 
@@ -31,7 +31,7 @@ While there is some disagreements in the models, the predominant solution has be
 
 So far, the ICON model has been the outlier showing tropical storm development out of the gulf that would cross over teh panhandle region and be well situated for a south swell. While that would probably be a stronger swell event, the odds of development remain low.
 
-![20260722_10](/assets/images/2026-07-22_10.png)
+![20260722_10](/assets/images/2026-07-22_10.png "forecast graphic showing potential larger swell event")
 
 While it's much too soon for specifics, I have been seeing a lot of positive model runs for this time period. The 6:30am low tide is pretty annoying given the time of year, but I'd expect some of the best surf we've seen in a while if this comes to pass.
 

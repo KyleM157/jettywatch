@@ -17,7 +17,7 @@ But, after what will be a slow weak in terms of surf, the last week of April may
 
 While there is still some uncertainty in the forecast, it's looking like we should see *something* around next Sunday/Monday. The Euro has been extremely consistent with the path of a weak low pressure system that puts the center directly off Maryland/Delaware and in our swell window. The southern end of the mid-Atlantic looks to get the best of it (wind TBD).
 
-![20260426_1400 ECMWF Wind](/assets/images/20260426_1400_ecmwf_resized.jpg)
+![20260426_1400 ECMWF Wind](/assets/images/20260426_1400_ecmwf_resized.jpg "chart showing potential coastal low")
 
 source: windy.com
 
@@ -25,13 +25,13 @@ While the east swell direction isn't what I'd like to see given the state of our
 
 While the Euro has been consistent, the GFS has been more variable. I've seen some runs showing similar track, but it's mainly showing a due eastward track, putting the center too far south for us to see anything signifcant. We should still get a weak south swell if this turns out to be the case, but it would end up in the 6 second range again, unfortunately. Though the swell angle would be more favorable.
 
-![20260426_1400 GFS Wind](/assets/images/20260425_1400_gfs_resized.jpg)
+![20260426_1400 GFS Wind](/assets/images/20260425_1400_gfs_resized.jpg "chart showing the difference between GFS and ECMWF model forecasts")
 
 source: windy.com
 
 I'm favoring the Euro right now, considering how consistent it's been on it's solution. While it's too early for specifics, let's look at the wave chart and see where most of the swell is going:
 
-![20260426_1400 ECMWF Wave](/assets/images/20260426_1400_ecmwf_wave_resized.jpg)
+![20260426_1400 ECMWF Wave](/assets/images/20260426_1400_ecmwf_wave_resized.jpg "wave power graphic from the ecmwf model")
 
 source: windy.com
 
