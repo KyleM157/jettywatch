@@ -39,7 +39,7 @@ Yes, warmer temps should support bacteria growth moreso than cold temps, but it'
 
 Overwhelmingly, the main environmental factor that predicts over-limit enterococcus level is recent rainfall. With the exception of the Wesley Lake Outfall, only one sample (at one location) returned an above limit value with no rainfall in the past 24 hours.
 
-Of the factors examined, rainfall within the last six hours mattered the most and within 24 hours the least. This implies that **recent* rainfall is the single most important independent factor to consider.
+Of the factors examined, rainfall within the last six hours mattered the most and within 24 hours the least. This implies that *recent* rainfall is the single most important independent factor to consider.
 
 ## A Look at the Data
 
@@ -83,7 +83,7 @@ This chart shows the box and whisker plot for each site's logmpn values. The box
 
 First, we can see that not all sites are equivalent, and environmental conditions that predict one site may not predict another site that isn't correlated to it. Further analysis of this data shows that sites 3,4, and 5 can be used to predict other site 3,4, and 5 values quite accurately. However, site SEA2 values aren't as convenient. 
 
-Unsurprisingly, this site does vary from the others in that outfall doesn't drain directly into the surf zone as is the case for sites SEA3,4,5. At site SEA2, outflow drains into the back beach area and researchers point out that it is likely attenuated by the sand before reaching the ocean (Adolf, et al. 2023). Essentially, if you use a prediction model trained on those other three sites, you'll see false negatives at site SEA2.
+Unsurprisingly, this site does vary from the others in that outfall doesn't drain directly into the surf zone as is the case for sites SEA3,4,5. At site SEA2, outflow drains into the back beach area and researchers point out that it is likely attenuated by the sand before reaching the ocean (Adolf, et al. 2023). Essentially, if you use a prediction model trained on those other three sites, you'll see false positives at site SEA2.
 
 We can take from all of this that some beaches will be safer to surf post rain than others, particularly those that have outfall pipes draining into the surf zone. While this seems like common sense, it's an important point. Plus, many of the best surf beaches have outfall pipes.
 
@@ -115,6 +115,11 @@ I hope you learned a little bit from this one; see y'all out there!
 Adolf, J.E., Weisburg,J.,Hanna,K. et al. Enterococcus exceedances related to environmental variability at New Jersey ocean beaches. *Environ Monit Assess* 195, 250 (2023). https://doi.org/10.1007/s10661-022-10788-0
 
 Arnold, B.F., Schiff, K. C., Ercumen, A., Benjamin-Chung, J., Steele, J. A., Griffith, J.F., Steinberg, S. J., Smith, P., McGee, C.D., Wilson, R., Nelsen, C., Weisberg, S.B., & Colford, J. M. (2017). Acute illness among surfers after exposure to seawater in dry-and wet-weather conditions. American Journal of Epidemiology, 186(7), 866-875. https://doi.org/10.1093/aje/kwx019
+
+Current data from Copernicus Marine Service
+
+Rain data from NJ DEP DWM&S Rainfall Data Acquisition
+[njdep rain map](https://njdep.rutgers.edu/rainfall/)
 
 
 
