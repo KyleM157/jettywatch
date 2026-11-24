@@ -5,7 +5,7 @@ title: Monmouth County Surf Forecast
 
 ![wave picture](/assets/images/wave_example_banner.jpg "Belmar A Frame")
 
-**Last Update:  11/20/2026 12:00**
+**Last Update:  11/24/2026 16:00**
 
 **Link to Free Surf Cams:** [Beach Cams](https://thesurfersview.com/live-cams/new-jersey/)
 
